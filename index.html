@@ -1,0 +1,2470 @@
+<!DOCTYPE html>
+<html lang="id" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="robots" content="noindex, nofollow, noarchive, nosnippet">
+    <meta name="theme-color" content="#061c10">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="apple-mobile-web-app-title" content="NeuralKats Canvass">
+    <title>NeuralKats &bull; Strategic Canvassing Hub - 189 Leads UMKM</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400..900;1,9..144,400..900&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    fontFamily: {
+                        serif: ['Fraunces', 'Georgia', 'serif'],
+                        sans: ['Plus Jakarta Sans', '-apple-system', 'sans-serif'],
+                        mono: ['JetBrains Mono', 'monospace'],
+                    },
+                    colors: {
+                        club: {
+                            green: '#0a331c',
+                            darkgreen: '#061c10',
+                            midgreen: '#0f4c28',
+                            lightgreen: '#1b5e3b',
+                            pine: '#092615',
+                            cream: '#f4ede2',
+                            creambright: '#fffcf7',
+                            ecru: '#e8deb8',
+                            sage: '#a8ccb6',
+                            muted: '#6b957b',
+                            gold: '#f5b041',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <style>
+        * {
+            -webkit-tap-highlight-color: transparent;
+        }
+
+        body {
+            font-family: 'Plus Jakarta Sans', -apple-system, sans-serif;
+            background-color: #061c10;
+            background-image: radial-gradient(circle at 50% -8%, #186138 0%, #0d3b22 45%, #051a0e 100%);
+            color: #f4ede2;
+            min-height: 100vh;
+            overflow-x: hidden;
+        }
+        
+        .font-retro-serif {
+            font-family: 'Fraunces', Georgia, serif;
+            letter-spacing: -0.015em;
+        }
+
+        /* Custom Scrollbars */
+        ::-webkit-scrollbar,
+        .custom-scrollbar::-webkit-scrollbar {
+            width: 6px;
+            height: 6px;
+        }
+        ::-webkit-scrollbar-track,
+        .custom-scrollbar::-webkit-scrollbar-track {
+            background: #061c10; 
+        }
+        ::-webkit-scrollbar-thumb,
+        .custom-scrollbar::-webkit-scrollbar-thumb {
+            background: #184c2a; 
+            border-radius: 4px;
+        }
+        ::-webkit-scrollbar-thumb:hover,
+        .custom-scrollbar::-webkit-scrollbar-thumb:hover {
+            background: #256b3e; 
+        }
+
+        .custom-scrollbar {
+            scrollbar-width: thin;
+            scrollbar-color: #184c2a #061c10;
+            -webkit-overflow-scrolling: touch;
+        }
+
+        .glass-panel {
+            background: rgba(9, 38, 21, 0.78);
+            border: 1px solid rgba(244, 237, 226, 0.16);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+        }
+
+        .svg-icon {
+            width: 1.25rem;
+            height: 1.25rem;
+            fill: none;
+            stroke: currentColor;
+            stroke-width: 2;
+            stroke-linecap: round;
+            stroke-linejoin: round;
+        }
+
+        /* Pill Active & Transitions */
+        .pill-btn {
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        .pill-btn.active {
+            background-color: #f4ede2;
+            color: #0a331c;
+            font-weight: 800;
+            border-color: #f4ede2;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.25);
+        }
+
+        /* Tab Active */
+        .tab-btn {
+            background-color: rgba(6, 28, 16, 0.6);
+            color: #a8ccb6;
+            border: 1px solid rgba(244, 237, 226, 0.1);
+        }
+        .tab-btn.active {
+            background-color: #f4ede2;
+            color: #0a331c;
+            font-weight: 800;
+            border-color: #f4ede2;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+        }
+
+        /* Modal Transitions */
+        #mobileModal, #invoiceModal {
+            transition: opacity 0.25s ease-out, visibility 0.25s ease-out;
+        }
+        #mobileModal.hidden-modal, #invoiceModal.hidden-modal {
+            opacity: 0 !important;
+            visibility: hidden !important;
+            pointer-events: none !important;
+        }
+        #mobileModal.hidden-modal #mobileModalContent {
+            transform: translateY(100%);
+        }
+        #invoiceModal.hidden-modal > div:last-child {
+            transform: scale(0.95);
+            opacity: 0;
+        }
+        #invoiceModal > div:last-child {
+            transition: transform 0.25s cubic-bezier(0.16, 1, 0.3, 1), opacity 0.25s ease-out;
+        }
+        #mobileModalContent {
+            transition: transform 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+        }
+
+        /* Toast notification */
+        #toast {
+            transition: transform 0.3s ease, opacity 0.3s ease;
+        }
+    </style>
+</head>
+<body class="min-h-screen p-3 sm:p-5 md:p-8 flex flex-col justify-between">
+
+    <!-- Master PIN Lock Screen (Private Security Gate) -->
+    <div id="pinLockScreen" class="fixed inset-0 z-[100] bg-[#061c10] bg-[radial-gradient(ellipse_at_top,_#0e4225_0%,_#061c10_70%)] flex flex-col items-center justify-center p-4 select-none">
+        <div class="w-full max-w-sm bg-[#092615] border border-[#f4ede2]/20 rounded-3xl p-6 sm:p-8 shadow-2xl flex flex-col items-center text-center backdrop-blur-xl">
+            <!-- Brand Icon -->
+            <div class="w-16 h-16 bg-[#f4ede2] text-[#0a331c] rounded-2xl flex items-center justify-center shadow-xl mb-4">
+                <svg class="svg-icon w-8 h-8 text-[#0a331c]" viewBox="0 0 24 24">
+                    <rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect>
+                    <path d="M7 11V7a5 5 0 0 1 10 0v4"></path>
+                </svg>
+            </div>
+
+            <div class="text-[10px] tracking-widest font-extrabold uppercase text-[#e8deb8] bg-[#072514] px-3 py-1 rounded-md border border-[#f4ede2]/20 mb-1.5">
+                PRIVATE ACCESS ONLY
+            </div>
+            <h2 class="text-xl sm:text-2xl font-extrabold font-retro-serif text-[#fbf7ee]">NeuralKats Canvassing</h2>
+            <p class="text-xs text-[#a8ccb6] mt-1 mb-5">Masukkan PIN keamanan untuk membuka dashboard.</p>
+
+            <!-- PIN Display Dots -->
+            <div class="flex items-center justify-center gap-3.5 mb-2" id="pinDotsContainer">
+                <div class="pin-dot w-4 h-4 rounded-full border-2 border-[#f4ede2]/40 bg-transparent transition-all"></div>
+                <div class="pin-dot w-4 h-4 rounded-full border-2 border-[#f4ede2]/40 bg-transparent transition-all"></div>
+                <div class="pin-dot w-4 h-4 rounded-full border-2 border-[#f4ede2]/40 bg-transparent transition-all"></div>
+                <div class="pin-dot w-4 h-4 rounded-full border-2 border-[#f4ede2]/40 bg-transparent transition-all"></div>
+            </div>
+            
+            <div id="pinErrorMsg" class="text-xs text-[#fca5a5] font-bold min-h-[20px] mb-3"></div>
+
+            <!-- Numpad Grid -->
+            <div class="grid grid-cols-3 gap-2.5 w-full max-w-[260px] mb-4">
+                <button type="button" onclick="enterPinDigit('1')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">1</button>
+                <button type="button" onclick="enterPinDigit('2')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">2</button>
+                <button type="button" onclick="enterPinDigit('3')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">3</button>
+                <button type="button" onclick="enterPinDigit('4')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">4</button>
+                <button type="button" onclick="enterPinDigit('5')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">5</button>
+                <button type="button" onclick="enterPinDigit('6')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">6</button>
+                <button type="button" onclick="enterPinDigit('7')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">7</button>
+                <button type="button" onclick="enterPinDigit('8')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">8</button>
+                <button type="button" onclick="enterPinDigit('9')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">9</button>
+                <button type="button" onclick="clearPin()" class="py-3.5 rounded-2xl bg-[#061e11] hover:bg-[#0c331d] active:scale-95 text-[#a8ccb6] font-bold text-xs border border-[#1c4d2e] transition-all">Clear</button>
+                <button type="button" onclick="enterPinDigit('0')" class="py-3.5 rounded-2xl bg-[#0d361f] hover:bg-[#144d2d] active:scale-95 text-[#fbf7ee] font-black text-lg border border-[#1c4d2e] transition-all shadow-md">0</button>
+                <button type="button" onclick="deletePinDigit()" class="py-3.5 rounded-2xl bg-[#061e11] hover:bg-[#0c331d] active:scale-95 text-[#e8deb8] font-bold text-base border border-[#1c4d2e] flex items-center justify-center transition-all">⌫</button>
+            </div>
+
+            <!-- Remember Session Toggle -->
+            <label class="flex items-center gap-2 text-xs text-[#a8ccb6] cursor-pointer mb-3">
+                <input type="checkbox" id="rememberSessionCheck" checked class="accent-[#f4ede2] rounded">
+                <span>Ingat sesi masuk (24 Jam)</span>
+            </label>
+
+            <div class="flex items-center justify-between w-full text-[11px] text-[#8cb89d] border-t border-[#f4ede2]/10 pt-3 mt-1">
+                <span>Default PIN: <strong class="text-[#fbf7ee]">2026</strong></span>
+                <button type="button" onclick="openChangePinModal()" class="text-[#e8deb8] hover:underline font-semibold">Ubah PIN</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Change PIN Modal -->
+    <div id="changePinModal" class="hidden fixed inset-0 z-[110] bg-black/85 backdrop-blur-md flex items-center justify-center p-4">
+        <div class="w-full max-w-sm bg-[#092615] border border-[#f4ede2]/20 rounded-3xl p-6 shadow-2xl flex flex-col">
+            <h3 class="text-base font-extrabold font-retro-serif text-[#fbf7ee] mb-1">Ubah Master PIN</h3>
+            <p class="text-xs text-[#a8ccb6] mb-4">Ganti PIN keamanan akses dashboard.</p>
+            
+            <div class="space-y-3 text-xs">
+                <div>
+                    <label class="block text-[10px] text-[#e8deb8] uppercase font-bold mb-1">PIN Lama</label>
+                    <input type="password" id="inputOldPin" maxlength="8" placeholder="Masukkan PIN lama (default: 2026)" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2.5 text-center text-[#fbf7ee] font-mono tracking-widest focus:outline-none focus:border-[#f4ede2]">
+                </div>
+                <div>
+                    <label class="block text-[10px] text-[#5eead4] uppercase font-bold mb-1">PIN Baru (4-8 Digit)</label>
+                    <input type="password" id="inputNewPin" maxlength="8" placeholder="PIN baru" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2.5 text-center text-[#fbf7ee] font-mono tracking-widest focus:outline-none focus:border-[#f4ede2]">
+                </div>
+                <div>
+                    <label class="block text-[10px] text-[#5eead4] uppercase font-bold mb-1">Konfirmasi PIN Baru</label>
+                    <input type="password" id="inputConfirmPin" maxlength="8" placeholder="Ulangi PIN baru" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2.5 text-center text-[#fbf7ee] font-mono tracking-widest focus:outline-none focus:border-[#f4ede2]">
+                </div>
+            </div>
+
+            <div class="grid grid-cols-2 gap-2 mt-5">
+                <button type="button" onclick="closeChangePinModal()" class="py-2.5 px-3 rounded-xl bg-[#061e11] text-[#a8ccb6] font-bold text-xs border border-[#1c4d2e]">Batal</button>
+                <button type="button" onclick="saveNewPin()" class="py-2.5 px-3 rounded-xl bg-[#f4ede2] text-[#0a331c] font-black text-xs">Simpan PIN</button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Toast Notification -->
+    <div id="toast" class="fixed top-5 left-1/2 -translate-x-1/2 z-50 pointer-events-none opacity-0 translate-y-[-20px] bg-[#f4ede2] text-[#0a331c] text-xs md:text-sm font-bold py-2.5 px-5 rounded-full shadow-2xl flex items-center gap-2 border border-[#d8cbb8]">
+        <svg class="svg-icon w-4 h-4 text-[#0f4c28]" viewBox="0 0 24 24"><polyline points="20 6 9 17 4 12"></polyline></svg>
+        <span id="toastMsg" class="font-bold">Berhasil!</span>
+    </div>
+
+    <!-- Main Wrapper -->
+    <div class="w-full max-w-7xl mx-auto flex-1 flex flex-col">
+        
+        <!-- Header: NeuralKats Inspired -->
+        <header class="mb-5 md:mb-7 border-b border-[#f4ede2]/15 pb-4">
+            <div class="flex flex-col lg:flex-row lg:items-center justify-between gap-4">
+                <div>
+                    <div class="flex items-center gap-3">
+                        <div class="p-2.5 bg-[#f4ede2] text-[#0a331c] rounded-2xl shadow-lg shadow-black/20 flex items-center justify-center">
+                            <svg class="svg-icon w-6 h-6" viewBox="0 0 24 24">
+                                <path d="M12 2L2 7l10 5 10-5-10-5z"></path>
+                                <path d="M2 17l10 5 10-5M2 12l10 5 10-5"></path>
+                            </svg>
+                        </div>
+                        <div>
+                            <div class="flex items-center gap-2 flex-wrap">
+                                <span class="text-[10px] tracking-widest font-extrabold uppercase text-[#e8deb8] bg-[#072514] px-2 py-0.5 rounded-md border border-[#f4ede2]/20">NEURALKATS EXCLUSIVE</span>
+                                <span class="text-[10px] tracking-wider text-[#a8ccb6]">Est. 2026 &bull; Smart NFC &amp; Web Closer</span>
+                            </div>
+                            <h1 class="text-xl sm:text-2xl md:text-3xl font-extrabold font-retro-serif tracking-tight text-[#fbf7ee] flex items-center gap-2 mt-0.5">
+                                NeuralKats <span class="text-sm font-sans font-semibold text-[#a8ccb6] not-italic tracking-normal">&bull; Canvassing Hub</span>
+                            </h1>
+                            <p class="text-[#a8ccb6] text-xs sm:text-sm flex items-center gap-1.5 mt-0.5">
+                                <svg class="svg-icon w-3.5 h-3.5 text-[#f4ede2]" viewBox="0 0 24 24">
+                                    <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                    <circle cx="12" cy="10" r="3"></circle>
+                                </svg>
+                                Base: <span class="text-[#fbf7ee] font-semibold">Mangkalaya, Gunungguruh, Sukabumi</span>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Pipeline Status Counter Badges & Action Buttons -->
+                <div class="flex items-center gap-2 flex-wrap">
+                    <div class="bg-[#082615] border border-[#f4ede2]/15 py-1.5 px-2.5 rounded-xl flex items-center gap-1.5 text-xs">
+                        <span class="w-2 h-2 rounded-full bg-[#82a890]"></span>
+                        <span class="text-[#a8ccb6]">Belum:</span>
+                        <span id="unvisitedCount" class="font-bold text-[#fbf7ee]">0</span>
+                    </div>
+                    <div class="bg-[#0c3835] border border-[#14b8a6]/30 py-1.5 px-2.5 rounded-xl flex items-center gap-1.5 text-xs">
+                        <span class="w-2 h-2 rounded-full bg-[#5eead4]"></span>
+                        <span class="text-[#5eead4]">Pitched:</span>
+                        <span id="pitchedCount" class="font-bold text-[#fbf7ee]">0</span>
+                    </div>
+                    <div class="bg-[#382a0b] border border-[#eab308]/40 py-1.5 px-2.5 rounded-xl flex items-center gap-1.5 text-xs">
+                        <span class="w-2 h-2 rounded-full bg-[#fef08a]"></span>
+                        <span class="text-[#fef08a]">Follow-Up:</span>
+                        <span id="followUpCount" class="font-bold text-[#fbf7ee]">0</span>
+                    </div>
+                    <div class="bg-[#f4ede2] text-[#0a331c] border border-[#f4ede2] py-1.5 px-2.5 rounded-xl flex items-center gap-1.5 text-xs shadow-md">
+                        <span class="w-2 h-2 rounded-full bg-[#0a331c] animate-pulse"></span>
+                        <span class="font-extrabold uppercase tracking-wide">Deal Won:</span>
+                        <span id="closedWonCount" class="font-black text-sm font-retro-serif">0</span>
+                    </div>
+                    <div class="bg-[#3a1117] border border-[#f43f5e]/30 py-1.5 px-2.5 rounded-xl flex items-center gap-1.5 text-xs">
+                        <span class="w-2 h-2 rounded-full bg-[#fca5a5]"></span>
+                        <span class="text-[#fca5a5]">Ditolak:</span>
+                        <span id="rejectedCount" class="font-bold text-[#fbf7ee]">0</span>
+                    </div>
+
+                    <!-- Action Buttons: Lock, WA Report, Export Dropdown -->
+                    <div class="flex items-center gap-1.5">
+                        <button onclick="lockDashboard()" title="Kunci Dashboard" class="py-1.5 px-2.5 bg-[#061e11] hover:bg-[#0c331d] text-[#e8deb8] border border-[#1c4d2e] rounded-xl text-xs font-bold flex items-center gap-1 transition-all">
+                            <svg class="svg-icon w-3.5 h-3.5 text-[#e8deb8]" viewBox="0 0 24 24"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"></rect><path d="M7 11V7a5 5 0 0 1 10 0v4"></path></svg>
+                            Kunci
+                        </button>
+
+                        <button onclick="copyDailyWAReport()" title="Salin Rekap Harian ke WhatsApp" class="py-1.5 px-3 bg-[#134e2c] hover:bg-[#1a6438] text-[#f4ede2] border border-[#2b7246] rounded-xl text-xs font-bold flex items-center gap-1.5 transition-all shadow-md">
+                            <svg class="svg-icon w-3.5 h-3.5 text-[#5eead4]" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                            Laporan WA
+                        </button>
+
+                        <!-- Export Dropdown -->
+                        <div class="relative inline-block text-left">
+                            <button onclick="toggleExportMenu()" id="exportDropdownBtn" class="py-1.5 px-3 bg-[#082615] hover:bg-[#0e3a21] text-[#f4ede2] border border-[#f4ede2]/20 rounded-xl text-xs font-semibold flex items-center gap-1.5 transition-all">
+                                <svg class="svg-icon w-3.5 h-3.5 text-[#e8deb8]" viewBox="0 0 24 24"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+                                Export
+                                <svg class="svg-icon w-3 h-3 text-[#a8ccb6]" viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"></polyline></svg>
+                            </button>
+                            <div id="exportMenu" class="hidden absolute right-0 mt-1.5 w-48 bg-[#092615] border border-[#f4ede2]/20 rounded-2xl shadow-2xl z-50 p-1.5 space-y-1 text-xs backdrop-blur-xl">
+                                <button onclick="exportJSON()" class="w-full text-left px-3 py-2 rounded-xl hover:bg-[#0e3a21] text-[#f4ede2] flex items-center gap-2 transition-colors">
+                                    <span class="text-sm">📥</span> Export JSON (Backup)
+                                </button>
+                                <button onclick="exportCSV()" class="w-full text-left px-3 py-2 rounded-xl hover:bg-[#0e3a21] text-[#f4ede2] flex items-center gap-2 transition-colors">
+                                    <span class="text-sm">📊</span> Export CSV (Excel)
+                                </button>
+                                <button onclick="exportPDF()" class="w-full text-left px-3 py-2 rounded-xl hover:bg-[#0e3a21] text-[#f4ede2] flex items-center gap-2 transition-colors">
+                                    <span class="text-sm">📄</span> Cetak / Simpan PDF
+                                </button>
+                                <button onclick="openChangePinModal()" class="w-full text-left px-3 py-2 rounded-xl hover:bg-[#0e3a21] text-[#e8deb8] flex items-center gap-2 transition-colors border-t border-[#f4ede2]/10 mt-1">
+                                    <span class="text-sm">⚙️</span> Ganti PIN Keamanan
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Quick Zone Pills (Scrollable on Mobile) -->
+            <div class="mt-4 pt-3 border-t border-[#f4ede2]/10">
+                <div class="flex items-center gap-2 overflow-x-auto custom-scrollbar pb-1.5 text-xs whitespace-nowrap" id="zonePillsContainer">
+                    <span class="text-[#e8deb8] text-[11px] font-bold uppercase tracking-wider shrink-0 flex items-center gap-1">
+                        <svg class="svg-icon w-3.5 h-3.5 text-[#f4ede2]" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                        Zona:
+                    </span>
+                    <button onclick="setZoneFilter('all')" data-zone="all" class="pill-btn active py-1.5 px-3 rounded-xl border border-transparent bg-[#082615] text-[#f4ede2] font-medium">Semua Zona</button>
+                    <button onclick="setZoneFilter('Zona 1 (Baros/Jalur)')" data-zone="Zona 1 (Baros/Jalur)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 1 (Baros/Jalur)</button>
+                    <button onclick="setZoneFilter('Zona 2 (Cisaat/Cibadak)')" data-zone="Zona 2 (Cisaat/Cibadak)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 2 (Cisaat/Cibadak)</button>
+                    <button onclick="setZoneFilter('Zona 3 (Pusat Selatan)')" data-zone="Zona 3 (Pusat Selatan)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 3 (Pusat Selatan)</button>
+                    <button onclick="setZoneFilter('Zona 4 (Jantung Kota)')" data-zone="Zona 4 (Jantung Kota)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 4 (Jantung Kota)</button>
+                    <button onclick="setZoneFilter('Zona 5 (Timur/Utara)')" data-zone="Zona 5 (Timur/Utara)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 5 (Timur/Utara)</button>
+                    <button onclick="setZoneFilter('Zona 6 (Ekspedisi Wisata)')" data-zone="Zona 6 (Ekspedisi Wisata)" class="pill-btn py-1.5 px-3 rounded-xl border border-[#f4ede2]/15 bg-[#082615]/70 text-[#a8ccb6] hover:text-[#f4ede2]">Zona 6 (Ekspedisi Wisata)</button>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Grid -->
+        <div class="grid grid-cols-1 lg:grid-cols-12 gap-5 md:gap-6 flex-1 items-start">
+            
+            <!-- Left Sidebar Controls & Pitch (5 cols on large screen) -->
+            <div class="lg:col-span-5 xl:col-span-5 space-y-4 md:space-y-5 lg:sticky lg:top-4">
+                
+                <!-- Filter Card -->
+                <div class="glass-panel p-4 sm:p-5 rounded-3xl">
+                    <div class="flex items-center justify-between mb-3.5">
+                        <h2 class="text-sm md:text-base font-bold font-retro-serif flex items-center gap-2 text-[#fbf7ee]">
+                            <svg class="svg-icon text-[#e8deb8] w-4 h-4" viewBox="0 0 24 24">
+                                <polygon points="22 3 2 3 10 12.46 10 19 14 21 14 12.46 22 3"></polygon>
+                            </svg>
+                            Filter & Pipeline Leads
+                        </h2>
+                        <button onclick="resetFilters()" class="text-[11px] text-[#e8deb8] hover:text-[#f4ede2] underline transition-colors">
+                            Reset Filter
+                        </button>
+                    </div>
+                    
+                    <div class="space-y-3">
+                        <!-- Search Input -->
+                        <div>
+                            <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Cari UMKM / Notes / No. WA</label>
+                            <div class="relative">
+                                <input type="text" id="searchInput" placeholder="Ketik nama toko, zona, notes, atau No WA..." class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl py-2.5 pl-3.5 pr-9 text-sm text-[#fbf7ee] placeholder-[#5d856d] focus:outline-none focus:border-[#f4ede2] focus:ring-1 focus:ring-[#f4ede2] transition-all font-medium">
+                                <button id="clearSearchBtn" onclick="clearSearch()" class="hidden absolute right-2.5 top-1/2 -translate-y-1/2 text-[#a8ccb6] hover:text-white p-1">
+                                    <svg class="svg-icon w-3.5 h-3.5" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                                </button>
+                            </div>
+                        </div>
+                        
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                            <!-- Status Pipeline Filter -->
+                            <div>
+                                <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Status Prospek</label>
+                                <select id="statusFilter" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-sm text-[#fbf7ee] focus:outline-none focus:border-[#f4ede2] transition-all font-medium">
+                                    <option value="all">Semua Status Pipeline</option>
+                                    <option value="UNVISITED">⚪ Belum Dikunjungi</option>
+                                    <option value="PITCHED">🔵 Pitched / Demo Tap</option>
+                                    <option value="FOLLOW_UP">🟡 Follow-Up / Pikir-Pikir</option>
+                                    <option value="CLOSED_WON">🟢 Closing / Deal Won ✓</option>
+                                    <option value="REJECTED">🔴 Ditolak / Skip ✕</option>
+                                </select>
+                            </div>
+
+                            <!-- Zone Dropdown -->
+                            <div>
+                                <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Zona Wilayah</label>
+                                <select id="zoneFilter" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-sm text-[#fbf7ee] focus:outline-none focus:border-[#f4ede2] transition-all font-medium">
+                                    <option value="all">Semua Zona Wilayah</option>
+                                    <option value="Zona 1 (Baros/Jalur)">Zona 1 (Baros/Jalur)</option>
+                                    <option value="Zona 2 (Cisaat/Cibadak)">Zona 2 (Cisaat/Cibadak)</option>
+                                    <option value="Zona 3 (Pusat Selatan)">Zona 3 (Pusat Selatan)</option>
+                                    <option value="Zona 4 (Jantung Kota)">Zona 4 (Jantung Kota)</option>
+                                    <option value="Zona 5 (Timur/Utara)">Zona 5 (Timur/Utara)</option>
+                                    <option value="Zona 6 (Ekspedisi Wisata)">Zona 6 (Ekspedisi Wisata)</option>
+                                </select>
+                            </div>
+                        </div>
+
+                        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
+                            <!-- Strategy Dropdown -->
+                            <div>
+                                <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Strategi Canvassing</label>
+                                <select id="strategyFilter" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-sm text-[#fbf7ee] focus:outline-none focus:border-[#f4ede2] transition-all font-medium">
+                                    <option value="all">Semua Strategi</option>
+                                    <option value="UNDER_5">Push Rating (Rating < 5.0)</option>
+                                    <option value="HIGH_LOW_REV">Push Volume (Rating 5.0)</option>
+                                </select>
+                            </div>
+
+                            <!-- Category Dropdown -->
+                            <div>
+                                <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Kategori Usaha</label>
+                                <select id="categoryFilter" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-sm text-[#fbf7ee] focus:outline-none focus:border-[#f4ede2] transition-all font-medium">
+                                    <option value="all">Semua Kategori (10 Sektor)</option>
+                                    <option value="F&B">F&B</option>
+                                    <option value="Beauty">Beauty & Clinic</option>
+                                    <option value="Automotive">Automotive</option>
+                                    <option value="Lodging">Lodging & Hotel</option>
+                                    <option value="Health">Kesehatan & Apotek</option>
+                                    <option value="Services">Jasa & Servis</option>
+                                    <option value="Education">Pendidikan</option>
+                                    <option value="Retail">Retail & Toko</option>
+                                    <option value="Event">Event & Fotografi</option>
+                                    <option value="Tourism">Wisata & Rekreasi</option>
+                                </select>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Desktop Pitch & Objection Tabs Card -->
+                <div class="hidden lg:block glass-panel p-5 rounded-3xl">
+                    <!-- Tab Header -->
+                    <div class="flex items-center justify-between mb-3 border-b border-[#f4ede2]/15 pb-2.5">
+                        <div class="flex items-center gap-2">
+                            <button id="desktopTabPitch" onclick="switchDesktopTab('pitch')" class="tab-btn active text-xs font-bold py-1.5 px-3 rounded-xl transition-all flex items-center gap-1.5">
+                                🎙️ Script Pitching
+                            </button>
+                            <button id="desktopTabObjection" onclick="switchDesktopTab('objection')" class="tab-btn text-xs font-bold py-1.5 px-3 rounded-xl transition-all flex items-center gap-1.5">
+                                🛡️ Tangkis Penolakan
+                            </button>
+                        </div>
+                        <span id="activeLeadBadge" class="hidden text-[10px] bg-[#072414] text-[#e8deb8] border border-[#f4ede2]/20 px-2.5 py-0.5 rounded-full font-mono truncate max-w-[130px]">Target Terpilih</span>
+                    </div>
+                    
+                    <!-- Desktop Pitch Container -->
+                    <div id="desktopPitchContainer">
+                        <div id="pitchBox" class="bg-[#061e11] border border-[#1c4d2e] p-4 rounded-2xl text-xs text-[#a8ccb6] italic max-h-[350px] overflow-y-auto custom-scrollbar leading-relaxed">
+                            Pilih salah satu target UMKM di daftar ekspedisi untuk membuat script...
+                        </div>
+                    </div>
+
+                    <!-- Desktop Objection Handling Container -->
+                    <div id="desktopObjectionContainer" class="hidden space-y-2.5 max-h-[350px] overflow-y-auto custom-scrollbar pr-1">
+                        <!-- Rendered by JS -->
+                    </div>
+
+                    <!-- Active Lead Status & Field Notes (Desktop) -->
+                    <div id="desktopLeadControls" class="hidden mt-4 pt-3 border-t border-[#f4ede2]/15 space-y-3">
+                        <div>
+                            <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1.5">Update Status Lapangan</label>
+                            <div class="grid grid-cols-3 gap-1.5 text-[11px]" id="desktopStatusBtnGroup">
+                                <!-- Status buttons injected dynamically -->
+                            </div>
+                        </div>
+
+                        <!-- WhatsApp Input (Desktop) -->
+                        <div>
+                            <div class="flex items-center justify-between mb-1">
+                                <label class="block text-[11px] font-bold text-[#5eead4] uppercase tracking-wider flex items-center gap-1">
+                                    <svg class="svg-icon w-3.5 h-3.5" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                                    No. WhatsApp Owner / Kasir
+                                </label>
+                                <span id="desktopWaSaveIndicator" class="text-[10px] text-[#a8ccb6]">Tersimpan ✓</span>
+                            </div>
+                            <div class="flex items-center gap-2">
+                                <input type="tel" id="desktopWaInput" oninput="saveLeadWa(this.value)" placeholder="cth: 08123456789 atau 628..." class="flex-1 bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2 text-xs text-[#fbf7ee] placeholder-[#5d856d] focus:outline-none focus:border-[#f4ede2] transition-all font-mono">
+                                <button id="desktopWaChatBtn" onclick="openWaChat(currentActiveLead)" title="Buka Chat WhatsApp" class="py-2 px-3 bg-[#134e2c] hover:bg-[#1b6438] text-[#f4ede2] border border-[#2b7246] rounded-2xl text-xs font-bold flex items-center gap-1.5 transition-all shrink-0">
+                                    <svg class="svg-icon w-3.5 h-3.5 text-[#5eead4]" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                                    Chat WA
+                                </button>
+                            </div>
+                        </div>
+
+                        <!-- Catatan Lapangan (Desktop) -->
+                        <div>
+                            <div class="flex items-center justify-between mb-1">
+                                <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider">Catatan Lapangan (Auto-save)</label>
+                                <span id="desktopNoteSaveIndicator" class="text-[10px] text-[#a8ccb6]">Tersimpan ✓</span>
+                            </div>
+                            <textarea id="desktopNotesInput" oninput="saveLeadNotes(this.value)" rows="2" placeholder="Tulis nama kontak, hasil demo, janji follow-up..." class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-xs text-[#fbf7ee] placeholder-[#5d856d] focus:outline-none focus:border-[#f4ede2] transition-all"></textarea>
+                        </div>
+
+                        <!-- Invoice Action (Desktop) -->
+                        <div class="pt-1">
+                            <button onclick="openInvoiceModal(currentActiveLead)" class="w-full py-2.5 px-3 bg-[#f4ede2] hover:bg-[#fffdf7] text-[#0a331c] rounded-2xl text-xs font-black flex items-center justify-center gap-2 transition-all shadow-md">
+                                <svg class="svg-icon w-4 h-4 text-[#0a331c]" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                                🧾 Buat Invoice / Kwitansi NeuralKats
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Right Column: Leads List (7 cols on large screen) -->
+            <div class="lg:col-span-7 xl:col-span-7">
+                <div class="glass-panel p-4 sm:p-5 rounded-3xl min-h-[500px] lg:min-h-[75vh] flex flex-col">
+                    
+                    <!-- Leads Header / Counter -->
+                    <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2.5 mb-4 pb-3 border-b border-[#f4ede2]/15">
+                        <div class="flex items-center gap-2.5">
+                            <div class="p-1.5 bg-[#f4ede2] text-[#0a331c] rounded-xl font-bold">
+                                <svg class="svg-icon w-4 h-4" viewBox="0 0 24 24">
+                                    <path d="M17 21v-2a4 4 0 0 0-4-4H5a4 4 0 0 0-4 4v2"></path>
+                                    <circle cx="9" cy="7" r="4"></circle>
+                                    <path d="M23 21v-2a4 4 0 0 0-3-3.87"></path>
+                                    <path d="M16 3.13a4 4 0 0 1 0 7.75"></path>
+                                </svg>
+                            </div>
+                            <h2 class="text-base sm:text-lg font-extrabold font-retro-serif text-[#fbf7ee]">
+                                Daftar Ekspedisi UMKM Sukabumi
+                            </h2>
+                        </div>
+                        
+                        <div class="flex items-center gap-2 self-start sm:self-auto">
+                            <span id="dataCount" class="bg-[#072414] text-[#e8deb8] border border-[#f4ede2]/20 text-xs py-1 px-3 rounded-full font-bold">
+                                Memuat data...
+                            </span>
+                        </div>
+                    </div>
+                    
+                    <!-- Leads Cards Container -->
+                    <div id="leadsContainer" class="overflow-y-auto pr-1 sm:pr-2 space-y-2.5 flex-1 custom-scrollbar max-h-[65vh] lg:max-h-[68vh]">
+                        <!-- Data will be injected dynamically -->
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer -->
+        <footer class="mt-8 text-center text-xs text-[#a8ccb6] py-3 border-t border-[#f4ede2]/10 flex flex-col sm:flex-row items-center justify-between gap-2">
+            <span class="font-medium">&copy; 2026 Sunday Club &bull; Strategic Canvassing System</span>
+            <span class="text-[#e8deb8]">Powered by <strong>NeuralKats</strong> &bull; The Closer's Blueprint</span>
+        </footer>
+    </div>
+
+    <!-- Mobile Bottom Sheet / Modal for Pitch Script & Status Tracker -->
+    <div id="mobileModal" class="hidden-modal fixed inset-0 z-50 flex items-end sm:items-center justify-center p-0 sm:p-4 bg-black/80 backdrop-blur-md">
+        <div id="mobileModalBackdrop" onclick="closeMobileModal()" class="absolute inset-0"></div>
+        <div id="mobileModalContent" class="relative z-10 w-full sm:max-w-lg bg-[#092615] border border-[#f4ede2]/20 sm:rounded-3xl rounded-t-3xl p-5 max-h-[92vh] sm:max-h-[85vh] flex flex-col shadow-2xl">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between pb-3 border-b border-[#f4ede2]/15">
+                <div class="flex items-center gap-2 flex-1 pr-2">
+                    <span class="w-2.5 h-2.5 rounded-full bg-[#f4ede2] animate-pulse"></span>
+                    <h3 id="modalLeadTitle" class="font-extrabold font-retro-serif text-base sm:text-lg text-[#fbf7ee] truncate">Pitching Script</h3>
+                </div>
+                <button onclick="closeMobileModal()" class="p-2 text-[#a8ccb6] hover:text-white bg-[#061e11] rounded-2xl border border-[#1c4d2e]">
+                    <svg class="svg-icon w-4 h-4" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+            </div>
+
+            <!-- Modal Meta Info -->
+            <div id="modalLeadMeta" class="py-2.5 flex items-center gap-2 flex-wrap text-xs text-[#a8ccb6] border-b border-[#f4ede2]/10">
+                <!-- Meta tags injected via JS -->
+            </div>
+
+            <!-- Modal Tabs (Script vs Objection vs Notes) -->
+            <div class="grid grid-cols-2 gap-2 mt-3 mb-2 bg-[#061e11] p-1 rounded-2xl border border-[#1c4d2e]">
+                <button id="mobileTabPitch" onclick="switchMobileTab('pitch')" class="tab-btn active text-xs font-bold py-1.5 rounded-xl transition-all text-center">
+                    🎙️ Script Pitching
+                </button>
+                <button id="mobileTabObjection" onclick="switchMobileTab('objection')" class="tab-btn text-xs font-bold py-1.5 rounded-xl transition-all text-center">
+                    🛡️ Tangkis Penolakan
+                </button>
+            </div>
+
+            <!-- Modal Body Scrollable -->
+            <div class="overflow-y-auto custom-scrollbar flex-1 py-2 space-y-3">
+                <!-- Pitch Body -->
+                <div id="modalPitchBody" class="text-xs sm:text-sm text-[#f4ede2] leading-relaxed space-y-3">
+                    <!-- Pitch script injected via JS -->
+                </div>
+
+                <!-- Objection Body -->
+                <div id="modalObjectionBody" class="hidden text-xs sm:text-sm text-[#f4ede2] space-y-2.5">
+                    <!-- Objection list injected via JS -->
+                </div>
+
+                <!-- Status & Notes Box (In Mobile Modal) -->
+                <div class="pt-3 border-t border-[#f4ede2]/15 space-y-3">
+                    <div>
+                        <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1.5">Update Status Lapangan</label>
+                        <div class="grid grid-cols-3 gap-1.5 text-[11px]" id="mobileStatusBtnGroup">
+                            <!-- Status buttons injected dynamically -->
+                        </div>
+                    </div>
+
+                    <!-- WhatsApp Input (Mobile) -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <label class="block text-[11px] font-bold text-[#5eead4] uppercase tracking-wider flex items-center gap-1">
+                                <svg class="svg-icon w-3.5 h-3.5" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                                No. WhatsApp Owner / Kasir
+                            </label>
+                            <span id="mobileWaSaveIndicator" class="text-[10px] text-[#a8ccb6]">Tersimpan ✓</span>
+                        </div>
+                        <div class="flex items-center gap-2">
+                            <input type="tel" id="mobileWaInput" oninput="saveLeadWa(this.value)" placeholder="cth: 08123456789 atau 628..." class="flex-1 bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-xs text-[#fbf7ee] placeholder-[#5d856d] focus:outline-none focus:border-[#f4ede2] transition-all font-mono">
+                            <button id="mobileWaChatBtn" onclick="openWaChat(currentActiveLead)" title="Buka Chat WhatsApp" class="py-2.5 px-3.5 bg-[#134e2c] hover:bg-[#1b6438] text-[#f4ede2] border border-[#2b7246] rounded-2xl text-xs font-bold flex items-center gap-1.5 transition-all shrink-0">
+                                <svg class="svg-icon w-4 h-4 text-[#5eead4]" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                                Chat WA
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- Catatan Lapangan (Mobile) -->
+                    <div>
+                        <div class="flex items-center justify-between mb-1">
+                            <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider">Catatan Lapangan (Auto-save)</label>
+                            <span id="mobileNoteSaveIndicator" class="text-[10px] text-[#a8ccb6]">Tersimpan ✓</span>
+                        </div>
+                        <textarea id="mobileNotesInput" oninput="saveLeadNotes(this.value)" rows="2" placeholder="Tulis hasil obrolan, kontak owner, atau janji follow-up..." class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-xs text-[#fbf7ee] placeholder-[#5d856d] focus:outline-none focus:border-[#f4ede2] transition-all"></textarea>
+                    </div>
+
+                    <!-- Buat Invoice Button (Mobile) -->
+                    <div>
+                        <button onclick="openInvoiceModal(currentActiveLead)" class="w-full py-3 px-4 bg-[#f4ede2] hover:bg-[#fffdf7] text-[#0a331c] rounded-2xl text-xs font-black flex items-center justify-center gap-2 shadow-md transition-all">
+                            <svg class="svg-icon w-4 h-4 text-[#0a331c]" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                            🧾 Buat Invoice / Kwitansi NeuralKats
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Modal Action Buttons -->
+            <div class="pt-3 border-t border-[#f4ede2]/15 grid grid-cols-2 gap-2.5">
+                <a id="modalMapsBtn" href="#" target="_blank" class="flex items-center justify-center gap-2 py-3 px-4 rounded-2xl bg-[#061e11] hover:bg-[#0c331e] text-[#f4ede2] text-xs font-bold border border-[#1c4d2e] transition-colors">
+                    <svg class="svg-icon w-4 h-4 text-[#e8deb8]" viewBox="0 0 24 24"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                    Buka Maps
+                </a>
+                <button id="modalCopyBtn" onclick="copyCurrentPitch()" class="flex items-center justify-center gap-2 py-3 px-4 rounded-2xl bg-[#0d331e] hover:bg-[#144b2c] text-[#f4ede2] text-xs font-bold border border-[#235837] transition-all">
+                    <svg class="svg-icon w-4 h-4 text-[#e8deb8]" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    Copy Script
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- Invoice Generator Modal (NeuralKats) -->
+    <div id="invoiceModal" class="hidden-modal fixed inset-0 z-50 flex items-center justify-center p-3 sm:p-4 bg-black/85 backdrop-blur-md">
+        <div id="invoiceModalBackdrop" onclick="closeInvoiceModal()" class="absolute inset-0"></div>
+        <div class="relative z-10 w-full max-w-xl bg-[#092615] border border-[#f4ede2]/25 rounded-3xl p-5 sm:p-6 max-h-[92vh] flex flex-col shadow-2xl overflow-hidden">
+            <!-- Modal Header -->
+            <div class="flex items-center justify-between pb-3.5 border-b border-[#f4ede2]/15 shrink-0">
+                <div class="flex items-center gap-2.5">
+                    <div class="p-1.5 bg-[#f4ede2] text-[#0a331c] rounded-xl font-bold">
+                        <svg class="svg-icon w-5 h-5 text-[#0a331c]" viewBox="0 0 24 24"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                    </div>
+                    <div>
+                        <h3 class="font-extrabold font-retro-serif text-base sm:text-lg text-[#fbf7ee] leading-tight">Buat Invoice & Bukti Pembelian</h3>
+                        <p class="text-[10px] text-[#a8ccb6] uppercase tracking-widest font-semibold">NeuralKats • Solopreneur Tech & AI Solutions</p>
+                    </div>
+                </div>
+                <button onclick="closeInvoiceModal()" class="p-2 text-[#a8ccb6] hover:text-white bg-[#061e11] rounded-2xl border border-[#1c4d2e]">
+                    <svg class="svg-icon w-4 h-4" viewBox="0 0 24 24"><line x1="18" y1="6" x2="6" y2="18"></line><line x1="6" y1="6" x2="18" y2="18"></line></svg>
+                </button>
+            </div>
+
+            <!-- Form Content (Scrollable) -->
+            <div class="overflow-y-auto custom-scrollbar flex-1 py-3.5 space-y-3.5 pr-1 text-xs">
+                <!-- Client Info -->
+                <div class="bg-[#061e11] border border-[#1c4d2e] p-3 rounded-2xl space-y-2">
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                        <div>
+                            <label class="block text-[10px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Nama Toko / Client</label>
+                            <input type="text" id="invClientName" class="w-full bg-[#092615] border border-[#1c4d2e] rounded-xl p-2 text-xs text-[#fbf7ee] font-bold focus:outline-none focus:border-[#f4ede2]">
+                        </div>
+                        <div>
+                            <label class="block text-[10px] font-bold text-[#5eead4] uppercase tracking-wider mb-1">No. WhatsApp Client</label>
+                            <input type="text" id="invClientWa" class="w-full bg-[#092615] border border-[#1c4d2e] rounded-xl p-2 text-xs text-[#fbf7ee] font-mono focus:outline-none focus:border-[#f4ede2]">
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Package Selection -->
+                <div>
+                    <label class="block text-[10px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1.5">Pilih Paket Produk NeuralKats</label>
+                    <div class="space-y-2">
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
+                            <input type="radio" name="invPackage" value="card_50k" checked onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🎴 Google Review Card (NFC + QR)</span>
+                                    <span class="font-bold text-[#e8deb8] text-xs">Rp 50.000</span>
+                                </div>
+                                <p class="text-[11px] text-[#8cb89d]">Kartu fisik pintar NFC Tap & Scan QR Google Review langsung ke toko.</p>
+                            </div>
+                        </label>
+
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
+                            <input type="radio" name="invPackage" value="bundle_100k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🌐 Bundle Langganan Web + Card</span>
+                                    <span class="font-bold text-[#5eead4] text-xs">Rp 100.000 / bln</span>
+                                </div>
+                                <p class="text-[11px] text-[#8cb89d]">Website UMKM + Bonus 1x Google Review Card + Maintenance bulanan.</p>
+                            </div>
+                        </label>
+
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
+                            <input type="radio" name="invPackage" value="bundle_300k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🚀 Bundle One-Time Web + Card</span>
+                                    <span class="font-bold text-[#fbbf24] text-xs">Rp 300.000</span>
+                                </div>
+                                <p class="text-[11px] text-[#8cb89d]">Website UMKM + 1x Google Review Card (Sekali bayar, tanpa maintenance).</p>
+                            </div>
+                        </label>
+
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
+                            <input type="radio" name="invPackage" value="custom" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">✍️ Custom Item / Jasa Tambahan</span>
+                                    <span class="text-[#a8ccb6] text-[10px]">Nominal Manual</span>
+                                </div>
+                                <input type="text" id="invCustomDesc" placeholder="Nama item / layanan kustom" class="w-full mt-1.5 bg-[#092615] border border-[#1c4d2e] rounded-xl p-1.5 text-xs text-[#fbf7ee] focus:outline-none hidden">
+                            </div>
+                        </label>
+                    </div>
+                </div>
+
+                <!-- Price & Quantity & Status -->
+                <div class="grid grid-cols-1 sm:grid-cols-3 gap-2.5">
+                    <div>
+                        <label class="block text-[10px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Jumlah / Qty</label>
+                        <input type="number" id="invQty" value="1" min="1" oninput="recalcInvoiceTotal()" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2 text-xs text-[#fbf7ee] text-center font-bold focus:outline-none focus:border-[#f4ede2]">
+                    </div>
+                    <div>
+                        <label class="block text-[10px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Harga Satuan (Rp)</label>
+                        <input type="number" id="invUnitPrice" value="50000" oninput="recalcInvoiceTotal()" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2 text-xs text-[#fbf7ee] font-bold focus:outline-none focus:border-[#f4ede2]">
+                    </div>
+                    <div>
+                        <label class="block text-[10px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Status Pembayaran</label>
+                        <select id="invPaymentStatus" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-xl p-2 text-xs text-[#fbf7ee] font-bold focus:outline-none focus:border-[#f4ede2]">
+                            <option value="LUNAS" selected>🟢 Lunas (PAID)</option>
+                            <option value="DP">🟡 DP / Sebagian</option>
+                            <option value="PENDING">⚪ Menunggu Pembayaran</option>
+                        </select>
+                    </div>
+                </div>
+
+                <!-- Total Summary & Payment Note -->
+                <div class="bg-[#061e11] border border-[#1c4d2e] p-3 rounded-2xl flex flex-col sm:flex-row items-center justify-between gap-3">
+                    <div>
+                        <span class="text-[10px] text-[#8cb89d] uppercase tracking-wider block">Total Tagihan</span>
+                        <span id="invTotalFormatted" class="font-extrabold font-retro-serif text-lg text-[#fbf7ee]">Rp 50.000</span>
+                    </div>
+                    <div class="w-full sm:w-auto flex-1 sm:max-w-xs">
+                        <label class="block text-[10px] text-[#a8ccb6] mb-1">Catatan Pembayaran (Manual / Opsional)</label>
+                        <input type="text" id="invPaymentNote" placeholder="Cth: Transfer BCA / QRIS / Tunai" value="Pembayaran Tunai / Transfer (Manual)" class="w-full bg-[#092615] border border-[#1c4d2e] rounded-xl p-1.5 text-xs text-[#fbf7ee] focus:outline-none">
+                    </div>
+                </div>
+
+                <!-- Digital Business Card & Ecosystem Links -->
+                <div class="bg-[#0c331d] border border-[#235837] p-3.5 rounded-2xl space-y-2.5">
+                    <div class="flex items-center justify-between">
+                        <span class="text-[10px] font-bold text-[#5eead4] uppercase tracking-wider flex items-center gap-1">
+                            📇 Kartu Nama & Ekosistem Bisnis NeuralKats (Included di Invoice)
+                        </span>
+                        <span class="text-[10px] font-mono text-[#e8deb8] font-bold">📱 +62 896-7347-4961</span>
+                    </div>
+                    <div class="grid grid-cols-1 sm:grid-cols-2 gap-2 text-[11px] text-[#f4ede2]">
+                        <div class="flex items-center gap-2 p-2 bg-[#061e11] rounded-xl border border-[#1c4d2e]">
+                            <span class="text-base">🎓</span>
+                            <div>
+                                <div class="font-bold text-[#e8deb8]">Belajar AI & Berita AI</div>
+                                <div class="text-[10px] text-[#8cb89d] font-mono">neuralkats.my.id</div>
+                            </div>
+                        </div>
+                        <div class="flex items-center gap-2 p-2 bg-[#061e11] rounded-xl border border-[#1c4d2e]">
+                            <span class="text-base">⚡</span>
+                            <div>
+                                <div class="font-bold text-[#e8deb8]">Lab Project & Inovasi</div>
+                                <div class="text-[10px] text-[#8cb89d] font-mono">neuralkats.web.id</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Modal Action Buttons -->
+            <div class="pt-3 border-t border-[#f4ede2]/15 grid grid-cols-1 sm:grid-cols-3 gap-2 shrink-0">
+                <button onclick="generatePrintableInvoice()" class="py-2.5 px-3 rounded-2xl bg-[#f4ede2] hover:bg-[#fffcf7] text-[#0a331c] font-black text-xs flex items-center justify-center gap-1.5 shadow-lg transition-all">
+                    <svg class="svg-icon w-4 h-4 text-[#0a331c]" viewBox="0 0 24 24"><polyline points="6 9 6 2 18 2 18 9"></polyline><path d="M6 18H4a2 2 0 0 1-2-2v-5a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5a2 2 0 0 1-2 2h-2"></path><rect x="6" y="14" width="12" height="8"></rect></svg>
+                    📄 Cetak / PDF
+                </button>
+                <button onclick="sendInvoiceViaWhatsApp()" class="py-2.5 px-3 rounded-2xl bg-[#134e2c] hover:bg-[#1b6438] text-[#f4ede2] font-bold text-xs border border-[#2b7246] flex items-center justify-center gap-1.5 transition-all">
+                    <svg class="svg-icon w-4 h-4 text-[#5eead4]" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                    📱 Kirim WA
+                </button>
+                <button onclick="copyInvoiceText()" class="py-2.5 px-3 rounded-2xl bg-[#061e11] hover:bg-[#0c331e] text-[#f4ede2] font-bold text-xs border border-[#1c4d2e] flex items-center justify-center gap-1.5 transition-all">
+                    <svg class="svg-icon w-4 h-4 text-[#e8deb8]" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                    📋 Copy Struk
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Master Dataset of 189 UMKMs Sukabumi
+        const umkmData = [
+            // F&B
+            { name: "Waroeng Spesial Sambal SS Bandung JL Sukabumi", category: "F&B", rating: 4.2, reviews: 3215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi" },
+            { name: "Secret Garden Sukabumi", category: "F&B", rating: 4.4, reviews: 2621, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Secret+Garden+Sukabumi" },
+            { name: "Like Earth Coffee", category: "F&B", rating: 4.4, reviews: 1845, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Like+Earth+Coffee+Sukabumi" },
+            { name: "Kedai Kopi Ncek Joe Tie 1953", category: "F&B", rating: 4.4, reviews: 412, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+Ncek+Joe+Tie+1953+Sukabumi" },
+            { name: "D'Green Resto and Coffee", category: "F&B", rating: 4.5, reviews: 1105, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=D'Green+Resto+and+Coffee+Sukabumi" },
+            { name: "Butler Bar & Bistro", category: "F&B", rating: 4.5, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Butler+Bar+%26+Bistro+Sukabumi" },
+            { name: "Kedai Kopi 35", category: "F&B", rating: 4.5, reviews: 540, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+35+Sukabumi" },
+            { name: "Restaurant Sunda Rasa Sukabumi", category: "F&B", rating: 4.6, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Restaurant+Sunda+Rasa+Sukabumi" },
+            { name: "Botram Resto", category: "F&B", rating: 4.6, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Botram+Resto+Sukabumi" },
+            { name: "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI", category: "F&B", rating: 4.6, reviews: 955, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI" },
+            { name: "Red Brick Cafe", category: "F&B", rating: 4.7, reviews: 1430, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Red+Brick+Cafe+Sukabumi" },
+            { name: "Maple Bakery", category: "F&B", rating: 4.7, reviews: 670, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Maple+Bakery+Sukabumi" },
+            { name: "Dedi Catering Sukabumi", category: "F&B", rating: 4.8, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dedi+Catering+Sukabumi" },
+            { name: "Kopi Nako Sukabumi", category: "F&B", rating: 4.9, reviews: 185, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Kopi+Nako+Sukabumi" },
+            { name: "Yume Coffee", category: "F&B", rating: 4.8, reviews: 142, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Yume+Coffee+Sukabumi" },
+            { name: "Amorcakes & Bakery Sudirman - Sukabumi", category: "F&B", rating: 4.9, reviews: 98, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Amorcakes+%26+Bakery+Sudirman+-+Sukabumi" },
+            { name: "Bandung Cheesecuit Sukabumi", category: "F&B", rating: 4.9, reviews: 115, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bandung+Cheesecuit+Sukabumi" },
+            { name: "Takashi Bakehouse x Republik Burger Sukabumi", category: "F&B", rating: 4.9, reviews: 76, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Takashi+Bakehouse+x+Republik+Burger+Sukabumi" },
+            { name: "Catering & Snack Sarah 009 Dra. N. Rohanah", category: "F&B", rating: 4.9, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Catering+%26+Snack+Sarah+009+Sukabumi" },
+            { name: "Sukabumi Coffee Center", category: "F&B", rating: 5.0, reviews: 22, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Coffee+Center" },
+            { name: "Catering Murah Sukabumi", category: "F&B", rating: 5.0, reviews: 18, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Catering+Murah+Sukabumi" },
+            { name: "INI KITCHEN SUKABUMI", category: "F&B", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=INI+KITCHEN+SUKABUMI" },
+            { name: "PAKIS Catering Sukabumi", category: "F&B", rating: 5.0, reviews: 12, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PAKIS+Catering+Sukabumi" },
+
+            // Beauty & Salon
+            { name: "Pinisi Relaxation", category: "Beauty", rating: 4.4, reviews: 750, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pinisi+Relaxation+Sukabumi" },
+            { name: "Rudi Salon Sukabumi", category: "Beauty", rating: 4.5, reviews: 420, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Rudi+Salon+Sukabumi" },
+            { name: "Sara ivonne Beauty Studio Sukabumi", category: "Beauty", rating: 4.6, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Sara+ivonne+Beauty+Studio+Sukabumi" },
+            { name: "KAYN Wellness", category: "Beauty", rating: 4.6, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KAYN+Wellness+Sukabumi" },
+            { name: "Dr Metz Skincare", category: "Beauty", rating: 4.8, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dr+Metz+Skincare+Sukabumi" },
+            { name: "Avenue Salon Sukabumi", category: "Beauty", rating: 4.9, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Avenue+Salon+Sukabumi" },
+            { name: "ADJIE SALON", category: "Beauty", rating: 4.9, reviews: 205, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=ADJIE+SALON+Sukabumi" },
+            { name: "Pixel Barbershop Nyomplong", category: "Beauty", rating: 4.9, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Nyomplong+Sukabumi" },
+            { name: "BARBERSTATION BARBERSHOP", category: "Beauty", rating: 4.9, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=BARBERSTATION+BARBERSHOP+Sukabumi" },
+            { name: "Simi Reflexology Massage & Spa", category: "Beauty", rating: 4.9, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Simi+Reflexology+Massage+%26+Spa+Sukabumi" },
+            { name: "Nadifa Clinic Sukabumi", category: "Beauty", rating: 4.9, reviews: 255, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Nadifa+Clinic+Sukabumi" },
+            { name: "Calysta skin care clinic", category: "Beauty", rating: 4.9, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Calysta+skin+care+clinic+Sukabumi" },
+            { name: "ARSENIO SALON", category: "Beauty", rating: 5.0, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=ARSENIO+SALON+Sukabumi" },
+            { name: "Pixel Barbershop Cipanengah", category: "Beauty", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Cipanengah+Sukabumi" },
+            { name: "Blackburn Barbershop - Sukabumi Branch", category: "Beauty", rating: 5.0, reviews: 89, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Blackburn+Barbershop+-+Sukabumi+Branch" },
+            { name: "Pixel Barbershop Ciaul", category: "Beauty", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Ciaul+Sukabumi" },
+            { name: "SERENITY SPA", category: "Beauty", rating: 5.0, reviews: 54, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SERENITY+SPA+Sukabumi" },
+            { name: "Aida Spa & Massage", category: "Beauty", rating: 5.0, reviews: 38, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Aida+Spa+%26+Massage+Sukabumi" },
+            { name: "Natasha Skin Clinic Sukabumi", category: "Beauty", rating: 5.0, reviews: 190, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Natasha+Skin+Clinic+Sukabumi" },
+            { name: "Ella Skincare Sukabumi", category: "Beauty", rating: 5.0, reviews: 165, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ella+Skincare+Sukabumi" },
+
+            // Automotive
+            { name: "Hoki Motor sukabumi", category: "Automotive", rating: 4.3, reviews: 840, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Hoki+Motor+sukabumi" },
+            { name: "Cuci Steam Mobil & Motor 24 jam", category: "Automotive", rating: 4.3, reviews: 325, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cuci+Steam+Mobil+%26+Motor+24+jam+Sukabumi" },
+            { name: "Baros Jaya Motor", category: "Automotive", rating: 4.4, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Baros+Jaya+Motor+Sukabumi" },
+            { name: "Inti Prima Motor", category: "Automotive", rating: 4.4, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Inti+Prima+Motor+Sukabumi" },
+            { name: "lulu motor", category: "Automotive", rating: 4.4, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=lulu+motor+Sukabumi" },
+            { name: "Jaya Motor", category: "Automotive", rating: 4.4, reviews: 380, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Jaya+Motor+Sukabumi" },
+            { name: "Rey Motor Sukabumi", category: "Automotive", rating: 4.4, reviews: 290, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Rey+Motor+Sukabumi" },
+            { name: "Hars Motor", category: "Automotive", rating: 4.5, reviews: 460, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Hars+Motor+Sukabumi" },
+            { name: "Cipendawa Motor lll", category: "Automotive", rating: 4.5, reviews: 510, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cipendawa+Motor+lll+Sukabumi" },
+            { name: "Buana Raya Service - Auto Service Center", category: "Automotive", rating: 4.6, reviews: 720, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Buana+Raya+Service+-+Auto+Service+Center+Sukabumi" },
+            { name: "Central Carwash Sukabumi", category: "Automotive", rating: 4.6, reviews: 355, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Central+Carwash+Sukabumi" },
+            { name: "Ratu Motor", category: "Automotive", rating: 4.6, reviews: 285, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ratu+Motor+Sukabumi" },
+            { name: "CV.KINGKING MOTOR", category: "Automotive", rating: 4.6, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CV.KINGKING+MOTOR+Sukabumi" },
+            { name: "SHOWNGARAGE ( CAR WASH )", category: "Automotive", rating: 4.7, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SHOWNGARAGE+(+CAR+WASH+)+Sukabumi" },
+            { name: "CV ZIED AUTO SERVICE", category: "Automotive", rating: 4.8, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CV+ZIED+AUTO+SERVICE+Sukabumi" },
+            { name: "Bengkel motor sukabumi", category: "Automotive", rating: 4.8, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bengkel+motor+sukabumi" },
+            { name: "Toko Jati Raya Motor", category: "Automotive", rating: 4.8, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Toko+Jati+Raya+Motor+Sukabumi" },
+            { name: "Green_wash Cuci Mobil & Motor", category: "Automotive", rating: 4.9, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Green_wash+Cuci+Mobil+%26+Motor+Sukabumi" },
+            { name: "RBM (RumahBengkelMotor)", category: "Automotive", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=RBM+(RumahBengkelMotor)+Sukabumi" },
+            { name: "AH MASTER WASH (cuci garansi hujan)", category: "Automotive", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=AH+MASTER+WASH+(cuci+garansi+hujan)+Sukabumi" },
+
+            // Lodging
+            { name: "Grand Permata Hijau Hotel", category: "Lodging", rating: 4.2, reviews: 1450, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Grand+Permata+Hijau+Hotel+Sukabumi" },
+            { name: "Taman Sari Hotel & Resort", category: "Lodging", rating: 4.4, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Taman+Sari+Hotel+%26+Resort+Sukabumi" },
+            { name: "Balcony Hotel", category: "Lodging", rating: 4.4, reviews: 1890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Balcony+Hotel+Sukabumi" },
+            { name: "Homestay D'mutiara Sukabumi", category: "Lodging", rating: 4.5, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Homestay+D'mutiara+Sukabumi" },
+            { name: "Tikungan Indah Guest House", category: "Lodging", rating: 4.5, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tikungan+Indah+Guest+House+Sukabumi" },
+            { name: "Horison Sukabumi", category: "Lodging", rating: 4.6, reviews: 3200, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Horison+Sukabumi" },
+            { name: "The Bountie Hotels and Convention Center Sukabumi", category: "Lodging", rating: 4.6, reviews: 2850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=The+Bountie+Hotels+and+Convention+Center+Sukabumi" },
+            { name: "Firma Guest House", category: "Lodging", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Firma+Guest+House+Sukabumi" },
+            { name: "Anugrah Alam Homestay", category: "Lodging", rating: 4.7, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Anugrah+Alam+Homestay+Sukabumi" },
+            { name: "Vimi - villa sukabumi", category: "Lodging", rating: 4.7, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Vimi+-+villa+sukabumi" },
+            { name: "Kampoeng Kita", category: "Lodging", rating: 4.7, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kampoeng+Kita+Sukabumi" },
+            { name: "Homestay WS Sukabumi", category: "Lodging", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Homestay+WS+Sukabumi" },
+            { name: "Amsberg villa at Selabintana", category: "Lodging", rating: 4.9, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Amsberg+villa+at+Selabintana+Sukabumi" },
+            { name: "DCT Homestay Sukabumi", category: "Lodging", rating: 5.0, reviews: 65, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=DCT+Homestay+Sukabumi" },
+            { name: "Qiai Guest House Sukabumi", category: "Lodging", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Qiai+Guest+House+Sukabumi" },
+            { name: "SILVIA GUEST HOUSE", category: "Lodging", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SILVIA+GUEST+HOUSE+Sukabumi" },
+            { name: "Adiza Guest House", category: "Lodging", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Adiza+Guest+House+Sukabumi" },
+            { name: "De Haus Villa Syariah - Subang Jaya", category: "Lodging", rating: 5.0, reviews: 32, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=De+Haus+Villa+Syariah+-+Subang+Jaya" },
+            { name: "Villa Mochi Classic Sukabumi", category: "Lodging", rating: 5.0, reviews: 15, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Villa+Mochi+Classic+Sukabumi" },
+
+            // Health
+            { name: "Apotek Utari", category: "Health", rating: 1.0, reviews: 12, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Utari+Sukabumi" },
+            { name: "Apotek indo Medika", category: "Health", rating: 4.1, reviews: 85, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+indo+Medika+Sukabumi" },
+            { name: "Labkesda Kota Sukabumi", category: "Health", rating: 4.4, reviews: 140, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Labkesda+Kota+Sukabumi" },
+            { name: "KLINIK JALUR FARMA", category: "Health", rating: 4.5, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KLINIK+JALUR+FARMA+Sukabumi" },
+            { name: "Kimia Farma Sukabumi", category: "Health", rating: 4.5, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kimia+Farma+Sukabumi" },
+            { name: "Laboratorium Klinik Vita Medika", category: "Health", rating: 4.6, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Laboratorium+Klinik+Vita+Medika+Sukabumi" },
+            { name: "Primaya Hospital Sukabumi", category: "Health", rating: 4.7, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Primaya+Hospital+Sukabumi" },
+            { name: "Klinik Pratama Jasalab", category: "Health", rating: 4.7, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Pratama+Jasalab+Sukabumi" },
+            { name: "praktik dokter keluarga dr kamal & dr dini", category: "Health", rating: 4.8, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=praktik+dokter+keluarga+dr+kamal+%26+dr+dini+Sukabumi" },
+            { name: "Prodia Sukabumi", category: "Health", rating: 4.8, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Prodia+Sukabumi" },
+            { name: "Apotek Mitra Husada", category: "Health", rating: 4.9, reviews: 380, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Mitra+Husada+Sukabumi" },
+            { name: "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI", category: "Health", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KLINIK+PRATAMA+WALUYA+SEJATI+ABADI+SUKABUMI" },
+            { name: "Klinik Holistic Natural Insani Sukabumi", category: "Health", rating: 4.9, reviews: 290, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Holistic+Natural+Insani+Sukabumi" },
+            { name: "Bening's Clinic Sukabumi", category: "Health", rating: 4.9, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bening's+Clinic+Sukabumi" },
+            { name: "Apotek Ciaul Sukabumi", category: "Health", rating: 4.9, reviews: 265, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Ciaul+Sukabumi" },
+            { name: "Klinik Obat Dokter Amelia Di Sukabumi", category: "Health", rating: 5.0, reviews: 48, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Obat+Dokter+Amelia+Di+Sukabumi" },
+            { name: "KHITAN SUKABUMI CIPOHO MEDIKA", category: "Health", rating: 5.0, reviews: 115, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=KHITAN+SUKABUMI+CIPOHO+MEDIKA" },
+            { name: "APOTEK LARAS SUKABUMI", category: "Health", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=APOTEK+LARAS+SUKABUMI" },
+            { name: "Apotek Cikole Sukabumi", category: "Health", rating: 5.0, reviews: 76, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Cikole+Sukabumi" },
+
+            // Services (Jasa)
+            { name: "Ardin Teknik Sukabumi", category: "Services", rating: 4.6, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ardin+Teknik+Sukabumi" },
+            { name: "Lavandera Laundry", category: "Services", rating: 4.7, reviews: 345, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Lavandera+Laundry+Sukabumi" },
+            { name: "Lumire Laundry Sukabumi", category: "Services", rating: 4.9, reviews: 220, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Lumire+Laundry+Sukabumi" },
+            { name: "SERVICE AC SUKABUMI SIGMA TECHNIQUE", category: "Services", rating: 4.9, reviews: 285, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+SIGMA+TECHNIQUE" },
+            { name: "Buana Jaya Mandiri Ac 1", category: "Services", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Buana+Jaya+Mandiri+Ac+1+Sukabumi" },
+            { name: "SERVICE KULKAS SUKABUMI", category: "Services", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+KULKAS+SUKABUMI" },
+            { name: "Service mesin cuci Sukabumi", category: "Services", rating: 4.9, reviews: 240, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Service+mesin+cuci+Sukabumi" },
+            { name: "Amani Laundry Terdekat Sukabumi", category: "Services", rating: 5.0, reviews: 188, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Amani+Laundry+Terdekat+Sukabumi" },
+            { name: "Sukabumi Laundry Cabang Cisaat", category: "Services", rating: 5.0, reviews: 95, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Laundry+Cabang+Cisaat" },
+            { name: "AA LAUNDRY Sukabumi", category: "Services", rating: 5.0, reviews: 62, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=AA+LAUNDRY+Sukabumi" },
+            { name: "MEGA CEMERLANG SUKABUMI", category: "Services", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=MEGA+CEMERLANG+SUKABUMI" },
+            { name: "Bersih.in WearCare Sukabumi", category: "Services", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bersih.in+WearCare+Sukabumi" },
+            { name: "ADAVA LAUNDRY Sukabumi", category: "Services", rating: 5.0, reviews: 38, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=ADAVA+LAUNDRY+Sukabumi" },
+            { name: "SERVICE AC SUKABUMI Alteknik", category: "Services", rating: 5.0, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+Alteknik" },
+            { name: "Utama teknik Sukabumi", category: "Services", rating: 5.0, reviews: 120, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Utama+teknik+Sukabumi" },
+            { name: "BIAN SUMUR BOR SUKABUMI", category: "Services", rating: 5.0, reviews: 75, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=BIAN+SUMUR+BOR+SUKABUMI" },
+            { name: "Sumur Bor Sukabumi Pak Darmi", category: "Services", rating: 5.0, reviews: 30, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sumur+Bor+Sukabumi+Pak+Darmi" },
+            { name: "Servis elektronik sukabumi", category: "Services", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Servis+elektronik+sukabumi" },
+            { name: "VANSERVIS Sukabumi", category: "Services", rating: 5.0, reviews: 54, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=VANSERVIS+Sukabumi" },
+            { name: "LJL SERVICE Sukabumi", category: "Services", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=LJL+SERVICE+Sukabumi" },
+
+            // Education
+            { name: "Cambridge Institute Sukabumi", category: "Education", rating: 4.4, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cambridge+Institute+Sukabumi" },
+            { name: "Little Angels Learning Center Sukabumi", category: "Education", rating: 4.8, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Little+Angels+Learning+Center+Sukabumi" },
+            { name: "Tunas Permata Bangsa Sukabumi", category: "Education", rating: 4.9, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tunas+Permata+Bangsa+Sukabumi" },
+            { name: "Bimbel ILC Sukabumi", category: "Education", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bimbel+ILC+Sukabumi" },
+            { name: "LPK GPB Sukabumi", category: "Education", rating: 4.9, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=LPK+GPB+Sukabumi" },
+            { name: "Brain Academy Ruangguru Sukabumi", category: "Education", rating: 5.0, reviews: 195, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Brain+Academy+Ruangguru+Sukabumi" },
+            { name: "Math Champs Sukabumi", category: "Education", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Math+Champs+Sukabumi" },
+            { name: "Ganesha Operation Ra Kosasih Sukabumi", category: "Education", rating: 5.0, reviews: 140, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Ra+Kosasih+Sukabumi" },
+            { name: "Ganesha Operation Syamsudin Sukabumi", category: "Education", rating: 5.0, reviews: 165, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Syamsudin+Sukabumi" },
+            { name: "LBB Nurul Fikri RA Kosasih Sukabumi", category: "Education", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=LBB+Nurul+Fikri+RA+Kosasih+Sukabumi" },
+            { name: "Bumi Kreatif Institute Sukabumi", category: "Education", rating: 5.0, reviews: 75, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bumi+Kreatif+Institute+Sukabumi" },
+            { name: "TPA KB TK Daruttaqwa Foundation Sukabumi", category: "Education", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=TPA+KB+TK+Daruttaqwa+Foundation+Sukabumi" },
+            { name: "bimba genio cibeureum Sukabumi", category: "Education", rating: 5.0, reviews: 58, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=bimba+genio+cibeureum+Sukabumi" },
+            { name: "PlayWay Day Sukabumi", category: "Education", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PlayWay+Day+Sukabumi" },
+            { name: "TKQ Gemilang Sukabumi", category: "Education", rating: 5.0, reviews: 28, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=TKQ+Gemilang+Sukabumi" },
+
+            // Retail
+            { name: "Berdikari Expo Sukabumi", category: "Retail", rating: 4.4, reviews: 850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Berdikari+Expo+Sukabumi" },
+            { name: "TB. Sumber Milik Sukabumi", category: "Retail", rating: 4.5, reviews: 640, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=TB.+Sumber+Milik+Sukabumi" },
+            { name: "Mochi Kaswari Lampion Sukabumi", category: "Retail", rating: 4.6, reviews: 3120, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Mochi+Kaswari+Lampion+Sukabumi" },
+            { name: "Pusat Jajanan Khas Sukabumi", category: "Retail", rating: 4.6, reviews: 1850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pusat+Jajanan+Khas+Sukabumi" },
+            { name: "Toko Bangunan Baros Jaya Sukabumi", category: "Retail", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Toko+Bangunan+Baros+Jaya+Sukabumi" },
+            { name: "Bika Ambon Sunda Rasa Sukabumi", category: "Retail", rating: 4.7, reviews: 920, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bika+Ambon+Sunda+Rasa+Sukabumi" },
+            { name: "Kelana Oleh-oleh Sukabumi", category: "Retail", rating: 4.7, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kelana+Oleh-oleh+Sukabumi" },
+            { name: "Zahra Pet Shop & Grooming Sukabumi", category: "Retail", rating: 4.7, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Zahra+Pet+Shop+%26+Grooming+Sukabumi" },
+            { name: "RG Petshop & GROOMING Sukabumi", category: "Retail", rating: 4.7, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=RG+Petshop+%26+GROOMING+Sukabumi" },
+            { name: "Kamo Petshop Sukabumi", category: "Retail", rating: 4.7, reviews: 425, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kamo+Petshop+Sukabumi" },
+            { name: "SUKABUMI HOME CENTER", category: "Retail", rating: 4.7, reviews: 1150, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SUKABUMI+HOME+CENTER" },
+            { name: "Jansen Petshop Sukabumi", category: "Retail", rating: 4.8, reviews: 390, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Jansen+Petshop+Sukabumi" },
+            { name: "RKM Sukabumi", category: "Retail", rating: 4.9, reviews: 510, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=RKM+Sukabumi" },
+            { name: "Rumah Puding Premium Sukabumi", category: "Retail", rating: 4.9, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Rumah+Puding+Premium+Sukabumi" },
+            { name: "Nori's Florist Sukabumi", category: "Retail", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Nori's+Florist+Sukabumi" },
+            { name: "Sukabumi Ratu Florist", category: "Retail", rating: 5.0, reviews: 65, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Ratu+Florist" },
+            { name: "Florist Sukabumi", category: "Retail", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Florist+Sukabumi" },
+            { name: "Keler Bouquet Sukabumi", category: "Retail", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Keler+Bouquet+Sukabumi" },
+            { name: "Incrediblemoment florist sukabumi", category: "Retail", rating: 5.0, reviews: 94, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Incrediblemoment+florist+sukabumi" },
+            { name: "Millan Petshop Sukabumi", category: "Retail", rating: 5.0, reviews: 130, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Millan+Petshop+Sukabumi" },
+
+            // Event
+            { name: "HAI STUDIOS Sukabumi", category: "Event", rating: 4.5, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=HAI+STUDIOS+Sukabumi" },
+            { name: "Disini Aja Studio Sukabumi", category: "Event", rating: 4.5, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Disini+Aja+Studio+Sukabumi" },
+            { name: "IMAJI FOTO STUDIO SUKABUMI", category: "Event", rating: 4.6, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=IMAJI+FOTO+STUDIO+SUKABUMI" },
+            { name: "Azkana Wedding Dekorasi Sukabumi", category: "Event", rating: 4.7, reviews: 265, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Azkana+Wedding+Dekorasi+Sukabumi" },
+            { name: "GMS Tour and Travel Sukabumi", category: "Event", rating: 4.8, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=GMS+Tour+and+Travel+Sukabumi" },
+            { name: "Wedding Planner Sukabumi", category: "Event", rating: 4.9, reviews: 295, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Wedding+Planner+Sukabumi" },
+            { name: "JAKA WEDDING ORGANIZER Sukabumi", category: "Event", rating: 4.9, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=JAKA+WEDDING+ORGANIZER+Sukabumi" },
+            { name: "Licht Studio Sukabumi", category: "Event", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Licht+Studio+Sukabumi" },
+            { name: "Khei Wedding Organizer Sukabumi", category: "Event", rating: 5.0, reviews: 185, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Khei+Wedding+Organizer+Sukabumi" },
+            { name: "Affay Project Sukabumi", category: "Event", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Affay+Project+Sukabumi" },
+            { name: "Gosimplywedding Office 1 Sukabumi", category: "Event", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Gosimplywedding+Office+1+Sukabumi" },
+            { name: "Reality Event Organizer Sukabumi", category: "Event", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Reality+Event+Organizer+Sukabumi" },
+            { name: "PRIMA WO Sukabumi", category: "Event", rating: 5.0, reviews: 67, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PRIMA+WO+Sukabumi" },
+            { name: "Lensa Entertainment Sukabumi", category: "Event", rating: 5.0, reviews: 92, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Lensa+Entertainment+Sukabumi" },
+            { name: "Yunas Studio Sukabumi", category: "Event", rating: 5.0, reviews: 140, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Yunas+Studio+Sukabumi" },
+            { name: "Moophoto Photobooth Studio Baros Sukabumi", category: "Event", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Moophoto+Photobooth+Studio+Baros+Sukabumi" },
+            { name: "Fauna photography Sukabumi", category: "Event", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Fauna+photography+Sukabumi" },
+            { name: "Lawa Creative Studio Sukabumi", category: "Event", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Lawa+Creative+Studio+Sukabumi" },
+
+            // Tourism
+            { name: "Milkyverse Ramayana Sukabumi", category: "Tourism", rating: 4.0, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Milkyverse+Ramayana+Sukabumi" },
+            { name: "Dinopark Sukabumi", category: "Tourism", rating: 4.1, reviews: 845, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dinopark+Sukabumi" },
+            { name: "SantaSea Water Theme Park Sukabumi", category: "Tourism", rating: 4.2, reviews: 4100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SantaSea+Water+Theme+Park+Sukabumi" },
+            { name: "Story Land Sukabumi", category: "Tourism", rating: 4.4, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Story+Land+Sukabumi" },
+            { name: "Sport Garden Sukabumi", category: "Tourism", rating: 4.4, reviews: 980, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Sport+Garden+Sukabumi" },
+            { name: "Ryzzy Azzahra Waterpark Sukabumi", category: "Tourism", rating: 4.4, reviews: 3420, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ryzzy+Azzahra+Waterpark+Sukabumi" },
+            { name: "Kolam Renang Pilar Mas Sukabumi", category: "Tourism", rating: 4.5, reviews: 1150, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kolam+Renang+Pilar+Mas+Sukabumi" },
+            { name: "CAMPING GROUND BATUTAPAK Sukabumi", category: "Tourism", rating: 4.5, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+BATUTAPAK+Sukabumi" },
+            { name: "De' Tani Waterpark Sukabumi", category: "Tourism", rating: 4.6, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=De'+Tani+Waterpark+Sukabumi" },
+            { name: "Happy House Playground&cafe Sukabumi", category: "Tourism", rating: 4.6, reviews: 640, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Happy+House+Playground%26cafe+Sukabumi" },
+            { name: "Kids story cibadak", category: "Tourism", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kids+story+cibadak" },
+            { name: "Cidahu Camping Ground", category: "Tourism", rating: 4.6, reviews: 1850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground" },
+            { name: "CAMPING GROUND SITUGUNUNG", category: "Tourism", rating: 4.6, reviews: 1220, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+SITUGUNUNG" },
+            { name: "Tanakita 5 Star Camp Sukabumi", category: "Tourism", rating: 4.7, reviews: 2340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tanakita+5+Star+Camp+Sukabumi" },
+            { name: "Cidahu Camping Ground Lembah Damar", category: "Tourism", rating: 4.7, reviews: 950, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground+Lembah+Damar" }
+        ];
+
+        // Specific Zona Keyword Rules
+        const zones = [
+            { name: "Zona 1 (Baros/Jalur)", keywords: ["Baros", "Cipanengah", "JALUR", "Pelabuhan", "Nyomplong", "Degung", "Citamiang", "Cipendawa"] },
+            { name: "Zona 2 (Cisaat/Cibadak)", keywords: ["Cisaat", "Cibadak", "Kids story", "Nagrak", "Caringin", "Kadudampit"] },
+            { name: "Zona 3 (Pusat Selatan)", keywords: ["Sudirman", "Bhayangkara", "Secret Garden", "Horison", "Bountie", "Kaswari", "Benteng", "Gudang", "Odeon", "Pusat Jajanan"] },
+            { name: "Zona 4 (Jantung Kota)", keywords: ["Ciaul", "Martadinata", "Ahmad Yani", "Nako", "Yume", "Skincare", "Like Earth", "D'Green", "Butler", "Red Brick", "Kimia Farma", "Apotek Ciaul", "Cikole"] },
+            { name: "Zona 5 (Timur/Utara)", keywords: ["Kosasih", "Cibeureum", "Selabintana", "Taman Sari", "Ryzzy", "Subang Jaya", "Sukalarang", "Sukaraja"] },
+            { name: "Zona 6 (Ekspedisi Wisata)", keywords: ["Cidahu", "SITUGUNUNG", "Tanakita", "SantaSea", "Batutapak", "Dinopark", "Milkyverse", "De' Tani", "Pilar Mas"] }
+        ];
+
+        // Pipeline Status Configurations (Sunday Club & Closer's Blueprint)
+        const STATUS_CONFIG = {
+            UNVISITED: { label: "Belum Dikunjungi", shortLabel: "Belum", icon: "⚪", colorClass: "text-[#d6e7dc] bg-[#0d331e] border-[#1d4d31]", badgeClass: "bg-[#0d331e] text-[#d6e7dc] border-[#1d4d31]" },
+            PITCHED: { label: "Pitched / Demo Tap", shortLabel: "Pitched", icon: "🔵", colorClass: "text-[#5eead4] bg-[#0c3835] border-[#14b8a6]/40", badgeClass: "bg-[#0c3835] text-[#5eead4] border-[#14b8a6]/40" },
+            FOLLOW_UP: { label: "Follow-Up / Pikir-Pikir", shortLabel: "Follow-Up", icon: "🟡", colorClass: "text-[#fef08a] bg-[#382a0b] border-[#eab308]/50", badgeClass: "bg-[#382a0b] text-[#fef08a] border-[#eab308]/50" },
+            CLOSED_WON: { label: "Closing / Deal Won", shortLabel: "Deal Won", icon: "🟢", colorClass: "text-[#0a331c] bg-[#f4ede2] font-black border-[#f4ede2]", badgeClass: "bg-[#f4ede2] text-[#0a331c] font-black border-[#f4ede2]" },
+            REJECTED: { label: "Ditolak / Skip", shortLabel: "Ditolak", icon: "🔴", colorClass: "text-[#fecaca] bg-[#3a1117] border-[#f43f5e]/40", badgeClass: "bg-[#3a1117] text-[#fecaca] border-[#f43f5e]/40" }
+        };
+
+        // Objections Master Guide (NeuralKats & The Closer's Blueprint)
+        const OBJECTIONS_DATA = [
+            {
+                title: "Owner lagi keluar / gak ada di tempat",
+                context: "Biasanya dijawab oleh kasir atau karyawan penjaga outlet.",
+                script: "Wah pas banget Kak! Justru saya mampir dari NeuralKats buat bantu kerjaan kasir/admin biar makin enteng. Boleh saya titip kartu sampel atau minta nomor WhatsApp owner? Nanti saya kirimkan video 30 detik demonya biar owner tahu inovasi kartu pintar NFC+QR & website ini buat naikin omset toko."
+            },
+            {
+                title: "Toko / Resto kita udah rame, gak butuh review",
+                context: "Pemilik toko merasa sudah cukup ramai dan tidak perlu marketing lagi.",
+                script: "Mantap banget kalau udah ramai Kak! Tapi di Google Maps, kompetitor baru tiap bulan selalu muncul dan agresif cari review. Kartu ini bukan cuma buat toko sepi, tapi buat 'mengunci dominasi' ranking 1 permanen di Sukabumi. Apalagi harganya cuma Rp 50.000 sekali bayar seumur hidup."
+            },
+            {
+                title: "Takut customer iseng ngasih rating jelek / bintang 1",
+                context: "Owner khawatir membuka pintu untuk komplain negatif di publik.",
+                script: "Justru itu strategi rahasianya Kak! Kartu NFC+QR ini disodorkan pas customer lagi senyum atau puas. Kalau 1 komplain bintang 1 ditutup sama 20 review bintang 5 baru dalam seminggu, rating toko malah naik drastis dan review jelek langsung tenggelam ke bawah."
+            },
+            {
+                title: "Mahal / Gak ada anggaran dana sekarang",
+                context: "Bantahan harga atau prioritas pengeluaran.",
+                script: "Di NeuralKats kartu pintar NFC+QR ini cuma Rp 50.000 sekali bayar selamanya Kak, tanpa iuran bulanan. Kalau Kakak butuh website profesional juga ada bundle hemat 100rb/bulan atau 300rb sekali bayar. ROI-nya langsung balik hanya dari 1 customer baru yang mampir lewat Maps."
+            }
+        ];
+
+        // Local Storage Keys
+        const STORAGE_KEY_STATUS = 'canvassing_lead_status_v2';
+        const STORAGE_KEY_NOTES = 'canvassing_lead_notes_v2';
+        const STORAGE_KEY_WA = 'canvassing_lead_wa_v2';
+
+        function loadSavedStatuses() {
+            try { return JSON.parse(localStorage.getItem(STORAGE_KEY_STATUS)) || {}; } catch (e) { return {}; }
+        }
+
+        function loadSavedNotes() {
+            try { return JSON.parse(localStorage.getItem(STORAGE_KEY_NOTES)) || {}; } catch (e) { return {}; }
+        }
+
+        function loadSavedWa() {
+            try { return JSON.parse(localStorage.getItem(STORAGE_KEY_WA)) || {}; } catch (e) { return {}; }
+        }
+
+        const savedStatusMap = loadSavedStatuses();
+        const savedNotesMap = loadSavedNotes();
+        const savedWaMap = loadSavedWa();
+
+        // Process master data with intelligent zone mapping & saved state
+        const leadsData = umkmData.map((lead, index) => {
+            let assignedZone = "Zona 1 (Baros/Jalur)";
+            for (const z of zones) {
+                if (z.keywords.some(kw => lead.name.toLowerCase().includes(kw.toLowerCase()))) {
+                    assignedZone = z.name;
+                    break;
+                }
+            }
+
+            const id = index + 1;
+            return {
+                id: id,
+                ...lead,
+                zone: assignedZone,
+                mapsUrl: lead.link,
+                status: savedStatusMap[id] || "UNVISITED",
+                notes: savedNotesMap[id] || "",
+                wa: savedWaMap[id] || ""
+            };
+        });
+
+        // DOM References
+        const leadsContainer = document.getElementById('leadsContainer');
+        const searchInput = document.getElementById('searchInput');
+        const clearSearchBtn = document.getElementById('clearSearchBtn');
+        const statusFilter = document.getElementById('statusFilter');
+        const zoneFilter = document.getElementById('zoneFilter');
+        const strategyFilter = document.getElementById('strategyFilter');
+        const categoryFilter = document.getElementById('categoryFilter');
+        const dataCount = document.getElementById('dataCount');
+        const pitchBox = document.getElementById('pitchBox');
+        const activeLeadBadge = document.getElementById('activeLeadBadge');
+        
+        // Counter DOM References
+        const unvisitedCount = document.getElementById('unvisitedCount');
+        const pitchedCount = document.getElementById('pitchedCount');
+        const followUpCount = document.getElementById('followUpCount');
+        const closedWonCount = document.getElementById('closedWonCount');
+        const rejectedCount = document.getElementById('rejectedCount');
+
+        // Toast
+        const toast = document.getElementById('toast');
+        const toastMsg = document.getElementById('toastMsg');
+
+        // Export Menu
+        const exportMenu = document.getElementById('exportMenu');
+
+        // Desktop Tabs & Controls
+        const desktopTabPitch = document.getElementById('desktopTabPitch');
+        const desktopTabObjection = document.getElementById('desktopTabObjection');
+        const desktopPitchContainer = document.getElementById('desktopPitchContainer');
+        const desktopObjectionContainer = document.getElementById('desktopObjectionContainer');
+        const desktopLeadControls = document.getElementById('desktopLeadControls');
+        const desktopStatusBtnGroup = document.getElementById('desktopStatusBtnGroup');
+        const desktopWaInput = document.getElementById('desktopWaInput');
+        const desktopWaSaveIndicator = document.getElementById('desktopWaSaveIndicator');
+        const desktopNotesInput = document.getElementById('desktopNotesInput');
+        const desktopNoteSaveIndicator = document.getElementById('desktopNoteSaveIndicator');
+
+        // Mobile Modal References
+        const mobileModal = document.getElementById('mobileModal');
+        const modalLeadTitle = document.getElementById('modalLeadTitle');
+        const modalLeadMeta = document.getElementById('modalLeadMeta');
+        const modalPitchBody = document.getElementById('modalPitchBody');
+        const modalObjectionBody = document.getElementById('modalObjectionBody');
+        const mobileTabPitch = document.getElementById('mobileTabPitch');
+        const mobileTabObjection = document.getElementById('mobileTabObjection');
+        const mobileStatusBtnGroup = document.getElementById('mobileStatusBtnGroup');
+        const mobileWaInput = document.getElementById('mobileWaInput');
+        const mobileWaSaveIndicator = document.getElementById('mobileWaSaveIndicator');
+        const mobileNotesInput = document.getElementById('mobileNotesInput');
+        const mobileNoteSaveIndicator = document.getElementById('mobileNoteSaveIndicator');
+        const modalMapsBtn = document.getElementById('modalMapsBtn');
+        const modalCopyBtn = document.getElementById('modalCopyBtn');
+
+        // Invoice Modal References
+        const invoiceModal = document.getElementById('invoiceModal');
+        const invClientName = document.getElementById('invClientName');
+        const invClientWa = document.getElementById('invClientWa');
+        const invQty = document.getElementById('invQty');
+        const invUnitPrice = document.getElementById('invUnitPrice');
+        const invPaymentStatus = document.getElementById('invPaymentStatus');
+        const invTotalFormatted = document.getElementById('invTotalFormatted');
+        const invPaymentNote = document.getElementById('invPaymentNote');
+        const invCustomDesc = document.getElementById('invCustomDesc');
+
+        let currentActiveLead = null;
+        let currentPitchPlainText = "";
+        let notesDebounceTimer = null;
+        let waDebounceTimer = null;
+        let currentInvoiceLead = null;
+
+        // NeuralKats Product Packages Configuration
+        const PACKAGES_CONFIG = {
+            card_50k: { name: "Google Review Card (NFC + QR Code)", price: 50000, desc: "Kartu fisik pintar NFC Tap & Scan QR Code Google Review" },
+            bundle_100k: { name: "Paket Bundle Langganan Website + Bonus Review Card", price: 100000, desc: "Website UMKM + Bonus 1x Review Card + Maintenance bulanan" },
+            bundle_300k: { name: "Paket Bundle One-Time Website + Review Card", price: 300000, desc: "Website UMKM + 1x Review Card (Sekali bayar tanpa maintenance)" },
+            custom: { name: "Layanan Kustom / Custom Item", price: 0, desc: "Layanan teknologi / custom project NeuralKats" }
+        };
+
+        // WhatsApp Utility Helpers (NeuralKats Persona)
+        function cleanWaNumber(phone) {
+            if (!phone) return "";
+            let cleaned = phone.replace(/[^0-9]/g, '');
+            if (cleaned.startsWith('0')) {
+                cleaned = '62' + cleaned.slice(1);
+            } else if (cleaned.startsWith('8')) {
+                cleaned = '62' + cleaned;
+            }
+            return cleaned;
+        }
+
+        function getWaGreeting(lead) {
+            return `Halo Kak, salam dari NeuralKats Sukabumi. Tadi saya sempat mampir/silaturahmi ke *${lead.name}*. Boleh izin follow-up singkat terkait kartu Google Review (NFC + QR) untuk ${lead.name} Kak? Terima kasih banyak.`;
+        }
+
+        function getWaUrl(lead) {
+            const num = cleanWaNumber(lead.wa);
+            if (!num) return '#';
+            return `https://wa.me/${num}?text=${encodeURIComponent(getWaGreeting(lead))}`;
+        }
+
+        function openWaChat(lead) {
+            if (!lead) return;
+            const cleanNum = cleanWaNumber(lead.wa);
+            if (!cleanNum || cleanNum.length < 9) {
+                showToast("⚠️ Masukkan no WhatsApp owner yang valid dulu");
+                if (desktopWaInput && !desktopWaInput.parentElement.parentElement.classList.contains('hidden')) {
+                    desktopWaInput.focus();
+                } else if (mobileWaInput) {
+                    mobileWaInput.focus();
+                }
+                return;
+            }
+            window.open(getWaUrl(lead), '_blank');
+        }
+
+        function saveLeadWa(text) {
+            if (!currentActiveLead) return;
+            const leadId = currentActiveLead.id;
+            currentActiveLead.wa = text.trim();
+            savedWaMap[leadId] = text.trim();
+
+            if (desktopWaSaveIndicator) desktopWaSaveIndicator.textContent = "Menyimpan...";
+            if (mobileWaSaveIndicator) mobileWaSaveIndicator.textContent = "Menyimpan...";
+
+            clearTimeout(waDebounceTimer);
+            waDebounceTimer = setTimeout(() => {
+                localStorage.setItem(STORAGE_KEY_WA, JSON.stringify(savedWaMap));
+                if (desktopWaSaveIndicator) desktopWaSaveIndicator.textContent = "Tersimpan ✓";
+                if (mobileWaSaveIndicator) mobileWaSaveIndicator.textContent = "Tersimpan ✓";
+                filterData(false);
+            }, 400);
+        }
+
+        // Update Pipeline Metrics
+        function updateStats() {
+            let counts = { UNVISITED: 0, PITCHED: 0, FOLLOW_UP: 0, CLOSED_WON: 0, REJECTED: 0 };
+            leadsData.forEach(lead => {
+                const st = lead.status || 'UNVISITED';
+                if (counts[st] !== undefined) counts[st]++;
+            });
+
+            unvisitedCount.textContent = counts.UNVISITED;
+            pitchedCount.textContent = counts.PITCHED;
+            followUpCount.textContent = counts.FOLLOW_UP;
+            closedWonCount.textContent = counts.CLOSED_WON;
+            rejectedCount.textContent = counts.REJECTED;
+        }
+
+        // Render Objection Handling HTML (Sunday Club Theme)
+        function renderObjectionHTML() {
+            return OBJECTIONS_DATA.map((obj, i) => `
+                <div class="bg-[#061e11] border border-[#1c4d2e] p-3.5 rounded-2xl">
+                    <div class="flex items-center justify-between gap-2 mb-1.5">
+                        <span class="font-bold text-[#e8deb8] text-xs flex items-center gap-1.5 font-retro-serif">
+                            <span class="w-4 h-4 rounded-full bg-[#f4ede2] text-[#0a331c] flex items-center justify-center text-[10px] font-black">${i+1}</span>
+                            "${obj.title}"
+                        </span>
+                        <button onclick="copyObjection(${i})" class="text-[10px] text-[#f4ede2] bg-[#134e2c] hover:bg-[#1b6438] px-2.5 py-1 rounded-xl border border-[#2b7246] shrink-0 font-bold transition-all">
+                            Copy
+                        </button>
+                    </div>
+                    <p class="text-[10px] text-[#8cb89d] mb-2">${obj.context}</p>
+                    <p class="text-xs text-[#f4ede2] bg-[#092615] p-2.5 rounded-xl border border-[#184c2a] leading-relaxed italic">
+                        "${obj.script}"
+                    </p>
+                </div>
+            `).join('');
+        }
+
+        function copyObjection(index) {
+            if (OBJECTIONS_DATA[index]) {
+                copyTextDirect(OBJECTIONS_DATA[index].script, "Respon Keberatan Tersalin! ✓");
+            }
+        }
+
+        // Render Status Button Group (Used in Desktop and Mobile)
+        function renderStatusButtons(leadId, currentStatus, targetElementId) {
+            const container = document.getElementById(targetElementId);
+            if (!container) return;
+
+            const statuses = ['UNVISITED', 'PITCHED', 'FOLLOW_UP', 'CLOSED_WON', 'REJECTED'];
+            container.innerHTML = statuses.map(st => {
+                const conf = STATUS_CONFIG[st];
+                const isActive = currentStatus === st;
+                return `
+                    <button onclick="setLeadStatus(${leadId}, '${st}')" class="py-2 px-2 rounded-xl border text-center font-bold text-xs transition-all ${isActive ? conf.colorClass + ' ring-2 ring-[#f4ede2]/50 shadow-md scale-[1.02]' : 'bg-[#061e11] border-[#1c4d2e] text-[#8cb89d] hover:text-[#f4ede2]'}">
+                        ${conf.icon} ${conf.shortLabel}
+                    </button>
+                `;
+            }).join('');
+        }
+
+        // Set & Save Lead Status
+        function setLeadStatus(leadId, newStatus) {
+            const lead = leadsData.find(l => l.id === leadId);
+            if (!lead) return;
+
+            lead.status = newStatus;
+            savedStatusMap[leadId] = newStatus;
+            localStorage.setItem(STORAGE_KEY_STATUS, JSON.stringify(savedStatusMap));
+
+            updateStats();
+            filterData(false);
+
+            renderStatusButtons(leadId, newStatus, 'desktopStatusBtnGroup');
+            renderStatusButtons(leadId, newStatus, 'mobileStatusBtnGroup');
+
+            showToast(`Status diubah: ${STATUS_CONFIG[newStatus].label} ${STATUS_CONFIG[newStatus].icon}`);
+
+            // Automatically open invoice modal when closing / deal won
+            if (newStatus === 'CLOSED_WON') {
+                setTimeout(() => {
+                    openInvoiceModal(lead);
+                }, 350);
+            }
+        }
+
+        // Save Notes with LocalStorage Auto-save
+        function saveLeadNotes(text) {
+            if (!currentActiveLead) return;
+            const leadId = currentActiveLead.id;
+            currentActiveLead.notes = text;
+            savedNotesMap[leadId] = text;
+
+            if (desktopNoteSaveIndicator) desktopNoteSaveIndicator.textContent = "Menyimpan...";
+            if (mobileNoteSaveIndicator) mobileNoteSaveIndicator.textContent = "Menyimpan...";
+
+            clearTimeout(notesDebounceTimer);
+            notesDebounceTimer = setTimeout(() => {
+                localStorage.setItem(STORAGE_KEY_NOTES, JSON.stringify(savedNotesMap));
+                if (desktopNoteSaveIndicator) desktopNoteSaveIndicator.textContent = "Tersimpan ✓";
+                if (mobileNoteSaveIndicator) mobileNoteSaveIndicator.textContent = "Tersimpan ✓";
+                filterData(false);
+            }, 400);
+        }
+
+        // Render List of Leads (Sunday Club Theme)
+        function renderLeads(data) {
+            leadsContainer.innerHTML = '';
+            
+            if (data.length === 0) {
+                leadsContainer.innerHTML = `
+                    <div class="text-center py-12 px-4 text-[#8cb89d] border border-dashed border-[#1c4d2e] rounded-3xl">
+                        <svg class="svg-icon w-8 h-8 mx-auto text-[#a8ccb6] mb-2" viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+                        <p class="font-bold text-sm text-[#fbf7ee] font-retro-serif">Tidak ada target yang cocok</p>
+                        <p class="text-xs text-[#8cb89d] mt-1">Coba sesuaikan kata kunci pencarian atau filter status/zona.</p>
+                        <button onclick="resetFilters()" class="mt-3 px-3 py-1.5 bg-[#f4ede2] text-[#0a331c] text-xs rounded-xl font-bold transition-all shadow-md">Reset Semua Filter</button>
+                    </div>
+                `;
+                dataCount.textContent = `0 Target`;
+                return;
+            }
+
+            dataCount.textContent = `${data.length} Target`;
+
+            data.forEach(lead => {
+                const isHighRatingLowVol = lead.strategy === 'HIGH_LOW_REV';
+                const strategyTag = isHighRatingLowVol 
+                    ? '<span class="text-[#fef08a] bg-[#382a0b] border border-[#ca8a04]/40 px-2 py-0.5 rounded-full text-[10px] font-bold whitespace-nowrap">Push Vol</span>'
+                    : '<span class="text-[#a7f3d0] bg-[#0c3822] border border-[#34d399]/30 px-2 py-0.5 rounded-full text-[10px] font-bold whitespace-nowrap">Push Rate</span>';
+
+                const statusConf = STATUS_CONFIG[lead.status] || STATUS_CONFIG.UNVISITED;
+                const isSelected = currentActiveLead && currentActiveLead.id === lead.id;
+
+                const card = document.createElement('div');
+                card.className = `lead-card bg-[#092615] border ${isSelected ? 'border-[#f4ede2] ring-2 ring-[#f4ede2]/40 bg-[#124427] shadow-xl' : 'border-[#f4ede2]/12 hover:border-[#f4ede2]/35 hover:bg-[#0d361f]'} p-3.5 sm:p-4 rounded-2xl transition-all cursor-pointer flex flex-col sm:flex-row sm:items-center justify-between gap-3 group`;
+                card.id = `lead-card-${lead.id}`;
+                card.onclick = () => selectLead(lead);
+
+                const waBadge = lead.wa ? `<span class="text-[10px] px-2 py-0.5 rounded-full border border-[#f4ede2]/20 bg-[#0d3820] text-[#a7f3d0] font-mono flex items-center gap-1">📱 ${lead.wa}</span>` : '';
+                const notesPreview = lead.notes ? `<p class="text-[11px] text-[#e8deb8] italic mt-1 line-clamp-1">📝 "${lead.notes}"</p>` : '';
+
+                const waBtn = lead.wa ? `
+                    <a href="${getWaUrl(lead)}" target="_blank" onclick="event.stopPropagation()" title="Chat WhatsApp Owner" class="p-2.5 bg-[#13492a] hover:bg-[#1b5f37] text-[#f4ede2] rounded-xl transition-all border border-[#2d7749] flex items-center justify-center">
+                        <svg class="svg-icon w-4 h-4 text-[#5eead4]" viewBox="0 0 24 24"><path d="M21 11.5a8.38 8.38 0 0 1-.9 3.8 8.5 8.5 0 0 1-7.6 4.7 8.38 8.38 0 0 1-3.8-.9L3 21l1.9-5.7a8.38 8.38 0 0 1-.9-3.8 8.5 8.5 0 0 1 4.7-7.6 8.38 8.38 0 0 1 3.8-.9h.5a8.48 8.48 0 0 1 8 8v.5z"></path></svg>
+                    </a>
+                ` : '';
+
+                card.innerHTML = `
+                    <div class="flex-1 min-w-0">
+                        <div class="flex items-center gap-2 mb-1.5 flex-wrap">
+                            <h3 class="font-extrabold text-sm sm:text-base font-retro-serif text-[#fbf7ee] group-hover:text-[#e8deb8] transition-colors truncate max-w-[260px] sm:max-w-md">${lead.name}</h3>
+                            <span class="text-[10px] px-2 py-0.5 rounded-full border font-bold ${statusConf.badgeClass}">
+                                ${statusConf.icon} ${statusConf.shortLabel}
+                            </span>
+                            ${waBadge}
+                            ${strategyTag}
+                            <span class="text-[#a8ccb6] bg-[#072414] border border-[#f4ede2]/15 px-2 py-0.5 rounded-full text-[10px] font-semibold">${lead.category}</span>
+                        </div>
+                        <div class="text-[11px] sm:text-xs text-[#8cb89d] flex items-center gap-3 sm:gap-4 flex-wrap">
+                            <span class="flex items-center gap-1 text-[#a8ccb6]">
+                                <svg class="svg-icon w-3 h-3 text-[#e8deb8] shrink-0" viewBox="0 0 24 24"><path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path><circle cx="12" cy="10" r="3"></circle></svg>
+                                <span class="truncate">${lead.zone}</span>
+                            </span>
+                            <span class="flex items-center gap-1 shrink-0">
+                                <svg class="svg-icon w-3 h-3 text-[#fbbf24] shrink-0" viewBox="0 0 24 24"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon></svg>
+                                <span class="text-[#fbf7ee] font-bold">${lead.rating.toFixed(1)}</span>
+                                <span class="text-[#8cb89d]">(${lead.reviews} revs)</span>
+                            </span>
+                        </div>
+                        ${notesPreview}
+                    </div>
+                    
+                    <div class="flex items-center gap-1.5 shrink-0 self-end sm:self-center">
+                        ${waBtn}
+                        <a href="${lead.mapsUrl}" target="_blank" onclick="event.stopPropagation()" title="Buka di Google Maps" class="p-2.5 bg-[#0d331e] hover:bg-[#144b2c] text-[#f4ede2] rounded-xl transition-all border border-[#235837] flex items-center justify-center">
+                            <svg class="svg-icon w-4 h-4 text-[#e8deb8]" viewBox="0 0 24 24"><line x1="22" y1="2" x2="11" y2="13"></line><polygon points="22 2 15 22 11 13 2 9 22 2"></polygon></svg>
+                        </a>
+                    </div>
+                `;
+                leadsContainer.appendChild(card);
+            });
+        }
+
+        // Filter Logic
+        function filterData(resetActiveSelection = false) {
+            const searchTerm = searchInput.value.trim().toLowerCase();
+            const status = statusFilter.value;
+            const zone = zoneFilter.value;
+            const strategy = strategyFilter.value;
+            const category = categoryFilter.value;
+
+            if (searchInput.value.length > 0) {
+                clearSearchBtn.classList.remove('hidden');
+            } else {
+                clearSearchBtn.classList.add('hidden');
+            }
+
+            const filtered = leadsData.filter(lead => {
+                const matchesSearch = lead.name.toLowerCase().includes(searchTerm) || 
+                                      lead.zone.toLowerCase().includes(searchTerm) || 
+                                      lead.category.toLowerCase().includes(searchTerm) ||
+                                      (lead.notes && lead.notes.toLowerCase().includes(searchTerm)) ||
+                                      (lead.wa && lead.wa.toLowerCase().includes(searchTerm));
+                const matchesStatus = status === 'all' || lead.status === status;
+                const matchesZone = zone === 'all' || lead.zone === zone;
+                const matchesStrategy = strategy === 'all' || lead.strategy === strategy;
+                const matchesCategory = category === 'all' || lead.category === category;
+
+                return matchesSearch && matchesStatus && matchesZone && matchesStrategy && matchesCategory;
+            });
+
+            // Sync Quick Zone Pills
+            document.querySelectorAll('#zonePillsContainer .pill-btn').forEach(btn => {
+                if (btn.getAttribute('data-zone') === zone) {
+                    btn.classList.add('active');
+                    btn.scrollIntoView({ behavior: 'smooth', inline: 'nearest', block: 'nearest' });
+                } else {
+                    btn.classList.remove('active');
+                }
+            });
+
+            renderLeads(filtered);
+        }
+
+        function setZoneFilter(zoneName) {
+            zoneFilter.value = zoneName;
+            filterData();
+        }
+
+        function resetFilters() {
+            searchInput.value = '';
+            statusFilter.value = 'all';
+            zoneFilter.value = 'all';
+            strategyFilter.value = 'all';
+            categoryFilter.value = 'all';
+            filterData();
+        }
+
+        function clearSearch() {
+            searchInput.value = '';
+            filterData();
+            searchInput.focus();
+        }
+
+        // Build Hormozi Pitch Script (NeuralKats Offerings)
+        function buildPitchHTML(lead) {
+            const isHighRatingLowVol = lead.strategy === 'HIGH_LOW_REV';
+
+            if (isHighRatingLowVol) {
+                return `
+                    <div class="mb-3 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">1. Pain Question:</span>
+                        "Permisi Kak, dari 10 customer yang puas setelah transaksi di <strong class="text-[#fbf7ee] font-bold">${lead.name}</strong>, kira-kira berapa orang yang beneran nyempetin nulis review bintang 5 di Google Maps?"
+                    </div>
+                    
+                    <div class="mb-3 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">2. Value Anchor:</span>
+                        "Padahal kalau setengahnya aja ninggalin review, sebulan udah dapet 100+ review organik. Itu setara sama <em>billboard</em> gratis yang narik customer baru tiap hari."
+                    </div>
+                    
+                    <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
+                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
+                        <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
+                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar seumur hidup).</div>
+                            <div>• <strong>Bundle Langganan Web + Card:</strong> <span class="text-[#5eead4] font-bold">Rp 100.000/bln</span> (Dapat Website + Free Card + Maintenance).</div>
+                            <div>• <strong>Bundle One-Time Web + Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 300.000</span> (Website + Card tanpa iuran bulanan).</div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-2 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">4. Micro-Close:</span>
+                        "Mau coba tes tap langsung di HP Kakak sekarang gimana cepatnya terbuka halaman review <strong class="text-[#fbf7ee] font-bold">${lead.name}</strong>?"
+                    </div>
+                `;
+            } else {
+                return `
+                    <div class="mb-3 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">1. Pain Question:</span>
+                        "Permisi Kak, kalau calon pelanggan cari '${lead.category} terdekat' di Google Maps, dan lihat rating <strong class="text-[#fbf7ee] font-bold">${lead.name}</strong> di angka ${lead.rating.toFixed(1)}, mereka bakal langsung mampir atau malah lari ke kompetitor?"
+                    </div>
+                    
+                    <div class="mb-3 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">2. Value Anchor:</span>
+                        "Sayang banget kalau pelanggan bocor ke kompetitor cuma karena rating. Padahal kalau tiap customer puas gampang kasih bintang 5, seminggu aja rating langsung naik ke 4.9+."
+                    </div>
+                    
+                    <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
+                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
+                        <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
+                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar seumur hidup).</div>
+                            <div>• <strong>Bundle Langganan Web + Card:</strong> <span class="text-[#5eead4] font-bold">Rp 100.000/bln</span> (Dapat Website + Free Card + Maintenance).</div>
+                            <div>• <strong>Bundle One-Time Web + Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 300.000</span> (Website + Card tanpa iuran bulanan).</div>
+                        </div>
+                    </div>
+                    
+                    <div class="mb-2 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
+                        <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">4. Micro-Close:</span>
+                        "Cuma 50 ribu sekali bayar, sangat masuk akal kan Kak buat ngunci agar omset toko gak bocor ke kompetitor?"
+                    </div>
+                `;
+            }
+        }
+
+        function buildPitchPlainText(lead) {
+            const isHighRatingLowVol = lead.strategy === 'HIGH_LOW_REV';
+            if (isHighRatingLowVol) {
+                return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Volume | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
+                `1. PAIN QUESTION:\n"Permisi Kak, dari 10 customer yang puas setelah transaksi di ${lead.name}, kira-kira berapa orang yang beneran nyempetin nulis review bintang 5 di Google Maps?"\n\n` +
+                `2. VALUE ANCHOR:\n"Padahal kalau setengahnya aja ninggalin review, sebulan udah dapet 100+ review organik. Itu setara sama billboard gratis yang narik customer baru tiap hari."\n\n` +
+                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (One-time)\n• Bundle Langganan Web + Card: Rp 100.000/bln (Website + Free Card + Maintenance)\n• Bundle One-Time Web + Card: Rp 300.000 (Website + Card)\n\n` +
+                `4. MICRO-CLOSE:\n"Mau coba tes tap langsung di HP Kakak sekarang gimana cepatnya?"`;
+            } else {
+                return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Rating | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
+                `1. PAIN QUESTION:\n"Permisi Kak, kalau calon pelanggan cari '${lead.category} terdekat' di Google Maps, dan lihat rating ${lead.name} di angka ${lead.rating}, mereka bakal langsung mampir atau malah lari ke kompetitor?"\n\n` +
+                `2. VALUE ANCHOR:\n"Sayang banget kalau pelanggan bocor ke kompetitor cuma karena rating. Padahal kalau tiap customer puas gampang kasih bintang 5, seminggu aja rating langsung naik ke 4.9+."\n\n` +
+                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (One-time)\n• Bundle Langganan Web + Card: Rp 100.000/bln (Website + Free Card + Maintenance)\n• Bundle One-Time Web + Card: Rp 300.000 (Website + Card)\n\n` +
+                `4. MICRO-CLOSE:\n"Cuma 50 ribu sekali bayar, sangat masuk akal kan Kak buat ngunci agar omset toko gak bocor?"`;
+            }
+        }
+
+        // Select Lead
+        function selectLead(lead) {
+            currentActiveLead = lead;
+            currentPitchPlainText = buildPitchPlainText(lead);
+
+            // Highlight selected card visually
+            document.querySelectorAll('.lead-card').forEach(card => {
+                card.classList.remove('border-[#f4ede2]', 'ring-2', 'ring-[#f4ede2]/40', 'bg-[#124427]', 'shadow-xl');
+                card.classList.add('border-[#f4ede2]/12');
+            });
+            const activeCard = document.getElementById(`lead-card-${lead.id}`);
+            if (activeCard) {
+                activeCard.classList.add('border-[#f4ede2]', 'ring-2', 'ring-[#f4ede2]/40', 'bg-[#124427]', 'shadow-xl');
+                activeCard.classList.remove('border-[#f4ede2]/12');
+            }
+
+            // Update Desktop Views
+            if (pitchBox) {
+                activeLeadBadge.textContent = lead.name;
+                activeLeadBadge.classList.remove('hidden');
+                pitchBox.innerHTML = `
+                    <div class="text-[#f4ede2] not-italic leading-relaxed">
+                        <div class="mb-3 pb-2 border-b border-[#f4ede2]/15 flex items-center justify-between">
+                            <span class="font-extrabold font-retro-serif text-[#fbf7ee] text-sm">${lead.name}</span>
+                            <span class="text-[10px] text-[#a8ccb6] font-medium">${lead.zone}</span>
+                        </div>
+                        ${buildPitchHTML(lead)}
+                    </div>
+                    <button onclick="copyCurrentPitch()" class="mt-4 text-xs text-[#0a331c] bg-[#f4ede2] hover:bg-[#fffdf7] font-black flex items-center justify-center w-full gap-2 border border-[#f4ede2] py-2.5 px-3 rounded-2xl transition-all sticky bottom-0 shadow-lg">
+                        <svg class="svg-icon w-4 h-4 text-[#0a331c]" viewBox="0 0 24 24"><rect x="9" y="9" width="13" height="13" rx="2" ry="2"></rect><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"></path></svg>
+                        Copy Script Pitching
+                    </button>
+                `;
+                desktopObjectionContainer.innerHTML = renderObjectionHTML();
+                desktopLeadControls.classList.remove('hidden');
+                desktopWaInput.value = lead.wa || "";
+                desktopNotesInput.value = lead.notes || "";
+                renderStatusButtons(lead.id, lead.status, 'desktopStatusBtnGroup');
+            }
+
+            // Mobile Modal Sync
+            if (window.innerWidth < 1024) {
+                openMobileModal(lead);
+            }
+        }
+
+        // Switch Desktop Tabs
+        function switchDesktopTab(tab) {
+            if (tab === 'pitch') {
+                desktopTabPitch.classList.add('active');
+                desktopTabObjection.classList.remove('active');
+                desktopPitchContainer.classList.remove('hidden');
+                desktopObjectionContainer.classList.add('hidden');
+            } else {
+                desktopTabObjection.classList.add('active');
+                desktopTabPitch.classList.remove('active');
+                desktopObjectionContainer.innerHTML = renderObjectionHTML();
+                desktopObjectionContainer.classList.remove('hidden');
+                desktopPitchContainer.classList.add('hidden');
+            }
+        }
+
+        // Switch Mobile Tabs
+        function switchMobileTab(tab) {
+            if (tab === 'pitch') {
+                mobileTabPitch.classList.add('active');
+                mobileTabObjection.classList.remove('active');
+                modalPitchBody.classList.remove('hidden');
+                modalObjectionBody.classList.add('hidden');
+            } else {
+                mobileTabObjection.classList.add('active');
+                mobileTabPitch.classList.remove('active');
+                modalObjectionBody.innerHTML = renderObjectionHTML();
+                modalObjectionBody.classList.remove('hidden');
+                modalPitchBody.classList.add('hidden');
+            }
+        }
+
+        // Open Mobile Modal Bottom Sheet
+        function openMobileModal(lead) {
+            modalLeadTitle.textContent = lead.name;
+            const isHighRatingLowVol = lead.strategy === 'HIGH_LOW_REV';
+            const stratLabel = isHighRatingLowVol ? 'Push Vol' : 'Push Rate';
+            const stratClass = isHighRatingLowVol ? 'text-[#fef08a] bg-[#382a0b] border-[#ca8a04]/40' : 'text-[#a7f3d0] bg-[#0c3822] border-[#34d399]/30';
+
+            modalLeadMeta.innerHTML = `
+                <span class="px-2.5 py-0.5 rounded-full border text-[10px] font-bold ${stratClass}">${stratLabel}</span>
+                <span class="bg-[#072414] border border-[#f4ede2]/15 px-2.5 py-0.5 rounded-full text-[10px] text-[#f4ede2] font-semibold">${lead.category}</span>
+                <span class="text-[#a8ccb6] text-[11px]">${lead.zone}</span>
+                <span class="text-[#fbbf24] font-bold text-[11px] ml-auto">★ ${lead.rating.toFixed(1)} (${lead.reviews} revs)</span>
+            `;
+
+            modalPitchBody.innerHTML = buildPitchHTML(lead);
+            modalObjectionBody.innerHTML = renderObjectionHTML();
+            modalMapsBtn.href = lead.mapsUrl;
+            mobileWaInput.value = lead.wa || "";
+            mobileNotesInput.value = lead.notes || "";
+            renderStatusButtons(lead.id, lead.status, 'mobileStatusBtnGroup');
+
+            switchMobileTab('pitch');
+            
+            mobileModal.classList.remove('hidden-modal');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeMobileModal() {
+            mobileModal.classList.add('hidden-modal');
+            document.body.style.overflow = '';
+        }
+
+        // ==================== INVOICE GENERATOR ENGINE (NeuralKats) ====================
+        function openInvoiceModal(lead) {
+            currentInvoiceLead = lead || currentActiveLead;
+            if (!currentInvoiceLead) {
+                showToast("Pilih salah satu target toko terlebih dahulu!");
+                return;
+            }
+
+            invClientName.value = currentInvoiceLead.name || "";
+            invClientWa.value = currentInvoiceLead.wa || "";
+            
+            // Set default package: card_50k
+            const defaultRadio = document.querySelector('input[name="invPackage"][value="card_50k"]');
+            if (defaultRadio) defaultRadio.checked = true;
+
+            invQty.value = 1;
+            invUnitPrice.value = 50000;
+            invPaymentStatus.value = "LUNAS";
+            invPaymentNote.value = "Pembayaran Tunai / Transfer (Manual)";
+            invCustomDesc.classList.add('hidden');
+            recalcInvoiceTotal();
+
+            invoiceModal.classList.remove('hidden-modal');
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closeInvoiceModal() {
+            invoiceModal.classList.add('hidden-modal');
+            document.body.style.overflow = '';
+        }
+
+        function updateInvoicePackage() {
+            const selectedVal = document.querySelector('input[name="invPackage"]:checked')?.value || 'card_50k';
+            const pkg = PACKAGES_CONFIG[selectedVal];
+
+            if (selectedVal === 'custom') {
+                invCustomDesc.classList.remove('hidden');
+                invUnitPrice.value = 0;
+            } else {
+                invCustomDesc.classList.add('hidden');
+                invUnitPrice.value = pkg.price;
+            }
+            recalcInvoiceTotal();
+        }
+
+        function recalcInvoiceTotal() {
+            const qty = parseInt(invQty.value) || 1;
+            const price = parseInt(invUnitPrice.value) || 0;
+            const total = qty * price;
+            invTotalFormatted.textContent = `Rp ${total.toLocaleString('id-ID')}`;
+        }
+
+        function getSelectedPackageDetails() {
+            const selectedVal = document.querySelector('input[name="invPackage"]:checked')?.value || 'card_50k';
+            const pkg = PACKAGES_CONFIG[selectedVal];
+            let name = pkg.name;
+            let desc = pkg.desc;
+            if (selectedVal === 'custom' && invCustomDesc.value.trim()) {
+                name = invCustomDesc.value.trim();
+                desc = "Layanan kustom & inovasi teknologi dari NeuralKats";
+            }
+            const qty = parseInt(invQty.value) || 1;
+            const unitPrice = parseInt(invUnitPrice.value) || 0;
+            const total = qty * unitPrice;
+            const status = invPaymentStatus.value;
+            const note = invPaymentNote.value || 'Pembayaran Tunai / Transfer (Manual)';
+            const clientName = invClientName.value || (currentInvoiceLead ? currentInvoiceLead.name : 'Client UMKM');
+            const clientWa = invClientWa.value || (currentInvoiceLead ? currentInvoiceLead.wa : '');
+            const invNumber = `INV-NK-${new Date().toISOString().slice(0,10).replace(/-/g,'')}-${(currentInvoiceLead ? currentInvoiceLead.id : 1).toString().padStart(3, '0')}`;
+            const dateStr = new Date().toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+
+            return { selectedVal, name, desc, qty, unitPrice, total, status, note, clientName, clientWa, invNumber, dateStr };
+        }
+
+        function generatePrintableInvoice() {
+            const d = getSelectedPackageDetails();
+            const printWin = window.open('', '_blank');
+
+            const statusBadgeColor = d.status === 'LUNAS' 
+                ? 'background: #0a331c; color: #f4ede2; border: 1px solid #14592f;'
+                : d.status === 'DP'
+                ? 'background: #fef08a; color: #854d0e; border: 1px solid #eab308;'
+                : 'background: #f1f5f9; color: #475569; border: 1px solid #cbd5e1;';
+
+            const html = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>Invoice - ${d.invNumber} - ${d.clientName}</title>
+                    <meta charset="utf-8">
+                    <style>
+                        @page { size: A4 portrait; margin: 12mm; }
+                        body { font-family: 'Plus Jakarta Sans', Arial, sans-serif; color: #0a331c; background: #fffcf7; margin: 0; padding: 20px; box-sizing: border-box; }
+                        .inv-card { border: 2px solid #0a331c; border-radius: 16px; padding: 24px; background: #ffffff; box-shadow: 0 4px 20px rgba(10,51,28,0.06); }
+                        .header { display: flex; justify-content: space-between; align-items: flex-start; border-bottom: 2px solid #0a331c; padding-bottom: 16px; margin-bottom: 20px; }
+                        .brand-title { font-family: 'Georgia', serif; font-size: 26px; font-weight: 900; color: #0a331c; letter-spacing: -0.5px; margin: 0; }
+                        .brand-tag { font-size: 11px; text-transform: uppercase; letter-spacing: 1.5px; color: #2c6e43; font-weight: bold; margin-top: 2px; }
+                        .inv-badge { text-align: right; }
+                        .inv-badge h2 { font-size: 18px; margin: 0; color: #0a331c; font-family: 'Georgia', serif; }
+                        .meta-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 24px; font-size: 12px; }
+                        .meta-box { background: #fbf7ee; border: 1px solid #e8deb8; padding: 12px 14px; border-radius: 10px; }
+                        .meta-box strong { color: #0a331c; font-size: 13px; }
+                        table { width: 100%; border-collapse: collapse; margin-bottom: 20px; font-size: 12px; }
+                        th { background: #0a331c; color: #f4ede2; padding: 10px 12px; text-align: left; font-size: 11px; text-transform: uppercase; letter-spacing: 0.5px; }
+                        td { padding: 12px; border-bottom: 1px solid #e8deb8; }
+                        .total-row { background: #f4ede2; font-weight: bold; font-size: 14px; }
+                        .total-row td { border-top: 2px solid #0a331c; border-bottom: 2px solid #0a331c; color: #0a331c; }
+                        .status-stamp { display: inline-block; padding: 4px 12px; border-radius: 20px; font-size: 11px; font-weight: 800; text-transform: uppercase; ${statusBadgeColor} }
+                        
+                        /* Business Card & QR Section */
+                        .biz-card-section { margin-top: 28px; padding-top: 18px; border-top: 2px dashed #0a331c; }
+                        .biz-title { font-size: 12px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; color: #0a331c; margin-bottom: 12px; text-align: center; }
+                        .qr-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+                        .qr-box { display: flex; align-items: center; gap: 12px; background: #fbf7ee; border: 1px solid #dcd3c1; border-radius: 12px; padding: 10px 14px; }
+                        .qr-box img { width: 70px; height: 70px; border-radius: 6px; border: 1px solid #0a331c; }
+                        .qr-info h4 { margin: 0 0 3px 0; font-size: 12px; color: #0a331c; font-weight: 800; }
+                        .qr-info p { margin: 0 0 3px 0; font-size: 10px; color: #475569; }
+                        .qr-info a { font-size: 11px; color: #0a331c; font-weight: bold; text-decoration: underline; }
+                        
+                        .footer { margin-top: 20px; text-align: center; font-size: 11px; color: #4c6b56; }
+                        @media print {
+                            .no-print { display: none; }
+                            body { padding: 0; background: #fff; }
+                            .inv-card { box-shadow: none; border-color: #0a331c; }
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="no-print" style="margin-bottom: 15px; padding: 10px 16px; background: #0a331c; border-radius: 10px; display: flex; justify-content: space-between; align-items: center; color: #f4ede2;">
+                        <span style="font-weight: 800; font-size: 13px;">📄 NeuralKats &bull; Bukti Transaksi Siap Cetak / Save PDF</span>
+                        <button onclick="window.print()" style="padding: 8px 20px; background: #f4ede2; color: #0a331c; border: none; border-radius: 8px; font-weight: 900; font-size: 13px; cursor: pointer;">Cetak / Save PDF</button>
+                    </div>
+
+                    <div class="inv-card">
+                        <div class="header">
+                            <div>
+                                <h1 class="brand-title">NEURALKATS</h1>
+                                <div class="brand-tag">Solopreneur Tech &bull; Applied AI &bull; Smart Systems</div>
+                                <div style="font-size: 11px; color: #475569; margin-top: 4px;">Sukabumi, Jawa Barat &bull; <strong>WhatsApp Business:</strong> <a href="https://wa.me/6289673474961" style="color: #0a331c; font-weight: bold; text-decoration: none;">+62 896-7347-4961</a></div>
+                            </div>
+                            <div class="inv-badge">
+                                <h2>INVOICE / KWITANSI</h2>
+                                <div style="font-family: monospace; font-size: 11px; font-weight: bold; margin-top: 2px;">${d.invNumber}</div>
+                                <div style="font-size: 11px; color: #475569; margin-top: 2px;">${d.dateStr}</div>
+                            </div>
+                        </div>
+
+                        <div class="meta-grid">
+                            <div class="meta-box">
+                                <div style="font-size: 10px; text-transform: uppercase; color: #475569; font-weight: bold; margin-bottom: 2px;">Diberikan Kepada (Client):</div>
+                                <strong>${d.clientName}</strong>
+                                <div style="color: #475569; font-size: 11px; margin-top: 2px;">WhatsApp: ${d.clientWa || '-'}</div>
+                            </div>
+                            <div class="meta-box">
+                                <div style="font-size: 10px; text-transform: uppercase; color: #475569; font-weight: bold; margin-bottom: 2px;">Status & Metode Pembayaran:</div>
+                                <div style="margin-top: 4px; display: flex; items-center; gap: 8px;">
+                                    <span class="status-stamp">${d.status}</span>
+                                </div>
+                                <div style="color: #475569; font-size: 11px; margin-top: 4px;">Catatan: ${d.note}</div>
+                            </div>
+                        </div>
+
+                        <table>
+                            <thead>
+                                <tr>
+                                    <th style="width: 30px; text-align: center;">No</th>
+                                    <th>Deskripsi Produk / Layanan</th>
+                                    <th style="text-align: center; width: 60px;">Qty</th>
+                                    <th style="text-align: right; width: 120px;">Harga Satuan</th>
+                                    <th style="text-align: right; width: 130px;">Subtotal</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr>
+                                    <td style="text-align: center; font-weight: bold;">1</td>
+                                    <td>
+                                        <strong style="font-size: 13px; color: #0a331c;">${d.name}</strong>
+                                        <div style="font-size: 11px; color: #475569; margin-top: 2px;">${d.desc}</div>
+                                    </td>
+                                    <td style="text-align: center; font-weight: bold;">${d.qty}</td>
+                                    <td style="text-align: right; font-family: monospace;">Rp ${d.unitPrice.toLocaleString('id-ID')}</td>
+                                    <td style="text-align: right; font-family: monospace; font-weight: bold;">Rp ${d.total.toLocaleString('id-ID')}</td>
+                                </tr>
+                            </tbody>
+                            <tfoot>
+                                <tr class="total-row">
+                                    <td colspan="4" style="text-align: right; text-transform: uppercase;">Total Pembayaran:</td>
+                                    <td style="text-align: right; font-family: monospace; font-size: 16px;">Rp ${d.total.toLocaleString('id-ID')}</td>
+                                </tr>
+                            </tfoot>
+                        </table>
+
+                        <!-- Business Card & QR Section -->
+                        <div class="biz-card-section">
+                            <div class="biz-title">📇 Ekosistem &amp; Platform Bisnis NeuralKats (Scan untuk Akses)</div>
+                            <div class="qr-grid">
+                                <div class="qr-box">
+                                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https%3A%2F%2Fneuralkats.my.id%2F" alt="QR Belajar AI">
+                                    <div class="qr-info">
+                                        <h4>🎓 Belajar AI &amp; Berita AI</h4>
+                                        <p>Portal edukasi &amp; wawasan AI modern</p>
+                                        <a href="https://neuralkats.my.id/" target="_blank">neuralkats.my.id</a>
+                                    </div>
+                                </div>
+                                <div class="qr-box">
+                                    <img src="https://api.qrserver.com/v1/create-qr-code/?size=100x100&data=https%3A%2F%2Fneuralkats.web.id%2F" alt="QR Lab Project">
+                                    <div class="qr-info">
+                                        <h4>⚡ Lab Project &amp; Inovasi</h4>
+                                        <p>Eksplorasi automasi &amp; smart tools</p>
+                                        <a href="https://neuralkats.web.id/" target="_blank">neuralkats.web.id</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="footer">
+                            <div style="font-size: 11px; margin-bottom: 3px;">WhatsApp Business: <strong>+62 896-7347-4961</strong> &bull; Sukabumi, Indonesia</div>
+                            Terima kasih atas kepercayaannya bermitra bersama <strong>NeuralKats</strong>. Senang bisa mendukung kemajuan bisnis Anda! 🚀
+                        </div>
+                    </div>
+                    <script>
+                        setTimeout(() => { window.print(); }, 600);
+                    <\/script>
+                </body>
+                </html>
+            `;
+
+            printWin.document.open();
+            printWin.document.write(html);
+            printWin.document.close();
+            showToast("Membuka Preview Invoice PDF... 📄");
+        }
+
+        function formatInvoiceWhatsAppText() {
+            const d = getSelectedPackageDetails();
+            return `🧾 *BUKTI PEMBELIAN / INVOICE NEURALKATS*\n` +
+                   `No: *${d.invNumber}*\n` +
+                   `Tanggal: ${d.dateStr}\n\n` +
+                   `Kepada Yth:\n` +
+                   `*${d.clientName}*\n` +
+                   (d.clientWa ? `No. WA: ${d.clientWa}\n\n` : `\n`) +
+                   `📦 *RINCIAN PEMBELIAN:*\n` +
+                   `• *${d.name}*\n` +
+                   `  ${d.qty}x @ Rp ${d.unitPrice.toLocaleString('id-ID')}\n` +
+                   `  *Grand Total: Rp ${d.total.toLocaleString('id-ID')}*\n\n` +
+                   `💳 *STATUS TRANSAKSI:*\n` +
+                   `• Status: *${d.status}*\n` +
+                   `• Catatan: ${d.note}\n\n` +
+                   `🌐 *KUNJUNGI PLATFORM BISNIS NEURALKATS:*\n` +
+                   `1. Belajar AI & Berita AI: https://neuralkats.my.id/\n` +
+                   `2. Lab Project & Inovasi: https://neuralkats.web.id/\n` +
+                   `📱 WhatsApp Business: +62 896-7347-4961\n\n` +
+                   `_Terima kasih banyak atas kerjasamanya!_ 🙏\n` +
+                   `*NeuralKats • Solopreneur Tech & AI Solutions*`;
+        }
+
+        function sendInvoiceViaWhatsApp() {
+            const d = getSelectedPackageDetails();
+            const cleanNum = cleanWaNumber(d.clientWa);
+            const msg = formatInvoiceWhatsAppText();
+
+            if (!cleanNum || cleanNum.length < 9) {
+                showToast("⚠️ Masukkan No WhatsApp Client yang valid!");
+                invClientWa.focus();
+                return;
+            }
+
+            const url = `https://wa.me/${cleanNum}?text=${encodeURIComponent(msg)}`;
+            window.open(url, '_blank');
+            showToast("Membuka WhatsApp untuk mengirim invoice! 📱");
+        }
+
+        function copyInvoiceText() {
+            const msg = formatInvoiceWhatsAppText();
+            copyTextDirect(msg, "Format Teks Invoice Berhasil Disalin! ✓");
+        }
+
+        // Export Actions & Dropdown
+        function toggleExportMenu() {
+            if (exportMenu) {
+                exportMenu.classList.toggle('hidden');
+            }
+        }
+
+        window.addEventListener('click', (e) => {
+            const btn = document.getElementById('exportDropdownBtn');
+            if (exportMenu && !exportMenu.contains(e.target) && btn && !btn.contains(e.target)) {
+                exportMenu.classList.add('hidden');
+            }
+        });
+
+        function downloadBlob(content, mimeType, filename) {
+            const blob = new Blob([content], { type: mimeType });
+            const url = URL.createObjectURL(blob);
+            const link = document.createElement('a');
+            link.setAttribute('href', url);
+            link.setAttribute('download', filename);
+            link.style.visibility = 'hidden';
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            URL.revokeObjectURL(url);
+        }
+
+        function exportJSON() {
+            const exportObj = {
+                exportDate: new Date().toISOString(),
+                brand: "NeuralKats • Canvassing Hub",
+                totalLeads: leadsData.length,
+                baseLocation: "Mangkalaya, Gunungguruh, Sukabumi",
+                leads: leadsData
+            };
+            const jsonStr = JSON.stringify(exportObj, null, 2);
+            downloadBlob(jsonStr, "application/json;charset=utf-8;", "canvassing_leads_sukabumi_backup.json");
+            if (exportMenu) exportMenu.classList.add('hidden');
+            showToast("Backup JSON Berhasil Diunduh! 📥");
+        }
+
+        function exportCSV() {
+            const headers = ["ID", "Nama UMKM", "Kategori", "Rating", "Total Review", "Zona", "Strategi", "Status", "No WhatsApp", "Catatan Lapangan", "Google Maps URL"];
+            
+            const rows = leadsData.map(l => {
+                const conf = STATUS_CONFIG[l.status] || STATUS_CONFIG.UNVISITED;
+                return [
+                    l.id,
+                    `"${(l.name || '').replace(/"/g, '""')}"`,
+                    `"${(l.category || '').replace(/"/g, '""')}"`,
+                    l.rating,
+                    l.reviews,
+                    `"${(l.zone || '').replace(/"/g, '""')}"`,
+                    `"${(l.strategy === 'HIGH_LOW_REV' ? 'Push Volume (5.0)' : 'Push Rating (<5.0)').replace(/"/g, '""')}"`,
+                    `"${(conf.label || '').replace(/"/g, '""')}"`,
+                    `"${(l.wa || '').replace(/"/g, '""')}"`,
+                    `"${(l.notes || '').replace(/"/g, '""')}"`,
+                    `"${(l.mapsUrl || '').replace(/"/g, '""')}"`
+                ].join(",");
+            });
+
+            const csvContent = "\uFEFF" + [headers.join(","), ...rows].join("\r\n");
+            downloadBlob(csvContent, "text/csv;charset=utf-8;", "canvassing_leads_sukabumi.csv");
+            if (exportMenu) exportMenu.classList.add('hidden');
+            showToast("File CSV (Excel) Berhasil Diunduh! 📊");
+        }
+
+        function exportPDF() {
+            if (exportMenu) exportMenu.classList.add('hidden');
+            const today = new Date().toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            const printWindow = window.open('', '_blank');
+            
+            let tableRows = leadsData.map((l, i) => {
+                const conf = STATUS_CONFIG[l.status] || STATUS_CONFIG.UNVISITED;
+                return `
+                    <tr style="border-bottom: 1px solid #dcd3c1; font-size: 11px;">
+                        <td style="padding: 6px 8px; text-align: center;">${i + 1}</td>
+                        <td style="padding: 6px 8px; font-weight: bold; color: #0a331c;">${l.name}</td>
+                        <td style="padding: 6px 8px;">${l.category}</td>
+                        <td style="padding: 6px 8px;">${l.zone}</td>
+                        <td style="padding: 6px 8px; text-align: center;">★ ${l.rating.toFixed(1)} (${l.reviews})</td>
+                        <td style="padding: 6px 8px; text-align: center; font-weight: 700;">${conf.label}</td>
+                        <td style="padding: 6px 8px; font-family: monospace;">${l.wa || '-'}</td>
+                        <td style="padding: 6px 8px; color: #475569;">${l.notes || '-'}</td>
+                    </tr>
+                `;
+            }).join('');
+
+            const htmlContent = `
+                <!DOCTYPE html>
+                <html>
+                <head>
+                    <title>NeuralKats - Laporan Canvassing UMKM Sukabumi - ${today}</title>
+                    <style>
+                        @page { size: landscape; margin: 10mm; }
+                        body { font-family: 'Plus Jakarta Sans', Arial, sans-serif; color: #0a331c; background: #fffcf7; margin: 0; padding: 14px; }
+                        h1 { font-family: 'Georgia', serif; font-size: 20px; margin: 0 0 4px 0; color: #0a331c; letter-spacing: -0.5px; }
+                        .meta { font-size: 11px; color: #4c6b56; margin-bottom: 14px; }
+                        .stats-grid { display: flex; gap: 10px; margin-bottom: 16px; }
+                        .stat-box { border: 1px solid #cfc2ad; border-radius: 8px; padding: 8px 14px; font-size: 11px; background: #f4ede2; }
+                        .stat-box strong { font-size: 14px; display: block; color: #0a331c; font-weight: 800; }
+                        table { width: 100%; border-collapse: collapse; text-align: left; }
+                        th { background: #0a331c; color: #f4ede2; font-size: 11px; padding: 8px; border-bottom: 2px solid #061c10; font-weight: bold; }
+                        @media print {
+                            .no-print { display: none; }
+                        }
+                    </style>
+                </head>
+                <body>
+                    <div class="no-print" style="margin-bottom: 15px; padding: 10px 14px; background: #f4ede2; border-radius: 8px; display: flex; justify-content: space-between; align-items: center; border: 1px solid #d4c5af;">
+                        <span style="font-weight: 700; font-size: 13px; color: #0a331c;">📄 NeuralKats &bull; Siap Cetak / Simpan ke PDF</span>
+                        <button onclick="window.print()" style="padding: 8px 18px; background: #0a331c; color: #f4ede2; border: none; border-radius: 6px; font-weight: 800; cursor: pointer;">Cetak / Save PDF</button>
+                    </div>
+                    <h1>NEURALKATS &bull; STRATEGIC CANVASSING HUB</h1>
+                    <div class="meta">Base: Mangkalaya, Gunungguruh &bull; Wilayah: Sukabumi &bull; Tanggal: ${today}</div>
+                    <div class="stats-grid">
+                        <div class="stat-box">Total Leads<strong>${leadsData.length}</strong></div>
+                        <div class="stat-box">Deal Won<strong>${leadsData.filter(l => l.status === 'CLOSED_WON').length}</strong></div>
+                        <div class="stat-box">Follow-Up<strong>${leadsData.filter(l => l.status === 'FOLLOW_UP').length}</strong></div>
+                        <div class="stat-box">Pitched<strong>${leadsData.filter(l => l.status === 'PITCHED').length}</strong></div>
+                        <div class="stat-box">Belum Dikunjungi<strong>${leadsData.filter(l => l.status === 'UNVISITED').length}</strong></div>
+                        <div class="stat-box">No. WA Terkumpul<strong>${leadsData.filter(l => l.wa).length}</strong></div>
+                    </div>
+                    <table>
+                        <thead>
+                            <tr>
+                                <th style="width: 30px; text-align: center;">No</th>
+                                <th>Nama UMKM</th>
+                                <th>Kategori</th>
+                                <th>Zona</th>
+                                <th style="text-align: center;">Rating & Revs</th>
+                                <th style="text-align: center;">Status</th>
+                                <th>No. WA Owner</th>
+                                <th>Catatan Lapangan</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            ${tableRows}
+                        </tbody>
+                    </table>
+                    <script>
+                        setTimeout(() => { window.print(); }, 500);
+                    <\/script>
+                </body>
+                </html>
+            `;
+
+            printWindow.document.open();
+            printWindow.document.write(htmlContent);
+            printWindow.document.close();
+            showToast("Membuka Preview Cetak PDF... 📄");
+        }
+
+        // Copy WhatsApp Daily Report (NeuralKats Branded)
+        function copyDailyWAReport() {
+            const today = new Date().toLocaleDateString('id-ID', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
+            const closedWonLeads = leadsData.filter(l => l.status === 'CLOSED_WON');
+            const followUpLeads = leadsData.filter(l => l.status === 'FOLLOW_UP');
+            const pitchedLeads = leadsData.filter(l => l.status === 'PITCHED');
+            const unvisitedLeads = leadsData.filter(l => l.status === 'UNVISITED');
+            const rejectedLeads = leadsData.filter(l => l.status === 'REJECTED');
+
+            const totalVisited = pitchedLeads.length + followUpLeads.length + closedWonLeads.length + rejectedLeads.length;
+
+            let report = `🌲 *NEURALKATS - REKAP CANVASSING HARIAN*\n` +
+                         `📍 *Base:* Mangkalaya, Gunungguruh\n` +
+                         `📅 *Tanggal:* ${today}\n\n` +
+                         `📈 *RINGKASAN PIPELINE:*\n` +
+                         `• Total Dikunjungi : ${totalVisited} UMKM\n` +
+                         `• Deal / Closing   : ${closedWonLeads.length} UMKM 🎉\n` +
+                         `• Butuh Follow-Up  : ${followUpLeads.length} UMKM\n` +
+                         `• Pitched / Demo   : ${pitchedLeads.length} UMKM\n` +
+                         `• Ditolak / Skip   : ${rejectedLeads.length} UMKM\n` +
+                         `• Belum Didatangi  : ${unvisitedLeads.length} UMKM\n\n`;
+
+            if (closedWonLeads.length > 0) {
+                report += `🏆 *DETAIL DEAL CLOSING:*\n`;
+                closedWonLeads.forEach((l, idx) => {
+                    const waText = l.wa ? ` (WA: ${l.wa})` : '';
+                    report += `${idx + 1}. *${l.name}* (${l.zone})${waText}\n   Catatan: ${l.notes || 'Pembelian produk/layanan NeuralKats'}\n`;
+                });
+                report += `\n`;
+            }
+
+            if (followUpLeads.length > 0) {
+                report += `⏳ *TARGET FOLLOW-UP BESOK:*\n`;
+                followUpLeads.forEach((l, idx) => {
+                    const waText = l.wa ? ` (WA: ${l.wa})` : '';
+                    report += `${idx + 1}. *${l.name}* (${l.zone})${waText}\n   Catatan: ${l.notes || 'Janji temu / minta info WA'}\n`;
+                });
+                report += `\n`;
+            }
+
+            report += `_Generated by NeuralKats & The Closer's Blueprint_ 🚀`;
+
+            copyTextDirect(report, "Laporan Harian WhatsApp Tersalin! ✓");
+        }
+
+        function copyCurrentPitch() {
+            if (!currentPitchPlainText) return;
+            copyTextDirect(currentPitchPlainText, "Script Pitching Berhasil Disalin! ✓");
+        }
+
+        function copyTextDirect(text, successMsg) {
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(text).then(() => {
+                    showToast(successMsg);
+                }).catch(() => {
+                    fallbackCopy(text, successMsg);
+                });
+            } else {
+                fallbackCopy(text, successMsg);
+            }
+        }
+
+        function fallbackCopy(text, successMsg) {
+            const tempTextArea = document.createElement('textarea');
+            tempTextArea.value = text;
+            tempTextArea.style.position = 'fixed';
+            tempTextArea.style.left = '-9999px';
+            document.body.appendChild(tempTextArea);
+            tempTextArea.focus();
+            tempTextArea.select();
+            try {
+                document.execCommand('copy');
+                showToast(successMsg);
+            } catch (err) {
+                showToast("Gagal menyalin teks");
+            }
+            document.body.removeChild(tempTextArea);
+        }
+
+        function showToast(msg) {
+            toastMsg.textContent = msg;
+            toast.classList.remove('opacity-0', 'translate-y-[-20px]');
+            toast.classList.add('opacity-100', 'translate-y-0');
+
+            setTimeout(() => {
+                toast.classList.remove('opacity-100', 'translate-y-0');
+                toast.classList.add('opacity-0', 'translate-y-[-20px]');
+            }, 2200);
+        }
+
+        // Escape Key Listener to Close Modals
+        window.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeMobileModal();
+                closeInvoiceModal();
+            }
+        });
+
+        // ==================== MASTER PIN & SECURITY ENGINE ====================
+        const STORAGE_KEY_PIN = 'nk_canvass_master_pin_v1';
+        const STORAGE_KEY_SESSION = 'nk_canvass_session_unlocked';
+        let currentEnteredPin = '';
+        const pinLockScreen = document.getElementById('pinLockScreen');
+        const pinErrorMsg = document.getElementById('pinErrorMsg');
+        const pinDotsContainer = document.getElementById('pinDotsContainer');
+        const changePinModal = document.getElementById('changePinModal');
+        const inputOldPin = document.getElementById('inputOldPin');
+        const inputNewPin = document.getElementById('inputNewPin');
+        const inputConfirmPin = document.getElementById('inputConfirmPin');
+        const rememberSessionCheck = document.getElementById('rememberSessionCheck');
+
+        function getStoredMasterPin() {
+            return localStorage.getItem(STORAGE_KEY_PIN) || '2026';
+        }
+
+        function checkInitialLockState() {
+            const sessionVal = localStorage.getItem(STORAGE_KEY_SESSION) || sessionStorage.getItem(STORAGE_KEY_SESSION);
+            if (sessionVal) {
+                const sessionTime = parseInt(sessionVal, 10);
+                // Valid for 24 hours
+                if (Date.now() - sessionTime < 24 * 60 * 60 * 1000) {
+                    unlockDashboard(false);
+                    return;
+                }
+            }
+            lockDashboard(false);
+        }
+
+        function updatePinDots() {
+            if (!pinDotsContainer) return;
+            const dots = pinDotsContainer.querySelectorAll('.pin-dot');
+            const targetPin = getStoredMasterPin();
+            const len = targetPin.length;
+
+            // Ensure correct number of dots
+            if (dots.length !== len) {
+                pinDotsContainer.innerHTML = '';
+                for (let i = 0; i < len; i++) {
+                    const d = document.createElement('div');
+                    d.className = 'pin-dot w-4 h-4 rounded-full border-2 border-[#f4ede2]/40 bg-transparent transition-all';
+                    pinDotsContainer.appendChild(d);
+                }
+            }
+
+            const updatedDots = pinDotsContainer.querySelectorAll('.pin-dot');
+            updatedDots.forEach((dot, index) => {
+                if (index < currentEnteredPin.length) {
+                    dot.classList.add('bg-[#f4ede2]', 'border-[#f4ede2]', 'scale-110');
+                    dot.classList.remove('bg-transparent', 'border-[#f4ede2]/40');
+                } else {
+                    dot.classList.remove('bg-[#f4ede2]', 'border-[#f4ede2]', 'scale-110');
+                    dot.classList.add('bg-transparent', 'border-[#f4ede2]/40');
+                }
+            });
+        }
+
+        function enterPinDigit(digit) {
+            const masterPin = getStoredMasterPin();
+            if (currentEnteredPin.length < masterPin.length) {
+                currentEnteredPin += digit;
+                pinErrorMsg.textContent = '';
+                updatePinDots();
+
+                if (currentEnteredPin.length === masterPin.length) {
+                    setTimeout(verifyPin, 100);
+                }
+            }
+        }
+
+        function deletePinDigit() {
+            if (currentEnteredPin.length > 0) {
+                currentEnteredPin = currentEnteredPin.slice(0, -1);
+                pinErrorMsg.textContent = '';
+                updatePinDots();
+            }
+        }
+
+        function clearPin() {
+            currentEnteredPin = '';
+            pinErrorMsg.textContent = '';
+            updatePinDots();
+        }
+
+        function verifyPin() {
+            const masterPin = getStoredMasterPin();
+            if (currentEnteredPin === masterPin) {
+                unlockDashboard(true);
+            } else {
+                pinErrorMsg.textContent = '❌ PIN salah, silakan coba lagi';
+                if (pinDotsContainer) {
+                    pinDotsContainer.classList.add('animate-bounce');
+                    setTimeout(() => {
+                        pinDotsContainer.classList.remove('animate-bounce');
+                    }, 400);
+                }
+                setTimeout(() => {
+                    clearPin();
+                }, 500);
+            }
+        }
+
+        function unlockDashboard(withToast = false) {
+            pinLockScreen.classList.add('hidden');
+            document.body.style.overflow = '';
+            clearPin();
+
+            const remember = rememberSessionCheck ? rememberSessionCheck.checked : true;
+            if (remember) {
+                localStorage.setItem(STORAGE_KEY_SESSION, Date.now().toString());
+            } else {
+                sessionStorage.setItem(STORAGE_KEY_SESSION, Date.now().toString());
+            }
+
+            if (withToast) {
+                showToast("Akses Terbuka &bull; Selamat Datang! 🔓");
+            }
+        }
+
+        function lockDashboard(withToast = true) {
+            localStorage.removeItem(STORAGE_KEY_SESSION);
+            sessionStorage.removeItem(STORAGE_KEY_SESSION);
+            pinLockScreen.classList.remove('hidden');
+            document.body.style.overflow = 'hidden';
+            clearPin();
+            if (withToast) {
+                showToast("Dashboard Terkunci 🔒");
+            }
+        }
+
+        // Change PIN Logic
+        function openChangePinModal() {
+            if (exportMenu) exportMenu.classList.add('hidden');
+            inputOldPin.value = '';
+            inputNewPin.value = '';
+            inputConfirmPin.value = '';
+            changePinModal.classList.remove('hidden');
+        }
+
+        function closeChangePinModal() {
+            changePinModal.classList.add('hidden');
+        }
+
+        function saveNewPin() {
+            const currentPin = getStoredMasterPin();
+            const oldVal = inputOldPin.value.trim();
+            const newVal = inputNewPin.value.trim();
+            const confirmVal = inputConfirmPin.value.trim();
+
+            if (oldVal !== currentPin) {
+                alert("PIN Lama tidak sesuai!");
+                inputOldPin.focus();
+                return;
+            }
+
+            if (newVal.length < 4 || newVal.length > 8 || !/^\d+$/.test(newVal)) {
+                alert("PIN Baru harus berupa 4 hingga 8 digit angka!");
+                inputNewPin.focus();
+                return;
+            }
+
+            if (newVal !== confirmVal) {
+                alert("Konfirmasi PIN Baru tidak cocok!");
+                inputConfirmPin.focus();
+                return;
+            }
+
+            localStorage.setItem(STORAGE_KEY_PIN, newVal);
+            closeChangePinModal();
+            showToast("Master PIN Berhasil Diperbarui! 🔑");
+            clearPin();
+        }
+
+        // Physical Keyboard listener for PIN Lock Screen
+        window.addEventListener('keydown', (e) => {
+            if (!pinLockScreen.classList.contains('hidden')) {
+                if (e.key >= '0' && e.key <= '9') {
+                    enterPinDigit(e.key);
+                } else if (e.key === 'Backspace') {
+                    deletePinDigit();
+                } else if (e.key === 'Escape') {
+                    clearPin();
+                } else if (e.key === 'Enter') {
+                    verifyPin();
+                }
+            }
+        });
+
+        // ==================== PWA WEB MANIFEST SETUP ====================
+        (function setupPWA() {
+            const manifestObj = {
+                name: "NeuralKats Canvassing Hub",
+                short_name: "NK Canvass",
+                description: "Private UMKM Canvassing & Deal Closer Hub Sukabumi",
+                start_url: "./",
+                display: "standalone",
+                orientation: "portrait",
+                background_color: "#061c10",
+                theme_color: "#061c10",
+                icons: [
+                    {
+                        src: "https://api.qrserver.com/v1/create-qr-code/?size=192x192&data=https%3A%2F%2Fneuralkats.web.id%2F",
+                        sizes: "192x192",
+                        type: "image/png"
+                    },
+                    {
+                        src: "https://api.qrserver.com/v1/create-qr-code/?size=512x512&data=https%3A%2F%2Fneuralkats.web.id%2F",
+                        sizes: "512x512",
+                        type: "image/png"
+                    }
+                ]
+            };
+            const manifestBlob = new Blob([JSON.stringify(manifestObj)], { type: 'application/json' });
+            const manifestURL = URL.createObjectURL(manifestBlob);
+            const link = document.createElement('link');
+            link.rel = 'manifest';
+            link.href = manifestURL;
+            document.head.appendChild(link);
+        })();
+
+        // Event Listeners for Filters
+        searchInput.addEventListener('input', () => filterData());
+        statusFilter.addEventListener('change', () => filterData());
+        zoneFilter.addEventListener('change', () => filterData());
+        strategyFilter.addEventListener('change', () => filterData());
+        categoryFilter.addEventListener('change', () => filterData());
+
+        // Initial Boot
+        checkInitialLockState();
+        updateStats();
+        renderLeads(leadsData);
+    </script>
+</body>
+</html>
