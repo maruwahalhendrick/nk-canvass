@@ -844,219 +844,11 @@
         </div>
     </div>
 
+    <script src="js/data.js"></script>
     <script>
-        // Master Dataset of 189 UMKMs Sukabumi
-        const umkmData = [
-            // F&B
-            { name: "Waroeng Spesial Sambal SS Bandung JL Sukabumi", category: "F&B", rating: 4.2, reviews: 3215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi" },
-            { name: "Secret Garden Sukabumi", category: "F&B", rating: 4.4, reviews: 2621, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Secret+Garden+Sukabumi" },
-            { name: "Like Earth Coffee", category: "F&B", rating: 4.4, reviews: 1845, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Like+Earth+Coffee+Sukabumi" },
-            { name: "Kedai Kopi Ncek Joe Tie 1953", category: "F&B", rating: 4.4, reviews: 412, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+Ncek+Joe+Tie+1953+Sukabumi" },
-            { name: "D'Green Resto and Coffee", category: "F&B", rating: 4.5, reviews: 1105, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=D'Green+Resto+and+Coffee+Sukabumi" },
-            { name: "Butler Bar & Bistro", category: "F&B", rating: 4.5, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Butler+Bar+%26+Bistro+Sukabumi" },
-            { name: "Kedai Kopi 35", category: "F&B", rating: 4.5, reviews: 540, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+35+Sukabumi" },
-            { name: "Restaurant Sunda Rasa Sukabumi", category: "F&B", rating: 4.6, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Restaurant+Sunda+Rasa+Sukabumi" },
-            { name: "Botram Resto", category: "F&B", rating: 4.6, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Botram+Resto+Sukabumi" },
-            { name: "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI", category: "F&B", rating: 4.6, reviews: 955, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI" },
-            { name: "Red Brick Cafe", category: "F&B", rating: 4.7, reviews: 1430, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Red+Brick+Cafe+Sukabumi" },
-            { name: "Maple Bakery", category: "F&B", rating: 4.7, reviews: 670, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Maple+Bakery+Sukabumi" },
-            { name: "Dedi Catering Sukabumi", category: "F&B", rating: 4.8, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dedi+Catering+Sukabumi" },
-            { name: "Kopi Nako Sukabumi", category: "F&B", rating: 4.9, reviews: 185, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Kopi+Nako+Sukabumi" },
-            { name: "Yume Coffee", category: "F&B", rating: 4.8, reviews: 142, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Yume+Coffee+Sukabumi" },
-            { name: "Amorcakes & Bakery Sudirman - Sukabumi", category: "F&B", rating: 4.9, reviews: 98, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Amorcakes+%26+Bakery+Sudirman+-+Sukabumi" },
-            { name: "Bandung Cheesecuit Sukabumi", category: "F&B", rating: 4.9, reviews: 115, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bandung+Cheesecuit+Sukabumi" },
-            { name: "Takashi Bakehouse x Republik Burger Sukabumi", category: "F&B", rating: 4.9, reviews: 76, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Takashi+Bakehouse+x+Republik+Burger+Sukabumi" },
-            { name: "Catering & Snack Sarah 009 Dra. N. Rohanah", category: "F&B", rating: 4.9, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Catering+%26+Snack+Sarah+009+Sukabumi" },
-            { name: "Sukabumi Coffee Center", category: "F&B", rating: 5.0, reviews: 22, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Coffee+Center" },
-            { name: "Catering Murah Sukabumi", category: "F&B", rating: 5.0, reviews: 18, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Catering+Murah+Sukabumi" },
-            { name: "INI KITCHEN SUKABUMI", category: "F&B", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=INI+KITCHEN+SUKABUMI" },
-            { name: "PAKIS Catering Sukabumi", category: "F&B", rating: 5.0, reviews: 12, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PAKIS+Catering+Sukabumi" },
-
-            // Beauty & Salon
-            { name: "Pinisi Relaxation", category: "Beauty", rating: 4.4, reviews: 750, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pinisi+Relaxation+Sukabumi" },
-            { name: "Rudi Salon Sukabumi", category: "Beauty", rating: 4.5, reviews: 420, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Rudi+Salon+Sukabumi" },
-            { name: "Sara ivonne Beauty Studio Sukabumi", category: "Beauty", rating: 4.6, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Sara+ivonne+Beauty+Studio+Sukabumi" },
-            { name: "KAYN Wellness", category: "Beauty", rating: 4.6, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KAYN+Wellness+Sukabumi" },
-            { name: "Dr Metz Skincare", category: "Beauty", rating: 4.8, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dr+Metz+Skincare+Sukabumi" },
-            { name: "Avenue Salon Sukabumi", category: "Beauty", rating: 4.9, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Avenue+Salon+Sukabumi" },
-            { name: "ADJIE SALON", category: "Beauty", rating: 4.9, reviews: 205, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=ADJIE+SALON+Sukabumi" },
-            { name: "Pixel Barbershop Nyomplong", category: "Beauty", rating: 4.9, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Nyomplong+Sukabumi" },
-            { name: "BARBERSTATION BARBERSHOP", category: "Beauty", rating: 4.9, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=BARBERSTATION+BARBERSHOP+Sukabumi" },
-            { name: "Simi Reflexology Massage & Spa", category: "Beauty", rating: 4.9, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Simi+Reflexology+Massage+%26+Spa+Sukabumi" },
-            { name: "Nadifa Clinic Sukabumi", category: "Beauty", rating: 4.9, reviews: 255, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Nadifa+Clinic+Sukabumi" },
-            { name: "Calysta skin care clinic", category: "Beauty", rating: 4.9, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Calysta+skin+care+clinic+Sukabumi" },
-            { name: "ARSENIO SALON", category: "Beauty", rating: 5.0, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=ARSENIO+SALON+Sukabumi" },
-            { name: "Pixel Barbershop Cipanengah", category: "Beauty", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Cipanengah+Sukabumi" },
-            { name: "Blackburn Barbershop - Sukabumi Branch", category: "Beauty", rating: 5.0, reviews: 89, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Blackburn+Barbershop+-+Sukabumi+Branch" },
-            { name: "Pixel Barbershop Ciaul", category: "Beauty", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Ciaul+Sukabumi" },
-            { name: "SERENITY SPA", category: "Beauty", rating: 5.0, reviews: 54, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SERENITY+SPA+Sukabumi" },
-            { name: "Aida Spa & Massage", category: "Beauty", rating: 5.0, reviews: 38, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Aida+Spa+%26+Massage+Sukabumi" },
-            { name: "Natasha Skin Clinic Sukabumi", category: "Beauty", rating: 5.0, reviews: 190, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Natasha+Skin+Clinic+Sukabumi" },
-            { name: "Ella Skincare Sukabumi", category: "Beauty", rating: 5.0, reviews: 165, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ella+Skincare+Sukabumi" },
-
-            // Automotive
-            { name: "Hoki Motor sukabumi", category: "Automotive", rating: 4.3, reviews: 840, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Hoki+Motor+sukabumi" },
-            { name: "Cuci Steam Mobil & Motor 24 jam", category: "Automotive", rating: 4.3, reviews: 325, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cuci+Steam+Mobil+%26+Motor+24+jam+Sukabumi" },
-            { name: "Baros Jaya Motor", category: "Automotive", rating: 4.4, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Baros+Jaya+Motor+Sukabumi" },
-            { name: "Inti Prima Motor", category: "Automotive", rating: 4.4, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Inti+Prima+Motor+Sukabumi" },
-            { name: "lulu motor", category: "Automotive", rating: 4.4, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=lulu+motor+Sukabumi" },
-            { name: "Jaya Motor", category: "Automotive", rating: 4.4, reviews: 380, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Jaya+Motor+Sukabumi" },
-            { name: "Rey Motor Sukabumi", category: "Automotive", rating: 4.4, reviews: 290, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Rey+Motor+Sukabumi" },
-            { name: "Hars Motor", category: "Automotive", rating: 4.5, reviews: 460, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Hars+Motor+Sukabumi" },
-            { name: "Cipendawa Motor lll", category: "Automotive", rating: 4.5, reviews: 510, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cipendawa+Motor+lll+Sukabumi" },
-            { name: "Buana Raya Service - Auto Service Center", category: "Automotive", rating: 4.6, reviews: 720, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Buana+Raya+Service+-+Auto+Service+Center+Sukabumi" },
-            { name: "Central Carwash Sukabumi", category: "Automotive", rating: 4.6, reviews: 355, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Central+Carwash+Sukabumi" },
-            { name: "Ratu Motor", category: "Automotive", rating: 4.6, reviews: 285, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ratu+Motor+Sukabumi" },
-            { name: "CV.KINGKING MOTOR", category: "Automotive", rating: 4.6, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CV.KINGKING+MOTOR+Sukabumi" },
-            { name: "SHOWNGARAGE ( CAR WASH )", category: "Automotive", rating: 4.7, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SHOWNGARAGE+(+CAR+WASH+)+Sukabumi" },
-            { name: "CV ZIED AUTO SERVICE", category: "Automotive", rating: 4.8, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CV+ZIED+AUTO+SERVICE+Sukabumi" },
-            { name: "Bengkel motor sukabumi", category: "Automotive", rating: 4.8, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bengkel+motor+sukabumi" },
-            { name: "Toko Jati Raya Motor", category: "Automotive", rating: 4.8, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Toko+Jati+Raya+Motor+Sukabumi" },
-            { name: "Green_wash Cuci Mobil & Motor", category: "Automotive", rating: 4.9, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Green_wash+Cuci+Mobil+%26+Motor+Sukabumi" },
-            { name: "RBM (RumahBengkelMotor)", category: "Automotive", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=RBM+(RumahBengkelMotor)+Sukabumi" },
-            { name: "AH MASTER WASH (cuci garansi hujan)", category: "Automotive", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=AH+MASTER+WASH+(cuci+garansi+hujan)+Sukabumi" },
-
-            // Lodging
-            { name: "Grand Permata Hijau Hotel", category: "Lodging", rating: 4.2, reviews: 1450, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Grand+Permata+Hijau+Hotel+Sukabumi" },
-            { name: "Taman Sari Hotel & Resort", category: "Lodging", rating: 4.4, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Taman+Sari+Hotel+%26+Resort+Sukabumi" },
-            { name: "Balcony Hotel", category: "Lodging", rating: 4.4, reviews: 1890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Balcony+Hotel+Sukabumi" },
-            { name: "Homestay D'mutiara Sukabumi", category: "Lodging", rating: 4.5, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Homestay+D'mutiara+Sukabumi" },
-            { name: "Tikungan Indah Guest House", category: "Lodging", rating: 4.5, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tikungan+Indah+Guest+House+Sukabumi" },
-            { name: "Horison Sukabumi", category: "Lodging", rating: 4.6, reviews: 3200, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Horison+Sukabumi" },
-            { name: "The Bountie Hotels and Convention Center Sukabumi", category: "Lodging", rating: 4.6, reviews: 2850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=The+Bountie+Hotels+and+Convention+Center+Sukabumi" },
-            { name: "Firma Guest House", category: "Lodging", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Firma+Guest+House+Sukabumi" },
-            { name: "Anugrah Alam Homestay", category: "Lodging", rating: 4.7, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Anugrah+Alam+Homestay+Sukabumi" },
-            { name: "Vimi - villa sukabumi", category: "Lodging", rating: 4.7, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Vimi+-+villa+sukabumi" },
-            { name: "Kampoeng Kita", category: "Lodging", rating: 4.7, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kampoeng+Kita+Sukabumi" },
-            { name: "Homestay WS Sukabumi", category: "Lodging", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Homestay+WS+Sukabumi" },
-            { name: "Amsberg villa at Selabintana", category: "Lodging", rating: 4.9, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Amsberg+villa+at+Selabintana+Sukabumi" },
-            { name: "DCT Homestay Sukabumi", category: "Lodging", rating: 5.0, reviews: 65, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=DCT+Homestay+Sukabumi" },
-            { name: "Qiai Guest House Sukabumi", category: "Lodging", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Qiai+Guest+House+Sukabumi" },
-            { name: "SILVIA GUEST HOUSE", category: "Lodging", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SILVIA+GUEST+HOUSE+Sukabumi" },
-            { name: "Adiza Guest House", category: "Lodging", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Adiza+Guest+House+Sukabumi" },
-            { name: "De Haus Villa Syariah - Subang Jaya", category: "Lodging", rating: 5.0, reviews: 32, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=De+Haus+Villa+Syariah+-+Subang+Jaya" },
-            { name: "Villa Mochi Classic Sukabumi", category: "Lodging", rating: 5.0, reviews: 15, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Villa+Mochi+Classic+Sukabumi" },
-
-            // Health
-            { name: "Apotek Utari", category: "Health", rating: 1.0, reviews: 12, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Utari+Sukabumi" },
-            { name: "Apotek indo Medika", category: "Health", rating: 4.1, reviews: 85, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+indo+Medika+Sukabumi" },
-            { name: "Labkesda Kota Sukabumi", category: "Health", rating: 4.4, reviews: 140, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Labkesda+Kota+Sukabumi" },
-            { name: "KLINIK JALUR FARMA", category: "Health", rating: 4.5, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KLINIK+JALUR+FARMA+Sukabumi" },
-            { name: "Kimia Farma Sukabumi", category: "Health", rating: 4.5, reviews: 415, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kimia+Farma+Sukabumi" },
-            { name: "Laboratorium Klinik Vita Medika", category: "Health", rating: 4.6, reviews: 275, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Laboratorium+Klinik+Vita+Medika+Sukabumi" },
-            { name: "Primaya Hospital Sukabumi", category: "Health", rating: 4.7, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Primaya+Hospital+Sukabumi" },
-            { name: "Klinik Pratama Jasalab", category: "Health", rating: 4.7, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Pratama+Jasalab+Sukabumi" },
-            { name: "praktik dokter keluarga dr kamal & dr dini", category: "Health", rating: 4.8, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=praktik+dokter+keluarga+dr+kamal+%26+dr+dini+Sukabumi" },
-            { name: "Prodia Sukabumi", category: "Health", rating: 4.8, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Prodia+Sukabumi" },
-            { name: "Apotek Mitra Husada", category: "Health", rating: 4.9, reviews: 380, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Mitra+Husada+Sukabumi" },
-            { name: "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI", category: "Health", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=KLINIK+PRATAMA+WALUYA+SEJATI+ABADI+SUKABUMI" },
-            { name: "Klinik Holistic Natural Insani Sukabumi", category: "Health", rating: 4.9, reviews: 290, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Holistic+Natural+Insani+Sukabumi" },
-            { name: "Bening's Clinic Sukabumi", category: "Health", rating: 4.9, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bening's+Clinic+Sukabumi" },
-            { name: "Apotek Ciaul Sukabumi", category: "Health", rating: 4.9, reviews: 265, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Ciaul+Sukabumi" },
-            { name: "Klinik Obat Dokter Amelia Di Sukabumi", category: "Health", rating: 5.0, reviews: 48, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Klinik+Obat+Dokter+Amelia+Di+Sukabumi" },
-            { name: "KHITAN SUKABUMI CIPOHO MEDIKA", category: "Health", rating: 5.0, reviews: 115, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=KHITAN+SUKABUMI+CIPOHO+MEDIKA" },
-            { name: "APOTEK LARAS SUKABUMI", category: "Health", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=APOTEK+LARAS+SUKABUMI" },
-            { name: "Apotek Cikole Sukabumi", category: "Health", rating: 5.0, reviews: 76, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Apotek+Cikole+Sukabumi" },
-
-            // Services (Jasa)
-            { name: "Ardin Teknik Sukabumi", category: "Services", rating: 4.6, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ardin+Teknik+Sukabumi" },
-            { name: "Lavandera Laundry", category: "Services", rating: 4.7, reviews: 345, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Lavandera+Laundry+Sukabumi" },
-            { name: "Lumire Laundry Sukabumi", category: "Services", rating: 4.9, reviews: 220, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Lumire+Laundry+Sukabumi" },
-            { name: "SERVICE AC SUKABUMI SIGMA TECHNIQUE", category: "Services", rating: 4.9, reviews: 285, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+SIGMA+TECHNIQUE" },
-            { name: "Buana Jaya Mandiri Ac 1", category: "Services", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Buana+Jaya+Mandiri+Ac+1+Sukabumi" },
-            { name: "SERVICE KULKAS SUKABUMI", category: "Services", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+KULKAS+SUKABUMI" },
-            { name: "Service mesin cuci Sukabumi", category: "Services", rating: 4.9, reviews: 240, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Service+mesin+cuci+Sukabumi" },
-            { name: "Amani Laundry Terdekat Sukabumi", category: "Services", rating: 5.0, reviews: 188, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Amani+Laundry+Terdekat+Sukabumi" },
-            { name: "Sukabumi Laundry Cabang Cisaat", category: "Services", rating: 5.0, reviews: 95, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Laundry+Cabang+Cisaat" },
-            { name: "AA LAUNDRY Sukabumi", category: "Services", rating: 5.0, reviews: 62, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=AA+LAUNDRY+Sukabumi" },
-            { name: "MEGA CEMERLANG SUKABUMI", category: "Services", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=MEGA+CEMERLANG+SUKABUMI" },
-            { name: "Bersih.in WearCare Sukabumi", category: "Services", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bersih.in+WearCare+Sukabumi" },
-            { name: "ADAVA LAUNDRY Sukabumi", category: "Services", rating: 5.0, reviews: 38, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=ADAVA+LAUNDRY+Sukabumi" },
-            { name: "SERVICE AC SUKABUMI Alteknik", category: "Services", rating: 5.0, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+Alteknik" },
-            { name: "Utama teknik Sukabumi", category: "Services", rating: 5.0, reviews: 120, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Utama+teknik+Sukabumi" },
-            { name: "BIAN SUMUR BOR SUKABUMI", category: "Services", rating: 5.0, reviews: 75, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=BIAN+SUMUR+BOR+SUKABUMI" },
-            { name: "Sumur Bor Sukabumi Pak Darmi", category: "Services", rating: 5.0, reviews: 30, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sumur+Bor+Sukabumi+Pak+Darmi" },
-            { name: "Servis elektronik sukabumi", category: "Services", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Servis+elektronik+sukabumi" },
-            { name: "VANSERVIS Sukabumi", category: "Services", rating: 5.0, reviews: 54, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=VANSERVIS+Sukabumi" },
-            { name: "LJL SERVICE Sukabumi", category: "Services", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=LJL+SERVICE+Sukabumi" },
-
-            // Education
-            { name: "Cambridge Institute Sukabumi", category: "Education", rating: 4.4, reviews: 310, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cambridge+Institute+Sukabumi" },
-            { name: "Little Angels Learning Center Sukabumi", category: "Education", rating: 4.8, reviews: 245, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Little+Angels+Learning+Center+Sukabumi" },
-            { name: "Tunas Permata Bangsa Sukabumi", category: "Education", rating: 4.9, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tunas+Permata+Bangsa+Sukabumi" },
-            { name: "Bimbel ILC Sukabumi", category: "Education", rating: 4.9, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bimbel+ILC+Sukabumi" },
-            { name: "LPK GPB Sukabumi", category: "Education", rating: 4.9, reviews: 320, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=LPK+GPB+Sukabumi" },
-            { name: "Brain Academy Ruangguru Sukabumi", category: "Education", rating: 5.0, reviews: 195, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Brain+Academy+Ruangguru+Sukabumi" },
-            { name: "Math Champs Sukabumi", category: "Education", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Math+Champs+Sukabumi" },
-            { name: "Ganesha Operation Ra Kosasih Sukabumi", category: "Education", rating: 5.0, reviews: 140, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Ra+Kosasih+Sukabumi" },
-            { name: "Ganesha Operation Syamsudin Sukabumi", category: "Education", rating: 5.0, reviews: 165, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Syamsudin+Sukabumi" },
-            { name: "LBB Nurul Fikri RA Kosasih Sukabumi", category: "Education", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=LBB+Nurul+Fikri+RA+Kosasih+Sukabumi" },
-            { name: "Bumi Kreatif Institute Sukabumi", category: "Education", rating: 5.0, reviews: 75, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Bumi+Kreatif+Institute+Sukabumi" },
-            { name: "TPA KB TK Daruttaqwa Foundation Sukabumi", category: "Education", rating: 5.0, reviews: 42, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=TPA+KB+TK+Daruttaqwa+Foundation+Sukabumi" },
-            { name: "bimba genio cibeureum Sukabumi", category: "Education", rating: 5.0, reviews: 58, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=bimba+genio+cibeureum+Sukabumi" },
-            { name: "PlayWay Day Sukabumi", category: "Education", rating: 5.0, reviews: 34, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PlayWay+Day+Sukabumi" },
-            { name: "TKQ Gemilang Sukabumi", category: "Education", rating: 5.0, reviews: 28, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=TKQ+Gemilang+Sukabumi" },
-
-            // Retail
-            { name: "Berdikari Expo Sukabumi", category: "Retail", rating: 4.4, reviews: 850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Berdikari+Expo+Sukabumi" },
-            { name: "TB. Sumber Milik Sukabumi", category: "Retail", rating: 4.5, reviews: 640, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=TB.+Sumber+Milik+Sukabumi" },
-            { name: "Mochi Kaswari Lampion Sukabumi", category: "Retail", rating: 4.6, reviews: 3120, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Mochi+Kaswari+Lampion+Sukabumi" },
-            { name: "Pusat Jajanan Khas Sukabumi", category: "Retail", rating: 4.6, reviews: 1850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Pusat+Jajanan+Khas+Sukabumi" },
-            { name: "Toko Bangunan Baros Jaya Sukabumi", category: "Retail", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Toko+Bangunan+Baros+Jaya+Sukabumi" },
-            { name: "Bika Ambon Sunda Rasa Sukabumi", category: "Retail", rating: 4.7, reviews: 920, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Bika+Ambon+Sunda+Rasa+Sukabumi" },
-            { name: "Kelana Oleh-oleh Sukabumi", category: "Retail", rating: 4.7, reviews: 530, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kelana+Oleh-oleh+Sukabumi" },
-            { name: "Zahra Pet Shop & Grooming Sukabumi", category: "Retail", rating: 4.7, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Zahra+Pet+Shop+%26+Grooming+Sukabumi" },
-            { name: "RG Petshop & GROOMING Sukabumi", category: "Retail", rating: 4.7, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=RG+Petshop+%26+GROOMING+Sukabumi" },
-            { name: "Kamo Petshop Sukabumi", category: "Retail", rating: 4.7, reviews: 425, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kamo+Petshop+Sukabumi" },
-            { name: "SUKABUMI HOME CENTER", category: "Retail", rating: 4.7, reviews: 1150, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SUKABUMI+HOME+CENTER" },
-            { name: "Jansen Petshop Sukabumi", category: "Retail", rating: 4.8, reviews: 390, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Jansen+Petshop+Sukabumi" },
-            { name: "RKM Sukabumi", category: "Retail", rating: 4.9, reviews: 510, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=RKM+Sukabumi" },
-            { name: "Rumah Puding Premium Sukabumi", category: "Retail", rating: 4.9, reviews: 145, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Rumah+Puding+Premium+Sukabumi" },
-            { name: "Nori's Florist Sukabumi", category: "Retail", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Nori's+Florist+Sukabumi" },
-            { name: "Sukabumi Ratu Florist", category: "Retail", rating: 5.0, reviews: 65, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Sukabumi+Ratu+Florist" },
-            { name: "Florist Sukabumi", category: "Retail", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Florist+Sukabumi" },
-            { name: "Keler Bouquet Sukabumi", category: "Retail", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Keler+Bouquet+Sukabumi" },
-            { name: "Incrediblemoment florist sukabumi", category: "Retail", rating: 5.0, reviews: 94, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Incrediblemoment+florist+sukabumi" },
-            { name: "Millan Petshop Sukabumi", category: "Retail", rating: 5.0, reviews: 130, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Millan+Petshop+Sukabumi" },
-
-            // Event
-            { name: "HAI STUDIOS Sukabumi", category: "Event", rating: 4.5, reviews: 280, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=HAI+STUDIOS+Sukabumi" },
-            { name: "Disini Aja Studio Sukabumi", category: "Event", rating: 4.5, reviews: 215, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Disini+Aja+Studio+Sukabumi" },
-            { name: "IMAJI FOTO STUDIO SUKABUMI", category: "Event", rating: 4.6, reviews: 340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=IMAJI+FOTO+STUDIO+SUKABUMI" },
-            { name: "Azkana Wedding Dekorasi Sukabumi", category: "Event", rating: 4.7, reviews: 265, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Azkana+Wedding+Dekorasi+Sukabumi" },
-            { name: "GMS Tour and Travel Sukabumi", category: "Event", rating: 4.8, reviews: 210, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=GMS+Tour+and+Travel+Sukabumi" },
-            { name: "Wedding Planner Sukabumi", category: "Event", rating: 4.9, reviews: 295, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Wedding+Planner+Sukabumi" },
-            { name: "JAKA WEDDING ORGANIZER Sukabumi", category: "Event", rating: 4.9, reviews: 315, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=JAKA+WEDDING+ORGANIZER+Sukabumi" },
-            { name: "Licht Studio Sukabumi", category: "Event", rating: 4.9, reviews: 250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Licht+Studio+Sukabumi" },
-            { name: "Khei Wedding Organizer Sukabumi", category: "Event", rating: 5.0, reviews: 185, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Khei+Wedding+Organizer+Sukabumi" },
-            { name: "Affay Project Sukabumi", category: "Event", rating: 5.0, reviews: 112, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Affay+Project+Sukabumi" },
-            { name: "Gosimplywedding Office 1 Sukabumi", category: "Event", rating: 5.0, reviews: 88, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Gosimplywedding+Office+1+Sukabumi" },
-            { name: "Reality Event Organizer Sukabumi", category: "Event", rating: 5.0, reviews: 45, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Reality+Event+Organizer+Sukabumi" },
-            { name: "PRIMA WO Sukabumi", category: "Event", rating: 5.0, reviews: 67, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=PRIMA+WO+Sukabumi" },
-            { name: "Lensa Entertainment Sukabumi", category: "Event", rating: 5.0, reviews: 92, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Lensa+Entertainment+Sukabumi" },
-            { name: "Yunas Studio Sukabumi", category: "Event", rating: 5.0, reviews: 140, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Yunas+Studio+Sukabumi" },
-            { name: "Moophoto Photobooth Studio Baros Sukabumi", category: "Event", rating: 5.0, reviews: 175, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Moophoto+Photobooth+Studio+Baros+Sukabumi" },
-            { name: "Fauna photography Sukabumi", category: "Event", rating: 5.0, reviews: 110, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Fauna+photography+Sukabumi" },
-            { name: "Lawa Creative Studio Sukabumi", category: "Event", rating: 5.0, reviews: 85, strategy: "HIGH_LOW_REV", link: "https://www.google.com/maps/search/?api=1&query=Lawa+Creative+Studio+Sukabumi" },
-
-            // Tourism
-            { name: "Milkyverse Ramayana Sukabumi", category: "Tourism", rating: 4.0, reviews: 520, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Milkyverse+Ramayana+Sukabumi" },
-            { name: "Dinopark Sukabumi", category: "Tourism", rating: 4.1, reviews: 845, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Dinopark+Sukabumi" },
-            { name: "SantaSea Water Theme Park Sukabumi", category: "Tourism", rating: 4.2, reviews: 4100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=SantaSea+Water+Theme+Park+Sukabumi" },
-            { name: "Story Land Sukabumi", category: "Tourism", rating: 4.4, reviews: 1250, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Story+Land+Sukabumi" },
-            { name: "Sport Garden Sukabumi", category: "Tourism", rating: 4.4, reviews: 980, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Sport+Garden+Sukabumi" },
-            { name: "Ryzzy Azzahra Waterpark Sukabumi", category: "Tourism", rating: 4.4, reviews: 3420, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Ryzzy+Azzahra+Waterpark+Sukabumi" },
-            { name: "Kolam Renang Pilar Mas Sukabumi", category: "Tourism", rating: 4.5, reviews: 1150, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kolam+Renang+Pilar+Mas+Sukabumi" },
-            { name: "CAMPING GROUND BATUTAPAK Sukabumi", category: "Tourism", rating: 4.5, reviews: 890, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+BATUTAPAK+Sukabumi" },
-            { name: "De' Tani Waterpark Sukabumi", category: "Tourism", rating: 4.6, reviews: 2100, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=De'+Tani+Waterpark+Sukabumi" },
-            { name: "Happy House Playground&cafe Sukabumi", category: "Tourism", rating: 4.6, reviews: 640, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Happy+House+Playground%26cafe+Sukabumi" },
-            { name: "Kids story cibadak", category: "Tourism", rating: 4.6, reviews: 410, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Kids+story+cibadak" },
-            { name: "Cidahu Camping Ground", category: "Tourism", rating: 4.6, reviews: 1850, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground" },
-            { name: "CAMPING GROUND SITUGUNUNG", category: "Tourism", rating: 4.6, reviews: 1220, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+SITUGUNUNG" },
-            { name: "Tanakita 5 Star Camp Sukabumi", category: "Tourism", rating: 4.7, reviews: 2340, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Tanakita+5+Star+Camp+Sukabumi" },
-            { name: "Cidahu Camping Ground Lembah Damar", category: "Tourism", rating: 4.7, reviews: 950, strategy: "UNDER_5", link: "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground+Lembah+Damar" }
-        ];
-
+        // Master Dataset — 189 UMKM Sukabumi
+        // Data fresh hasil scrape Google Maps. Dikelola di js/data.js (cara nambah data ada di comment file itu).
+        const umkmData = window.UMKM_DATA;
         // Specific Zona Keyword Rules
         const zones = [
             { name: "Zona 1 (Baros/Jalur)", keywords: ["Baros", "Cipanengah", "JALUR", "Pelabuhan", "Nyomplong", "Degung", "Citamiang", "Cipendawa"] },
@@ -1123,11 +915,15 @@
 
         // Process master data with intelligent zone mapping & saved state
         const leadsData = umkmData.map((lead, index) => {
-            let assignedZone = "Zona 1 (Baros/Jalur)";
-            for (const z of zones) {
-                if (z.keywords.some(kw => lead.name.toLowerCase().includes(kw.toLowerCase()))) {
-                    assignedZone = z.name;
-                    break;
+            // Zona dari data (basis alamat Maps). Fallback: keyword nama -> default Jantung Kota.
+            let assignedZone = lead.zone;
+            if (!assignedZone) {
+                assignedZone = "Zona 4 (Jantung Kota)";
+                for (const z of zones) {
+                    if (z.keywords.some(kw => lead.name.toLowerCase().includes(kw.toLowerCase()))) {
+                        assignedZone = z.name;
+                        break;
+                    }
                 }
             }
 
@@ -1136,7 +932,8 @@
                 id: id,
                 ...lead,
                 zone: assignedZone,
-                mapsUrl: lead.link,
+                strategy: lead.strategy || (lead.rating === 5.0 ? "HIGH_LOW_REV" : "UNDER_5"),
+                mapsUrl: lead.mapsUrl || lead.link,
                 status: savedStatusMap[id] || "UNVISITED",
                 notes: savedNotesMap[id] || "",
                 wa: savedWaMap[id] || ""
