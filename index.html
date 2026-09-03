@@ -446,17 +446,7 @@
                             <div>
                                 <label class="block text-[11px] font-bold text-[#e8deb8] uppercase tracking-wider mb-1">Kategori Usaha</label>
                                 <select id="categoryFilter" class="w-full bg-[#061e11] border border-[#1c4d2e] rounded-2xl p-2.5 text-sm text-[#fbf7ee] focus:outline-none focus:border-[#f4ede2] transition-all font-medium">
-                                    <option value="all">Semua Kategori (10 Sektor)</option>
-                                    <option value="F&B">F&B</option>
-                                    <option value="Beauty">Beauty & Clinic</option>
-                                    <option value="Automotive">Automotive</option>
-                                    <option value="Lodging">Lodging & Hotel</option>
-                                    <option value="Health">Kesehatan & Apotek</option>
-                                    <option value="Services">Jasa & Servis</option>
-                                    <option value="Education">Pendidikan</option>
-                                    <option value="Retail">Retail & Toko</option>
-                                    <option value="Event">Event & Fotografi</option>
-                                    <option value="Tourism">Wisata & Rekreasi</option>
+                                    <option value="all">Semua Kategori</option>
                                 </select>
                             </div>
                         </div>
@@ -2279,6 +2269,16 @@
         zoneFilter.addEventListener('change', () => filterData());
         strategyFilter.addEventListener('change', () => filterData());
         categoryFilter.addEventListener('change', () => filterData());
+
+        // Dynamic Category Dropdown — selalu sinkron dengan data (kapan pun nambah kategori, otomatis nongol)
+        (function buildCategoryFilter() {
+            const counts = {};
+            umkmData.forEach(d => { counts[d.category] = (counts[d.category] || 0) + 1; });
+            const cats = Object.keys(counts).sort((a, b) => counts[b] - counts[a]);
+            const label = { 'F&B': 'F&B', 'Beauty': 'Beauty & Clinic', 'Lodging': 'Lodging & Hotel', 'Health': 'Kesehatan & Apotek', 'Services': 'Jasa & Servis', 'Education': 'Pendidikan', 'Retail': 'Retail & Toko', 'Event': 'Event & Fotografi', 'Tourism': 'Wisata & Rekreasi', 'Electronics': 'Elektronik & Gadget', 'Percetakan': 'Percetakan & Kreatif', 'Fashion': 'Fashion & Konveksi', 'Agrikultur': 'Pertanian & Peternakan', 'Olahraga': 'Olahraga & Hobi', 'Konstruksi': 'Properti & Konstruksi', 'Keuangan': 'Keuangan & Multifinance' };
+            categoryFilter.innerHTML = '<option value="all">Semua Kategori (' + cats.length + ' Sektor)</option>' +
+                cats.map(c => `<option value="${c}">${label[c] || c} (${counts[c]})</option>`).join('');
+        })();
 
         // Initial Boot
         checkInitialLockState();
