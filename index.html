@@ -718,29 +718,29 @@
                                     <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🎴 Google Review Card (NFC + QR)</span>
                                     <span class="font-bold text-[#e8deb8] text-xs">Rp 50.000</span>
                                 </div>
-                                <p class="text-[11px] text-[#8cb89d]">Kartu fisik pintar NFC Tap & Scan QR Google Review langsung ke toko.</p>
+                                <p class="text-[11px] text-[#8cb89d]">Kartu fisik pintar NFC Tap & Scan QR Google Review langsung ke toko. Diantar maksimal 1x24 jam (same day).</p>
                             </div>
                         </label>
 
                         <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
-                            <input type="radio" name="invPackage" value="bundle_100k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <input type="radio" name="invPackage" value="bundle_200k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
                             <div class="flex-1">
                                 <div class="flex items-center justify-between">
                                     <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🌐 Bundle Langganan Web + Card</span>
-                                    <span class="font-bold text-[#5eead4] text-xs">Rp 100.000 / bln</span>
+                                    <span class="font-bold text-[#5eead4] text-xs">Rp 200.000 / bln</span>
                                 </div>
-                                <p class="text-[11px] text-[#8cb89d]">Website UMKM + Bonus 1x Google Review Card + Maintenance bulanan.</p>
+                                <p class="text-[11px] text-[#8cb89d]">Website + 2x Review Card + garansi perbaikan web maks. 3 hari kerja. Bulan tanpa perubahan = bonus 2 kartu review.</p>
                             </div>
                         </label>
 
                         <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
-                            <input type="radio" name="invPackage" value="bundle_300k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <input type="radio" name="invPackage" value="bundle_500k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
                             <div class="flex-1">
                                 <div class="flex items-center justify-between">
                                     <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🚀 Bundle One-Time Web + Card</span>
-                                    <span class="font-bold text-[#fbbf24] text-xs">Rp 300.000</span>
+                                    <span class="font-bold text-[#fbbf24] text-xs">Rp 500.000</span>
                                 </div>
-                                <p class="text-[11px] text-[#8cb89d]">Website UMKM + 1x Google Review Card (Sekali bayar, tanpa maintenance).</p>
+                                <p class="text-[11px] text-[#8cb89d]">Website + 2x Google Review Card (Sekali bayar, serah terima penuh + domain, tanpa maintenance).</p>
                             </div>
                         </label>
 
@@ -868,7 +868,7 @@
             {
                 title: "Toko / Resto kita udah rame, gak butuh review",
                 context: "Pemilik toko merasa sudah cukup ramai dan tidak perlu marketing lagi.",
-                script: "Mantap banget kalau udah ramai Kak! Tapi di Google Maps, kompetitor baru tiap bulan selalu muncul dan agresif cari review. Kartu ini bukan cuma buat toko sepi, tapi buat 'mengunci dominasi' ranking 1 permanen di Sukabumi. Apalagi harganya cuma Rp 50.000 sekali bayar seumur hidup."
+                script: "Mantap banget kalau udah ramai Kak! Tapi di Google Maps, kompetitor baru tiap bulan selalu muncul dan agresif cari review. Kartu ini bukan cuma buat toko sepi, tapi buat 'mengunci dominasi' ranking 1 permanen di Sukabumi. Apalagi harganya cuma Rp 50.000 sekali bayar, kartunya langsung kami antarkan maksimal 1x24 jam."
             },
             {
                 title: "Takut customer iseng ngasih rating jelek / bintang 1",
@@ -878,7 +878,7 @@
             {
                 title: "Mahal / Gak ada anggaran dana sekarang",
                 context: "Bantahan harga atau prioritas pengeluaran.",
-                script: "Di NeuralKats kartu pintar NFC+QR ini cuma Rp 50.000 sekali bayar selamanya Kak, tanpa iuran bulanan. Kalau Kakak butuh website profesional juga ada bundle hemat 100rb/bulan atau 300rb sekali bayar. ROI-nya langsung balik hanya dari 1 customer baru yang mampir lewat Maps."
+                script: "Di NeuralKats kartu pintar NFC+QR ini cuma Rp 50.000 sekali bayar Kak, langsung diantar maks. 1x24 jam. Kalau Kakak butuh website profesional juga ada bundle hemat 200rb/bulan (plus garansi perbaikan web maks. 3 hari kerja) atau 500rb sekali bayar (serah terima penuh + domain). ROI-nya langsung balik hanya dari 1 customer baru yang mampir lewat Maps."
             }
         ];
 
@@ -1005,9 +1005,9 @@
 
         // NeuralKats Product Packages Configuration
         const PACKAGES_CONFIG = {
-            card_50k: { name: "Google Review Card (NFC + QR Code)", price: 50000, desc: "Kartu fisik pintar NFC Tap & Scan QR Code Google Review" },
-            bundle_100k: { name: "Paket Bundle Langganan Website + Bonus Review Card", price: 100000, desc: "Website UMKM + Bonus 1x Review Card + Maintenance bulanan" },
-            bundle_300k: { name: "Paket Bundle One-Time Website + Review Card", price: 300000, desc: "Website UMKM + 1x Review Card (Sekali bayar tanpa maintenance)" },
+            card_50k: { name: "Google Review Card (NFC + QR Code)", price: 50000, desc: "Kartu fisik pintar NFC Tap & Scan QR Code Google Review (diantar maks. 1x24 jam)" },
+            bundle_200k: { name: "Paket Bundle Langganan Website + 2x Review Card", price: 200000, desc: "Website + 2x Review Card + Maintenance & garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu" },
+            bundle_500k: { name: "Paket Bundle One-Time Website + 2x Review Card", price: 500000, desc: "Website + 2x Review Card (Sekali bayar, serah terima penuh + domain, tanpa maintenance)" },
             custom: { name: "Layanan Kustom / Custom Item", price: 0, desc: "Layanan teknologi / custom project NeuralKats" }
         };
 
@@ -1343,9 +1343,9 @@
                     <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
                         <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
                         <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
-                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar seumur hidup).</div>
-                            <div>• <strong>Bundle Langganan Web + Card:</strong> <span class="text-[#5eead4] font-bold">Rp 100.000/bln</span> (Dapat Website + Free Card + Maintenance).</div>
-                            <div>• <strong>Bundle One-Time Web + Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 300.000</span> (Website + Card tanpa iuran bulanan).</div>
+                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar, diantar maks. 1x24 jam).</div>
+                            <div>• <strong>Bundle Langganan Web + 2 Card:</strong> <span class="text-[#5eead4] font-bold">Rp 200.000/bln</span> (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu).</div>
+                            <div>• <strong>Bundle One-Time Web + 2 Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> (Sekali bayar, serah terima penuh + domain, tanpa iuran bulanan).</div>
                         </div>
                     </div>
                     
@@ -1369,9 +1369,9 @@
                     <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
                         <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
                         <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
-                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar seumur hidup).</div>
-                            <div>• <strong>Bundle Langganan Web + Card:</strong> <span class="text-[#5eead4] font-bold">Rp 100.000/bln</span> (Dapat Website + Free Card + Maintenance).</div>
-                            <div>• <strong>Bundle One-Time Web + Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 300.000</span> (Website + Card tanpa iuran bulanan).</div>
+                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar, diantar maks. 1x24 jam).</div>
+                            <div>• <strong>Bundle Langganan Web + 2 Card:</strong> <span class="text-[#5eead4] font-bold">Rp 200.000/bln</span> (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu).</div>
+                            <div>• <strong>Bundle One-Time Web + 2 Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> (Sekali bayar, serah terima penuh + domain, tanpa iuran bulanan).</div>
                         </div>
                     </div>
                     
@@ -1389,13 +1389,13 @@
                 return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Volume | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
                 `1. PAIN QUESTION:\n"Permisi Kak, dari 10 customer yang puas setelah transaksi di ${lead.name}, kira-kira berapa orang yang beneran nyempetin nulis review bintang 5 di Google Maps?"\n\n` +
                 `2. VALUE ANCHOR:\n"Padahal kalau setengahnya aja ninggalin review, sebulan udah dapet 100+ review organik. Itu setara sama billboard gratis yang narik customer baru tiap hari."\n\n` +
-                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (One-time)\n• Bundle Langganan Web + Card: Rp 100.000/bln (Website + Free Card + Maintenance)\n• Bundle One-Time Web + Card: Rp 300.000 (Website + Card)\n\n` +
+                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (Sekali bayar, diantar maks. 1x24 jam)\n• Bundle Langganan Web + 2 Card: Rp 200.000/bln (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu)\n• Bundle One-Time Web + 2 Card: Rp 500.000 (Sekali bayar, serah terima penuh + domain)\n\n` +
                 `4. MICRO-CLOSE:\n"Mau coba tes tap langsung di HP Kakak sekarang gimana cepatnya?"`;
             } else {
                 return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Rating | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
                 `1. PAIN QUESTION:\n"Permisi Kak, kalau calon pelanggan cari '${lead.category} terdekat' di Google Maps, dan lihat rating ${lead.name} di angka ${lead.rating}, mereka bakal langsung mampir atau malah lari ke kompetitor?"\n\n` +
                 `2. VALUE ANCHOR:\n"Sayang banget kalau pelanggan bocor ke kompetitor cuma karena rating. Padahal kalau tiap customer puas gampang kasih bintang 5, seminggu aja rating langsung naik ke 4.9+."\n\n` +
-                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (One-time)\n• Bundle Langganan Web + Card: Rp 100.000/bln (Website + Free Card + Maintenance)\n• Bundle One-Time Web + Card: Rp 300.000 (Website + Card)\n\n` +
+                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (Sekali bayar, diantar maks. 1x24 jam)\n• Bundle Langganan Web + 2 Card: Rp 200.000/bln (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu)\n• Bundle One-Time Web + 2 Card: Rp 500.000 (Sekali bayar, serah terima penuh + domain)\n\n` +
                 `4. MICRO-CLOSE:\n"Cuma 50 ribu sekali bayar, sangat masuk akal kan Kak buat ngunci agar omset toko gak bocor?"`;
             }
         }
