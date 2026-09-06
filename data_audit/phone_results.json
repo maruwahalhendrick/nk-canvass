@@ -1,0 +1,1497 @@
+[
+  {
+    "id": 1,
+    "name": "Ayam Goreng SS Super Sambal Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "noPhone": true
+  },
+  {
+    "id": 2,
+    "name": "Secret Garden Sukabumi",
+    "processed": true,
+    "phone": "087731991935",
+    "phoneType": "mobile",
+    "phoneRaw": "087731991935"
+  },
+  {
+    "id": 3,
+    "name": "Like Earth Coffee",
+    "processed": true,
+    "phone": "081299800096",
+    "phoneType": "mobile",
+    "phoneRaw": "081299800096"
+  },
+  {
+    "id": 4,
+    "name": "Kedai Kopi Ncek Joe Tie 1953",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 5,
+    "name": "D'Green Resto and Coffee",
+    "processed": true,
+    "phone": "02666250889",
+    "phoneType": "landline",
+    "phoneRaw": "02666250889"
+  },
+  {
+    "id": 6,
+    "name": "Butler Bar & Bistro",
+    "processed": true,
+    "phone": "02666243639",
+    "phoneType": "landline",
+    "phoneRaw": "02666243639"
+  },
+  {
+    "id": 7,
+    "name": "Kedai Kopi 35",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 8,
+    "name": "Restaurant Sunda Rasa Sukabumi",
+    "processed": true,
+    "phone": "0266213059",
+    "phoneType": "landline",
+    "phoneRaw": "0266213059"
+  },
+  {
+    "id": 9,
+    "name": "Botram Resto",
+    "processed": true,
+    "phone": "02666257125",
+    "phoneType": "landline",
+    "phoneRaw": "02666257125"
+  },
+  {
+    "id": 10,
+    "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "processed": true,
+    "phone": "0266221562",
+    "phoneType": "landline",
+    "phoneRaw": "0266221562"
+  },
+  {
+    "id": 11,
+    "name": "Red Brick Cafe",
+    "processed": true,
+    "phone": "08562259312",
+    "phoneType": "mobile",
+    "phoneRaw": "08562259312"
+  },
+  {
+    "id": 12,
+    "name": "Maple Bakery",
+    "processed": true,
+    "phone": "087886837974",
+    "phoneType": "mobile",
+    "phoneRaw": "087886837974"
+  },
+  {
+    "id": 13,
+    "name": "Dedi Catering Sukabumi",
+    "processed": true,
+    "phone": "085317323921",
+    "phoneType": "mobile",
+    "phoneRaw": "085317323921"
+  },
+  {
+    "id": 14,
+    "name": "Kopi Nako Sukabumi",
+    "processed": true,
+    "phone": "085218454121",
+    "phoneType": "mobile",
+    "phoneRaw": "085218454121"
+  },
+  {
+    "id": 15,
+    "name": "Yume Coffee",
+    "processed": true,
+    "phone": "085162753737",
+    "phoneType": "mobile",
+    "phoneRaw": "085162753737"
+  },
+  {
+    "id": 16,
+    "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 17,
+    "name": "Bandung Cheesecuit Sukabumi",
+    "processed": true,
+    "phone": "085138079841",
+    "phoneType": "mobile",
+    "phoneRaw": "085138079841"
+  },
+  {
+    "id": 18,
+    "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "processed": true,
+    "phone": "08998252744",
+    "phoneType": "mobile",
+    "phoneRaw": "08998252744"
+  },
+  {
+    "id": 19,
+    "name": "Catering & Snack Sarah 009 Dra. N. Rohanah",
+    "processed": true,
+    "phone": "085659480505",
+    "phoneType": "mobile",
+    "phoneRaw": "085659480505"
+  },
+  {
+    "id": 20,
+    "name": "Sukabumi Coffee Center",
+    "processed": true,
+    "phone": "0895607037200",
+    "phoneType": "mobile",
+    "phoneRaw": "0895607037200"
+  },
+  {
+    "id": 21,
+    "name": "Catering Murah Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085317323921",
+    "phoneType": "mobile",
+    "phoneRaw": "085317323921"
+  },
+  {
+    "id": 22,
+    "name": "INI KITCHEN SUKABUMI",
+    "processed": true,
+    "phone": "081211113410",
+    "phoneType": "mobile",
+    "phoneRaw": "081211113410"
+  },
+  {
+    "id": 23,
+    "name": "PAKIS Catering Sukabumi",
+    "processed": true,
+    "phone": "089648129378",
+    "phoneType": "mobile",
+    "phoneRaw": "089648129378"
+  },
+  {
+    "id": 24,
+    "name": "Pinisi Relaxation",
+    "processed": true,
+    "phone": "085723988876",
+    "phoneType": "mobile",
+    "phoneRaw": "085723988876"
+  },
+  {
+    "id": 25,
+    "name": "Rudi Salon Sukabumi",
+    "processed": true,
+    "phone": "089636398894",
+    "phoneType": "mobile",
+    "phoneRaw": "089636398894"
+  },
+  {
+    "id": 26,
+    "name": "Sara ivonne Beauty Studio Sukabumi",
+    "processed": true,
+    "phone": "08992213980",
+    "phoneType": "mobile",
+    "phoneRaw": "08992213980"
+  },
+  {
+    "id": 27,
+    "name": "KAYN Wellness",
+    "processed": true,
+    "phone": "0881011374685",
+    "phoneType": "mobile",
+    "phoneRaw": "0881011374685"
+  },
+  {
+    "id": 28,
+    "name": "Dr Metz Skincare",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "089620001112",
+    "phoneType": "mobile",
+    "phoneRaw": "089620001112"
+  },
+  {
+    "id": 29,
+    "name": "Avenue Salon Sukabumi",
+    "processed": true,
+    "phone": "085210512015",
+    "phoneType": "mobile",
+    "phoneRaw": "085210512015"
+  },
+  {
+    "id": 30,
+    "name": "ADJIE SALON",
+    "processed": true,
+    "phone": "081564700608",
+    "phoneType": "mobile",
+    "phoneRaw": "081564700608"
+  },
+  {
+    "id": 31,
+    "name": "Pixel Barbershop Nyomplong",
+    "processed": true,
+    "phone": "085188339937",
+    "phoneType": "mobile",
+    "phoneRaw": "085188339937"
+  },
+  {
+    "id": 32,
+    "name": "BARBERSTATION BARBERSHOP",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 33,
+    "name": "Simi Reflexology Massage & Spa",
+    "processed": true,
+    "phone": "0266226899",
+    "phoneType": "landline",
+    "phoneRaw": "0266226899"
+  },
+  {
+    "id": 34,
+    "name": "Nadifa Clinic Sukabumi",
+    "processed": true,
+    "phone": "082277773576",
+    "phoneType": "mobile",
+    "phoneRaw": "082277773576"
+  },
+  {
+    "id": 35,
+    "name": "Calysta skin care clinic",
+    "processed": true,
+    "phone": "085883422233",
+    "phoneType": "mobile",
+    "phoneRaw": "085883422233"
+  },
+  {
+    "id": 36,
+    "name": "ARSENIO SALON",
+    "processed": true,
+    "phone": "081111115517",
+    "phoneType": "mobile",
+    "phoneRaw": "081111115517"
+  },
+  {
+    "id": 37,
+    "name": "Pixel Barbershop Cipanengah",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085122575661",
+    "phoneType": "mobile",
+    "phoneRaw": "085122575661"
+  },
+  {
+    "id": 38,
+    "name": "Blackburn Barbershop - Sukabumi Branch",
+    "processed": true,
+    "phone": "085183119400",
+    "phoneType": "mobile",
+    "phoneRaw": "085183119400"
+  },
+  {
+    "id": 39,
+    "name": "Pixel Barbershop Ciaul",
+    "processed": true,
+    "phone": "085692515300",
+    "phoneType": "mobile",
+    "phoneRaw": "085692515300"
+  },
+  {
+    "id": 40,
+    "name": "SERENITY SPA",
+    "processed": true,
+    "phone": "085692712344",
+    "phoneType": "mobile",
+    "phoneRaw": "085692712344"
+  },
+  {
+    "id": 41,
+    "name": "Aida Spa & Massage",
+    "processed": true,
+    "phone": "089604423244",
+    "phoneType": "mobile",
+    "phoneRaw": "089604423244"
+  },
+  {
+    "id": 42,
+    "name": "Natasha Skin Clinic Sukabumi",
+    "processed": true,
+    "phone": "02666250788",
+    "phoneType": "landline",
+    "phoneRaw": "02666250788"
+  },
+  {
+    "id": 43,
+    "name": "Ella Skincare Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 44,
+    "name": "Hoki Motor sukabumi",
+    "processed": true,
+    "phone": "0266222709",
+    "phoneType": "landline",
+    "phoneRaw": "0266222709"
+  },
+  {
+    "id": 45,
+    "name": "Cuci Steam Mobil & Motor 24 jam",
+    "processed": true,
+    "viaPlaceClick": true,
+    "noPhone": true
+  },
+  {
+    "id": 46,
+    "name": "Baros Jaya Motor",
+    "processed": true,
+    "phone": "0266223419",
+    "phoneType": "landline",
+    "phoneRaw": "0266223419"
+  },
+  {
+    "id": 47,
+    "name": "Inti Prima Motor",
+    "processed": true,
+    "phone": "08159860099",
+    "phoneType": "mobile",
+    "phoneRaw": "08159860099"
+  },
+  {
+    "id": 48,
+    "name": "lulu motor",
+    "processed": true,
+    "phone": "08156296746",
+    "phoneType": "mobile",
+    "phoneRaw": "08156296746"
+  },
+  {
+    "id": 49,
+    "name": "Jaya Motor",
+    "processed": true,
+    "phone": "0266235167",
+    "phoneType": "landline",
+    "phoneRaw": "0266235167"
+  },
+  {
+    "id": 50,
+    "name": "Rey Motor Sukabumi",
+    "processed": true,
+    "phone": "081313595556",
+    "phoneType": "mobile",
+    "phoneRaw": "081313595556"
+  },
+  {
+    "id": 51,
+    "name": "Hars Motor",
+    "processed": true,
+    "phone": "08970777798",
+    "phoneType": "mobile",
+    "phoneRaw": "08970777798"
+  },
+  {
+    "id": 52,
+    "name": "Cipendawa Motor lll",
+    "processed": true,
+    "phone": "02666252866",
+    "phoneType": "landline",
+    "phoneRaw": "02666252866"
+  },
+  {
+    "id": 53,
+    "name": "Buana Raya Service - Auto Service Center",
+    "processed": true,
+    "phone": "0266233111",
+    "phoneType": "landline",
+    "phoneRaw": "0266233111"
+  },
+  {
+    "id": 54,
+    "name": "Central Carwash Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 55,
+    "name": "Ratu Motor",
+    "processed": true,
+    "phone": "085724252554",
+    "phoneType": "mobile",
+    "phoneRaw": "085724252554"
+  },
+  {
+    "id": 56,
+    "name": "CV.KINGKING MOTOR",
+    "processed": true,
+    "phone": "083818111515",
+    "phoneType": "mobile",
+    "phoneRaw": "083818111515"
+  },
+  {
+    "id": 57,
+    "name": "SHOWNGARAGE ( CAR WASH )",
+    "processed": true,
+    "phone": "087820609010",
+    "phoneType": "mobile",
+    "phoneRaw": "087820609010"
+  },
+  {
+    "id": 58,
+    "name": "CV ZIED AUTO SERVICE",
+    "processed": true,
+    "phone": "085864541100",
+    "phoneType": "mobile",
+    "phoneRaw": "085864541100"
+  },
+  {
+    "id": 59,
+    "name": "Bengkel motor sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "0266222709",
+    "phoneType": "landline",
+    "phoneRaw": "0266222709"
+  },
+  {
+    "id": 60,
+    "name": "Toko Jati Raya Motor",
+    "processed": true,
+    "phone": "0266216327",
+    "phoneType": "landline",
+    "phoneRaw": "0266216327"
+  },
+  {
+    "id": 61,
+    "name": "Green_wash Cuci Mobil & Motor",
+    "processed": true,
+    "phone": "085848800695",
+    "phoneType": "mobile",
+    "phoneRaw": "085848800695"
+  },
+  {
+    "id": 62,
+    "name": "RBM (RumahBengkelMotor)",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 63,
+    "name": "AH MASTER WASH (cuci garansi hujan)",
+    "processed": true,
+    "phone": "085775035410",
+    "phoneType": "mobile",
+    "phoneRaw": "085775035410"
+  },
+  {
+    "id": 64,
+    "name": "Grand Permata Hijau Hotel",
+    "processed": true,
+    "phone": "0811114412",
+    "phoneType": "mobile",
+    "phoneRaw": "0811114412"
+  },
+  {
+    "id": 65,
+    "name": "Taman Sari Hotel & Resort",
+    "processed": true,
+    "phone": "0266211457",
+    "phoneType": "landline",
+    "phoneRaw": "0266211457"
+  },
+  {
+    "id": 66,
+    "name": "Balcony Hotel",
+    "processed": true,
+    "phone": "0266211665",
+    "phoneType": "landline",
+    "phoneRaw": "0266211665"
+  },
+  {
+    "id": 67,
+    "name": "Homestay D'mutiara Sukabumi",
+    "processed": true,
+    "phone": "081383514364",
+    "phoneType": "mobile",
+    "phoneRaw": "081383514364"
+  },
+  {
+    "id": 68,
+    "name": "Tikungan Indah Guest House",
+    "processed": true,
+    "phone": "085283561431",
+    "phoneType": "mobile",
+    "phoneRaw": "085283561431"
+  },
+  {
+    "id": 69,
+    "name": "Horison Sukabumi",
+    "processed": true,
+    "phone": "0266223311",
+    "phoneType": "landline",
+    "phoneRaw": "0266223311"
+  },
+  {
+    "id": 70,
+    "name": "The Bountie Hotels and Convention Center Sukabumi",
+    "processed": true,
+    "phone": "0266221900",
+    "phoneType": "landline",
+    "phoneRaw": "0266221900"
+  },
+  {
+    "id": 71,
+    "name": "Firma Guest House",
+    "processed": true,
+    "phone": "085722293332",
+    "phoneType": "mobile",
+    "phoneRaw": "085722293332"
+  },
+  {
+    "id": 72,
+    "name": "Anugrah Alam Homestay",
+    "processed": true,
+    "phone": "085723292378",
+    "phoneType": "mobile",
+    "phoneRaw": "085723292378"
+  },
+  {
+    "id": 73,
+    "name": "Vimi - villa sukabumi",
+    "processed": true,
+    "phone": "081399978636",
+    "phoneType": "mobile",
+    "phoneRaw": "081399978636"
+  },
+  {
+    "id": 74,
+    "name": "Kampoeng Kita",
+    "processed": true,
+    "phone": "081219167664",
+    "phoneType": "mobile",
+    "phoneRaw": "081219167664"
+  },
+  {
+    "id": 75,
+    "name": "Homestay WS Sukabumi",
+    "processed": true,
+    "phone": "081281222254",
+    "phoneType": "mobile",
+    "phoneRaw": "081281222254"
+  },
+  {
+    "id": 76,
+    "name": "Amsberg villa at Selabintana",
+    "processed": true,
+    "phone": "08164820284",
+    "phoneType": "mobile",
+    "phoneRaw": "08164820284"
+  },
+  {
+    "id": 77,
+    "name": "DCT Homestay Sukabumi",
+    "processed": true,
+    "phone": "082312309669",
+    "phoneType": "mobile",
+    "phoneRaw": "082312309669"
+  },
+  {
+    "id": 78,
+    "name": "Qiai Guest House Sukabumi",
+    "processed": true,
+    "phone": "082210001248",
+    "phoneType": "mobile",
+    "phoneRaw": "082210001248"
+  },
+  {
+    "id": 79,
+    "name": "SILVIA GUEST HOUSE",
+    "processed": true,
+    "phone": "085862574816",
+    "phoneType": "mobile",
+    "phoneRaw": "085862574816"
+  },
+  {
+    "id": 80,
+    "name": "Adiza Guest House",
+    "processed": true,
+    "phone": "087823427024",
+    "phoneType": "mobile",
+    "phoneRaw": "087823427024"
+  },
+  {
+    "id": 81,
+    "name": "De Haus Villa Syariah - Subang Jaya",
+    "processed": true,
+    "phone": "081346603366",
+    "phoneType": "mobile",
+    "phoneRaw": "081346603366"
+  },
+  {
+    "id": 82,
+    "name": "Villa Mochi Classic Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085770217184",
+    "phoneType": "mobile",
+    "phoneRaw": "085770217184"
+  },
+  {
+    "id": 83,
+    "name": "APOTEK AFIAT FARMA SUKABUMI",
+    "processed": true,
+    "phone": "0895397218431",
+    "phoneType": "mobile",
+    "phoneRaw": "0895397218431"
+  },
+  {
+    "id": 84,
+    "name": "Apotek indo Medika",
+    "processed": true,
+    "phone": "085877771000",
+    "phoneType": "mobile",
+    "phoneRaw": "085877771000"
+  },
+  {
+    "id": 85,
+    "name": "Labkesda Kota Sukabumi",
+    "processed": true,
+    "phone": "085863416546",
+    "phoneType": "mobile",
+    "phoneRaw": "085863416546"
+  },
+  {
+    "id": 86,
+    "name": "KLINIK JALUR FARMA",
+    "processed": true,
+    "phone": "0266210909",
+    "phoneType": "landline",
+    "phoneRaw": "0266210909"
+  },
+  {
+    "id": 87,
+    "name": "Kimia Farma Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "08111169730",
+    "phoneType": "mobile",
+    "phoneRaw": "08111169730"
+  },
+  {
+    "id": 88,
+    "name": "Laboratorium Klinik Vita Medika",
+    "processed": true,
+    "phone": "08562041781",
+    "phoneType": "mobile",
+    "phoneRaw": "08562041781"
+  },
+  {
+    "id": 89,
+    "name": "Primaya Hospital Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 90,
+    "name": "Klinik Pratama Jasalab",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 91,
+    "name": "praktik dokter keluarga dr kamal & dr dini",
+    "processed": true,
+    "phone": "0895808892255",
+    "phoneType": "mobile",
+    "phoneRaw": "0895808892255"
+  },
+  {
+    "id": 92,
+    "name": "Prodia Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 93,
+    "name": "Apotek Mitra Husada",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081281173697",
+    "phoneType": "mobile",
+    "phoneRaw": "081281173697"
+  },
+  {
+    "id": 94,
+    "name": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+    "processed": true,
+    "phone": "081233000810",
+    "phoneType": "mobile",
+    "phoneRaw": "081233000810"
+  },
+  {
+    "id": 95,
+    "name": "Klinik Holistic Natural Insani Sukabumi",
+    "processed": true,
+    "phone": "0895405669662",
+    "phoneType": "mobile",
+    "phoneRaw": "0895405669662"
+  },
+  {
+    "id": 96,
+    "name": "Bening's Clinic Sukabumi",
+    "processed": true,
+    "phone": "081290393636",
+    "phoneType": "mobile",
+    "phoneRaw": "081290393636"
+  },
+  {
+    "id": 97,
+    "name": "Apotek Ciaul Sukabumi",
+    "processed": true,
+    "phone": "081911901978",
+    "phoneType": "mobile",
+    "phoneRaw": "081911901978"
+  },
+  {
+    "id": 98,
+    "name": "Klinik Obat Dokter Amelia Di Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 99,
+    "name": "KHITAN SUKABUMI CIPOHO MEDIKA",
+    "processed": true,
+    "phone": "085723366647",
+    "phoneType": "mobile",
+    "phoneRaw": "085723366647"
+  },
+  {
+    "id": 100,
+    "name": "APOTEK LARAS SUKABUMI",
+    "processed": true,
+    "phone": "081563628494",
+    "phoneType": "mobile",
+    "phoneRaw": "081563628494"
+  },
+  {
+    "id": 101,
+    "name": "Apotek Cikole Sukabumi",
+    "processed": true,
+    "phone": "085198673905",
+    "phoneType": "mobile",
+    "phoneRaw": "085198673905"
+  },
+  {
+    "id": 102,
+    "name": "Ardin Teknik Sukabumi",
+    "processed": true,
+    "phone": "081573506053",
+    "phoneType": "mobile",
+    "phoneRaw": "081573506053"
+  },
+  {
+    "id": 103,
+    "name": "Lavandera Laundry",
+    "processed": true,
+    "phone": "02666220041",
+    "phoneType": "landline",
+    "phoneRaw": "02666220041"
+  },
+  {
+    "id": 104,
+    "name": "Lumire Laundry Sukabumi",
+    "processed": true,
+    "phone": "082310001701",
+    "phoneType": "mobile",
+    "phoneRaw": "082310001701"
+  },
+  {
+    "id": 105,
+    "name": "SERVICE AC SUKABUMI SIGMA TECHNIQUE",
+    "processed": true,
+    "phone": "085861474745",
+    "phoneType": "mobile",
+    "phoneRaw": "085861474745"
+  },
+  {
+    "id": 106,
+    "name": "Buana Jaya Mandiri Ac 1",
+    "processed": true,
+    "phone": "081280338322",
+    "phoneType": "mobile",
+    "phoneRaw": "081280338322"
+  },
+  {
+    "id": 107,
+    "name": "SERVICE KULKAS SUKABUMI",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081563623888",
+    "phoneType": "mobile",
+    "phoneRaw": "081563623888"
+  },
+  {
+    "id": 108,
+    "name": "Service mesin cuci Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081563623888",
+    "phoneType": "mobile",
+    "phoneRaw": "081563623888"
+  },
+  {
+    "id": 109,
+    "name": "Amani Laundry Terdekat Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085719273592",
+    "phoneType": "mobile",
+    "phoneRaw": "085719273592"
+  },
+  {
+    "id": 110,
+    "name": "Sukabumi Laundry Cabang Cisaat",
+    "processed": true,
+    "phone": "085774060793",
+    "phoneType": "mobile",
+    "phoneRaw": "085774060793"
+  },
+  {
+    "id": 111,
+    "name": "AA LAUNDRY Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "088223051997",
+    "phoneType": "mobile",
+    "phoneRaw": "088223051997"
+  },
+  {
+    "id": 112,
+    "name": "MEGA CEMERLANG SUKABUMI",
+    "processed": true,
+    "phone": "085215831236",
+    "phoneType": "mobile",
+    "phoneRaw": "085215831236"
+  },
+  {
+    "id": 113,
+    "name": "Bersih.in WearCare Sukabumi",
+    "processed": true,
+    "phone": "085187975225",
+    "phoneType": "mobile",
+    "phoneRaw": "085187975225"
+  },
+  {
+    "id": 114,
+    "name": "ADAVA LAUNDRY Sukabumi",
+    "processed": true,
+    "phone": "085759638151",
+    "phoneType": "mobile",
+    "phoneRaw": "085759638151"
+  },
+  {
+    "id": 115,
+    "name": "SERVICE AC SUKABUMI Alteknik",
+    "processed": true,
+    "phone": "081383590065",
+    "phoneType": "mobile",
+    "phoneRaw": "081383590065"
+  },
+  {
+    "id": 116,
+    "name": "Utama teknik Sukabumi",
+    "processed": true,
+    "phone": "083834727229",
+    "phoneType": "mobile",
+    "phoneRaw": "083834727229"
+  },
+  {
+    "id": 117,
+    "name": "BIAN SUMUR BOR SUKABUMI",
+    "processed": true,
+    "phone": "085715183235",
+    "phoneType": "mobile",
+    "phoneRaw": "085715183235"
+  },
+  {
+    "id": 118,
+    "name": "Sumur Bor Sukabumi Pak Darmi",
+    "processed": true,
+    "phone": "085798171996",
+    "phoneType": "mobile",
+    "phoneRaw": "085798171996"
+  },
+  {
+    "id": 119,
+    "name": "Servis elektronik sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081563171152",
+    "phoneType": "mobile",
+    "phoneRaw": "081563171152"
+  },
+  {
+    "id": 120,
+    "name": "VANSERVIS Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "0266233111",
+    "phoneType": "landline",
+    "phoneRaw": "0266233111"
+  },
+  {
+    "id": 121,
+    "name": "LJL SERVICE Sukabumi",
+    "processed": true,
+    "phone": "085891241001",
+    "phoneType": "mobile",
+    "phoneRaw": "085891241001"
+  },
+  {
+    "id": 122,
+    "name": "Cambridge Institute Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 123,
+    "name": "Little Angels Learning Center Sukabumi",
+    "processed": true,
+    "phone": "02667162388",
+    "phoneType": "landline",
+    "phoneRaw": "02667162388"
+  },
+  {
+    "id": 124,
+    "name": "Tunas Permata Bangsa Sukabumi",
+    "processed": true,
+    "phone": "085793658585",
+    "phoneType": "mobile",
+    "phoneRaw": "085793658585"
+  },
+  {
+    "id": 125,
+    "name": "Bimbel ILC Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085263208092",
+    "phoneType": "mobile",
+    "phoneRaw": "085263208092"
+  },
+  {
+    "id": 126,
+    "name": "LPK GPB Sukabumi",
+    "processed": true,
+    "phone": "085798810002",
+    "phoneType": "mobile",
+    "phoneRaw": "085798810002"
+  },
+  {
+    "id": 127,
+    "name": "Brain Academy Ruangguru Sukabumi",
+    "processed": true,
+    "phone": "085215899714",
+    "phoneType": "mobile",
+    "phoneRaw": "085215899714"
+  },
+  {
+    "id": 128,
+    "name": "Math Champs Sukabumi",
+    "processed": true,
+    "phone": "081212229300",
+    "phoneType": "mobile",
+    "phoneRaw": "081212229300"
+  },
+  {
+    "id": 129,
+    "name": "Ganesha Operation Ra Kosasih Sukabumi",
+    "processed": true,
+    "phone": "08112386324",
+    "phoneType": "mobile",
+    "phoneRaw": "08112386324"
+  },
+  {
+    "id": 130,
+    "name": "Ganesha Operation Syamsudin Sukabumi",
+    "processed": true,
+    "phone": "08112386323",
+    "phoneType": "mobile",
+    "phoneRaw": "08112386323"
+  },
+  {
+    "id": 131,
+    "name": "LBB Nurul Fikri RA Kosasih Sukabumi",
+    "processed": true,
+    "phone": "085603925970",
+    "phoneType": "mobile",
+    "phoneRaw": "085603925970"
+  },
+  {
+    "id": 132,
+    "name": "Bumi Kreatif Institute Sukabumi",
+    "processed": true,
+    "phone": "081563399429",
+    "phoneType": "mobile",
+    "phoneRaw": "081563399429"
+  },
+  {
+    "id": 133,
+    "name": "TPA KB TK Daruttaqwa Foundation Sukabumi",
+    "processed": true,
+    "phone": "085860669993",
+    "phoneType": "mobile",
+    "phoneRaw": "085860669993"
+  },
+  {
+    "id": 134,
+    "name": "bimba genio cibeureum Sukabumi",
+    "processed": true,
+    "phone": "083829829898",
+    "phoneType": "mobile",
+    "phoneRaw": "083829829898"
+  },
+  {
+    "id": 135,
+    "name": "PlayWay Day Sukabumi",
+    "processed": true,
+    "phone": "082219836661",
+    "phoneType": "mobile",
+    "phoneRaw": "082219836661"
+  },
+  {
+    "id": 136,
+    "name": "TKQ Gemilang Sukabumi",
+    "processed": true,
+    "phone": "089506194217",
+    "phoneType": "mobile",
+    "phoneRaw": "089506194217"
+  },
+  {
+    "id": 137,
+    "name": "Berdikari Expo Sukabumi",
+    "processed": true,
+    "phone": "085600000222",
+    "phoneType": "mobile",
+    "phoneRaw": "085600000222"
+  },
+  {
+    "id": 138,
+    "name": "TB. Sumber Milik Sukabumi",
+    "processed": true,
+    "phone": "087888881040",
+    "phoneType": "mobile",
+    "phoneRaw": "087888881040"
+  },
+  {
+    "id": 139,
+    "name": "Mochi Kaswari Lampion Sukabumi",
+    "processed": true,
+    "phone": "08111122594",
+    "phoneType": "mobile",
+    "phoneRaw": "08111122594"
+  },
+  {
+    "id": 140,
+    "name": "Pusat Jajanan Khas Sukabumi",
+    "processed": true,
+    "phone": "085720300055",
+    "phoneType": "mobile",
+    "phoneRaw": "085720300055"
+  },
+  {
+    "id": 141,
+    "name": "Toko Bangunan Baros Jaya Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 142,
+    "name": "Bika Ambon Sunda Rasa Sukabumi",
+    "processed": true,
+    "phone": "0266231540",
+    "phoneType": "landline",
+    "phoneRaw": "0266231540"
+  },
+  {
+    "id": 143,
+    "name": "Kelana Oleh-oleh Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "noPhone": true
+  },
+  {
+    "id": 144,
+    "name": "Zahra Pet Shop & Grooming Sukabumi",
+    "processed": true,
+    "phone": "087820899599",
+    "phoneType": "mobile",
+    "phoneRaw": "087820899599"
+  },
+  {
+    "id": 145,
+    "name": "RG Petshop & GROOMING Sukabumi",
+    "processed": true,
+    "phone": "08991436888",
+    "phoneType": "mobile",
+    "phoneRaw": "08991436888"
+  },
+  {
+    "id": 146,
+    "name": "Kamo Petshop Sukabumi",
+    "processed": true,
+    "phone": "089673378345",
+    "phoneType": "mobile",
+    "phoneRaw": "089673378345"
+  },
+  {
+    "id": 147,
+    "name": "SUKABUMI HOME CENTER",
+    "processed": true,
+    "phone": "085721798176",
+    "phoneType": "mobile",
+    "phoneRaw": "085721798176"
+  },
+  {
+    "id": 148,
+    "name": "Jansen Petshop Sukabumi",
+    "processed": true,
+    "phone": "081224139192",
+    "phoneType": "mobile",
+    "phoneRaw": "081224139192"
+  },
+  {
+    "id": 149,
+    "name": "RKM Sukabumi",
+    "processed": true,
+    "phone": "08112211016",
+    "phoneType": "mobile",
+    "phoneRaw": "08112211016"
+  },
+  {
+    "id": 150,
+    "name": "Rumah Puding Premium Sukabumi",
+    "processed": true,
+    "phone": "085864005100",
+    "phoneType": "mobile",
+    "phoneRaw": "085864005100"
+  },
+  {
+    "id": 151,
+    "name": "Nori's Florist Sukabumi",
+    "processed": true,
+    "phone": "081779441245",
+    "phoneType": "mobile",
+    "phoneRaw": "081779441245"
+  },
+  {
+    "id": 152,
+    "name": "Sukabumi Ratu Florist",
+    "processed": true,
+    "phone": "085774058845",
+    "phoneType": "mobile",
+    "phoneRaw": "085774058845"
+  },
+  {
+    "id": 153,
+    "name": "Florist Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081779441245",
+    "phoneType": "mobile",
+    "phoneRaw": "081779441245"
+  },
+  {
+    "id": 154,
+    "name": "Keler Bouquet Sukabumi",
+    "processed": true,
+    "phone": "089637546144",
+    "phoneType": "mobile",
+    "phoneRaw": "089637546144"
+  },
+  {
+    "id": 155,
+    "name": "Incrediblemoment florist sukabumi",
+    "processed": true,
+    "phone": "08381015846",
+    "phoneType": "mobile",
+    "phoneRaw": "08381015846"
+  },
+  {
+    "id": 156,
+    "name": "Millan Petshop Sukabumi",
+    "processed": true,
+    "phone": "089519201920",
+    "phoneType": "mobile",
+    "phoneRaw": "089519201920"
+  },
+  {
+    "id": 157,
+    "name": "HAI STUDIOS Sukabumi",
+    "processed": true,
+    "phone": "0816279750",
+    "phoneType": "mobile",
+    "phoneRaw": "0816279750"
+  },
+  {
+    "id": 158,
+    "name": "Disini Aja Studio Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 159,
+    "name": "IMAJI FOTO STUDIO SUKABUMI",
+    "processed": true,
+    "phone": "08111177225",
+    "phoneType": "mobile",
+    "phoneRaw": "08111177225"
+  },
+  {
+    "id": 160,
+    "name": "Azkana Wedding Dekorasi Sukabumi",
+    "processed": true,
+    "phone": "085210120080",
+    "phoneType": "mobile",
+    "phoneRaw": "085210120080"
+  },
+  {
+    "id": 161,
+    "name": "GMS Tour and Travel Sukabumi",
+    "processed": true,
+    "phone": "081315003942",
+    "phoneType": "mobile",
+    "phoneRaw": "081315003942"
+  },
+  {
+    "id": 162,
+    "name": "Wedding Planner Sukabumi",
+    "processed": true,
+    "phone": "087844546379",
+    "phoneType": "mobile",
+    "phoneRaw": "087844546379"
+  },
+  {
+    "id": 163,
+    "name": "JAKA WEDDING ORGANIZER Sukabumi",
+    "processed": true,
+    "phone": "085797130796",
+    "phoneType": "mobile",
+    "phoneRaw": "085797130796"
+  },
+  {
+    "id": 164,
+    "name": "Licht Studio Sukabumi",
+    "processed": true,
+    "phone": "085174432305",
+    "phoneType": "mobile",
+    "phoneRaw": "085174432305"
+  },
+  {
+    "id": 165,
+    "name": "Khei Wedding Organizer Sukabumi",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "082310900100",
+    "phoneType": "mobile",
+    "phoneRaw": "082310900100"
+  },
+  {
+    "id": 166,
+    "name": "Affay Project Sukabumi",
+    "processed": true,
+    "phone": "081285960220",
+    "phoneType": "mobile",
+    "phoneRaw": "081285960220"
+  },
+  {
+    "id": 167,
+    "name": "Gosimplywedding Office 1 Sukabumi",
+    "processed": true,
+    "phone": "081311566060",
+    "phoneType": "mobile",
+    "phoneRaw": "081311566060"
+  },
+  {
+    "id": 168,
+    "name": "Reality Event Organizer Sukabumi",
+    "processed": true,
+    "phone": "085794048015",
+    "phoneType": "mobile",
+    "phoneRaw": "085794048015"
+  },
+  {
+    "id": 169,
+    "name": "PRIMA WO Sukabumi",
+    "processed": true,
+    "phone": "085314455170",
+    "phoneType": "mobile",
+    "phoneRaw": "085314455170"
+  },
+  {
+    "id": 170,
+    "name": "Lensa Entertainment Sukabumi",
+    "processed": true,
+    "phone": "085846138137",
+    "phoneType": "mobile",
+    "phoneRaw": "085846138137"
+  },
+  {
+    "id": 171,
+    "name": "Yunas Studio Sukabumi",
+    "processed": true,
+    "phone": "081235063247",
+    "phoneType": "mobile",
+    "phoneRaw": "081235063247"
+  },
+  {
+    "id": 172,
+    "name": "Moophoto Photobooth Studio Baros Sukabumi",
+    "processed": true,
+    "phone": "085722948500",
+    "phoneType": "mobile",
+    "phoneRaw": "085722948500"
+  },
+  {
+    "id": 173,
+    "name": "Fauna photography Sukabumi",
+    "processed": true,
+    "phone": "087882987413",
+    "phoneType": "mobile",
+    "phoneRaw": "087882987413"
+  },
+  {
+    "id": 174,
+    "name": "Lawa Creative Studio Sukabumi",
+    "processed": true,
+    "phone": "08973301000",
+    "phoneType": "mobile",
+    "phoneRaw": "08973301000"
+  },
+  {
+    "id": 175,
+    "name": "Milkyverse Ramayana Sukabumi",
+    "processed": true,
+    "phone": "088210796294",
+    "phoneType": "mobile",
+    "phoneRaw": "088210796294"
+  },
+  {
+    "id": 176,
+    "name": "Dinopark Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 177,
+    "name": "SantaSea Water Theme Park Sukabumi",
+    "processed": true,
+    "phone": "02666223023",
+    "phoneType": "landline",
+    "phoneRaw": "02666223023"
+  },
+  {
+    "id": 178,
+    "name": "Story Land Sukabumi",
+    "processed": true,
+    "noPhone": true
+  },
+  {
+    "id": 179,
+    "name": "Sport Garden Sukabumi",
+    "processed": true,
+    "phone": "085280023782",
+    "phoneType": "mobile",
+    "phoneRaw": "085280023782"
+  },
+  {
+    "id": 180,
+    "name": "Ryzzy Azzahra Waterpark Sukabumi",
+    "processed": true,
+    "phone": "08997469322",
+    "phoneType": "mobile",
+    "phoneRaw": "08997469322"
+  },
+  {
+    "id": 181,
+    "name": "Kolam Renang Pilar Mas Sukabumi",
+    "processed": true,
+    "phone": "085797810150",
+    "phoneType": "mobile",
+    "phoneRaw": "085797810150"
+  },
+  {
+    "id": 182,
+    "name": "CAMPING GROUND BATUTAPAK Sukabumi",
+    "processed": true,
+    "phone": "087780725576",
+    "phoneType": "mobile",
+    "phoneRaw": "087780725576"
+  },
+  {
+    "id": 183,
+    "name": "De' Tani Waterpark Sukabumi",
+    "processed": true,
+    "phone": "081911880088",
+    "phoneType": "mobile",
+    "phoneRaw": "081911880088"
+  },
+  {
+    "id": 184,
+    "name": "Happy House Playground&cafe Sukabumi",
+    "processed": true,
+    "phone": "085720616260",
+    "phoneType": "mobile",
+    "phoneRaw": "085720616260"
+  },
+  {
+    "id": 185,
+    "name": "Kids story cibadak",
+    "processed": true,
+    "phone": "081563217032",
+    "phoneType": "mobile",
+    "phoneRaw": "081563217032"
+  },
+  {
+    "id": 186,
+    "name": "Cidahu Camping Ground",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "085624326964",
+    "phoneType": "mobile",
+    "phoneRaw": "085624326964"
+  },
+  {
+    "id": 187,
+    "name": "CAMPING GROUND SITUGUNUNG",
+    "processed": true,
+    "viaPlaceClick": true,
+    "phone": "081298661853",
+    "phoneType": "mobile",
+    "phoneRaw": "081298661853"
+  },
+  {
+    "id": 188,
+    "name": "Tanakita 5 Star Camp Sukabumi",
+    "processed": true,
+    "phone": "087820631452",
+    "phoneType": "mobile",
+    "phoneRaw": "087820631452"
+  },
+  {
+    "id": 189,
+    "name": "Cidahu Camping Ground Lembah Damar",
+    "processed": true,
+    "phone": "085797019515",
+    "phoneType": "mobile",
+    "phoneRaw": "085797019515"
+  }
+]

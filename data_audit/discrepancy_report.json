@@ -1,0 +1,1011 @@
+{
+  "generated": "2026-09-02T20:26:32.266Z",
+  "summary": {
+    "total": 189,
+    "verified": 188,
+    "cityMismatch": 0,
+    "noResults": 0,
+    "errors": 0,
+    "captcha": 0,
+    "ratingDiscrepancy": 5,
+    "reviewDiscrepancy": 134,
+    "resolvedViaSearchPanel": 188
+  },
+  "issues": [
+    {
+      "type": "CITY_MISMATCH",
+      "count": 0,
+      "items": []
+    },
+    {
+      "type": "RATING_OFF",
+      "count": 5,
+      "items": [
+        {
+          "id": 21,
+          "name": "Catering Murah Sukabumi",
+          "claimed": 5,
+          "actual": 4.8,
+          "delta": -0.2
+        },
+        {
+          "id": 59,
+          "name": "Bengkel motor sukabumi",
+          "claimed": 4.8,
+          "actual": 4.3,
+          "delta": -0.5
+        },
+        {
+          "id": 87,
+          "name": "Kimia Farma Sukabumi",
+          "claimed": 4.5,
+          "actual": 3.7,
+          "delta": -0.8
+        },
+        {
+          "id": 109,
+          "name": "Amani Laundry Terdekat Sukabumi",
+          "claimed": 5,
+          "actual": 4.8,
+          "delta": -0.2
+        },
+        {
+          "id": 120,
+          "name": "VANSERVIS Sukabumi",
+          "claimed": 5,
+          "actual": 4.6,
+          "delta": -0.4
+        }
+      ]
+    },
+    {
+      "type": "REVIEW_OFF",
+      "count": 134,
+      "items": [
+        {
+          "id": 2,
+          "name": "Secret Garden Sukabumi",
+          "claimed": 2621,
+          "actual": 144,
+          "pct": -95
+        },
+        {
+          "id": 5,
+          "name": "D'Green Resto and Coffee",
+          "claimed": 1105,
+          "actual": 1878,
+          "pct": 70
+        },
+        {
+          "id": 6,
+          "name": "Butler Bar & Bistro",
+          "claimed": 890,
+          "actual": 1442,
+          "pct": 62
+        },
+        {
+          "id": 8,
+          "name": "Restaurant Sunda Rasa Sukabumi",
+          "claimed": 2100,
+          "actual": 1048,
+          "pct": -50
+        },
+        {
+          "id": 13,
+          "name": "Dedi Catering Sukabumi",
+          "claimed": 215,
+          "actual": 95,
+          "pct": -56
+        },
+        {
+          "id": 14,
+          "name": "Kopi Nako Sukabumi",
+          "claimed": 185,
+          "actual": 3747,
+          "pct": 1925
+        },
+        {
+          "id": 15,
+          "name": "Yume Coffee",
+          "claimed": 142,
+          "actual": 425,
+          "pct": 199
+        },
+        {
+          "id": 16,
+          "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+          "claimed": 98,
+          "actual": 1904,
+          "pct": 1843
+        },
+        {
+          "id": 17,
+          "name": "Bandung Cheesecuit Sukabumi",
+          "claimed": 115,
+          "actual": 186,
+          "pct": 62
+        },
+        {
+          "id": 18,
+          "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+          "claimed": 76,
+          "actual": 123,
+          "pct": 62
+        },
+        {
+          "id": 20,
+          "name": "Sukabumi Coffee Center",
+          "claimed": 22,
+          "actual": 176,
+          "pct": 700
+        },
+        {
+          "id": 21,
+          "name": "Catering Murah Sukabumi",
+          "claimed": 18,
+          "actual": 95,
+          "pct": 428
+        },
+        {
+          "id": 22,
+          "name": "INI KITCHEN SUKABUMI",
+          "claimed": 34,
+          "actual": 1,
+          "pct": -97
+        },
+        {
+          "id": 24,
+          "name": "Pinisi Relaxation",
+          "claimed": 750,
+          "actual": 286,
+          "pct": -62
+        },
+        {
+          "id": 25,
+          "name": "Rudi Salon Sukabumi",
+          "claimed": 420,
+          "actual": 197,
+          "pct": -53
+        },
+        {
+          "id": 26,
+          "name": "Sara ivonne Beauty Studio Sukabumi",
+          "claimed": 315,
+          "actual": 144,
+          "pct": -54
+        },
+        {
+          "id": 27,
+          "name": "KAYN Wellness",
+          "claimed": 280,
+          "actual": 11,
+          "pct": -96
+        },
+        {
+          "id": 28,
+          "name": "Dr Metz Skincare",
+          "claimed": 890,
+          "actual": 419,
+          "pct": -53
+        },
+        {
+          "id": 29,
+          "name": "Avenue Salon Sukabumi",
+          "claimed": 210,
+          "actual": 65,
+          "pct": -69
+        },
+        {
+          "id": 31,
+          "name": "Pixel Barbershop Nyomplong",
+          "claimed": 340,
+          "actual": 789,
+          "pct": 132
+        },
+        {
+          "id": 32,
+          "name": "BARBERSTATION BARBERSHOP",
+          "claimed": 415,
+          "actual": 197,
+          "pct": -53
+        },
+        {
+          "id": 33,
+          "name": "Simi Reflexology Massage & Spa",
+          "claimed": 520,
+          "actual": 2182,
+          "pct": 320
+        },
+        {
+          "id": 34,
+          "name": "Nadifa Clinic Sukabumi",
+          "claimed": 255,
+          "actual": 88,
+          "pct": -65
+        },
+        {
+          "id": 35,
+          "name": "Calysta skin care clinic",
+          "claimed": 310,
+          "actual": 147,
+          "pct": -53
+        },
+        {
+          "id": 36,
+          "name": "ARSENIO SALON",
+          "claimed": 145,
+          "actual": 223,
+          "pct": 54
+        },
+        {
+          "id": 37,
+          "name": "Pixel Barbershop Cipanengah",
+          "claimed": 112,
+          "actual": 1320,
+          "pct": 1079
+        },
+        {
+          "id": 38,
+          "name": "Blackburn Barbershop - Sukabumi Branch",
+          "claimed": 89,
+          "actual": 2764,
+          "pct": 3006
+        },
+        {
+          "id": 39,
+          "name": "Pixel Barbershop Ciaul",
+          "claimed": 175,
+          "actual": 3672,
+          "pct": 1998
+        },
+        {
+          "id": 41,
+          "name": "Aida Spa & Massage",
+          "claimed": 38,
+          "actual": 1,
+          "pct": -97
+        },
+        {
+          "id": 42,
+          "name": "Natasha Skin Clinic Sukabumi",
+          "claimed": 190,
+          "actual": 938,
+          "pct": 394
+        },
+        {
+          "id": 43,
+          "name": "Ella Skincare Sukabumi",
+          "claimed": 165,
+          "actual": 493,
+          "pct": 199
+        },
+        {
+          "id": 44,
+          "name": "Hoki Motor sukabumi",
+          "claimed": 840,
+          "actual": 106,
+          "pct": -87
+        },
+        {
+          "id": 45,
+          "name": "Cuci Steam Mobil & Motor 24 jam",
+          "claimed": 325,
+          "actual": 711,
+          "pct": 119
+        },
+        {
+          "id": 47,
+          "name": "Inti Prima Motor",
+          "claimed": 530,
+          "actual": 167,
+          "pct": -68
+        },
+        {
+          "id": 48,
+          "name": "lulu motor",
+          "claimed": 215,
+          "actual": 77,
+          "pct": -64
+        },
+        {
+          "id": 49,
+          "name": "Jaya Motor",
+          "claimed": 380,
+          "actual": 89,
+          "pct": -77
+        },
+        {
+          "id": 50,
+          "name": "Rey Motor Sukabumi",
+          "claimed": 290,
+          "actual": 34,
+          "pct": -88
+        },
+        {
+          "id": 52,
+          "name": "Cipendawa Motor lll",
+          "claimed": 510,
+          "actual": 209,
+          "pct": -59
+        },
+        {
+          "id": 53,
+          "name": "Buana Raya Service - Auto Service Center",
+          "claimed": 720,
+          "actual": 139,
+          "pct": -81
+        },
+        {
+          "id": 54,
+          "name": "Central Carwash Sukabumi",
+          "claimed": 355,
+          "actual": 45,
+          "pct": -87
+        },
+        {
+          "id": 55,
+          "name": "Ratu Motor",
+          "claimed": 285,
+          "actual": 77,
+          "pct": -73
+        },
+        {
+          "id": 56,
+          "name": "CV.KINGKING MOTOR",
+          "claimed": 310,
+          "actual": 692,
+          "pct": 123
+        },
+        {
+          "id": 57,
+          "name": "SHOWNGARAGE ( CAR WASH )",
+          "claimed": 245,
+          "actual": 69,
+          "pct": -72
+        },
+        {
+          "id": 58,
+          "name": "CV ZIED AUTO SERVICE",
+          "claimed": 415,
+          "actual": 114,
+          "pct": -73
+        },
+        {
+          "id": 60,
+          "name": "Toko Jati Raya Motor",
+          "claimed": 340,
+          "actual": 31,
+          "pct": -91
+        },
+        {
+          "id": 61,
+          "name": "Green_wash Cuci Mobil & Motor",
+          "claimed": 275,
+          "actual": 101,
+          "pct": -63
+        },
+        {
+          "id": 62,
+          "name": "RBM (RumahBengkelMotor)",
+          "claimed": 85,
+          "actual": 27,
+          "pct": -68
+        },
+        {
+          "id": 63,
+          "name": "AH MASTER WASH (cuci garansi hujan)",
+          "claimed": 42,
+          "actual": 20,
+          "pct": -52
+        },
+        {
+          "id": 65,
+          "name": "Taman Sari Hotel & Resort",
+          "claimed": 2100,
+          "actual": 3352,
+          "pct": 60
+        },
+        {
+          "id": 67,
+          "name": "Homestay D'mutiara Sukabumi",
+          "claimed": 320,
+          "actual": 113,
+          "pct": -65
+        },
+        {
+          "id": 68,
+          "name": "Tikungan Indah Guest House",
+          "claimed": 275,
+          "actual": 38,
+          "pct": -86
+        },
+        {
+          "id": 69,
+          "name": "Horison Sukabumi",
+          "claimed": 3200,
+          "actual": 5864,
+          "pct": 83
+        },
+        {
+          "id": 70,
+          "name": "The Bountie Hotels and Convention Center Sukabumi",
+          "claimed": 2850,
+          "actual": 5696,
+          "pct": 100
+        },
+        {
+          "id": 71,
+          "name": "Firma Guest House",
+          "claimed": 410,
+          "actual": 188,
+          "pct": -54
+        },
+        {
+          "id": 72,
+          "name": "Anugrah Alam Homestay",
+          "claimed": 530,
+          "actual": 78,
+          "pct": -85
+        },
+        {
+          "id": 73,
+          "name": "Vimi - villa sukabumi",
+          "claimed": 215,
+          "actual": 9,
+          "pct": -96
+        },
+        {
+          "id": 74,
+          "name": "Kampoeng Kita",
+          "claimed": 340,
+          "actual": 43,
+          "pct": -87
+        },
+        {
+          "id": 75,
+          "name": "Homestay WS Sukabumi",
+          "claimed": 250,
+          "actual": 70,
+          "pct": -72
+        },
+        {
+          "id": 77,
+          "name": "DCT Homestay Sukabumi",
+          "claimed": 65,
+          "actual": 24,
+          "pct": -63
+        },
+        {
+          "id": 78,
+          "name": "Qiai Guest House Sukabumi",
+          "claimed": 110,
+          "actual": 870,
+          "pct": 691
+        },
+        {
+          "id": 79,
+          "name": "SILVIA GUEST HOUSE",
+          "claimed": 88,
+          "actual": 2,
+          "pct": -98
+        },
+        {
+          "id": 80,
+          "name": "Adiza Guest House",
+          "claimed": 45,
+          "actual": 6,
+          "pct": -87
+        },
+        {
+          "id": 83,
+          "name": "Apotek Utari",
+          "claimed": 12,
+          "actual": 2,
+          "pct": -83
+        },
+        {
+          "id": 86,
+          "name": "KLINIK JALUR FARMA",
+          "claimed": 320,
+          "actual": 826,
+          "pct": 158
+        },
+        {
+          "id": 87,
+          "name": "Kimia Farma Sukabumi",
+          "claimed": 415,
+          "actual": 176,
+          "pct": -58
+        },
+        {
+          "id": 88,
+          "name": "Laboratorium Klinik Vita Medika",
+          "claimed": 275,
+          "actual": 12,
+          "pct": -96
+        },
+        {
+          "id": 90,
+          "name": "Klinik Pratama Jasalab",
+          "claimed": 310,
+          "actual": 55,
+          "pct": -82
+        },
+        {
+          "id": 91,
+          "name": "praktik dokter keluarga dr kamal & dr dini",
+          "claimed": 245,
+          "actual": 19,
+          "pct": -92
+        },
+        {
+          "id": 92,
+          "name": "Prodia Sukabumi",
+          "claimed": 520,
+          "actual": 99,
+          "pct": -81
+        },
+        {
+          "id": 93,
+          "name": "Apotek Mitra Husada",
+          "claimed": 380,
+          "actual": 777,
+          "pct": 104
+        },
+        {
+          "id": 94,
+          "name": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+          "claimed": 215,
+          "actual": 37,
+          "pct": -83
+        },
+        {
+          "id": 96,
+          "name": "Bening's Clinic Sukabumi",
+          "claimed": 410,
+          "actual": 141,
+          "pct": -66
+        },
+        {
+          "id": 97,
+          "name": "Apotek Ciaul Sukabumi",
+          "claimed": 265,
+          "actual": 15,
+          "pct": -94
+        },
+        {
+          "id": 98,
+          "name": "Klinik Obat Dokter Amelia Di Sukabumi",
+          "claimed": 48,
+          "actual": 2,
+          "pct": -96
+        },
+        {
+          "id": 100,
+          "name": "APOTEK LARAS SUKABUMI",
+          "claimed": 34,
+          "actual": 142,
+          "pct": 318
+        },
+        {
+          "id": 102,
+          "name": "Ardin Teknik Sukabumi",
+          "claimed": 210,
+          "actual": 52,
+          "pct": -75
+        },
+        {
+          "id": 103,
+          "name": "Lavandera Laundry",
+          "claimed": 345,
+          "actual": 169,
+          "pct": -51
+        },
+        {
+          "id": 107,
+          "name": "SERVICE KULKAS SUKABUMI",
+          "claimed": 250,
+          "actual": 100,
+          "pct": -60
+        },
+        {
+          "id": 108,
+          "name": "Service mesin cuci Sukabumi",
+          "claimed": 240,
+          "actual": 100,
+          "pct": -58
+        },
+        {
+          "id": 110,
+          "name": "Sukabumi Laundry Cabang Cisaat",
+          "claimed": 95,
+          "actual": 23,
+          "pct": -76
+        },
+        {
+          "id": 111,
+          "name": "AA LAUNDRY Sukabumi",
+          "claimed": 62,
+          "actual": 104,
+          "pct": 68
+        },
+        {
+          "id": 112,
+          "name": "MEGA CEMERLANG SUKABUMI",
+          "claimed": 45,
+          "actual": 5,
+          "pct": -89
+        },
+        {
+          "id": 113,
+          "name": "Bersih.in WearCare Sukabumi",
+          "claimed": 112,
+          "actual": 221,
+          "pct": 97
+        },
+        {
+          "id": 114,
+          "name": "ADAVA LAUNDRY Sukabumi",
+          "claimed": 38,
+          "actual": 96,
+          "pct": 153
+        },
+        {
+          "id": 115,
+          "name": "SERVICE AC SUKABUMI Alteknik",
+          "claimed": 145,
+          "actual": 8,
+          "pct": -94
+        },
+        {
+          "id": 116,
+          "name": "Utama teknik Sukabumi",
+          "claimed": 120,
+          "actual": 12,
+          "pct": -90
+        },
+        {
+          "id": 117,
+          "name": "BIAN SUMUR BOR SUKABUMI",
+          "claimed": 75,
+          "actual": 4,
+          "pct": -95
+        },
+        {
+          "id": 119,
+          "name": "Servis elektronik sukabumi",
+          "claimed": 88,
+          "actual": 1,
+          "pct": -99
+        },
+        {
+          "id": 120,
+          "name": "VANSERVIS Sukabumi",
+          "claimed": 54,
+          "actual": 139,
+          "pct": 157
+        },
+        {
+          "id": 121,
+          "name": "LJL SERVICE Sukabumi",
+          "claimed": 42,
+          "actual": 8,
+          "pct": -81
+        },
+        {
+          "id": 122,
+          "name": "Cambridge Institute Sukabumi",
+          "claimed": 310,
+          "actual": 21,
+          "pct": -93
+        },
+        {
+          "id": 123,
+          "name": "Little Angels Learning Center Sukabumi",
+          "claimed": 245,
+          "actual": 5,
+          "pct": -98
+        },
+        {
+          "id": 124,
+          "name": "Tunas Permata Bangsa Sukabumi",
+          "claimed": 280,
+          "actual": 124,
+          "pct": -56
+        },
+        {
+          "id": 125,
+          "name": "Bimbel ILC Sukabumi",
+          "claimed": 215,
+          "actual": 28,
+          "pct": -87
+        },
+        {
+          "id": 127,
+          "name": "Brain Academy Ruangguru Sukabumi",
+          "claimed": 195,
+          "actual": 45,
+          "pct": -77
+        },
+        {
+          "id": 128,
+          "name": "Math Champs Sukabumi",
+          "claimed": 85,
+          "actual": 24,
+          "pct": -72
+        },
+        {
+          "id": 129,
+          "name": "Ganesha Operation Ra Kosasih Sukabumi",
+          "claimed": 140,
+          "actual": 432,
+          "pct": 209
+        },
+        {
+          "id": 130,
+          "name": "Ganesha Operation Syamsudin Sukabumi",
+          "claimed": 165,
+          "actual": 529,
+          "pct": 221
+        },
+        {
+          "id": 131,
+          "name": "LBB Nurul Fikri RA Kosasih Sukabumi",
+          "claimed": 110,
+          "actual": 192,
+          "pct": 75
+        },
+        {
+          "id": 132,
+          "name": "Bumi Kreatif Institute Sukabumi",
+          "claimed": 75,
+          "actual": 1078,
+          "pct": 1337
+        },
+        {
+          "id": 136,
+          "name": "TKQ Gemilang Sukabumi",
+          "claimed": 28,
+          "actual": 7,
+          "pct": -75
+        },
+        {
+          "id": 138,
+          "name": "TB. Sumber Milik Sukabumi",
+          "claimed": 640,
+          "actual": 56,
+          "pct": -91
+        },
+        {
+          "id": 140,
+          "name": "Pusat Jajanan Khas Sukabumi",
+          "claimed": 1850,
+          "actual": 55,
+          "pct": -97
+        },
+        {
+          "id": 141,
+          "name": "Toko Bangunan Baros Jaya Sukabumi",
+          "claimed": 410,
+          "actual": 80,
+          "pct": -80
+        },
+        {
+          "id": 142,
+          "name": "Bika Ambon Sunda Rasa Sukabumi",
+          "claimed": 920,
+          "actual": 339,
+          "pct": -63
+        },
+        {
+          "id": 143,
+          "name": "Kelana Oleh-oleh Sukabumi",
+          "claimed": 530,
+          "actual": 10,
+          "pct": -98
+        },
+        {
+          "id": 147,
+          "name": "SUKABUMI HOME CENTER",
+          "claimed": 1150,
+          "actual": 110,
+          "pct": -90
+        },
+        {
+          "id": 148,
+          "name": "Jansen Petshop Sukabumi",
+          "claimed": 390,
+          "actual": 69,
+          "pct": -82
+        },
+        {
+          "id": 149,
+          "name": "RKM Sukabumi",
+          "claimed": 510,
+          "actual": 793,
+          "pct": 55
+        },
+        {
+          "id": 154,
+          "name": "Keler Bouquet Sukabumi",
+          "claimed": 175,
+          "actual": 365,
+          "pct": 109
+        },
+        {
+          "id": 155,
+          "name": "Incrediblemoment florist sukabumi",
+          "claimed": 94,
+          "actual": 17,
+          "pct": -82
+        },
+        {
+          "id": 156,
+          "name": "Millan Petshop Sukabumi",
+          "claimed": 130,
+          "actual": 31,
+          "pct": -76
+        },
+        {
+          "id": 159,
+          "name": "IMAJI FOTO STUDIO SUKABUMI",
+          "claimed": 340,
+          "actual": 1065,
+          "pct": 213
+        },
+        {
+          "id": 160,
+          "name": "Azkana Wedding Dekorasi Sukabumi",
+          "claimed": 265,
+          "actual": 14,
+          "pct": -95
+        },
+        {
+          "id": 161,
+          "name": "GMS Tour and Travel Sukabumi",
+          "claimed": 210,
+          "actual": 49,
+          "pct": -77
+        },
+        {
+          "id": 162,
+          "name": "Wedding Planner Sukabumi",
+          "claimed": 295,
+          "actual": 22,
+          "pct": -93
+        },
+        {
+          "id": 163,
+          "name": "JAKA WEDDING ORGANIZER Sukabumi",
+          "claimed": 315,
+          "actual": 35,
+          "pct": -89
+        },
+        {
+          "id": 165,
+          "name": "Khei Wedding Organizer Sukabumi",
+          "claimed": 185,
+          "actual": 2,
+          "pct": -99
+        },
+        {
+          "id": 166,
+          "name": "Affay Project Sukabumi",
+          "claimed": 112,
+          "actual": 5,
+          "pct": -96
+        },
+        {
+          "id": 168,
+          "name": "Reality Event Organizer Sukabumi",
+          "claimed": 45,
+          "actual": 2,
+          "pct": -96
+        },
+        {
+          "id": 169,
+          "name": "PRIMA WO Sukabumi",
+          "claimed": 67,
+          "actual": 4,
+          "pct": -94
+        },
+        {
+          "id": 170,
+          "name": "Lensa Entertainment Sukabumi",
+          "claimed": 92,
+          "actual": 1,
+          "pct": -99
+        },
+        {
+          "id": 171,
+          "name": "Yunas Studio Sukabumi",
+          "claimed": 140,
+          "actual": 914,
+          "pct": 553
+        },
+        {
+          "id": 172,
+          "name": "Moophoto Photobooth Studio Baros Sukabumi",
+          "claimed": 175,
+          "actual": 10,
+          "pct": -94
+        },
+        {
+          "id": 173,
+          "name": "Fauna photography Sukabumi",
+          "claimed": 110,
+          "actual": 10,
+          "pct": -91
+        },
+        {
+          "id": 174,
+          "name": "Lawa Creative Studio Sukabumi",
+          "claimed": 85,
+          "actual": 14,
+          "pct": -84
+        },
+        {
+          "id": 175,
+          "name": "Milkyverse Ramayana Sukabumi",
+          "claimed": 520,
+          "actual": 32,
+          "pct": -94
+        },
+        {
+          "id": 176,
+          "name": "Dinopark Sukabumi",
+          "claimed": 845,
+          "actual": 64,
+          "pct": -92
+        },
+        {
+          "id": 178,
+          "name": "Story Land Sukabumi",
+          "claimed": 1250,
+          "actual": 27,
+          "pct": -98
+        },
+        {
+          "id": 181,
+          "name": "Kolam Renang Pilar Mas Sukabumi",
+          "claimed": 1150,
+          "actual": 369,
+          "pct": -68
+        },
+        {
+          "id": 183,
+          "name": "De' Tani Waterpark Sukabumi",
+          "claimed": 2100,
+          "actual": 429,
+          "pct": -80
+        },
+        {
+          "id": 184,
+          "name": "Happy House Playground&cafe Sukabumi",
+          "claimed": 640,
+          "actual": 27,
+          "pct": -96
+        },
+        {
+          "id": 185,
+          "name": "Kids story cibadak",
+          "claimed": 410,
+          "actual": 59,
+          "pct": -86
+        },
+        {
+          "id": 187,
+          "name": "CAMPING GROUND SITUGUNUNG",
+          "claimed": 1220,
+          "actual": 3206,
+          "pct": 163
+        }
+      ]
+    },
+    {
+      "type": "NO_RESULTS",
+      "count": 0,
+      "items": []
+    }
+  ]
+}

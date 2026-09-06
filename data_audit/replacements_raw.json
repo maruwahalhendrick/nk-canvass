@@ -1,0 +1,97 @@
+[
+  {
+    "id": 1,
+    "q": "Ayam Goreng SS Super Sambal Sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Waroeng Spesial Sambal SS Bandung JL Sukabumi",
+        "ratingLine": "4,2(793)",
+        "addr": "Rumah Makan ·  · Jl. Sukabumi No.5",
+        "href": "https://www.google.com/maps/place/Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi/data=!4m7!3m6!1s0x2e"
+      },
+      {
+        "name": "Ayam Goreng SS Super Sambal Sukabumi",
+        "ratingLine": "5,0(1)",
+        "addr": "Restoran · Jl. Royal Kabandungan No.9 Blok C",
+        "href": "https://www.google.com/maps/place/Ayam+Goreng+SS+Super+Sambal+Sukabumi/data=!4m7!3m6!1s0x2e6849dd6f9"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "q": "Apotek Afiat Farma Sukabumi",
+    "mode": "panel",
+    "name": "APOTEK AFIAT FARMA SUKABUMI",
+    "rating": 4.8,
+    "reviewsRaw": "22",
+    "address": "Jl. Karamat Kelurahan No.130, RT.01/RW.04, Karamat, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122"
+  },
+  {
+    "id": 108,
+    "q": "servis mesin cuci sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Service mesin cuci Sukabumi",
+        "ratingLine": "4,9(32)",
+        "addr": "Bengkel Elektronik · Jl. Sukamanah No.141",
+        "href": "https://www.google.com/maps/place/Service+mesin+cuci+Sukabumi/data=!4m7!3m6!1s0x2e683746ad838bed:0xc"
+      },
+      {
+        "name": "SERVICE KULKAS SUKABUMI",
+        "ratingLine": "4,9(100)",
+        "addr": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "href": "https://www.google.com/maps/place/SERVICE+KULKAS+SUKABUMI/data=!4m7!3m6!1s0x2e68371151b5f58f:0x2b88c"
+      },
+      {
+        "name": "JASA SERVICE KULKAS SUKABUMI DAN JUAL BELI KULKAS BEKAS (ALIPHAQUEEN SERVICE)",
+        "ratingLine": "5,0(23)",
+        "addr": "",
+        "href": "https://www.google.com/maps/place/JASA+SERVICE+KULKAS+SUKABUMI+DAN+JUAL+BELI+KULKAS+BEKAS+%28ALIPHAQ"
+      },
+      {
+        "name": "Ardin Teknik",
+        "ratingLine": "4,6(52)",
+        "addr": "",
+        "href": "https://www.google.com/maps/place/Ardin+Teknik/data=!4m7!3m6!1s0x2e684846059be995:0xcda0ef9429a854f0"
+      },
+      {
+        "name": "CV. UNAS TEKNIK",
+        "ratingLine": "5,0(10)",
+        "addr": "Bengkel Elektronik · KP, Jl. Ciseureuh, RT.04/RW.05",
+        "href": "https://www.google.com/maps/place/CV.+UNAS+TEKNIK/data=!4m7!3m6!1s0x2e683723d5a53cd9:0xb0ef6157810da"
+      },
+      {
+        "name": "Service mesin cuci kulkas dan sperpart",
+        "ratingLine": "4,0(2)",
+        "addr": "Toko Elektronik · 3WGG+947, Jl. Pasundan",
+        "href": "https://www.google.com/maps/place/Service+mesin+cuci+kulkas+dan+sperpart/data=!4m7!3m6!1s0x2e6849d9d"
+      },
+      {
+        "name": "SERVICE TV LED LCD MESINCUCI KIPASKULKAS MAGICCOM parabola dll SUKABUMI",
+        "ratingLine": "4,6(36)",
+        "addr": " · Jl. Nyomplong No.12",
+        "href": "https://www.google.com/maps/place/SERVICE+TV+LED+LCD+MESINCUCI+KIPASKULKAS+MAGICCOM+parabola+dll+SUK"
+      },
+      {
+        "name": "Service elektrikal & elektronik mesin percetakan,mesin cuci dll.",
+        "ratingLine": "4,5(2)",
+        "addr": "",
+        "href": "https://www.google.com/maps/place/Service+elektrikal+%26+elektronik+mesin+percetakan,mesin+cuci+dll."
+      },
+      {
+        "name": "Servis elektronik sukabumi",
+        "ratingLine": "5,0(1)",
+        "addr": "Bengkel Elektronik · Jl. Pelabuhan II Jl. Cikujang No.kp, RT.05/RW.13",
+        "href": "https://www.google.com/maps/place/Servis+elektronik+sukabumi/data=!4m7!3m6!1s0x2e6849f8875ef601:0xe1"
+      },
+      {
+        "name": "Ayi Servis Kulkas & Mesin Cuci",
+        "ratingLine": "5,0(1)",
+        "addr": "Bengkel Elektronik · Kp. Ranji Kaler 04/08, Kec. Kebonpedes, Des. Kebonpedes",
+        "href": "https://www.google.com/maps/place/Ayi+Servis+Kulkas+%26+Mesin+Cuci/data=!4m7!3m6!1s0x2e684908abbd5cf"
+      }
+    ]
+  }
+]

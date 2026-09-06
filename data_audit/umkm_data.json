@@ -1,0 +1,1892 @@
+[
+  {
+    "id": 1,
+    "name": "Waroeng Spesial Sambal SS Bandung JL Sukabumi",
+    "category": "F&B",
+    "rating": 4.2,
+    "reviews": 3215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 2,
+    "name": "Secret Garden Sukabumi",
+    "category": "F&B",
+    "rating": 4.4,
+    "reviews": 2621,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Secret+Garden+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 3,
+    "name": "Like Earth Coffee",
+    "category": "F&B",
+    "rating": 4.4,
+    "reviews": 1845,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Like+Earth+Coffee+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 4,
+    "name": "Kedai Kopi Ncek Joe Tie 1953",
+    "category": "F&B",
+    "rating": 4.4,
+    "reviews": 412,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+Ncek+Joe+Tie+1953+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 5,
+    "name": "D'Green Resto and Coffee",
+    "category": "F&B",
+    "rating": 4.5,
+    "reviews": 1105,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=D'Green+Resto+and+Coffee+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 6,
+    "name": "Butler Bar & Bistro",
+    "category": "F&B",
+    "rating": 4.5,
+    "reviews": 890,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Butler+Bar+%26+Bistro+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 7,
+    "name": "Kedai Kopi 35",
+    "category": "F&B",
+    "rating": 4.5,
+    "reviews": 540,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kedai+Kopi+35+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 8,
+    "name": "Restaurant Sunda Rasa Sukabumi",
+    "category": "F&B",
+    "rating": 4.6,
+    "reviews": 2100,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Restaurant+Sunda+Rasa+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 9,
+    "name": "Botram Resto",
+    "category": "F&B",
+    "rating": 4.6,
+    "reviews": 1250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Botram+Resto+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 10,
+    "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "category": "F&B",
+    "rating": 4.6,
+    "reviews": 955,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 11,
+    "name": "Red Brick Cafe",
+    "category": "F&B",
+    "rating": 4.7,
+    "reviews": 1430,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Red+Brick+Cafe+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 12,
+    "name": "Maple Bakery",
+    "category": "F&B",
+    "rating": 4.7,
+    "reviews": 670,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Maple+Bakery+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 13,
+    "name": "Dedi Catering Sukabumi",
+    "category": "F&B",
+    "rating": 4.8,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Dedi+Catering+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 14,
+    "name": "Kopi Nako Sukabumi",
+    "category": "F&B",
+    "rating": 4.9,
+    "reviews": 185,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kopi+Nako+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 15,
+    "name": "Yume Coffee",
+    "category": "F&B",
+    "rating": 4.8,
+    "reviews": 142,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Yume+Coffee+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 16,
+    "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "category": "F&B",
+    "rating": 4.9,
+    "reviews": 98,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Amorcakes+%26+Bakery+Sudirman+-+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 17,
+    "name": "Bandung Cheesecuit Sukabumi",
+    "category": "F&B",
+    "rating": 4.9,
+    "reviews": 115,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bandung+Cheesecuit+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 18,
+    "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "category": "F&B",
+    "rating": 4.9,
+    "reviews": 76,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Takashi+Bakehouse+x+Republik+Burger+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 19,
+    "name": "Catering & Snack Sarah 009 Dra. N. Rohanah",
+    "category": "F&B",
+    "rating": 4.9,
+    "reviews": 45,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Catering+%26+Snack+Sarah+009+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 20,
+    "name": "Sukabumi Coffee Center",
+    "category": "F&B",
+    "rating": 5,
+    "reviews": 22,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sukabumi+Coffee+Center",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 21,
+    "name": "Catering Murah Sukabumi",
+    "category": "F&B",
+    "rating": 5,
+    "reviews": 18,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Catering+Murah+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 22,
+    "name": "INI KITCHEN SUKABUMI",
+    "category": "F&B",
+    "rating": 5,
+    "reviews": 34,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=INI+KITCHEN+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 23,
+    "name": "PAKIS Catering Sukabumi",
+    "category": "F&B",
+    "rating": 5,
+    "reviews": 12,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=PAKIS+Catering+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 24,
+    "name": "Pinisi Relaxation",
+    "category": "Beauty",
+    "rating": 4.4,
+    "reviews": 750,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Pinisi+Relaxation+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 25,
+    "name": "Rudi Salon Sukabumi",
+    "category": "Beauty",
+    "rating": 4.5,
+    "reviews": 420,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Rudi+Salon+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 26,
+    "name": "Sara ivonne Beauty Studio Sukabumi",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviews": 315,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sara+ivonne+Beauty+Studio+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 27,
+    "name": "KAYN Wellness",
+    "category": "Beauty",
+    "rating": 4.6,
+    "reviews": 280,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=KAYN+Wellness+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 28,
+    "name": "Dr Metz Skincare",
+    "category": "Beauty",
+    "rating": 4.8,
+    "reviews": 890,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Dr+Metz+Skincare+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 29,
+    "name": "Avenue Salon Sukabumi",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 210,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Avenue+Salon+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 30,
+    "name": "ADJIE SALON",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 205,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=ADJIE+SALON+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 31,
+    "name": "Pixel Barbershop Nyomplong",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 340,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Nyomplong+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 32,
+    "name": "BARBERSTATION BARBERSHOP",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 415,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=BARBERSTATION+BARBERSHOP+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 33,
+    "name": "Simi Reflexology Massage & Spa",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 520,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Simi+Reflexology+Massage+%26+Spa+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 34,
+    "name": "Nadifa Clinic Sukabumi",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 255,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Nadifa+Clinic+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 35,
+    "name": "Calysta skin care clinic",
+    "category": "Beauty",
+    "rating": 4.9,
+    "reviews": 310,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Calysta+skin+care+clinic+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 36,
+    "name": "ARSENIO SALON",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 145,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=ARSENIO+SALON+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 37,
+    "name": "Pixel Barbershop Cipanengah",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 112,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Cipanengah+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 38,
+    "name": "Blackburn Barbershop - Sukabumi Branch",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 89,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Blackburn+Barbershop+-+Sukabumi+Branch",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 39,
+    "name": "Pixel Barbershop Ciaul",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 175,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Pixel+Barbershop+Ciaul+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 40,
+    "name": "SERENITY SPA",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 54,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=SERENITY+SPA+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 41,
+    "name": "Aida Spa & Massage",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 38,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Aida+Spa+%26+Massage+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 42,
+    "name": "Natasha Skin Clinic Sukabumi",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 190,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Natasha+Skin+Clinic+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 43,
+    "name": "Ella Skincare Sukabumi",
+    "category": "Beauty",
+    "rating": 5,
+    "reviews": 165,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ella+Skincare+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 44,
+    "name": "Hoki Motor sukabumi",
+    "category": "Automotive",
+    "rating": 4.3,
+    "reviews": 840,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Hoki+Motor+sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 45,
+    "name": "Cuci Steam Mobil & Motor 24 jam",
+    "category": "Automotive",
+    "rating": 4.3,
+    "reviews": 325,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Cuci+Steam+Mobil+%26+Motor+24+jam+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 46,
+    "name": "Baros Jaya Motor",
+    "category": "Automotive",
+    "rating": 4.4,
+    "reviews": 410,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Baros+Jaya+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 47,
+    "name": "Inti Prima Motor",
+    "category": "Automotive",
+    "rating": 4.4,
+    "reviews": 530,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Inti+Prima+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 48,
+    "name": "lulu motor",
+    "category": "Automotive",
+    "rating": 4.4,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=lulu+motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 49,
+    "name": "Jaya Motor",
+    "category": "Automotive",
+    "rating": 4.4,
+    "reviews": 380,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Jaya+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 50,
+    "name": "Rey Motor Sukabumi",
+    "category": "Automotive",
+    "rating": 4.4,
+    "reviews": 290,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Rey+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 51,
+    "name": "Hars Motor",
+    "category": "Automotive",
+    "rating": 4.5,
+    "reviews": 460,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Hars+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 52,
+    "name": "Cipendawa Motor lll",
+    "category": "Automotive",
+    "rating": 4.5,
+    "reviews": 510,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Cipendawa+Motor+lll+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 53,
+    "name": "Buana Raya Service - Auto Service Center",
+    "category": "Automotive",
+    "rating": 4.6,
+    "reviews": 720,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Buana+Raya+Service+-+Auto+Service+Center+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 54,
+    "name": "Central Carwash Sukabumi",
+    "category": "Automotive",
+    "rating": 4.6,
+    "reviews": 355,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Central+Carwash+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 55,
+    "name": "Ratu Motor",
+    "category": "Automotive",
+    "rating": 4.6,
+    "reviews": 285,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ratu+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 56,
+    "name": "CV.KINGKING MOTOR",
+    "category": "Automotive",
+    "rating": 4.6,
+    "reviews": 310,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=CV.KINGKING+MOTOR+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 57,
+    "name": "SHOWNGARAGE ( CAR WASH )",
+    "category": "Automotive",
+    "rating": 4.7,
+    "reviews": 245,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=SHOWNGARAGE+(+CAR+WASH+)+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 58,
+    "name": "CV ZIED AUTO SERVICE",
+    "category": "Automotive",
+    "rating": 4.8,
+    "reviews": 415,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=CV+ZIED+AUTO+SERVICE+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 59,
+    "name": "Bengkel motor sukabumi",
+    "category": "Automotive",
+    "rating": 4.8,
+    "reviews": 210,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bengkel+motor+sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 60,
+    "name": "Toko Jati Raya Motor",
+    "category": "Automotive",
+    "rating": 4.8,
+    "reviews": 340,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Toko+Jati+Raya+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 61,
+    "name": "Green_wash Cuci Mobil & Motor",
+    "category": "Automotive",
+    "rating": 4.9,
+    "reviews": 275,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Green_wash+Cuci+Mobil+%26+Motor+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 62,
+    "name": "RBM (RumahBengkelMotor)",
+    "category": "Automotive",
+    "rating": 5,
+    "reviews": 85,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=RBM+(RumahBengkelMotor)+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 63,
+    "name": "AH MASTER WASH (cuci garansi hujan)",
+    "category": "Automotive",
+    "rating": 5,
+    "reviews": 42,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=AH+MASTER+WASH+(cuci+garansi+hujan)+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 64,
+    "name": "Grand Permata Hijau Hotel",
+    "category": "Lodging",
+    "rating": 4.2,
+    "reviews": 1450,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Grand+Permata+Hijau+Hotel+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 65,
+    "name": "Taman Sari Hotel & Resort",
+    "category": "Lodging",
+    "rating": 4.4,
+    "reviews": 2100,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Taman+Sari+Hotel+%26+Resort+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 66,
+    "name": "Balcony Hotel",
+    "category": "Lodging",
+    "rating": 4.4,
+    "reviews": 1890,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Balcony+Hotel+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 67,
+    "name": "Homestay D'mutiara Sukabumi",
+    "category": "Lodging",
+    "rating": 4.5,
+    "reviews": 320,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Homestay+D'mutiara+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 68,
+    "name": "Tikungan Indah Guest House",
+    "category": "Lodging",
+    "rating": 4.5,
+    "reviews": 275,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Tikungan+Indah+Guest+House+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 69,
+    "name": "Horison Sukabumi",
+    "category": "Lodging",
+    "rating": 4.6,
+    "reviews": 3200,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Horison+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 70,
+    "name": "The Bountie Hotels and Convention Center Sukabumi",
+    "category": "Lodging",
+    "rating": 4.6,
+    "reviews": 2850,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=The+Bountie+Hotels+and+Convention+Center+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 71,
+    "name": "Firma Guest House",
+    "category": "Lodging",
+    "rating": 4.6,
+    "reviews": 410,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Firma+Guest+House+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 72,
+    "name": "Anugrah Alam Homestay",
+    "category": "Lodging",
+    "rating": 4.7,
+    "reviews": 530,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Anugrah+Alam+Homestay+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 73,
+    "name": "Vimi - villa sukabumi",
+    "category": "Lodging",
+    "rating": 4.7,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Vimi+-+villa+sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 74,
+    "name": "Kampoeng Kita",
+    "category": "Lodging",
+    "rating": 4.7,
+    "reviews": 340,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kampoeng+Kita+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 75,
+    "name": "Homestay WS Sukabumi",
+    "category": "Lodging",
+    "rating": 4.9,
+    "reviews": 250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Homestay+WS+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 76,
+    "name": "Amsberg villa at Selabintana",
+    "category": "Lodging",
+    "rating": 4.9,
+    "reviews": 210,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Amsberg+villa+at+Selabintana+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 77,
+    "name": "DCT Homestay Sukabumi",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 65,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=DCT+Homestay+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 78,
+    "name": "Qiai Guest House Sukabumi",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 110,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Qiai+Guest+House+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 79,
+    "name": "SILVIA GUEST HOUSE",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 88,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=SILVIA+GUEST+HOUSE+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 80,
+    "name": "Adiza Guest House",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 45,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Adiza+Guest+House+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 81,
+    "name": "De Haus Villa Syariah - Subang Jaya",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 32,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=De+Haus+Villa+Syariah+-+Subang+Jaya",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 82,
+    "name": "Villa Mochi Classic Sukabumi",
+    "category": "Lodging",
+    "rating": 5,
+    "reviews": 15,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Villa+Mochi+Classic+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 83,
+    "name": "Apotek Utari",
+    "category": "Health",
+    "rating": 1,
+    "reviews": 12,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Apotek+Utari+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 84,
+    "name": "Apotek indo Medika",
+    "category": "Health",
+    "rating": 4.1,
+    "reviews": 85,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Apotek+indo+Medika+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 85,
+    "name": "Labkesda Kota Sukabumi",
+    "category": "Health",
+    "rating": 4.4,
+    "reviews": 140,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Labkesda+Kota+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 86,
+    "name": "KLINIK JALUR FARMA",
+    "category": "Health",
+    "rating": 4.5,
+    "reviews": 320,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=KLINIK+JALUR+FARMA+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 87,
+    "name": "Kimia Farma Sukabumi",
+    "category": "Health",
+    "rating": 4.5,
+    "reviews": 415,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kimia+Farma+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 88,
+    "name": "Laboratorium Klinik Vita Medika",
+    "category": "Health",
+    "rating": 4.6,
+    "reviews": 275,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Laboratorium+Klinik+Vita+Medika+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 89,
+    "name": "Primaya Hospital Sukabumi",
+    "category": "Health",
+    "rating": 4.7,
+    "reviews": 1250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Primaya+Hospital+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 90,
+    "name": "Klinik Pratama Jasalab",
+    "category": "Health",
+    "rating": 4.7,
+    "reviews": 310,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Klinik+Pratama+Jasalab+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 91,
+    "name": "praktik dokter keluarga dr kamal & dr dini",
+    "category": "Health",
+    "rating": 4.8,
+    "reviews": 245,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=praktik+dokter+keluarga+dr+kamal+%26+dr+dini+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 92,
+    "name": "Prodia Sukabumi",
+    "category": "Health",
+    "rating": 4.8,
+    "reviews": 520,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Prodia+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 93,
+    "name": "Apotek Mitra Husada",
+    "category": "Health",
+    "rating": 4.9,
+    "reviews": 380,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Apotek+Mitra+Husada+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 94,
+    "name": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+    "category": "Health",
+    "rating": 4.9,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=KLINIK+PRATAMA+WALUYA+SEJATI+ABADI+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 95,
+    "name": "Klinik Holistic Natural Insani Sukabumi",
+    "category": "Health",
+    "rating": 4.9,
+    "reviews": 290,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Klinik+Holistic+Natural+Insani+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 96,
+    "name": "Bening's Clinic Sukabumi",
+    "category": "Health",
+    "rating": 4.9,
+    "reviews": 410,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bening's+Clinic+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 97,
+    "name": "Apotek Ciaul Sukabumi",
+    "category": "Health",
+    "rating": 4.9,
+    "reviews": 265,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Apotek+Ciaul+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 98,
+    "name": "Klinik Obat Dokter Amelia Di Sukabumi",
+    "category": "Health",
+    "rating": 5,
+    "reviews": 48,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Klinik+Obat+Dokter+Amelia+Di+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 99,
+    "name": "KHITAN SUKABUMI CIPOHO MEDIKA",
+    "category": "Health",
+    "rating": 5,
+    "reviews": 115,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=KHITAN+SUKABUMI+CIPOHO+MEDIKA",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 100,
+    "name": "APOTEK LARAS SUKABUMI",
+    "category": "Health",
+    "rating": 5,
+    "reviews": 34,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=APOTEK+LARAS+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 101,
+    "name": "Apotek Cikole Sukabumi",
+    "category": "Health",
+    "rating": 5,
+    "reviews": 76,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Apotek+Cikole+Sukabumi",
+    "zone": "Zona 4 (Jantung Kota)"
+  },
+  {
+    "id": 102,
+    "name": "Ardin Teknik Sukabumi",
+    "category": "Services",
+    "rating": 4.6,
+    "reviews": 210,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ardin+Teknik+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 103,
+    "name": "Lavandera Laundry",
+    "category": "Services",
+    "rating": 4.7,
+    "reviews": 345,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Lavandera+Laundry+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 104,
+    "name": "Lumire Laundry Sukabumi",
+    "category": "Services",
+    "rating": 4.9,
+    "reviews": 220,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Lumire+Laundry+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 105,
+    "name": "SERVICE AC SUKABUMI SIGMA TECHNIQUE",
+    "category": "Services",
+    "rating": 4.9,
+    "reviews": 285,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+SIGMA+TECHNIQUE",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 106,
+    "name": "Buana Jaya Mandiri Ac 1",
+    "category": "Services",
+    "rating": 4.9,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Buana+Jaya+Mandiri+Ac+1+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 107,
+    "name": "SERVICE KULKAS SUKABUMI",
+    "category": "Services",
+    "rating": 4.9,
+    "reviews": 250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=SERVICE+KULKAS+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 108,
+    "name": "Service mesin cuci Sukabumi",
+    "category": "Services",
+    "rating": 4.9,
+    "reviews": 240,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Service+mesin+cuci+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 109,
+    "name": "Amani Laundry Terdekat Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 188,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Amani+Laundry+Terdekat+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 110,
+    "name": "Sukabumi Laundry Cabang Cisaat",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 95,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sukabumi+Laundry+Cabang+Cisaat",
+    "zone": "Zona 2 (Cisaat/Cibadak)"
+  },
+  {
+    "id": 111,
+    "name": "AA LAUNDRY Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 62,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=AA+LAUNDRY+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 112,
+    "name": "MEGA CEMERLANG SUKABUMI",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 45,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=MEGA+CEMERLANG+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 113,
+    "name": "Bersih.in WearCare Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 112,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bersih.in+WearCare+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 114,
+    "name": "ADAVA LAUNDRY Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 38,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=ADAVA+LAUNDRY+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 115,
+    "name": "SERVICE AC SUKABUMI Alteknik",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 145,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=SERVICE+AC+SUKABUMI+Alteknik",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 116,
+    "name": "Utama teknik Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 120,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Utama+teknik+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 117,
+    "name": "BIAN SUMUR BOR SUKABUMI",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 75,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=BIAN+SUMUR+BOR+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 118,
+    "name": "Sumur Bor Sukabumi Pak Darmi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 30,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sumur+Bor+Sukabumi+Pak+Darmi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 119,
+    "name": "Servis elektronik sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 88,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Servis+elektronik+sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 120,
+    "name": "VANSERVIS Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 54,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=VANSERVIS+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 121,
+    "name": "LJL SERVICE Sukabumi",
+    "category": "Services",
+    "rating": 5,
+    "reviews": 42,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=LJL+SERVICE+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 122,
+    "name": "Cambridge Institute Sukabumi",
+    "category": "Education",
+    "rating": 4.4,
+    "reviews": 310,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Cambridge+Institute+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 123,
+    "name": "Little Angels Learning Center Sukabumi",
+    "category": "Education",
+    "rating": 4.8,
+    "reviews": 245,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Little+Angels+Learning+Center+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 124,
+    "name": "Tunas Permata Bangsa Sukabumi",
+    "category": "Education",
+    "rating": 4.9,
+    "reviews": 280,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Tunas+Permata+Bangsa+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 125,
+    "name": "Bimbel ILC Sukabumi",
+    "category": "Education",
+    "rating": 4.9,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bimbel+ILC+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 126,
+    "name": "LPK GPB Sukabumi",
+    "category": "Education",
+    "rating": 4.9,
+    "reviews": 320,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=LPK+GPB+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 127,
+    "name": "Brain Academy Ruangguru Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 195,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Brain+Academy+Ruangguru+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 128,
+    "name": "Math Champs Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 85,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Math+Champs+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 129,
+    "name": "Ganesha Operation Ra Kosasih Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 140,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Ra+Kosasih+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 130,
+    "name": "Ganesha Operation Syamsudin Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 165,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ganesha+Operation+Syamsudin+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 131,
+    "name": "LBB Nurul Fikri RA Kosasih Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 110,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=LBB+Nurul+Fikri+RA+Kosasih+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 132,
+    "name": "Bumi Kreatif Institute Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 75,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bumi+Kreatif+Institute+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 133,
+    "name": "TPA KB TK Daruttaqwa Foundation Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 42,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=TPA+KB+TK+Daruttaqwa+Foundation+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 134,
+    "name": "bimba genio cibeureum Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 58,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=bimba+genio+cibeureum+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 135,
+    "name": "PlayWay Day Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 34,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=PlayWay+Day+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 136,
+    "name": "TKQ Gemilang Sukabumi",
+    "category": "Education",
+    "rating": 5,
+    "reviews": 28,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=TKQ+Gemilang+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 137,
+    "name": "Berdikari Expo Sukabumi",
+    "category": "Retail",
+    "rating": 4.4,
+    "reviews": 850,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Berdikari+Expo+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 138,
+    "name": "TB. Sumber Milik Sukabumi",
+    "category": "Retail",
+    "rating": 4.5,
+    "reviews": 640,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=TB.+Sumber+Milik+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 139,
+    "name": "Mochi Kaswari Lampion Sukabumi",
+    "category": "Retail",
+    "rating": 4.6,
+    "reviews": 3120,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Mochi+Kaswari+Lampion+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 140,
+    "name": "Pusat Jajanan Khas Sukabumi",
+    "category": "Retail",
+    "rating": 4.6,
+    "reviews": 1850,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Pusat+Jajanan+Khas+Sukabumi",
+    "zone": "Zona 3 (Pusat Selatan)"
+  },
+  {
+    "id": 141,
+    "name": "Toko Bangunan Baros Jaya Sukabumi",
+    "category": "Retail",
+    "rating": 4.6,
+    "reviews": 410,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Toko+Bangunan+Baros+Jaya+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 142,
+    "name": "Bika Ambon Sunda Rasa Sukabumi",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 920,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Bika+Ambon+Sunda+Rasa+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 143,
+    "name": "Kelana Oleh-oleh Sukabumi",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 530,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kelana+Oleh-oleh+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 144,
+    "name": "Zahra Pet Shop & Grooming Sukabumi",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 315,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Zahra+Pet+Shop+%26+Grooming+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 145,
+    "name": "RG Petshop & GROOMING Sukabumi",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 280,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=RG+Petshop+%26+GROOMING+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 146,
+    "name": "Kamo Petshop Sukabumi",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 425,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kamo+Petshop+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 147,
+    "name": "SUKABUMI HOME CENTER",
+    "category": "Retail",
+    "rating": 4.7,
+    "reviews": 1150,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=SUKABUMI+HOME+CENTER",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 148,
+    "name": "Jansen Petshop Sukabumi",
+    "category": "Retail",
+    "rating": 4.8,
+    "reviews": 390,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Jansen+Petshop+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 149,
+    "name": "RKM Sukabumi",
+    "category": "Retail",
+    "rating": 4.9,
+    "reviews": 510,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=RKM+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 150,
+    "name": "Rumah Puding Premium Sukabumi",
+    "category": "Retail",
+    "rating": 4.9,
+    "reviews": 145,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Rumah+Puding+Premium+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 151,
+    "name": "Nori's Florist Sukabumi",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 88,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Nori's+Florist+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 152,
+    "name": "Sukabumi Ratu Florist",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 65,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sukabumi+Ratu+Florist",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 153,
+    "name": "Florist Sukabumi",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 112,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Florist+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 154,
+    "name": "Keler Bouquet Sukabumi",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 175,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Keler+Bouquet+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 155,
+    "name": "Incrediblemoment florist sukabumi",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 94,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Incrediblemoment+florist+sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 156,
+    "name": "Millan Petshop Sukabumi",
+    "category": "Retail",
+    "rating": 5,
+    "reviews": 130,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Millan+Petshop+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 157,
+    "name": "HAI STUDIOS Sukabumi",
+    "category": "Event",
+    "rating": 4.5,
+    "reviews": 280,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=HAI+STUDIOS+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 158,
+    "name": "Disini Aja Studio Sukabumi",
+    "category": "Event",
+    "rating": 4.5,
+    "reviews": 215,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Disini+Aja+Studio+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 159,
+    "name": "IMAJI FOTO STUDIO SUKABUMI",
+    "category": "Event",
+    "rating": 4.6,
+    "reviews": 340,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=IMAJI+FOTO+STUDIO+SUKABUMI",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 160,
+    "name": "Azkana Wedding Dekorasi Sukabumi",
+    "category": "Event",
+    "rating": 4.7,
+    "reviews": 265,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Azkana+Wedding+Dekorasi+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 161,
+    "name": "GMS Tour and Travel Sukabumi",
+    "category": "Event",
+    "rating": 4.8,
+    "reviews": 210,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=GMS+Tour+and+Travel+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 162,
+    "name": "Wedding Planner Sukabumi",
+    "category": "Event",
+    "rating": 4.9,
+    "reviews": 295,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Wedding+Planner+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 163,
+    "name": "JAKA WEDDING ORGANIZER Sukabumi",
+    "category": "Event",
+    "rating": 4.9,
+    "reviews": 315,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=JAKA+WEDDING+ORGANIZER+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 164,
+    "name": "Licht Studio Sukabumi",
+    "category": "Event",
+    "rating": 4.9,
+    "reviews": 250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Licht+Studio+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 165,
+    "name": "Khei Wedding Organizer Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 185,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Khei+Wedding+Organizer+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 166,
+    "name": "Affay Project Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 112,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Affay+Project+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 167,
+    "name": "Gosimplywedding Office 1 Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 88,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Gosimplywedding+Office+1+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 168,
+    "name": "Reality Event Organizer Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 45,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Reality+Event+Organizer+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 169,
+    "name": "PRIMA WO Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 67,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=PRIMA+WO+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 170,
+    "name": "Lensa Entertainment Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 92,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Lensa+Entertainment+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 171,
+    "name": "Yunas Studio Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 140,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Yunas+Studio+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 172,
+    "name": "Moophoto Photobooth Studio Baros Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 175,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Moophoto+Photobooth+Studio+Baros+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 173,
+    "name": "Fauna photography Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 110,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Fauna+photography+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 174,
+    "name": "Lawa Creative Studio Sukabumi",
+    "category": "Event",
+    "rating": 5,
+    "reviews": 85,
+    "strategy": "HIGH_LOW_REV",
+    "link": "https://www.google.com/maps/search/?api=1&query=Lawa+Creative+Studio+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 175,
+    "name": "Milkyverse Ramayana Sukabumi",
+    "category": "Tourism",
+    "rating": 4,
+    "reviews": 520,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Milkyverse+Ramayana+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 176,
+    "name": "Dinopark Sukabumi",
+    "category": "Tourism",
+    "rating": 4.1,
+    "reviews": 845,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Dinopark+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 177,
+    "name": "SantaSea Water Theme Park Sukabumi",
+    "category": "Tourism",
+    "rating": 4.2,
+    "reviews": 4100,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=SantaSea+Water+Theme+Park+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 178,
+    "name": "Story Land Sukabumi",
+    "category": "Tourism",
+    "rating": 4.4,
+    "reviews": 1250,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Story+Land+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 179,
+    "name": "Sport Garden Sukabumi",
+    "category": "Tourism",
+    "rating": 4.4,
+    "reviews": 980,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Sport+Garden+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 180,
+    "name": "Ryzzy Azzahra Waterpark Sukabumi",
+    "category": "Tourism",
+    "rating": 4.4,
+    "reviews": 3420,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Ryzzy+Azzahra+Waterpark+Sukabumi",
+    "zone": "Zona 5 (Timur/Utara)"
+  },
+  {
+    "id": 181,
+    "name": "Kolam Renang Pilar Mas Sukabumi",
+    "category": "Tourism",
+    "rating": 4.5,
+    "reviews": 1150,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kolam+Renang+Pilar+Mas+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 182,
+    "name": "CAMPING GROUND BATUTAPAK Sukabumi",
+    "category": "Tourism",
+    "rating": 4.5,
+    "reviews": 890,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+BATUTAPAK+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 183,
+    "name": "De' Tani Waterpark Sukabumi",
+    "category": "Tourism",
+    "rating": 4.6,
+    "reviews": 2100,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=De'+Tani+Waterpark+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 184,
+    "name": "Happy House Playground&cafe Sukabumi",
+    "category": "Tourism",
+    "rating": 4.6,
+    "reviews": 640,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Happy+House+Playground%26cafe+Sukabumi",
+    "zone": "Zona 1 (Baros/Jalur)"
+  },
+  {
+    "id": 185,
+    "name": "Kids story cibadak",
+    "category": "Tourism",
+    "rating": 4.6,
+    "reviews": 410,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Kids+story+cibadak",
+    "zone": "Zona 2 (Cisaat/Cibadak)"
+  },
+  {
+    "id": 186,
+    "name": "Cidahu Camping Ground",
+    "category": "Tourism",
+    "rating": 4.6,
+    "reviews": 1850,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 187,
+    "name": "CAMPING GROUND SITUGUNUNG",
+    "category": "Tourism",
+    "rating": 4.6,
+    "reviews": 1220,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=CAMPING+GROUND+SITUGUNUNG",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 188,
+    "name": "Tanakita 5 Star Camp Sukabumi",
+    "category": "Tourism",
+    "rating": 4.7,
+    "reviews": 2340,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Tanakita+5+Star+Camp+Sukabumi",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  },
+  {
+    "id": 189,
+    "name": "Cidahu Camping Ground Lembah Damar",
+    "category": "Tourism",
+    "rating": 4.7,
+    "reviews": 950,
+    "strategy": "UNDER_5",
+    "link": "https://www.google.com/maps/search/?api=1&query=Cidahu+Camping+Ground+Lembah+Damar",
+    "zone": "Zona 6 (Ekspedisi Wisata)"
+  }
+]

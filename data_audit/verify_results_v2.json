@@ -1,0 +1,3355 @@
+[
+  {
+    "id": 1,
+    "name": "Waroeng Spesial Sambal SS Bandung JL Sukabumi",
+    "claimed": {
+      "rating": 4.2,
+      "reviews": 3215
+    },
+    "query": "Waroeng Spesial Sambal SS Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Waroeng Spesial Sambal SS Bandung JL Sukabumi",
+        "rating": 4.2,
+        "address": "Rumah Makan ·  · Jl. Sukabumi No.5",
+        "href": "https://www.google.com/maps/place/Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi/data=!4m7!3m6!1s0x2e"
+      },
+      {
+        "name": "Ayam Goreng SS Super Sambal Sukabumi",
+        "rating": 5,
+        "address": "Restoran · Jl. Royal Kabandungan No.9 Blok C",
+        "href": "https://www.google.com/maps/place/Ayam+Goreng+SS+Super+Sambal+Sukabumi/data=!4m7!3m6!1s0x2e6849dd6f9"
+      }
+    ],
+    "picked": {
+      "name": "Waroeng Spesial Sambal SS Bandung JL Sukabumi",
+      "rating": 4.2,
+      "address": "Rumah Makan ·  · Jl. Sukabumi No.5",
+      "href": "https://www.google.com/maps/place/Waroeng+Spesial+Sambal+SS+Bandung+JL+Sukabumi/data=!4m7!3m6!1s0x2e",
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 2,
+    "name": "Secret Garden Sukabumi",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 2621
+    },
+    "query": "Secret Garden Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Surya Kencana No.07, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 144
+  },
+  {
+    "id": 3,
+    "name": "Like Earth Coffee",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 1845
+    },
+    "query": "Like Earth Coffee Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Syamsudin. SH No.20-10, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 2380
+  },
+  {
+    "id": 4,
+    "name": "Kedai Kopi Ncek Joe Tie 1953",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 412
+    },
+    "query": "Kedai Kopi Ncek Joe Tie 1953 Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. A. Yani No.77, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 577
+  },
+  {
+    "id": 5,
+    "name": "D'Green Resto and Coffee",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 1105
+    },
+    "query": "D'Green Resto and Coffee Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Selabintana No.54, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 1878
+  },
+  {
+    "id": 6,
+    "name": "Butler Bar & Bistro",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 890
+    },
+    "query": "Butler Bar & Bistro Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Siliwangi No.111, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 1442
+  },
+  {
+    "id": 7,
+    "name": "Kedai Kopi 35",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 540
+    },
+    "query": "Kedai Kopi 35 Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Surya Kencana No.101, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 417
+  },
+  {
+    "id": 8,
+    "name": "Restaurant Sunda Rasa Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 2100
+    },
+    "query": "Restaurant Sunda Rasa Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Siliwangi No.68, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 1048
+  },
+  {
+    "id": 9,
+    "name": "Botram Resto",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 1250
+    },
+    "query": "Botram Resto Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Surya Kencana No.29, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 727
+  },
+  {
+    "id": 10,
+    "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 955
+    },
+    "query": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. R. E. Martadinata No.46, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 856
+  },
+  {
+    "id": 11,
+    "name": "Red Brick Cafe",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 1430
+    },
+    "query": "Red Brick Cafe Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Pelabuhan II No.271, Cikondang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43142",
+    "reviews": 2140
+  },
+  {
+    "id": 12,
+    "name": "Maple Bakery",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 670
+    },
+    "query": "Maple Bakery Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Gudang No.1, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 618
+  },
+  {
+    "id": 13,
+    "name": "Dedi Catering Sukabumi",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 215
+    },
+    "query": "Dedi Catering Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Gg. Murni No.25, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 95
+  },
+  {
+    "id": 14,
+    "name": "Kopi Nako Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 185
+    },
+    "query": "Kopi Nako Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Mayor Mahmud, Sukajaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 3747
+  },
+  {
+    "id": 15,
+    "name": "Yume Coffee",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 142
+    },
+    "query": "Yume Coffee Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Surya Kencana No.31, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 425
+  },
+  {
+    "id": 16,
+    "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 98
+    },
+    "query": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Sudirman No.36, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 431219",
+    "reviews": 1904
+  },
+  {
+    "id": 17,
+    "name": "Bandung Cheesecuit Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 115
+    },
+    "query": "Bandung Cheesecuit Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Siliwangi No.A10, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 186
+  },
+  {
+    "id": 18,
+    "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 76
+    },
+    "query": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Syamsudin. SH No.31, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 123
+  },
+  {
+    "id": 19,
+    "name": "Catering & Snack Sarah 009 Dra. N. Rohanah termurah di kota sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 45
+    },
+    "query": "Catering & Snack Sarah 009 Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Pelabuhan II Gg. Murni No.18, RT 03/01, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43133",
+    "reviews": 27
+  },
+  {
+    "id": 20,
+    "name": "Sukabumi Coffee Center",
+    "claimed": {
+      "rating": 5,
+      "reviews": 22
+    },
+    "query": "Sukabumi Coffee Center",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Mayawati Cafitol Plaza No.76 Lt. 1, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 176
+  },
+  {
+    "id": 21,
+    "name": "Catering Murah Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 18
+    },
+    "query": "Catering Murah Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Dedi Catering Sukabumi",
+        "rating": 4.8,
+        "address": "Indonesia · Gg. Murni No.25",
+        "href": "https://www.google.com/maps/place/Dedi+Catering+Sukabumi/data=!4m7!3m6!1s0x2e68483baafb0d7d:0x49f0c9",
+        "reviews": 95
+      },
+      {
+        "name": "Catering Murah Sukabumi",
+        "rating": 5,
+        "address": "Pemasok makanan dan minuman katering · Samping BRI Link, Jl. Cicadas Residence No.1",
+        "href": "https://www.google.com/maps/place/Catering+Murah+Sukabumi/data=!4m7!3m6!1s0x2e68399252afd26f:0x77eef",
+        "reviews": 1
+      },
+      {
+        "name": "Catering & Snack Sarah 009 Dra. N. Rohanah termurah di kota sukabumi",
+        "rating": 4.9,
+        "address": "Katering ·  · Jl. Pelabuhan II Gg. Murni No.18, RT 03/01",
+        "href": "https://www.google.com/maps/place/Catering+%26+Snack+Sarah+009+Dra.+N.+Rohanah+termurah+di+kota+suka",
+        "reviews": 27
+      },
+      {
+        "name": "Susan Catering",
+        "rating": 4.8,
+        "address": "Katering · perumahan Mega Residence, Jl. Sriwidari Blk. G No.9/10",
+        "href": "https://www.google.com/maps/place/Susan+Catering/data=!4m7!3m6!1s0x2e68482f08b36e9d:0xe4a1f49083f023",
+        "reviews": 19
+      },
+      {
+        "name": "AC Catering Sukabumi",
+        "rating": 4.5,
+        "address": "Katering · 2WR2+2PW, Jl. Jeruk Nyelap",
+        "href": "https://www.google.com/maps/place/AC+Catering+Sukabumi/data=!4m7!3m6!1s0x2e683804a28de935:0x6b43c293",
+        "reviews": 15
+      },
+      {
+        "name": "Aqiqah Q-ta Sukabumi",
+        "rating": 4.9,
+        "address": "Kantor Perusahaan ·  · Jl. Cibogo",
+        "href": "https://www.google.com/maps/place/Aqiqah+Q-ta+Sukabumi/data=!4m7!3m6!1s0x2e6835e6ae8e762b:0xaa1eae38",
+        "reviews": 151
+      }
+    ],
+    "picked": {
+      "name": "Catering Murah Sukabumi",
+      "rating": 5,
+      "address": "Pemasok makanan dan minuman katering · Samping BRI Link, Jl. Cicadas Residence No.1",
+      "href": "https://www.google.com/maps/place/Catering+Murah+Sukabumi/data=!4m7!3m6!1s0x2e68399252afd26f:0x77eef",
+      "reviews": 1,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 22,
+    "name": "INI KITCHEN SUKABUMI",
+    "claimed": {
+      "rating": 5,
+      "reviews": 34
+    },
+    "query": "INI KITCHEN SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Brawijaya No.527, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 1
+  },
+  {
+    "id": 23,
+    "name": "PAKIS Catering Sukabumi - Nasi Box, Tumpeng, Kue Lebaran",
+    "claimed": {
+      "rating": 5,
+      "reviews": 12
+    },
+    "query": "PAKIS Catering Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Pasar Baru, Cisaat, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 15
+  },
+  {
+    "id": 24,
+    "name": "Pinisi Relaxation",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 750
+    },
+    "query": "Pinisi Relaxation Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Kenari No.14, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 286
+  },
+  {
+    "id": 25,
+    "name": "Rudi Salon Sukabumi",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 420
+    },
+    "query": "Rudi Salon Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Rukan Surya kencana 3, Jl. Surya Kencana No.38, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 197
+  },
+  {
+    "id": 26,
+    "name": "Sara ivonne Beauty Studio Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 315
+    },
+    "query": "Sara ivonne Beauty Studio Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Komplek Ruko Bounty, Jl. Siliwangi No.90, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 144
+  },
+  {
+    "id": 27,
+    "name": "KAYN Wellness",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 280
+    },
+    "query": "KAYN Wellness Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Pajagalan, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 11
+  },
+  {
+    "id": 28,
+    "name": "Dr Metz Skincare",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 890
+    },
+    "query": "Dr Metz Skincare Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Klinik Perawatan Kulit ·  · Jl. Bhayangkara No.24",
+        "rating": 4.8,
+        "address": "Klinik Perawatan Kulit ·  · Jl. Bhayangkara No.24",
+        "href": "https://www.google.com/maps/place/Dr+Metz+Skincare/data=!4m7!3m6!1s0x2e68482be8370981:0xe7ce1bf920a0",
+        "reviews": 419
+      },
+      {
+        "name": "Dr Metz Restorative Clinic Cibadak",
+        "rating": 5,
+        "address": "Ahli estetika · Jl. Siliwangi No.24",
+        "href": "https://www.google.com/maps/place/Dr+Metz+Restorative+Clinic+Cibadak/data=!4m7!3m6!1s0x2e6831db55e63",
+        "reviews": 41
+      },
+      {
+        "name": "Klinik Medis · Jl. Bhayangkara No.24",
+        "rating": 5,
+        "address": "Klinik Medis · Jl. Bhayangkara No.24",
+        "href": "https://www.google.com/maps/place/Dr.+Metz+%26+Go/data=!4m7!3m6!1s0x2e6849004f880819:0x756ed67ef8d66",
+        "reviews": 10
+      },
+      {
+        "name": "Dokter Kecantikan Di Sukabumi",
+        "rating": 5,
+        "address": "Ahli estetika · Dr. Metz skincare, Jl. Bhayangkara No.24",
+        "href": "https://www.google.com/maps/place/Dokter+Kecantikan+Di+Sukabumi/data=!4m7!3m6!1s0x2e68490575f68dad:0",
+        "reviews": 1
+      }
+    ],
+    "picked": {
+      "name": "Dr Metz Restorative Clinic Cibadak",
+      "rating": 5,
+      "address": "Ahli estetika · Jl. Siliwangi No.24",
+      "href": "https://www.google.com/maps/place/Dr+Metz+Restorative+Clinic+Cibadak/data=!4m7!3m6!1s0x2e6831db55e63",
+      "reviews": 41,
+      "matchScore": 0.67
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 29,
+    "name": "Avenue Salon Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 210
+    },
+    "query": "Avenue Salon Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Selabintana Kp Panjalu No.KM 3 5, Warnasari, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 65
+  },
+  {
+    "id": 30,
+    "name": "ADJIE SALON",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 205
+    },
+    "query": "ADJIE SALON Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jalan Ruko Jl. Brawijaya No.7, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 300
+  },
+  {
+    "id": 31,
+    "name": "Pixel Barbershop Nyomplong",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 340
+    },
+    "query": "Pixel Barbershop Nyomplong Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jalan Lettu Bakri No 4, Nyomplong, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 789
+  },
+  {
+    "id": 32,
+    "name": "BARBERSTATION BARBERSHOP",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 415
+    },
+    "query": "BARBERSTATION BARBERSHOP Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Siliwangi No.44, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 197
+  },
+  {
+    "id": 33,
+    "name": "Simi Reflexology Massage & Spa",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 520
+    },
+    "query": "Simi Reflexology Massage & Spa Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Surya Kencana No.66, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 2182
+  },
+  {
+    "id": 34,
+    "name": "Nadifa Clinic Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 255
+    },
+    "query": "Nadifa Clinic Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jalan R. A. Kosasih No. 78, Sukaraja, Cisarua, Kec. Cikole, Kota Sukabumi, Cisarua, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43115",
+    "reviews": 88
+  },
+  {
+    "id": 35,
+    "name": "Calysta skin care clinic",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 310
+    },
+    "query": "Calysta skin care clinic Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Rumah Sakit No.6 A, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 147
+  },
+  {
+    "id": 36,
+    "name": "ARSENIO SALON",
+    "claimed": {
+      "rating": 5,
+      "reviews": 145
+    },
+    "query": "ARSENIO SALON Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WFM+J95, Jl. Otto Iskandardinata, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43141",
+    "reviews": 223
+  },
+  {
+    "id": 37,
+    "name": "Pixel Barbershop Cipanengah",
+    "claimed": {
+      "rating": 5,
+      "reviews": 112
+    },
+    "query": "Pixel Barbershop Cipanengah Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Pixel Barbershop Cipanengah",
+        "rating": 5,
+        "address": "Tempat Cukur Rambut · Jl. Pelabuhan II",
+        "href": "https://www.google.com/maps/place/Pixel+Barbershop+Cipanengah/data=!4m7!3m6!1s0x2e6849224eaf6fc3:0x6",
+        "reviews": 1320
+      },
+      {
+        "name": "Pixel Barbershop Nyomplong",
+        "rating": 5,
+        "address": "Tempat Cukur Rambut · Jalan Lettu Bakri No 4, Nyomplong",
+        "href": "https://www.google.com/maps/place/Pixel+Barbershop+Nyomplong/data=!4m7!3m6!1s0x2e68497effce82c9:0x41",
+        "reviews": 789
+      },
+      {
+        "name": "Pixel Barbershop Ciaul",
+        "rating": 5,
+        "address": "Tempat Cukur Rambut · Jl. R.A. Kosasih No.278",
+        "href": "https://www.google.com/maps/place/Pixel+Barbershop+Ciaul/data=!4m7!3m6!1s0x2e684926f4295543:0x4cc3ed",
+        "reviews": 3672
+      },
+      {
+        "name": "Pixel Barbershop Cibadak",
+        "rating": 5,
+        "address": "Tempat Cukur Rambut · Jl. Siliwangi",
+        "href": "https://www.google.com/maps/place/Pixel+Barbershop+Cibadak/data=!4m7!3m6!1s0x2e6831e17787084f:0x4f5a",
+        "reviews": 3380
+      },
+      {
+        "name": "Pixel Barbershop Cisaat",
+        "rating": 5,
+        "address": "Tempat Cukur Rambut · Jl. Raya Cisaat No.118",
+        "href": "https://www.google.com/maps/place/Pixel+Barbershop+Cisaat/data=!4m7!3m6!1s0x2e6837556fc84341:0x9a935",
+        "reviews": 3047
+      }
+    ],
+    "picked": {
+      "name": "Pixel Barbershop Cipanengah",
+      "rating": 5,
+      "address": "Tempat Cukur Rambut · Jl. Pelabuhan II",
+      "href": "https://www.google.com/maps/place/Pixel+Barbershop+Cipanengah/data=!4m7!3m6!1s0x2e6849224eaf6fc3:0x6",
+      "reviews": 1320,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 38,
+    "name": "Blackburn Barbershop - Sukabumi Branch",
+    "claimed": {
+      "rating": 5,
+      "reviews": 89
+    },
+    "query": "Blackburn Barbershop - Sukabumi Branch",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. A. Yani No.58, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 2764
+  },
+  {
+    "id": 39,
+    "name": "Pixel Barbershop Ciaul",
+    "claimed": {
+      "rating": 5,
+      "reviews": 175
+    },
+    "query": "Pixel Barbershop Ciaul Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. R.A. Kosasih No.278, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 3672
+  },
+  {
+    "id": 40,
+    "name": "SERENITY SPA",
+    "claimed": {
+      "rating": 5,
+      "reviews": 54
+    },
+    "query": "SERENITY SPA Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Bhayangkara No.204, Selabatu, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 28
+  },
+  {
+    "id": 41,
+    "name": "Aida Spa & Massage",
+    "claimed": {
+      "rating": 5,
+      "reviews": 38
+    },
+    "query": "Aida Spa & Massage Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Dekat Sweet escape, Jl. Caringin Ngumbang No.RT 002/001, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 1
+  },
+  {
+    "id": 42,
+    "name": "Natasha Skin Clinic Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 190
+    },
+    "query": "Natasha Skin Clinic Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Suryakencana No.52 Ruko A-B, RT.07/RW.07, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 938
+  },
+  {
+    "id": 43,
+    "name": "Ella Skincare Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 165
+    },
+    "query": "Ella Skincare Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Siliwangi No.77, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 493
+  },
+  {
+    "id": 44,
+    "name": "Hoki Motor sukabumi",
+    "claimed": {
+      "rating": 4.3,
+      "reviews": 840
+    },
+    "query": "Hoki Motor sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.3,
+    "address": "Jl. Otto Iskandardinata No.9, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 106
+  },
+  {
+    "id": 45,
+    "name": "Cuci Steam Mobil & Motor 24 jam",
+    "claimed": {
+      "rating": 4.3,
+      "reviews": 325
+    },
+    "query": "Cuci Steam Mobil & Motor 24 jam Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Tempat Pencucian Mobil",
+        "rating": 4.3,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Cuci+Steam+Mobil+%26+Motor+24+jam/data=!4m7!3m6!1s0x2e6848250d0597",
+        "reviews": 711
+      },
+      {
+        "name": "KPM Carwash.Cuci Steam Mobil dan Motor 24 jam.",
+        "rating": 5,
+        "address": "Pencucian mobil mandiri · Kpm Rest Area.kulineri, Jl. Cigadog",
+        "href": "https://www.google.com/maps/place/KPM+Carwash.Cuci+Steam+Mobil+dan+Motor+24+jam./data=!4m7!3m6!1s0x2",
+        "reviews": 4
+      },
+      {
+        "name": "Tempat Pencucian Mobil · Jl. Pelabuhan II Jl. Begeg",
+        "rating": 4,
+        "address": "Tempat Pencucian Mobil · Jl. Pelabuhan II Jl. Begeg",
+        "href": "https://www.google.com/maps/place/Berlian+Cuci+mobil-motor+24jam/data=!4m7!3m6!1s0x2e684976705c0b81:",
+        "reviews": 4
+      }
+    ],
+    "picked": {
+      "name": "KPM Carwash.Cuci Steam Mobil dan Motor 24 jam.",
+      "rating": 5,
+      "address": "Pencucian mobil mandiri · Kpm Rest Area.kulineri, Jl. Cigadog",
+      "href": "https://www.google.com/maps/place/KPM+Carwash.Cuci+Steam+Mobil+dan+Motor+24+jam./data=!4m7!3m6!1s0x2",
+      "reviews": 4,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 46,
+    "name": "Baros Jaya Motor",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 410
+    },
+    "query": "Baros Jaya Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Otto Iskandardinata No.107, Nanggeleng, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43143",
+    "reviews": 388
+  },
+  {
+    "id": 47,
+    "name": "Inti Prima Motor",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 530
+    },
+    "query": "Inti Prima Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Sudirman No.43, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 167
+  },
+  {
+    "id": 48,
+    "name": "lulu motor",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 215
+    },
+    "query": "lulu motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "2WJW+WHR, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161",
+    "reviews": 77
+  },
+  {
+    "id": 49,
+    "name": "Jaya Motor",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 380
+    },
+    "query": "Jaya Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Pelabuhan II No.52, RT./RW/RW.003/008, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 89
+  },
+  {
+    "id": 50,
+    "name": "Rey Motor Sukabumi",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 290
+    },
+    "query": "Rey Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Pelabuhan II No.218, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 34
+  },
+  {
+    "id": 51,
+    "name": "Hars Motor",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 460
+    },
+    "query": "Hars Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Otto Iskandardinata, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 364
+  },
+  {
+    "id": 52,
+    "name": "Cipendawa Motor lll",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 510
+    },
+    "query": "Cipendawa Motor lll Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Pelabuhan II No.272A, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 209
+  },
+  {
+    "id": 53,
+    "name": "Buana Raya Service - Auto Service Center",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 720
+    },
+    "query": "Buana Raya Service - Auto Service Center Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Pajagalan No.29, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 139
+  },
+  {
+    "id": 54,
+    "name": "Central Carwash Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 355
+    },
+    "query": "Central Carwash Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "3WHM+5M4, Jl. Gudang, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 45
+  },
+  {
+    "id": 55,
+    "name": "Ratu Motor",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 285
+    },
+    "query": "Ratu Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Otto Iskandardinata No.31, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 77
+  },
+  {
+    "id": 56,
+    "name": "CV.KINGKING MOTOR",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 310
+    },
+    "query": "CV.KINGKING MOTOR Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. R.A. Kosasih No.23, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 692
+  },
+  {
+    "id": 57,
+    "name": "SHOWNGARAGE ( CAR WASH )",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 245
+    },
+    "query": "SHOWNGARAGE ( CAR WASH ) Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Raya Sukaraja, Sukaraja, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 69
+  },
+  {
+    "id": 58,
+    "name": "CV ZIED AUTO SERVICE",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 415
+    },
+    "query": "CV ZIED AUTO SERVICE Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Ciseureuh Jalan No.67 rt02, RW.01, Karang Tengah, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122",
+    "reviews": 114
+  },
+  {
+    "id": 59,
+    "name": "Bengkel motor sukabumi",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 210
+    },
+    "query": "Bengkel motor sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata No.9",
+        "rating": 4.3,
+        "address": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata No.9",
+        "href": "https://www.google.com/maps/place/Hoki+Motor+sukabumi/data=!4m7!3m6!1s0x2e6848383bc3b20b:0xca3dcc293",
+        "reviews": 106
+      },
+      {
+        "name": "Bengkel motor sukabumi",
+        "rating": 4.8,
+        "address": "Bengkel Sepeda Motor ·  · Jl. Ciandam No.07",
+        "href": "https://www.google.com/maps/place/Bengkel+motor+sukabumi/data=!4m7!3m6!1s0x2e684921f6ab0f31:0x35ddb3",
+        "reviews": 40
+      },
+      {
+        "name": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata",
+        "rating": 4.5,
+        "address": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata",
+        "href": "https://www.google.com/maps/place/Hars+Motor/data=!4m7!3m6!1s0x2e6848383bc7a26b:0xe608cfa87926e84c!8",
+        "reviews": 364
+      },
+      {
+        "name": "Bengkel Sepeda Motor ·  · Jl. R.A. Kosasih No.176",
+        "rating": 4.3,
+        "address": "Bengkel Sepeda Motor ·  · Jl. R.A. Kosasih No.176",
+        "href": "https://www.google.com/maps/place/Royal+Motor/data=!4m7!3m6!1s0x2e68484ff0d73b07:0xdb1ac7fbf614ef01!",
+        "reviews": 56
+      },
+      {
+        "name": "Toko Suku Cadang Motor ·  · 2WJW+WHR",
+        "rating": 4.4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/lulu+motor/data=!4m7!3m6!1s0x2e6847c5e8e1b0cb:0x85fc8073040faf28!8",
+        "reviews": 77
+      },
+      {
+        "name": "Bengkel Sepeda Motor ·  · Jalan Rh. Didi Sukardi No 118, Gedongpanjang, Citamia",
+        "rating": 4.4,
+        "address": "Bengkel Sepeda Motor ·  · Jalan Rh. Didi Sukardi No 118, Gedongpanjang, Citamiang",
+        "href": "https://www.google.com/maps/place/Gaul+Motor/data=!4m7!3m6!1s0x2e684813f39b3c21:0x4dad98c55baec6c6!8",
+        "reviews": 77
+      }
+    ],
+    "picked": {
+      "name": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata No.9",
+      "rating": 4.3,
+      "address": "Bengkel Sepeda Motor ·  · Jl. Otto Iskandardinata No.9",
+      "href": "https://www.google.com/maps/place/Hoki+Motor+sukabumi/data=!4m7!3m6!1s0x2e6848383bc3b20b:0xca3dcc293",
+      "reviews": 106,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 60,
+    "name": "Toko Jati Raya Motor",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 340
+    },
+    "query": "Toko Jati Raya Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "JL. R. A Kosasih, No.59, Cisarua, Kab. Sukabumi, Kota Sukabumi, Jawa Barat 43115",
+    "reviews": 31
+  },
+  {
+    "id": 61,
+    "name": "Green_wash Cuci Mobil & Motor",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 275
+    },
+    "query": "Green_wash Cuci Mobil & Motor Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Pelabuhan II Jl. Begeg, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 101
+  },
+  {
+    "id": 62,
+    "name": "RBM (RumahBengkelMotor)",
+    "claimed": {
+      "rating": 5,
+      "reviews": 85
+    },
+    "query": "RBM (RumahBengkelMotor) Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3W47+XQ6, Jl. Koleberes, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 27
+  },
+  {
+    "id": 63,
+    "name": "AH MASTER WASH (cuci garansi hujan)",
+    "claimed": {
+      "rating": 5,
+      "reviews": 42
+    },
+    "query": "AH MASTER WASH (cuci garansi hujan) Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WH9+MPC, Jl. Arif Rahman Hakim, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43132",
+    "reviews": 20
+  },
+  {
+    "id": 64,
+    "name": "Grand Permata Hijau Hotel",
+    "claimed": {
+      "rating": 4.2,
+      "reviews": 1450
+    },
+    "query": "Grand Permata Hijau Hotel Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.2,
+    "address": "Jl. Bhayangkara No.46, Gunungpuyuh, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43123",
+    "reviews": 2023
+  },
+  {
+    "id": 65,
+    "name": "Taman Sari Hotel & Resort",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 2100
+    },
+    "query": "Taman Sari Hotel & Resort Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Surya Kencana No.112, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 3352
+  },
+  {
+    "id": 66,
+    "name": "Balcony Hotel",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 1890
+    },
+    "query": "Balcony Hotel Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Selabintana No.35, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43151",
+    "reviews": 2255
+  },
+  {
+    "id": 67,
+    "name": "Homestay D'mutiara Sukabumi",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 320
+    },
+    "query": "Homestay D'mutiara Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Selakopi-Cijengkol, RT.07/RW.004, Lembursawah, Kec. Cicantayan, Kabupaten Sukabumi, Jawa Barat 43155",
+    "reviews": 113
+  },
+  {
+    "id": 68,
+    "name": "Tikungan Indah Guest House",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 275
+    },
+    "query": "Tikungan Indah Guest House Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Bhayangkara No.171, Karamat, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43123",
+    "reviews": 38
+  },
+  {
+    "id": 69,
+    "name": "Horison Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 3200
+    },
+    "query": "Horison Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Siliwangi No.68, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 5864
+  },
+  {
+    "id": 70,
+    "name": "The Bountie Hotels and Convention Center Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 2850
+    },
+    "query": "The Bountie Hotels and Convention Center Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Siliwangi No.90, Cikole, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43113",
+    "reviews": 5697
+  },
+  {
+    "id": 71,
+    "name": "Firma Guest House",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 410
+    },
+    "query": "Firma Guest House Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Sriwidari No.5, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 188
+  },
+  {
+    "id": 72,
+    "name": "Anugrah Alam Homestay",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 530
+    },
+    "query": "Anugrah Alam Homestay Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Cipelang Leutik No.II/3, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 78
+  },
+  {
+    "id": 73,
+    "name": "Vimi - villa sukabumi",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 215
+    },
+    "query": "Vimi - villa sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Sawahbera No.99, RT.003/RW.004, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 9
+  },
+  {
+    "id": 74,
+    "name": "Kampoeng Kita",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 340
+    },
+    "query": "Kampoeng Kita Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Cibentang, Kec. Gn. Guruh, Kabupaten Sukabumi, Jawa Barat 43156",
+    "reviews": 43
+  },
+  {
+    "id": 75,
+    "name": "Homestay WS Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 250
+    },
+    "query": "Homestay WS Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "3VWR+J8, Nagrak, Kec. Nagrak, Kabupaten Sukabumi, Jawa Barat 43132",
+    "reviews": 70
+  },
+  {
+    "id": 76,
+    "name": "Amsberg villa at Selabintana",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 210
+    },
+    "query": "Amsberg villa at Selabintana Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Selabintana No.KM. 6.36, Perbawati, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 178
+  },
+  {
+    "id": 77,
+    "name": "DCT Homestay Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 65
+    },
+    "query": "DCT Homestay Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "4W7V+HV Sudajaya Girang, Kabupaten Sukabumi, Jawa Barat",
+    "reviews": 24
+  },
+  {
+    "id": 78,
+    "name": "Qiai Guest House Penginapan Syariah Non Hotel Sukabumi ( RedDoorz Plus Near Station )",
+    "claimed": {
+      "rating": 5,
+      "reviews": 110
+    },
+    "query": "Qiai Guest House Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Gg. H. Tarpi Jl. Pelda Suryanta, Nanggeleng, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43145",
+    "reviews": 870
+  },
+  {
+    "id": 79,
+    "name": "SILVIA GUEST HOUSE",
+    "claimed": {
+      "rating": 5,
+      "reviews": 88
+    },
+    "query": "SILVIA GUEST HOUSE Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Lio Santa, ASEM, Sudajaya Hilir, Kec. Baros, Kota Sukabumi, Jawa Barat 43161",
+    "reviews": 2
+  },
+  {
+    "id": 80,
+    "name": "Adiza Guest House",
+    "claimed": {
+      "rating": 5,
+      "reviews": 45
+    },
+    "query": "Adiza Guest House Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Graha Taman Sukabumi Blk. C No.4, Karamat, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122",
+    "reviews": 6
+  },
+  {
+    "id": 81,
+    "name": "De Haus Villa Syariah - Subang Jaya",
+    "claimed": {
+      "rating": 5,
+      "reviews": 32
+    },
+    "query": "De Haus Villa Syariah - Subang Jaya",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Perumahan Subang Jaya Village, Jl. Melati 1 No.10 Blok D, RT.6/RW.3, Sukajaya, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 37
+  },
+  {
+    "id": 82,
+    "name": "Villa Mochi Classic Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 15
+    },
+    "query": "Villa Mochi Classic Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Villa Mochi Classic Sukabumi Private Private Jacuzzi",
+        "rating": 5,
+        "address": "Vila · Grand panorama residence, Jl. Selabintana No.1 blok E2",
+        "href": "https://www.google.com/maps/place/Villa+Mochi+Classic+Sukabumi+Private+Private+Jacuzzi/data=!4m7!3m6",
+        "reviews": 21
+      }
+    ],
+    "picked": {
+      "name": "Villa Mochi Classic Sukabumi Private Private Jacuzzi",
+      "rating": 5,
+      "address": "Vila · Grand panorama residence, Jl. Selabintana No.1 blok E2",
+      "href": "https://www.google.com/maps/place/Villa+Mochi+Classic+Sukabumi+Private+Private+Jacuzzi/data=!4m7!3m6",
+      "reviews": 21,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 83,
+    "name": "Apotek Utari",
+    "claimed": {
+      "rating": 1,
+      "reviews": 12
+    },
+    "query": "Apotek Utari Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 1,
+    "address": "Jl. Sukabumi No.38, Kacapiring, Kec. Batununggal, Kota Bandung, Jawa Barat 40271",
+    "reviews": 2
+  },
+  {
+    "id": 84,
+    "name": "Apotek indo Medika",
+    "claimed": {
+      "rating": 4.1,
+      "reviews": 85
+    },
+    "query": "Apotek indo Medika Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.1,
+    "address": "Jl. Rumah Sakit No.8, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 122
+  },
+  {
+    "id": 85,
+    "name": "Labkesda Kota Sukabumi",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 140
+    },
+    "query": "Labkesda Kota Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Surya Kencana No.43, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 89
+  },
+  {
+    "id": 86,
+    "name": "KLINIK JALUR FARMA",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 320
+    },
+    "query": "KLINIK JALUR FARMA Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Pelabuhan II No.463, Sindangsari, Kec. Lembursitu, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 826
+  },
+  {
+    "id": 87,
+    "name": "Kimia Farma Sukabumi",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 415
+    },
+    "query": "Kimia Farma Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Kimia Farma Apotek",
+        "rating": 3.7,
+        "address": "Apotek ·  · Jl. Veteran II No.2",
+        "href": "https://www.google.com/maps/place/Kimia+Farma+Apotek/data=!4m7!3m6!1s0x2e68026097b5e8f1:0x17a9d99f5f",
+        "reviews": 176
+      },
+      {
+        "name": "Klinik Kimia Farma 8 Sukabumi",
+        "rating": 3.1,
+        "address": "Klinik Medis ·  · Jl. Surya Kencana",
+        "href": "https://www.google.com/maps/place/Klinik+Kimia+Farma+8+Sukabumi/data=!4m7!3m6!1s0x2e6848311cb9d8e3:0",
+        "reviews": 161
+      },
+      {
+        "name": "Laboratorium Medis dan Klinik Kimia Farma Sukabumi",
+        "rating": 4.5,
+        "address": "Laboratorium Medis ·  · Jl. Veteran II No.2",
+        "href": "https://www.google.com/maps/place/Laboratorium+Medis+dan+Klinik+Kimia+Farma+Sukabumi/data=!4m7!3m6!1",
+        "reviews": 113
+      },
+      {
+        "name": "Apotek Kimia Farma Siliwangi",
+        "rating": 4.1,
+        "address": "Apotek · Jl. Siliwangi No.92",
+        "href": "https://www.google.com/maps/place/Apotek+Kimia+Farma+Siliwangi/data=!4m7!3m6!1s0x2e6839f39e471d2b:0x",
+        "reviews": 28
+      },
+      {
+        "name": "Apotek dan Klinik Kimia Farma 549 Sukaraja",
+        "rating": 4,
+        "address": "Apotek · Jl. Raya Ngaweng No.35",
+        "href": "https://www.google.com/maps/place/Apotek+dan+Klinik+Kimia+Farma+549+Sukaraja/data=!4m7!3m6!1s0x2e684",
+        "reviews": 111
+      },
+      {
+        "name": "Apotek Kimia Farma 221 Degung",
+        "rating": 4.3,
+        "address": "Apotek · Jl. Sudirman No.81B",
+        "href": "https://www.google.com/maps/place/Apotek+Kimia+Farma+221+Degung/data=!4m7!3m6!1s0x2e6827e9a9c8a06f:0",
+        "reviews": 88
+      }
+    ],
+    "picked": {
+      "name": "Kimia Farma Apotek",
+      "rating": 3.7,
+      "address": "Apotek ·  · Jl. Veteran II No.2",
+      "href": "https://www.google.com/maps/place/Kimia+Farma+Apotek/data=!4m7!3m6!1s0x2e68026097b5e8f1:0x17a9d99f5f",
+      "reviews": 176,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 88,
+    "name": "Laboratorium Klinik Vita Medika",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 275
+    },
+    "query": "Laboratorium Klinik Vita Medika Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Surya Kencana, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 12
+  },
+  {
+    "id": 89,
+    "name": "Primaya Hospital Sukabumi",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 1250
+    },
+    "query": "Primaya Hospital Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. R.A. Kosasih No.45, Sukaraja, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 1362
+  },
+  {
+    "id": 90,
+    "name": "Klinik Pratama Jasalab",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 310
+    },
+    "query": "Klinik Pratama Jasalab Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Cikole Dalam No.12, RT.07/RW.07, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 55
+  },
+  {
+    "id": 91,
+    "name": "praktik dokter keluarga dr kamal & dr dini",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 245
+    },
+    "query": "praktik dokter keluarga dr kamal & dr dini Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Kapten Asmud Lubis, Selabatu, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 19
+  },
+  {
+    "id": 92,
+    "name": "Prodia Sukabumi",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 520
+    },
+    "query": "Prodia Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Sudirman No.42B, RT.02/RW.04, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43132",
+    "reviews": 99
+  },
+  {
+    "id": 93,
+    "name": "Apotek Mitra Husada",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 380
+    },
+    "query": "Apotek Mitra Husada Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Apotek Mitra Husada & Praktek dr. H. Hendri Ginting, SpOG",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Apotek+Mitra+Husada+%26+Praktek+dr.+H.+Hendri+Ginting,+SpOG/data=!",
+        "reviews": 777
+      },
+      {
+        "name": "Apotek mitra husada",
+        "rating": 4.5,
+        "address": "Apotek · Jl. Raya Rambay No.63",
+        "href": "https://www.google.com/maps/place/Apotek+mitra+husada/data=!4m7!3m6!1s0x2e683757494098a5:0xe6707b4ce",
+        "reviews": 13
+      },
+      {
+        "name": "Apotek Mitra Husada Cisaat",
+        "rating": 3,
+        "address": "Apotek · Jl. Nasional III No.7-49",
+        "href": "https://www.google.com/maps/place/Apotek+Mitra+Husada+Cisaat/data=!4m7!3m6!1s0x2e683767b24b19bf:0x18",
+        "reviews": 8
+      }
+    ],
+    "picked": {
+      "name": "Apotek Mitra Husada & Praktek dr. H. Hendri Ginting, SpOG",
+      "rating": 4.9,
+      "address": "",
+      "href": "https://www.google.com/maps/place/Apotek+Mitra+Husada+%26+Praktek+dr.+H.+Hendri+Ginting,+SpOG/data=!",
+      "reviews": 777,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 94,
+    "name": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 215
+    },
+    "query": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Pelabuhan II No.262, RT.3/RW.1, Situmekar, Kec. Lembursitu, Kota Sukabumi, Jawa Barat 43168",
+    "reviews": 37
+  },
+  {
+    "id": 95,
+    "name": "Klinik Holistic Natural Insani Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 290
+    },
+    "query": "Klinik Holistic Natural Insani Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Lkr. Sel., RT./RW/RW.004/018, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 248
+  },
+  {
+    "id": 96,
+    "name": "Bening's Clinic Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 410
+    },
+    "query": "Bening's Clinic Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Sudirman No.Blok 34, RT.002/RW.004, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43132",
+    "reviews": 141
+  },
+  {
+    "id": 97,
+    "name": "Apotek Ciaul",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 265
+    },
+    "query": "Apotek Ciaul Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. R.A. Kosasih, Cisarua, Kec. Cikole, Kota Sukabumi, Jawa Barat 43115",
+    "reviews": 15
+  },
+  {
+    "id": 98,
+    "name": "Klinik Obat Dokter Amelia Di Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 48
+    },
+    "query": "Klinik Obat Dokter Amelia Di Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WFJ+XG7, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 2
+  },
+  {
+    "id": 99,
+    "name": "KHITAN SUKABUMI CIPOHO MEDIKA ( dr. Fazrul ) RUMAH KHITAN MODERN",
+    "claimed": {
+      "rating": 5,
+      "reviews": 115
+    },
+    "query": "KHITAN SUKABUMI CIPOHO MEDIKA",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Depan Pabrik PT. Great Apparel, Jl. Pelabuhan II, RT.01/RW.04, Cikondang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 94
+  },
+  {
+    "id": 100,
+    "name": "APOTEK LARAS SUKABUMI",
+    "claimed": {
+      "rating": 5,
+      "reviews": 34
+    },
+    "query": "APOTEK LARAS SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Karamat, Karamat, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122",
+    "reviews": 142
+  },
+  {
+    "id": 101,
+    "name": "Apotek Cikole",
+    "claimed": {
+      "rating": 5,
+      "reviews": 76
+    },
+    "query": "Apotek Cikole Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Cikole Dalam No.15, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 90
+  },
+  {
+    "id": 102,
+    "name": "Ardin Teknik",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 210
+    },
+    "query": "Ardin Teknik Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Cisarua, Kec. Cikole, Kota Sukabumi, Jawa Barat 43115",
+    "reviews": 52
+  },
+  {
+    "id": 103,
+    "name": "Lavandera Laundry",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 345
+    },
+    "query": "Lavandera Laundry Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Bhayangkara No.214, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 169
+  },
+  {
+    "id": 104,
+    "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 220
+    },
+    "query": "Lumire Laundry Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Ruko Danalaga, blok j8, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 181
+  },
+  {
+    "id": 105,
+    "name": "SERVICE AC SUKABUMI SIGMA TECHNIQUE",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 285
+    },
+    "query": "SERVICE AC SUKABUMI SIGMA TECHNIQUE",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Aminta Azmali, Sriwidari, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 161
+  },
+  {
+    "id": 106,
+    "name": "Buana Jaya Mandiri Ac 1",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 215
+    },
+    "query": "Buana Jaya Mandiri Ac 1 Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Raya Rambay No.49, Sukamantri, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 288
+  },
+  {
+    "id": 107,
+    "name": "SERVICE KULKAS SUKABUMI",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 250
+    },
+    "query": "SERVICE KULKAS SUKABUMI",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "rating": 4.9,
+        "address": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "href": "https://www.google.com/maps/place/SERVICE+KULKAS+SUKABUMI/data=!4m7!3m6!1s0x2e68371151b5f58f:0x2b88c",
+        "reviews": 100
+      },
+      {
+        "name": "Jasa Reparasi Kulkas · jalan sarasa loa sari, RT.01/RW.01",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/JASA+SERVICE+KULKAS+SUKABUMI+DAN+JUAL+BELI+KULKAS+BEKAS+%28ALIPHAQ",
+        "reviews": 23
+      }
+    ],
+    "picked": {
+      "name": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+      "rating": 4.9,
+      "address": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+      "href": "https://www.google.com/maps/place/SERVICE+KULKAS+SUKABUMI/data=!4m7!3m6!1s0x2e68371151b5f58f:0x2b88c",
+      "reviews": 100,
+      "matchScore": 0.5
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 108,
+    "name": "Service mesin cuci Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 240
+    },
+    "query": "service mesin cuci Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "rating": 4.9,
+        "address": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "href": "https://www.google.com/maps/place/SERVICE+KULKAS+SUKABUMI/data=!4m7!3m6!1s0x2e68371151b5f58f:0x2b88c",
+        "reviews": 100
+      },
+      {
+        "name": "Bengkel Elektronik · Jl. Sukamanah No.141",
+        "rating": 4.9,
+        "address": "Bengkel Elektronik · Jl. Sukamanah No.141",
+        "href": "https://www.google.com/maps/place/Service+mesin+cuci+Sukabumi/data=!4m7!3m6!1s0x2e683746ad838bed:0xc",
+        "reviews": 32
+      },
+      {
+        "name": "Jasa Reparasi Kulkas · jalan sarasa loa sari, RT.01/RW.01",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/JASA+SERVICE+KULKAS+SUKABUMI+DAN+JUAL+BELI+KULKAS+BEKAS+%28ALIPHAQ",
+        "reviews": 23
+      },
+      {
+        "name": "Bengkel Elektronik · KP, Jl. Ciseureuh, RT.04/RW.05",
+        "rating": 5,
+        "address": "Bengkel Elektronik · KP, Jl. Ciseureuh, RT.04/RW.05",
+        "href": "https://www.google.com/maps/place/CV.+UNAS+TEKNIK/data=!4m7!3m6!1s0x2e683723d5a53cd9:0xb0ef6157810da",
+        "reviews": 10
+      },
+      {
+        "name": "Toko Reparasi Elektronik · ",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Ardin+Teknik/data=!4m7!3m6!1s0x2e684846059be995:0xcda0ef9429a854f0",
+        "reviews": 52
+      },
+      {
+        "name": "Service elektrikal & elektronik mesin percetakan,mesin cuci dll.",
+        "rating": 4.5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Service+elektrikal+%26+elektronik+mesin+percetakan,mesin+cuci+dll.",
+        "reviews": 2
+      }
+    ],
+    "picked": {
+      "name": "Service elektrikal & elektronik mesin percetakan,mesin cuci dll.",
+      "rating": 4.5,
+      "address": "",
+      "href": "https://www.google.com/maps/place/Service+elektrikal+%26+elektronik+mesin+percetakan,mesin+cuci+dll.",
+      "reviews": 2,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 109,
+    "name": "Amani Laundry Terdekat Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 188
+    },
+    "query": "Amani Laundry Terdekat Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Amani Laundry Karpet Cisaat Cikiray",
+        "rating": 4.8,
+        "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504",
+        "reviews": 157
+      },
+      {
+        "name": "Amani Laundry Terdekat Sukabumi - Gratis Antar Jemput",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Karamat, Karamat, Kec. Gunungpuyuh, Kota Sukabumi",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Terdekat+Sukabumi+-+Gratis+Antar+Jemput/data=!4m7!3m",
+        "reviews": 50
+      },
+      {
+        "name": "AMANI LAUNDRY TERDEKAT CIJAMBU CIKIRAY",
+        "rating": 4.8,
+        "address": "Binatu · Jl. Cikiray Kidul, RT.02/RW.09",
+        "href": "https://www.google.com/maps/place/AMANI+LAUNDRY+TERDEKAT+CIJAMBU+CIKIRAY/data=!4m7!3m6!1s0x2e6837a26",
+        "reviews": 20
+      },
+      {
+        "name": "Amani Laundry Gratis Antar Jemput Sukabumi",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Arif Rahman Hakim, Benteng, Kec. Warudoyong, Kota Sukabumi",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Gratis+Antar+Jemput+Sukabumi/data=!4m7!3m6!1s0x2e684",
+        "reviews": 9
+      }
+    ],
+    "picked": {
+      "name": "Amani Laundry Karpet Cisaat Cikiray",
+      "rating": 4.8,
+      "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+      "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504",
+      "reviews": 157,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 110,
+    "name": "Sukabumi Laundry Cabang Cisaat",
+    "claimed": {
+      "rating": 5,
+      "reviews": 95
+    },
+    "query": "Sukabumi Laundry Cabang Cisaat",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Sukamanah, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 23
+  },
+  {
+    "id": 111,
+    "name": "AA LAUNDRY Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 62
+    },
+    "query": "AA LAUNDRY Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m",
+        "reviews": 104
+      },
+      {
+        "name": "Aa Laundry",
+        "rating": 1,
+        "address": "Binatu Cucian Kering · Jl. Babakan Ciparay No.184A",
+        "href": "https://www.google.com/maps/place/Aa+Laundry/data=!4m7!3m6!1s0x2e68e8af14f7b551:0xc74eab548592934b!8",
+        "reviews": 1
+      },
+      {
+        "name": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 43144, kode No.24 06",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e6",
+        "reviews": 96
+      }
+    ],
+    "picked": {
+      "name": "Aa Laundry",
+      "rating": 1,
+      "address": "Binatu Cucian Kering · Jl. Babakan Ciparay No.184A",
+      "href": "https://www.google.com/maps/place/Aa+Laundry/data=!4m7!3m6!1s0x2e68e8af14f7b551:0xc74eab548592934b!8",
+      "reviews": 1,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 112,
+    "name": "MEGA CEMERLANG SUKABUMI",
+    "claimed": {
+      "rating": 5,
+      "reviews": 45
+    },
+    "query": "MEGA CEMERLANG SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Cimahpar Endah 2 Jl. Cendrawasih No.24 A, Pasirhalang, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 42192",
+    "reviews": 5
+  },
+  {
+    "id": 113,
+    "name": "Bersih.in WearCare",
+    "claimed": {
+      "rating": 5,
+      "reviews": 112
+    },
+    "query": "Bersih.in WearCare Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Lettu Bakrie No.2, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 221
+  },
+  {
+    "id": 114,
+    "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+    "claimed": {
+      "rating": 5,
+      "reviews": 38
+    },
+    "query": "ADAVA LAUNDRY Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 43144, kode No.24 06, Gedongpanjang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43144",
+    "reviews": 96
+  },
+  {
+    "id": 115,
+    "name": "SERVICE AC SUKABUMI Alteknik",
+    "claimed": {
+      "rating": 5,
+      "reviews": 145
+    },
+    "query": "SERVICE AC SUKABUMI Alteknik",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Pesona Aluna II, Sukaraja, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 8
+  },
+  {
+    "id": 116,
+    "name": "Service AC Sukabumi (Utama teknik)",
+    "claimed": {
+      "rating": 5,
+      "reviews": 120
+    },
+    "query": "Utama teknik Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Raya Cidahu No.Rt 01/03, Jayabakti, Kec. Cidahu, Kabupaten Sukabumi, Jawa Barat 43358",
+    "reviews": 12
+  },
+  {
+    "id": 117,
+    "name": "BIAN SUMUR BOR SUKABUMI",
+    "claimed": {
+      "rating": 5,
+      "reviews": 75
+    },
+    "query": "BIAN SUMUR BOR SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Koleberes No.42B, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 4
+  },
+  {
+    "id": 118,
+    "name": "Sumur Bor Sukabumi ( Pak Darmi )",
+    "claimed": {
+      "rating": 5,
+      "reviews": 30
+    },
+    "query": "Sumur Bor Sukabumi Pak Darmi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Koleberes Cikapek, RT.02/RW.10, Dayeuhluhur, Kec. Warudoyong, Kabupaten Sukabumi, Jawa Barat 43134",
+    "reviews": 24
+  },
+  {
+    "id": 119,
+    "name": "Servis elektronik sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 88
+    },
+    "query": "Servis elektronik sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Bengkel Elektronik · Jl. Pelabuhan II Jl. Cikujang No.kp, RT.05/RW.13",
+        "rating": 5,
+        "address": "Bengkel Elektronik · Jl. Pelabuhan II Jl. Cikujang No.kp, RT.05/RW.13",
+        "href": "https://www.google.com/maps/place/Servis+elektronik+sukabumi/data=!4m7!3m6!1s0x2e6849f8875ef601:0xe1",
+        "reviews": 1
+      },
+      {
+        "name": "SERVICE TV LED LCD MESINCUCI KIPASKULKAS MAGICCOM parabola dll SUKABUMI",
+        "rating": 4.6,
+        "address": " · Jl. Nyomplong No.12",
+        "href": "https://www.google.com/maps/place/SERVICE+TV+LED+LCD+MESINCUCI+KIPASKULKAS+MAGICCOM+parabola+dll+SUK",
+        "reviews": 36
+      },
+      {
+        "name": "Toko Reparasi Elektronik · ",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Ardin+Teknik/data=!4m7!3m6!1s0x2e684846059be995:0xcda0ef9429a854f0",
+        "reviews": 52
+      },
+      {
+        "name": "Bengkel Elektronik · Jl. Sukamanah No.141",
+        "rating": 4.9,
+        "address": "Bengkel Elektronik · Jl. Sukamanah No.141",
+        "href": "https://www.google.com/maps/place/Service+mesin+cuci+Sukabumi/data=!4m7!3m6!1s0x2e683746ad838bed:0xc",
+        "reviews": 32
+      },
+      {
+        "name": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "rating": 4.9,
+        "address": "Jasa Reparasi Kulkas · Jl. Babakan Garung, RT.05/RW06",
+        "href": "https://www.google.com/maps/place/SERVICE+KULKAS+SUKABUMI/data=!4m7!3m6!1s0x2e68371151b5f58f:0x2b88c",
+        "reviews": 100
+      },
+      {
+        "name": "Toko Reparasi Elektronik · Jl. Bhayangkara No.72",
+        "rating": 4.2,
+        "address": "Toko Reparasi Elektronik · Jl. Bhayangkara No.72",
+        "href": "https://www.google.com/maps/place/Bhayangkara+Service/data=!4m7!3m6!1s0x2e68482c5f7b5d37:0xc7e723f49",
+        "reviews": 13
+      }
+    ],
+    "picked": {
+      "name": "Bengkel Elektronik · Jl. Pelabuhan II Jl. Cikujang No.kp, RT.05/RW.13",
+      "rating": 5,
+      "address": "Bengkel Elektronik · Jl. Pelabuhan II Jl. Cikujang No.kp, RT.05/RW.13",
+      "href": "https://www.google.com/maps/place/Servis+elektronik+sukabumi/data=!4m7!3m6!1s0x2e6849f8875ef601:0xe1",
+      "reviews": 1,
+      "matchScore": 0.5
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 120,
+    "name": "VANSERVIS Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 54
+    },
+    "query": "VANSERVIS Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Bengkel Mobil ·  · Jl. Pajagalan No.29",
+        "rating": 4.6,
+        "address": "Bengkel Mobil ·  · Jl. Pajagalan No.29",
+        "href": "https://www.google.com/maps/place/Buana+Raya+Service+-+Auto+Service+Center/data=!4m7!3m6!1s0x2e68497",
+        "reviews": 139
+      },
+      {
+        "name": "Bengkel Mobil · 3X63+XFX, Jl. Sarasa",
+        "rating": 5,
+        "address": "Bengkel Mobil · 3X63+XFX, Jl. Sarasa",
+        "href": "https://www.google.com/maps/place/CV+Sukabumi+Auto+Service/data=!4m7!3m6!1s0x2e6849006efe518f:0xaf3d",
+        "reviews": 2
+      },
+      {
+        "name": "Bengkel Mobil · 2WWC+W4V, Jl. Lembur Pasir",
+        "rating": 5,
+        "address": "Bengkel Mobil · 2WWC+W4V, Jl. Lembur Pasir",
+        "href": "https://www.google.com/maps/place/Servis+kabel+sukabumi/data=!4m7!3m6!1s0x2e6849007648e8bd:0xe0d165c",
+        "reviews": 3
+      },
+      {
+        "name": "Bengkel Elektronik · 2WWH+J6Q, Jl. Tatanugraha",
+        "rating": 5,
+        "address": "Bengkel Elektronik · 2WWH+J6Q, Jl. Tatanugraha",
+        "href": "https://www.google.com/maps/place/SERVIS+ELEKTRONIK+MESIN+LAS+%26+TV+LED+VANSERVIS/data=!4m7!3m6!1s0",
+        "reviews": 7
+      },
+      {
+        "name": "KANTOR REPRESENTATIVE VENTOUR TRAVEL SUKABUMI",
+        "rating": 5,
+        "address": "Kantor Perusahaan · Jl. Tangkil - Agrabinta",
+        "href": "https://www.google.com/maps/place/KANTOR+REPRESENTATIVE+VENTOUR+TRAVEL+SUKABUMI/data=!4m7!3m6!1s0x2e",
+        "reviews": 5
+      },
+      {
+        "name": "Toko Suku Cadang Mobil ·  · Jl. Pelabuhan II No.271",
+        "rating": 4.7,
+        "address": "Toko Suku Cadang Mobil ·  · Jl. Pelabuhan II No.271",
+        "href": "https://www.google.com/maps/place/Vanali+Motor/data=!4m7!3m6!1s0x2e684801cbfa6c1b:0xf956e9dd5cc48279",
+        "reviews": 338
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Servis elektronik Sukabumi( LJL SERVICE)",
+    "claimed": {
+      "rating": 5,
+      "reviews": 42
+    },
+    "query": "LJL SERVICE Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Parung Kuda-Ciambar, Ciambar, Kec. Ciambar, Kabupaten Sukabumi, Jawa Barat 43356",
+    "reviews": 8
+  },
+  {
+    "id": 122,
+    "name": "Cambridge Institute",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 310
+    },
+    "query": "Cambridge Institute Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "3WJ8+876, Jl. Raya Sukabumi, Gunungpuyuh, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43132",
+    "reviews": 21
+  },
+  {
+    "id": 123,
+    "name": "Little Angels Learning Center",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 245
+    },
+    "query": "Little Angels Learning Center Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Graha Siliwangi, Jl. Siliwangi No.98 Block B2, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 5
+  },
+  {
+    "id": 124,
+    "name": "Tunas Permata Bangsa Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 280
+    },
+    "query": "Tunas Permata Bangsa Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Ruko Cisuda Riverside, Jl. R.A. Kosasih Blok N-O, Sukaraja, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 124
+  },
+  {
+    "id": 125,
+    "name": "Bimbel ILC Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 215
+    },
+    "query": "Bimbel ILC Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Kursus · Ruko Bumi Asri, Gg. Cikiray Jl. Cikiray Kidul",
+        "rating": 4.9,
+        "address": "Kursus · Ruko Bumi Asri, Gg. Cikiray Jl. Cikiray Kidul",
+        "href": "https://www.google.com/maps/place/Bimbel+ILC+%26+BimBa+BacaKata/data=!4m7!3m6!1s0x2e6837cafd401347:0",
+        "reviews": 28
+      },
+      {
+        "name": "Bimbingan Belajar ILC",
+        "rating": 4.3,
+        "address": "Institusi Pendidikan · 4W42+9QP, Jl. Cikiray-Cijambu",
+        "href": "https://www.google.com/maps/place/Bimbingan+Belajar+ILC/data=!4m7!3m6!1s0x2e6837f834351ab9:0xcf9afe1",
+        "reviews": 3
+      }
+    ],
+    "picked": {
+      "name": "Bimbingan Belajar ILC",
+      "rating": 4.3,
+      "address": "Institusi Pendidikan · 4W42+9QP, Jl. Cikiray-Cijambu",
+      "href": "https://www.google.com/maps/place/Bimbingan+Belajar+ILC/data=!4m7!3m6!1s0x2e6837f834351ab9:0xcf9afe1",
+      "reviews": 3,
+      "matchScore": 0.5
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 126,
+    "name": "LPK GPB (Generasi Putra Bangsa)",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 320
+    },
+    "query": "LPK GPB Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Baros Kp. Tugu No.151, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43166",
+    "reviews": 254
+  },
+  {
+    "id": 127,
+    "name": "Bimbel Brain Academy Ruangguru Sukabumi Sudirman",
+    "claimed": {
+      "rating": 5,
+      "reviews": 195
+    },
+    "query": "Brain Academy Ruangguru Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Ruko.2, Jl. Sudirman No.75, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 45
+  },
+  {
+    "id": 128,
+    "name": "Math Champs - Les Matematika Sukabumi Sudirman",
+    "claimed": {
+      "rating": 5,
+      "reviews": 85
+    },
+    "query": "Math Champs Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Ruko.2, Jl. Sudirman No.75B, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 24
+  },
+  {
+    "id": 129,
+    "name": "Ganesha Operation Ra Kosasih Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 140
+    },
+    "query": "Ganesha Operation Ra Kosasih Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jalan R.A Kosasih Ruko B Ciaul Subang Jaya, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 432
+  },
+  {
+    "id": 130,
+    "name": "Ganesha Operation Syamsudin Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 165
+    },
+    "query": "Ganesha Operation Syamsudin Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Syamsudin. SH No.29, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 529
+  },
+  {
+    "id": 131,
+    "name": "LBB Nurul Fikri RA Kosasih",
+    "claimed": {
+      "rating": 5,
+      "reviews": 110
+    },
+    "query": "LBB Nurul Fikri RA Kosasih Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. R.A. Kosasih No.3E, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 192
+  },
+  {
+    "id": 132,
+    "name": "Bumi Kreatif Institute (Lembaga Kursus dan Pelatihan Vokasi Bisnis)",
+    "claimed": {
+      "rating": 5,
+      "reviews": 75
+    },
+    "query": "Bumi Kreatif Institute Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Gg. Kopi No.RT 05/02, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 1078
+  },
+  {
+    "id": 133,
+    "name": "TPA KB TK Daruttaqwa Foundation",
+    "claimed": {
+      "rating": 5,
+      "reviews": 42
+    },
+    "query": "TPA KB TK Daruttaqwa Foundation Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Toserba selamat, Jl. R. E. Martadinata No.79 Lt 3, Kebonjati, Kecamatan Sukabumi, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 46
+  },
+  {
+    "id": 134,
+    "name": "bimba genio cibeureum",
+    "claimed": {
+      "rating": 5,
+      "reviews": 58
+    },
+    "query": "bimba genio cibeureum Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. R.A. Kosasih No.21, Sukaraja, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 45
+  },
+  {
+    "id": 135,
+    "name": "PlayWay Day",
+    "claimed": {
+      "rating": 5,
+      "reviews": 34
+    },
+    "query": "PlayWay Day Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Baros No.151, RT.05/RW.04, Jayaraksa, Kec. Baros, Kabupaten Sukabumi, Jawa Barat 43167",
+    "reviews": 30
+  },
+  {
+    "id": 136,
+    "name": "TKQ Gemilang Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 28
+    },
+    "query": "TKQ Gemilang Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Otto Iskandardinata Jl. Manggis I No.35B, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 7
+  },
+  {
+    "id": 137,
+    "name": "Berdikari Expo",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 850
+    },
+    "query": "Berdikari Expo Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Cibeureum Hilir, Kec. Cibeureum, Kota Sukabumi, Jawa Barat",
+    "reviews": 983
+  },
+  {
+    "id": 138,
+    "name": "TB. Sumber Milik",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 640
+    },
+    "query": "TB. Sumber Milik Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Otto Iskandardinata No.66, Tipar, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43141",
+    "reviews": 56
+  },
+  {
+    "id": 139,
+    "name": "Mochi Kaswari Lampion",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 3120
+    },
+    "query": "Mochi Kaswari Lampion Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Gg. Kaswari No.1, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 3584
+  },
+  {
+    "id": 140,
+    "name": "Pusat Jajanan Khas Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 1850
+    },
+    "query": "Pusat Jajanan Khas Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jalan Suryakencana No. 32 & Jalan Syamsudin. Sh., Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 55
+  },
+  {
+    "id": 141,
+    "name": "Toko Bangunan Baros Jaya",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 410
+    },
+    "query": "Toko Bangunan Baros Jaya Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. RH. Didi Sukardi No.165, Citamiang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43143",
+    "reviews": 80
+  },
+  {
+    "id": 142,
+    "name": "Toko Oleh-oleh Khas Sukabumi Bika Ambon Sunda Rasa",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 920
+    },
+    "query": "Bika Ambon Sunda Rasa Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Siliwangi No.68, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 339
+  },
+  {
+    "id": 143,
+    "name": "Kelana Oleh-oleh Sukabumi",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 530
+    },
+    "query": "Kelana Oleh-oleh Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Suvenir · 3VRF+FQF, Jl. Lintas Selatan",
+        "rating": 4.7,
+        "address": "Toko Suvenir · 3VRF+FQF, Jl. Lintas Selatan",
+        "href": "https://www.google.com/maps/place/Kelana+Oleh-oleh+Sukabumi/data=!4m7!3m6!1s0x2e68370029217011:0x6e4",
+        "reviews": 10
+      }
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Zahra Pet Shop & Grooming",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 315
+    },
+    "query": "Zahra Pet Shop & Grooming Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Siliwangi No.62, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 255
+  },
+  {
+    "id": 145,
+    "name": "RG Petshop & GROOMING",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 280
+    },
+    "query": "RG Petshop & GROOMING Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Pasundan No.79, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 169
+  },
+  {
+    "id": 146,
+    "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 425
+    },
+    "query": "Kamo Petshop Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Surya Kencana No.58, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 335
+  },
+  {
+    "id": 147,
+    "name": "SUKABUMI HOME CENTER",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 1150
+    },
+    "query": "SUKABUMI HOME CENTER",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. R.A. Kosasih, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 110
+  },
+  {
+    "id": 148,
+    "name": "Jansen Petshop",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 390
+    },
+    "query": "Jansen Petshop Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "No.02 Blok N, Danalaga Square, Jl. Pajagalan, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 69
+  },
+  {
+    "id": 149,
+    "name": "RKM Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 510
+    },
+    "query": "RKM Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Nasional III desa No.317, Nagrak, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43252",
+    "reviews": 793
+  },
+  {
+    "id": 150,
+    "name": "Rumah Puding Premium dan Pusat Oleh-Oleh di Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 145
+    },
+    "query": "Rumah Puding Premium Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Balai Desa No.9, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 171
+  },
+  {
+    "id": 151,
+    "name": "Nori's Florist Cabang Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 88
+    },
+    "query": "Nori's Florist Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Sebrang Kenanga Kopi Jl. Selabintana No.198, Warnasari, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 131
+  },
+  {
+    "id": 152,
+    "name": "Sukabumi Ratu Florist Di sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 65
+    },
+    "query": "Sukabumi Ratu Florist",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "2WR4+J2Q, Jl. Pelabuhan II, kp kadulawang, Cipanengah, Kec. Lembursitu, Kabupaten Sukabumi, Jawa Barat 43168",
+    "reviews": 38
+  },
+  {
+    "id": 153,
+    "name": "Florist Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 112
+    },
+    "query": "Florist Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Bunga ·  · Sebrang Kenanga Kopi Jl. Selabintana No.198",
+        "rating": 5,
+        "address": "Toko Bunga ·  · Sebrang Kenanga Kopi Jl. Selabintana No.198",
+        "href": "https://www.google.com/maps/place/Nori%27s+Florist+Cabang+Sukabumi/data=!4m7!3m6!1s0x2e6849b4593fdf4",
+        "reviews": 131
+      },
+      {
+        "name": "Toko Bunga ·  · 2WR4+J2Q, Jl. Pelabuhan II",
+        "rating": 5,
+        "address": "Toko Bunga ·  · 2WR4+J2Q, Jl. Pelabuhan II",
+        "href": "https://www.google.com/maps/place/Sukabumi+Ratu+Florist+Di+sukabumi/data=!4m7!3m6!1s0x2e683910962ccd",
+        "reviews": 38
+      },
+      {
+        "name": "Toko Bunga · Rumah Pertama Perum Cibatu Regency Depan Pos Satpamnya, Perum Cibat",
+        "rating": 5,
+        "address": "Toko Bunga · Rumah Pertama Perum Cibatu Regency Depan Pos Satpamnya, Perum Cibatu Regency Jl. Siliwangi, RT.17/04/RW.no. 3",
+        "href": "https://www.google.com/maps/place/Keler+Bouquet+-+Florist+and+Gift/data=!4m7!3m6!1s0x2e683796c66c27c",
+        "reviews": 365
+      },
+      {
+        "name": "Toko bunga Aisyah florist 1 Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Bunga · 3WJ9+49J, Jl. Sudirman samping terminal lama",
+        "href": "https://www.google.com/maps/place/Toko+bunga+Aisyah+florist+1+Sukabumi/data=!4m7!3m6!1s0x2e6849005ed",
+        "reviews": 27
+      },
+      {
+        "name": "Toko Karangan Bunga CENDANA FLORIST sukabumi",
+        "rating": 4.6,
+        "address": "Toko Bunga · Samping Daihatsu Astra, Jl. KH. Ahmad Sanusi Jl. Ciseureuh No.77",
+        "href": "https://www.google.com/maps/place/Toko+Karangan+Bunga+CENDANA+FLORIST+sukabumi/data=!4m7!3m6!1s0x2e6",
+        "reviews": 25
+      },
+      {
+        "name": "Toko Bunga · 3WXH+597 Jl. Bhineka Karya no. 19, Ruko No.mor 21",
+        "rating": 5,
+        "address": "Toko Bunga · 3WXH+597 Jl. Bhineka Karya no. 19, Ruko No.mor 21",
+        "href": "https://www.google.com/maps/place/Incrediblemoment+florist+sukabumi/data=!4m7!3m6!1s0x2e684901b0863f",
+        "reviews": 17
+      }
+    ],
+    "picked": {
+      "name": "Toko bunga Aisyah florist 1 Sukabumi",
+      "rating": 4.9,
+      "address": "Toko Bunga · 3WJ9+49J, Jl. Sudirman samping terminal lama",
+      "href": "https://www.google.com/maps/place/Toko+bunga+Aisyah+florist+1+Sukabumi/data=!4m7!3m6!1s0x2e6849005ed",
+      "reviews": 27,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 154,
+    "name": "Keler Bouquet - Florist and Gift",
+    "claimed": {
+      "rating": 5,
+      "reviews": 175
+    },
+    "query": "Keler Bouquet Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Rumah Pertama Perum Cibatu Regency Depan Pos Satpamnya, Perum Cibatu Regency Jl. Siliwangi, RT.17/04/RW.no. 3, Cibatu, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 365
+  },
+  {
+    "id": 155,
+    "name": "Incrediblemoment florist sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 94
+    },
+    "query": "Incrediblemoment florist sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WXH+597 Jl. Bhineka Karya no. 19, Ruko No.mor 21, Karamat, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122",
+    "reviews": 17
+  },
+  {
+    "id": 156,
+    "name": "Millan Petshop Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 130
+    },
+    "query": "Millan Petshop Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Perintis Kemerdekaan No.50, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 31
+  },
+  {
+    "id": 157,
+    "name": "HAI STUDIOS",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 280
+    },
+    "query": "HAI STUDIOS Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165",
+    "reviews": 342
+  },
+  {
+    "id": 158,
+    "name": "Disini Aja Studio",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 215
+    },
+    "query": "Disini Aja Studio Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "3WCM+G5H, Citamiang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43143",
+    "reviews": 295
+  },
+  {
+    "id": 159,
+    "name": "IMAJI FOTO STUDIO SUKABUMI",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 340
+    },
+    "query": "IMAJI FOTO STUDIO SUKABUMI",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Siliwangi No.52, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 1065
+  },
+  {
+    "id": 160,
+    "name": "Azkana Wedding Dekorasi – Dekorasi Pernikahan Sukabumi",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 265
+    },
+    "query": "Azkana Wedding Dekorasi Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Kavling Jl. Koleberes, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43156",
+    "reviews": 14
+  },
+  {
+    "id": 161,
+    "name": "GMS Tour and Travel Sukabumi (Event Organizer)",
+    "claimed": {
+      "rating": 4.8,
+      "reviews": 210
+    },
+    "query": "GMS Tour and Travel Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Raya Cikidang No.KM 13 Rt 03/12, Pangkalan, Kec. Cikidang, Kabupaten Sukabumi, Jawa Barat 43367",
+    "reviews": 49
+  },
+  {
+    "id": 162,
+    "name": "Wedding Planner Sukabumi",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 295
+    },
+    "query": "Wedding Planner Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Cicadas Raya, Cicadas Residen No. 01, Tegalaya, Cipanengah, Kec. Lembursitu, Kota Sukabumi, Jawa Barat 43168",
+    "reviews": 22
+  },
+  {
+    "id": 163,
+    "name": "JAKA WEDDING ORGANIZER",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 315
+    },
+    "query": "JAKA WEDDING ORGANIZER Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Nagrak-Gunung Guruh, Cibolang, Kec. Gn. Guruh, Kabupaten Sukabumi, Jawa Barat 43156",
+    "reviews": 35
+  },
+  {
+    "id": 164,
+    "name": "Licht Studio",
+    "claimed": {
+      "rating": 4.9,
+      "reviews": 250
+    },
+    "query": "Licht Studio Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Pelabuhan II No.272A, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "reviews": 220
+  },
+  {
+    "id": 165,
+    "name": "Khei Wedding Organizer Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 185
+    },
+    "query": "Khei Wedding Organizer Sukabumi",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Khei Wedding Organizer Sukabumi",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Khei+Wedding+Organizer+Sukabumi/data=!4m7!3m6!1s0x2e6849b99369ccf5",
+        "reviews": 2
+      },
+      {
+        "name": "Jasa Pernikahan · 6QCP+VWC",
+        "rating": 4.2,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Khei+Wedding+Organizer+Cicurug/data=!4m7!3m6!1s0x2e69ccc38e9f2fc3:",
+        "reviews": 6
+      }
+    ],
+    "picked": {
+      "name": "Khei Wedding Organizer Sukabumi",
+      "rating": 5,
+      "address": "",
+      "href": "https://www.google.com/maps/place/Khei+Wedding+Organizer+Sukabumi/data=!4m7!3m6!1s0x2e6849b99369ccf5",
+      "reviews": 2,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 166,
+    "name": "Affay Project | Indonesia Wedding Planner",
+    "claimed": {
+      "rating": 5,
+      "reviews": 112
+    },
+    "query": "Affay Project Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Jayaniti No.7, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 5
+  },
+  {
+    "id": 167,
+    "name": "Gosimplywedding Office 1",
+    "claimed": {
+      "rating": 5,
+      "reviews": 88
+    },
+    "query": "Gosimplywedding Office 1 Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Kenari No.20, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "reviews": 114
+  },
+  {
+    "id": 168,
+    "name": "Reality Event Organizer",
+    "claimed": {
+      "rating": 5,
+      "reviews": 45
+    },
+    "query": "Reality Event Organizer Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Perum Taman Asri, Blok D2 No.2, Subangjaya, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 2
+  },
+  {
+    "id": 169,
+    "name": "PRIMA WO Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 67
+    },
+    "query": "PRIMA WO Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Taman, Sukamanis, Kec. Kadudampit, Kabupaten Sukabumi, Jawa Barat 43153",
+    "reviews": 4
+  },
+  {
+    "id": 170,
+    "name": "Lensa Entertainment",
+    "claimed": {
+      "rating": 5,
+      "reviews": 92
+    },
+    "query": "Lensa Entertainment Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "JL SIliwangi Gang Haji Marzuki ll, No. 136 RT 05/06, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 1
+  },
+  {
+    "id": 171,
+    "name": "Yunas Studio",
+    "claimed": {
+      "rating": 5,
+      "reviews": 140
+    },
+    "query": "Yunas Studio Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Lkr. Sel., Jayamekar, Kec. Baros, Kota Sukabumi, Jawa Barat 43166",
+    "reviews": 914
+  },
+  {
+    "id": 172,
+    "name": "Moophoto Photobooth Studio Baros Sukabumi",
+    "claimed": {
+      "rating": 5,
+      "reviews": 175
+    },
+    "query": "Moophoto Photobooth Studio Baros Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Jembatan Merah No.15, RT.4/RW.12, Limusnunggal, Kec. Cibeureum, Kota Sukabumi, Jawa Barat 43165",
+    "reviews": 10
+  },
+  {
+    "id": 173,
+    "name": "Fauna photography",
+    "claimed": {
+      "rating": 5,
+      "reviews": 110
+    },
+    "query": "Fauna photography Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WWV+6PQ, Jl. Mayor Mahmud, Cisarua, Kab. Sukabumi, Kota Sukabumi, Jawa Barat 43151",
+    "reviews": 10
+  },
+  {
+    "id": 174,
+    "name": "Lawa Creative Studio",
+    "claimed": {
+      "rating": 5,
+      "reviews": 85
+    },
+    "query": "Lawa Creative Studio Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. A. Yani No.30, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 14
+  },
+  {
+    "id": 175,
+    "name": "Milkyverse Ramayana Sukabumi",
+    "claimed": {
+      "rating": 4,
+      "reviews": 520
+    },
+    "query": "Milkyverse Ramayana Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4,
+    "address": "3WFH+PMC, Jl. Tipar Gede, Tipar, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43141",
+    "reviews": 32
+  },
+  {
+    "id": 176,
+    "name": "Dinopark Sukabumi",
+    "claimed": {
+      "rating": 4.1,
+      "reviews": 845
+    },
+    "query": "Dinopark Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.1,
+    "address": "3WHH+8CJ, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 64
+  },
+  {
+    "id": 177,
+    "name": "SantaSea Water Theme Park Sukabumi",
+    "claimed": {
+      "rating": 4.2,
+      "reviews": 4100
+    },
+    "query": "SantaSea Water Theme Park Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.2,
+    "address": "Jl. Sudajaya Hilir, Gedongpanjang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43144",
+    "reviews": 3804
+  },
+  {
+    "id": 178,
+    "name": "Story Land Sukabumi",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 1250
+    },
+    "query": "Story Land Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "3WHM+FW9, Jl. R. E. Martadinata, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 27
+  },
+  {
+    "id": 179,
+    "name": "Sport Garden",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 980
+    },
+    "query": "Sport Garden Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Pelabuhan II No.123, Cipanengah, Kec. Lembursitu, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 1186
+  },
+  {
+    "id": 180,
+    "name": "Ryzzy Azzahra Waterpark",
+    "claimed": {
+      "rating": 4.4,
+      "reviews": 3420
+    },
+    "query": "Ryzzy Azzahra Waterpark Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.4,
+    "address": "Jl. Selabintana No.5, Warnasari, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "reviews": 3104
+  },
+  {
+    "id": 181,
+    "name": "Kolam Renang Pilar Mas",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 1150
+    },
+    "query": "Kolam Renang Pilar Mas Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161",
+    "reviews": 369
+  },
+  {
+    "id": 182,
+    "name": "CAMPING GROUND BATUTAPAK",
+    "claimed": {
+      "rating": 4.5,
+      "reviews": 890
+    },
+    "query": "CAMPING GROUND BATUTAPAK Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl.Cangkuang No.Km.12, Cidahu, Kec. Cidahu, Kabupaten Sukabumi, Jawa Barat 43358",
+    "reviews": 835
+  },
+  {
+    "id": 183,
+    "name": "De' Tani Waterpark Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 2100
+    },
+    "query": "De' Tani Waterpark Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "4X85+685, Sukamekar, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 429
+  },
+  {
+    "id": 184,
+    "name": "Happy House Playground&cafe Sukabumi",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 640
+    },
+    "query": "Happy House Playground&cafe Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Surya Kencana No.98, Selabatu, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43114",
+    "reviews": 27
+  },
+  {
+    "id": 185,
+    "name": "Kids story cibadak",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 410
+    },
+    "query": "Kids story cibadak",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Pasar terminal, Cibadak, Kec. Cibadak, Kabupaten Sukabumi, Jawa Barat 43351",
+    "reviews": 59
+  },
+  {
+    "id": 186,
+    "name": "Cidahu Camping Ground",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 1850
+    },
+    "query": "Cidahu Camping Ground",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Cidahu Camping Ground",
+        "rating": 4.6,
+        "address": "Bumi perkemahan ·  · Jl. Raya Cidahu",
+        "href": "https://www.google.com/maps/place/Cidahu+Camping+Ground/data=!4m7!3m6!1s0x2e69d27be3abcfd1:0xe4a0a5b",
+        "reviews": 1806
+      },
+      {
+        "name": "Cidahu Camping Ground Lembah Damar",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Cidahu+Camping+Ground+Lembah+Damar/data=!4m7!3m6!1s0x2e69d3ec5ee17",
+        "reviews": 556
+      },
+      {
+        "name": "Cidahu Camping Ground Blok 3A",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Cidahu+Camping+Ground+Blok+3A/data=!4m7!3m6!1s0x2e69d3cceb6db5ff:0",
+        "reviews": 110
+      },
+      {
+        "name": "\"Cocok untuk Camping anak-anak sekolah.\"",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Camp+Dam+Cidahu+sukabumi/data=!4m7!3m6!1s0x2e69d27f90539705:0x4972",
+        "reviews": 90
+      }
+    ],
+    "picked": {
+      "name": "Cidahu Camping Ground",
+      "rating": 4.6,
+      "address": "Bumi perkemahan ·  · Jl. Raya Cidahu",
+      "href": "https://www.google.com/maps/place/Cidahu+Camping+Ground/data=!4m7!3m6!1s0x2e69d27be3abcfd1:0xe4a0a5b",
+      "reviews": 1806,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 187,
+    "name": "CAMPING GROUND SITUGUNUNG",
+    "claimed": {
+      "rating": 4.6,
+      "reviews": 1220
+    },
+    "query": "CAMPING GROUND SITUGUNUNG",
+    "processed": true,
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "TOUR GUIDE & CAMPING GROUND SITUGUNUNG",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/TOUR+GUIDE+%26+CAMPING+GROUND+SITUGUNUNG/data=!4m7!3m6!1s0x2e684ac",
+        "reviews": 3206
+      },
+      {
+        "name": "Situ Gunung Camping Fun",
+        "rating": 4.8,
+        "address": "Bumi perkemahan · Jl. Kadudampit",
+        "href": "https://www.google.com/maps/place/Situ+Gunung+Camping+Fun/data=!4m7!3m6!1s0x2e684b382507ec81:0xf428d",
+        "reviews": 22
+      }
+    ],
+    "picked": {
+      "name": "TOUR GUIDE & CAMPING GROUND SITUGUNUNG",
+      "rating": 4.6,
+      "address": "",
+      "href": "https://www.google.com/maps/place/TOUR+GUIDE+%26+CAMPING+GROUND+SITUGUNUNG/data=!4m7!3m6!1s0x2e684ac",
+      "reviews": 3206,
+      "matchScore": 1
+    },
+    "ambiguous": false
+  },
+  {
+    "id": 188,
+    "name": "Tanakita 5 Star Camp",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 2340
+    },
+    "query": "Tanakita 5 Star Camp Sukabumi",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Situgunung Jl. Kadudampit No.KM.10, Gede Pangrango, Kec. Kadudampit, Kabupaten Sukabumi, Jawa Barat 43153",
+    "reviews": 1242
+  },
+  {
+    "id": 189,
+    "name": "Cidahu Camping Ground Lembah Damar",
+    "claimed": {
+      "rating": 4.7,
+      "reviews": 950
+    },
+    "query": "Cidahu Camping Ground Lembah Damar",
+    "processed": true,
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Cidahu, Kec. Cidahu, Kabupaten Sukabumi, Jawa Barat 43358",
+    "reviews": 556
+  }
+]
