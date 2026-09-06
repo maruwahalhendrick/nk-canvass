@@ -18,6 +18,11 @@ const ZONE_RULES = [
 ];
 function pickZone(name, address) {
   const hay = (name + ' ' + (address || ''));
+  // Pitfall: "Sukaraja" ada 2 (kelurahan Cibeureum = Zona 5 vs wisata Cisaat = Zona 6).
+  // Kalau alamat nyebut Cibeureum, Zona 5 menang. Kalau nyebut Cisaat, biarkan Zona 6 match.
+  if (/cibeureum/i.test(hay)) {
+    for (const r of ZONE_RULES) if (r.zone.startsWith('Zona 5') && r.re.test(hay)) return r.zone;
+  }
   for (const r of ZONE_RULES) if (r.re.test(hay)) return r.zone;
   return 'Zona 4 (Jantung Kota)';
 }

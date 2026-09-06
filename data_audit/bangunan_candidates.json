@@ -1,0 +1,422 @@
+[
+  {
+    "query": "toko material bangunan sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Tb. Berdikari Jaya",
+        "rating": 4.7,
+        "address": "Toko Bahan Bangunan · Jl. RH. Didi Sukardi No.66",
+        "href": "https://www.google.com/maps/place/Tb.+Berdikari+Jaya/data=!4m7!3m6!1s0x2e68481439ceea37:0x21f2f808d16c2f17!8m2!3d-6.9355049!4d106.9315642!16s%2Fg%2F1pzq_1669!19"
+      },
+      {
+        "name": "SUKABUMI HOME CENTER",
+        "rating": 4.7,
+        "address": "Toko Bahan Bangunan · Jl. R.A. Kosasih",
+        "href": "https://www.google.com/maps/place/SUKABUMI+HOME+CENTER/data=!4m7!3m6!1s0x2e6849c9394fac73:0x5e47de7667418293!8m2!3d-6.9229739!4d106.944239!16s%2Fg%2F11t6pz4tlx!"
+      },
+      {
+        "name": "RKM Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Bahan Bangunan ·  · Jl. Nasional III desa No.317",
+        "href": "https://www.google.com/maps/place/RKM+Sukabumi/data=!4m7!3m6!1s0x2e6837f563e1b2b9:0x647f5f112e4edcf6!8m2!3d-6.9035907!4d106.8847251!16s%2Fg%2F11rmt_4kg0!19sChIJ"
+      },
+      {
+        "name": "Berdikari Expo",
+        "rating": 4.4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Berdikari+Expo/data=!4m7!3m6!1s0x2e68485719619551:0x9fbe7bfb40ba692d!8m2!3d-6.9195441!4d106.9555443!16s%2Fg%2F11bvt2ff9b!19sCh"
+      },
+      {
+        "name": "Toko Bahan Bangunan Bukti Rahayu",
+        "rating": 4.5,
+        "address": "Toko Bahan Bangunan ·  · Jl. R.A. Kosasih No.324",
+        "href": "https://www.google.com/maps/place/Toko+Bahan+Bangunan+Bukti+Rahayu/data=!4m7!3m6!1s0x2e6848506115d7d9:0x281a9cfee6960df5!8m2!3d-6.9207823!4d106.9507003!16s%2Fg%"
+      },
+      {
+        "name": "Toko Bangunan Baros Jaya",
+        "rating": 4.6,
+        "address": "Toko Perlengkapan Rumah ·  · Jl. RH. Didi Sukardi No.165",
+        "href": "https://www.google.com/maps/place/Toko+Bangunan+Baros+Jaya/data=!4m7!3m6!1s0x2e68497a3bb43c0b:0x87828833eb1e7f9e!8m2!3d-6.9325731!4d106.9321335!16s%2Fg%2F11f731"
+      },
+      {
+        "name": "Sinar baru / sinar bangunan cisaat",
+        "rating": 4.5,
+        "address": "Toko Bahan Bangunan ·  · Jl. Raya Cisaat No.116",
+        "href": "https://www.google.com/maps/place/Sinar+baru+%2F+sinar+bangunan+cisaat/data=!4m7!3m6!1s0x2e6836331a4dc0ed:0x3e1c94d768ffd84c!8m2!3d-6.9070896!4d106.8900993!16s%"
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko semen sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Semen Scg",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Semen+Scg/data=!4m7!3m6!1s0x2e68482435f480cf:0x1260f5c81d4b5286!8m2!3d-6.9243454!4d106.9166776!16s%2Fg%2F11f3hc0911!19sChIJz4D",
+        "reviews": 36
+      },
+      {
+        "name": "PT. Semen Indonesia Logistik Cabang Sukabumi",
+        "rating": 4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/PT.+Semen+Indonesia+Logistik+Cabang+Sukabumi/data=!4m7!3m6!1s0x2e683822070b7ad5:0x58d4ca2b7a616bc7!8m2!3d-6.9607251!4d106.8885",
+        "reviews": 7
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko besi beton sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Mega Baja Sukabumi",
+        "rating": 4.2,
+        "address": "Distributor Baja · Jl. Raya Cibolang Cisaat - Sukabhumi, RT.25/RW.66",
+        "href": "https://www.google.com/maps/place/Mega+Baja+Sukabumi/data=!4m7!3m6!1s0x2e68365a4afc3797:0xfa5a8904595beb03!8m2!3d-6.90327!4d106.881443!16s%2Fg%2F11b6d1r1mk!19sC",
+        "reviews": 70
+      },
+      {
+        "name": "Tunas Baru",
+        "rating": 4.6,
+        "address": "Toko Bahan Bangunan ·  · Jl. RH. Didi Sukardi No.68",
+        "href": "https://www.google.com/maps/place/Tunas+Baru/data=!4m7!3m6!1s0x2e684815b3f060c3:0x536aa0d30fd94361!8m2!3d-6.9351036!4d106.9319127!16s%2Fg%2F11bzrp1vbm!19sChIJw2",
+        "reviews": 76
+      },
+      {
+        "name": "Central Baja Sukabumi - Distributor Baja | Toko Bahan Bangunan | Baja Ringan",
+        "rating": 4.8,
+        "address": "Distributor Baja · WA:O&2I5OOO3I6Jl. Pabuaran No.79",
+        "href": "https://www.google.com/maps/place/Central+Baja+Sukabumi+-+Distributor+Baja+%7C+Toko+Bahan+Bangunan+%7C+Baja+Ringan/data=!4m7!3m6!1s0x2e6848225ed3a55f:0x769cd621",
+        "reviews": 19
+      },
+      {
+        "name": "Toko Besi Cahaya Jaya",
+        "rating": 5,
+        "address": "Toko Bahan Bangunan · WA:O&2I5OOO3I6+GP5, Jl. Raya Pelabuhan",
+        "href": "https://www.google.com/maps/place/Toko+Besi+Cahaya+Jaya/data=!4m7!3m6!1s0x2e68483b7132d1e1:0x200f6f3c13eb121f!8m2!3d-6.9462389!4d106.9118483!16s%2Fg%2F1pzsvtn29",
+        "reviews": 4
+      },
+      {
+        "name": "Mitra Besi Baja Sukabumi",
+        "rating": 5,
+        "address": "Toko Bahan Bangunan · Jl. Lkr. Sel.",
+        "href": "https://www.google.com/maps/place/Mitra+Besi+Baja+Sukabumi/data=!4m7!3m6!1s0x2e6849d7925d52c7:0x5b0fbfc24842f72c!8m2!3d-6.9363678!4d106.953545!16s%2Fg%2F11yjwxh",
+        "reviews": 24
+      },
+      {
+        "name": "Toko Besi Naga Mas",
+        "rating": 4.1,
+        "address": "Toko Bahan Bangunan · Jl. Kapten Harun Kabir No.34",
+        "href": "https://www.google.com/maps/place/Toko+Besi+Naga+Mas/data=!4m7!3m6!1s0x2e68483a643c77d7:0x5ab69f43394ec68b!8m2!3d-6.9237078!4d106.9274294!16s%2Fg%2F11fy92h693!1",
+        "reviews": 19
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko keramik sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+        "rating": 4.8,
+        "address": "Pemasok Bahan Bangunan ·  · Jl. Pelabuhan No.45",
+        "href": "https://www.google.com/maps/place/Toko+Hong+Kiyat+Keramik,+Sanitair,+dan+Cat/data=!4m7!3m6!1s0x2e68483b7a782bb9:0x4a67447b4e9fea14!8m2!3d-6.9264088!4d106.926973",
+        "reviews": 176
+      },
+      {
+        "name": "Graha Keramik 1",
+        "rating": 4.5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Graha+Keramik+1/data=!4m7!3m6!1s0x2e684806457c41cd:0xf3c041cfab0dfe7e!8m2!3d-6.9506436!4d106.9220684!16s%2Fg%2F11dxl9h7t4!19sC",
+        "reviews": 63
+      },
+      {
+        "name": "Graha Keramik 2",
+        "rating": 3.8,
+        "address": "Grosir keramik · Jl. Lkr. Sel.",
+        "href": "https://www.google.com/maps/place/Graha+Keramik+2/data=!4m7!3m6!1s0x2e68375c0c8d2f05:0x3daca11702becbdd!8m2!3d-6.9410226!4d106.911466!16s%2Fg%2F11j61nhrx9!19sCh",
+        "reviews": 19
+      },
+      {
+        "name": "TB. Jaya Bangunan",
+        "rating": 4.6,
+        "address": "Toko Tegel · Jl. Raya Pelabuhan No.328",
+        "href": "https://www.google.com/maps/place/TB.+Jaya+Bangunan/data=!4m7!3m6!1s0x2e684804b0b20145:0x3b748000ffbe6160!8m2!3d-6.9442818!4d106.9193051!16s%2Fg%2F11fy4tt49g!19",
+        "reviews": 62
+      },
+      {
+        "name": "Situ Jaya Keramik",
+        "rating": 4.4,
+        "address": "Grosir keramik · Jl. Pelabuhan II No.km 08",
+        "href": "https://www.google.com/maps/place/Situ+Jaya+Keramik/data=!4m7!3m6!1s0x2e6839517860d293:0xf1e9994d2a0957cb!8m2!3d-6.9612498!4d106.8839338!16s%2Fg%2F11h045l2jg!19",
+        "reviews": 29
+      },
+      {
+        "name": "Roda Mas Home Center",
+        "rating": 4.4,
+        "address": "Toko Perlengkapan Rumah · Jl. St. Tim.",
+        "href": "https://www.google.com/maps/place/Roda+Mas+Home+Center/data=!4m7!3m6!1s0x2e684839efd2dbad:0xd00520196de5f1cd!8m2!3d-6.9232695!4d106.9307348!16s%2Fg%2F11fylw214r",
+        "reviews": 53
+      },
+      {
+        "name": "Toko Bangunan Baros Jaya",
+        "rating": 4.6,
+        "address": "Toko Perlengkapan Rumah ·  · Jl. RH. Didi Sukardi No.165",
+        "href": "https://www.google.com/maps/place/Toko+Bangunan+Baros+Jaya/data=!4m7!3m6!1s0x2e68497a3bb43c0b:0x87828833eb1e7f9e!8m2!3d-6.9325731!4d106.9321335!16s%2Fg%2F11f731",
+        "reviews": 80
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko cat kayu sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Cat Asia Warna 2",
+        "rating": 4.6,
+        "address": "Toko Cat ·  · Jl. Pelabuhan II",
+        "href": "https://www.google.com/maps/place/Toko+Cat+Asia+Warna+2/data=!4m7!3m6!1s0x2e6848002afa1619:0x740f88a509e9de0e!8m2!3d-6.9518265!4d106.9123767!16s%2Fg%2F11g9vn9l4",
+        "reviews": 65
+      },
+      {
+        "name": "Toko Cat Sinar Jaya Tiga",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Toko+Cat+Sinar+Jaya+Tiga/data=!4m7!3m6!1s0x2e6849ee04499b63:0xd704133eb3e8595b!8m2!3d-6.9511986!4d106.9293814!16s%2Fg%2F11fm5x",
+        "reviews": 15
+      },
+      {
+        "name": "TOKO ATHARRAZKA ( CAT TEMBOK KILOAN )",
+        "rating": 5,
+        "address": "Toko Cat · Jl. Pelabuhan 2 , cipoho",
+        "href": "https://www.google.com/maps/place/TOKO+ATHARRAZKA+%28+CAT+TEMBOK+KILOAN+%29/data=!4m7!3m6!1s0x2e68491c51348ab5:0x868e1740604109ab!8m2!3d-6.9360424!4d106.9245991",
+        "reviews": 2
+      },
+      {
+        "name": "TOKO CAT SUKABUMI",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/TOKO+CAT+SUKABUMI/data=!4m7!3m6!1s0x2e68370020c159b9:0x9b9a3924867862c0!8m2!3d-6.9247867!4d106.8987657!16s%2Fg%2F11y50bf1m3!19",
+        "reviews": 1
+      },
+      {
+        "name": "Cat Kiloan Rambay",
+        "rating": 4.5,
+        "address": "Toko Cat ·  · Jl. Raya Rambay",
+        "href": "https://www.google.com/maps/place/Cat+Kiloan+Rambay/data=!4m7!3m6!1s0x2e683632ba150d49:0xddd09510bcf61c0e!8m2!3d-6.912556!4d106.899431!16s%2Fg%2F11fy_0ytlk!19sC",
+        "reviews": 25
+      },
+      {
+        "name": "TB. Jaya Bangunan",
+        "rating": 4.6,
+        "address": "Toko Tegel · Jl. Raya Pelabuhan No.328",
+        "href": "https://www.google.com/maps/place/TB.+Jaya+Bangunan/data=!4m7!3m6!1s0x2e684804b0b20145:0x3b748000ffbe6160!8m2!3d-6.9442818!4d106.9193051!16s%2Fg%2F11fy4tt49g!19",
+        "reviews": 62
+      },
+      {
+        "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+        "rating": 4.8,
+        "address": "Pemasok Bahan Bangunan ·  · Jl. Pelabuhan No.45",
+        "href": "https://www.google.com/maps/place/Toko+Hong+Kiyat+Keramik,+Sanitair,+dan+Cat/data=!4m7!3m6!1s0x2e68483b7a782bb9:0x4a67447b4e9fea14!8m2!3d-6.9264088!4d106.926973",
+        "reviews": 176
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "sanitair keramik sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+        "rating": 4.8,
+        "address": "Pemasok Bahan Bangunan ·  · Jl. Pelabuhan No.45",
+        "href": "https://www.google.com/maps/place/Toko+Hong+Kiyat+Keramik,+Sanitair,+dan+Cat/data=!4m7!3m6!1s0x2e68483b7a782bb9:0x4a67447b4e9fea14!8m2!3d-6.9264088!4d106.926973",
+        "reviews": 176
+      },
+      {
+        "name": "Graha Keramik 2",
+        "rating": 3.8,
+        "address": "Grosir keramik · Jl. Lkr. Sel.",
+        "href": "https://www.google.com/maps/place/Graha+Keramik+2/data=!4m7!3m6!1s0x2e68375c0c8d2f05:0x3daca11702becbdd!8m2!3d-6.9410226!4d106.911466!16s%2Fg%2F11j61nhrx9!19sCh",
+        "reviews": 19
+      },
+      {
+        "name": "Graha Keramik 1",
+        "rating": 4.5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Graha+Keramik+1/data=!4m7!3m6!1s0x2e684806457c41cd:0xf3c041cfab0dfe7e!8m2!3d-6.9506436!4d106.9220684!16s%2Fg%2F11dxl9h7t4!19sC",
+        "reviews": 63
+      },
+      {
+        "name": "TB. Jaya Bangunan",
+        "rating": 4.6,
+        "address": "Toko Tegel · Jl. Raya Pelabuhan No.328",
+        "href": "https://www.google.com/maps/place/TB.+Jaya+Bangunan/data=!4m7!3m6!1s0x2e684804b0b20145:0x3b748000ffbe6160!8m2!3d-6.9442818!4d106.9193051!16s%2Fg%2F11fy4tt49g!19",
+        "reviews": 62
+      },
+      {
+        "name": "Situ Jaya Keramik",
+        "rating": 4.4,
+        "address": "Grosir keramik · Jl. Pelabuhan II No.km 08",
+        "href": "https://www.google.com/maps/place/Situ+Jaya+Keramik/data=!4m7!3m6!1s0x2e6839517860d293:0xf1e9994d2a0957cb!8m2!3d-6.9612498!4d106.8839338!16s%2Fg%2F11h045l2jg!19",
+        "reviews": 29
+      },
+      {
+        "name": "Situ Jaya Keramik 2",
+        "rating": 5,
+        "address": "Pemasok Bahan Bangunan · Jl. Nasional III No.10",
+        "href": "https://www.google.com/maps/place/Situ+Jaya+Keramik+2/data=!4m7!3m6!1s0x2e68494eacd11ecf:0xe3764ea0f59676f9!8m2!3d-6.9151602!4d106.9740174!16s%2Fg%2F11hgnfpwhg!",
+        "reviews": 11
+      },
+      {
+        "name": "SUKABUMI HOME CENTER",
+        "rating": 4.7,
+        "address": "Toko Bahan Bangunan · Jl. R.A. Kosasih",
+        "href": "https://www.google.com/maps/place/SUKABUMI+HOME+CENTER/data=!4m7!3m6!1s0x2e6849c9394fac73:0x5e47de7667418293!8m2!3d-6.9229739!4d106.944239!16s%2Fg%2F11t6pz4tlx!",
+        "reviews": 110
+      },
+      {
+        "name": "Toko Keramik & Plywood SUMBER MAKMUR",
+        "rating": 4.9,
+        "address": "Toko Perlengkapan Rumah · Jl. Siliwangi No.69",
+        "href": "https://www.google.com/maps/place/Toko+Keramik+%26+Plywood+SUMBER+MAKMUR/data=!4m7!3m6!1s0x2e683163ce8b0e63:0xfcc861ee4f49af3e!8m2!3d-6.8945301!4d106.7907592!16",
+        "reviews": 33
+      },
+      {
+        "name": "Roda Mas Home Center",
+        "rating": 4.4,
+        "address": "Toko Perlengkapan Rumah · Jl. St. Tim.",
+        "href": "https://www.google.com/maps/place/Roda+Mas+Home+Center/data=!4m7!3m6!1s0x2e684839efd2dbad:0xd00520196de5f1cd!8m2!3d-6.9232695!4d106.9307348!16s%2Fg%2F11fylw214r",
+        "reviews": 53
+      },
+      {
+        "name": "Dewi keramik",
+        "rating": 4.5,
+        "address": "Toko Bahan Bangunan ·  · Pesan Antar Chat No Whatsapp T0K0 Kami O & 5 7 • & 7 5 4 • 0 & 5",
+        "href": "https://www.google.com/maps/place/Dewi+keramik/data=!4m7!3m6!1s0x2e68379d6ea45aa9:0x1483a86ac8cbe2f!8m2!3d-6.9042132!4d106.8862271!16s%2Fg%2F11h0_b5w4x!19sChIJq",
+        "reviews": 13
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko plywood sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko GRS Maju Bersama | Plywood, Triplek, HPL, Aksesoris Furniture Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Bahan Bangunan · Sport Garden, Jl. Cicadas Residence B11, RT.03/RW.04",
+        "href": "https://www.google.com/maps/place/Toko+GRS+Maju+Bersama+%7C+Plywood,+Triplek,+HPL,+Aksesoris+Furniture+Sukabumi/data=!4m7!3m6!1s0x2e6839ad7bf17c6d:0xde5f8adf419",
+        "reviews": 9
+      },
+      {
+        "name": "Jual Triplek (PT. INTAN KREUSNA)",
+        "rating": 4.4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Jual+Triplek+%28PT.+INTAN+KREUSNA%29/data=!4m7!3m6!1s0x2e6839eb717f7cff:0x9d25dc12cf704371!8m2!3d-6.9532483!4d106.8679899!16s%",
+        "reviews": 10
+      },
+      {
+        "name": "SUKABUMI HOME CENTER",
+        "rating": 4.7,
+        "address": "Toko Bahan Bangunan · Jl. R.A. Kosasih",
+        "href": "https://www.google.com/maps/place/SUKABUMI+HOME+CENTER/data=!4m7!3m6!1s0x2e6849c9394fac73:0x5e47de7667418293!8m2!3d-6.9229739!4d106.944239!16s%2Fg%2F11t6pz4tlx!",
+        "reviews": 110
+      },
+      {
+        "name": "PD Jaya abadi",
+        "rating": 4.3,
+        "address": "",
+        "href": "https://www.google.com/maps/place/PD+Jaya+abadi/data=!4m7!3m6!1s0x2e6837c56bfbf6ab:0x88fb56753ad0368f!8m2!3d-6.9247649!4d106.8986481!16s%2Fg%2F11gcc3v8qj!19sChI",
+        "reviews": 31
+      },
+      {
+        "name": "Gudang Berkah Makmur Plywood",
+        "rating": 5,
+        "address": "Pemasok kayu lapis · Jl. Pelabuhan II No.KM 5, RW.No. 572",
+        "href": "https://www.google.com/maps/place/Gudang+Berkah+Makmur+Plywood/data=!4m7!3m6!1s0x2e68313311319a07:0xba63554053801140!8m2!3d-6.9562726!4d106.9065296!16s%2Fg%2F11",
+        "reviews": 1
+      },
+      {
+        "name": "Toko Bangunan Baros Jaya",
+        "rating": 4.6,
+        "address": "Toko Perlengkapan Rumah ·  · Jl. RH. Didi Sukardi No.165",
+        "href": "https://www.google.com/maps/place/Toko+Bangunan+Baros+Jaya/data=!4m7!3m6!1s0x2e68497a3bb43c0b:0x87828833eb1e7f9e!8m2!3d-6.9325731!4d106.9321335!16s%2Fg%2F11f731",
+        "reviews": 80
+      },
+      {
+        "name": "CV . Makmur Jaya",
+        "rating": 4.7,
+        "address": "Pemasok aksesori mebel ·  · Jl. Nasional III",
+        "href": "https://www.google.com/maps/place/CV+.+Makmur+Jaya/data=!4m7!3m6!1s0x2e6848380fb25fb3:0x6732a5a729e71aa6!8m2!3d-6.9231919!4d106.9352945!16s%2Fg%2F11bz_4qx4f!19s",
+        "reviews": 42
+      }
+    ],
+    "category": "Konstruksi"
+  },
+  {
+    "query": "toko pipa pvc sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Distributor pipa ppr pvc hdpe",
+        "rating": 1,
+        "address": "Pemasok Pipa · 3WJC+C3V, Gg. Rawasalak",
+        "href": "https://www.google.com/maps/place/Distributor+pipa+ppr+pvc+hdpe/data=!4m7!3m6!1s0x2e6849007d35083f:0x67db43509134c3bc!8m2!3d-6.9188806!4d106.9201797!16s%2Fg%2F1",
+        "reviews": 1
+      },
+      {
+        "name": "Plafon PVC Sukabumi",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Plafon+PVC+Sukabumi/data=!4m7!3m6!1s0x2e684911cfe83ef1:0x8aea6cdb40b9605c!8m2!3d-6.9243157!4d106.9541244!16s%2Fg%2F11flc3hmc2!",
+        "reviews": 13
+      },
+      {
+        "name": "Gemilang plafon pvc Sukabumi",
+        "rating": 3.8,
+        "address": "Toko · Jl. Pelabuhan II No.429",
+        "href": "https://www.google.com/maps/place/Gemilang+plafon+pvc+Sukabumi/data=!4m7!3m6!1s0x2e6849d3a156a8cb:0x83b6149349648a0!8m2!3d-6.9456028!4d106.9183189!16s%2Fg%2F11t",
+        "reviews": 12
+      },
+      {
+        "name": "Kompa Jaya",
+        "rating": 4.4,
+        "address": "Toko Bahan Bangunan · 5QM3+R5F, Jl. Babakan Jawa-Lembur Sawah",
+        "href": "https://www.google.com/maps/place/Kompa+Jaya/data=!4m7!3m6!1s0x2e683382cf698659:0x7407ec84fbaae4f2!8m2!3d-6.8154491!4d106.7529157!16s%2Fg%2F11rb0y2wnx!19sChIJWY",
+        "reviews": 20
+      },
+      {
+        "name": "distributor hdpe pipe selang hdpe",
+        "rating": 4.5,
+        "address": "Pemasok Pipa · Jl. Pelabuhan II",
+        "href": "https://www.google.com/maps/place/distributor+hdpe+pipe+selang+hdpe/data=!4m7!3m6!1s0x2e68393ff9c2bcd1:0x7aea09e95d951956!8m2!3d-6.9602518!4d106.8886292!16s%2Fg",
+        "reviews": 8
+      },
+      {
+        "name": "Asba Plafon PVC Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Bahan Bangunan · 2WPP+FJF, Jl. Tangkil - Agrabinta",
+        "href": "https://www.google.com/maps/place/Asba+Plafon+PVC+Sukabumi/data=!4m7!3m6!1s0x2e68471260a47485:0x6558cd66fef150da!8m2!3d-6.9638201!4d106.9365373!16s%2Fg%2F11smlw",
+        "reviews": 7
+      },
+      {
+        "name": "Mega Baja Sukabumi",
+        "rating": 4.2,
+        "address": "Distributor Baja · Jl. Raya Cibolang Cisaat - Sukabhumi, RT.25/RW.66",
+        "href": "https://www.google.com/maps/place/Mega+Baja+Sukabumi/data=!4m7!3m6!1s0x2e68365a4afc3797:0xfa5a8904595beb03!8m2!3d-6.90327!4d106.881443!16s%2Fg%2F11b6d1r1mk!19sC",
+        "reviews": 70
+      }
+    ],
+    "category": "Konstruksi"
+  }
+]
