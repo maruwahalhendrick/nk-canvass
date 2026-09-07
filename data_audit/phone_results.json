@@ -3,8 +3,10 @@
     "id": 1,
     "name": "Ayam Goreng SS Super Sambal Sukabumi",
     "processed": true,
-    "viaPlaceClick": true,
-    "noPhone": true
+    "phone": "082323717118",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282323717118",
+    "source": "rescrape_niche"
   },
   {
     "id": 2,
@@ -1493,5 +1495,1463 @@
     "phone": "085797019515",
     "phoneType": "mobile",
     "phoneRaw": "085797019515"
+  },
+  {
+    "id": 359,
+    "name": "mindz games Rental Playstation",
+    "processed": true,
+    "phone": "081990200800",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281990200800",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 361,
+    "name": "ADENZ GAMES (MAIN DITEMPAT ATAU SEWA PS ANTAR JEMPUT )",
+    "processed": true,
+    "phone": "088224994192",
+    "phoneType": "mobile",
+    "phoneRaw": "+6288224994192",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 362,
+    "name": "Second Home Playstation 4 Rental",
+    "processed": true,
+    "phone": "085721023450",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285721023450",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 363,
+    "name": "GAME-Z Playstation Rental",
+    "processed": true,
+    "phone": "087719191738",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287719191738",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 364,
+    "name": "PLAYHERE RENTAL PLAYSTATION (ISI GAME PS & SEWA BAWA PULANG)",
+    "processed": true,
+    "phone": "085724622045",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285724622045",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 366,
+    "name": "Regalia Gaming ( Farmhouse Sukabumi )",
+    "processed": true,
+    "phone": "082298898900",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282298898900",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 367,
+    "name": "Lakula Gaming Zone",
+    "processed": true,
+    "phone": "080000000",
+    "phoneType": "landline",
+    "phoneRaw": "+6280000000",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 368,
+    "name": "Cowboy Games",
+    "processed": true,
+    "phone": "085759011190",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285759011190",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 369,
+    "name": "ADENZ GAMES 2 ( MAIN DI TEMPAT & SEWA PS DIBAWA PULANG )",
+    "processed": true,
+    "phone": "085177884849",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285177884849",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 370,
+    "name": "Enzy Enterprise",
+    "processed": true,
+    "phone": "081808340068",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281808340068",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 371,
+    "name": "RO cafe.billiard.esports",
+    "processed": true,
+    "phone": "085798857118",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285798857118",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 373,
+    "name": "Rental PS \"MWSTATION\"",
+    "processed": true,
+    "phone": "081259759402",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281259759402",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 374,
+    "name": "GAME-B RENTAL PLAYSTATION",
+    "processed": true,
+    "phone": "085143539110",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285143539110",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 375,
+    "name": "CuciWangi Sukabumi",
+    "processed": true,
+    "phone": "085189000067",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285189000067",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 376,
+    "name": "NGUMBAH SAPATU KOTA SUKABUMI",
+    "processed": true,
+    "phone": "085921324281",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285921324281",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 377,
+    "name": "Cuci Disini Sukabumi",
+    "processed": true,
+    "phone": "085183022135",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285183022135",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 378,
+    "name": "Sneakers Shoes Cleaning",
+    "processed": true,
+    "phone": "085798926364",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285798926364",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 379,
+    "name": "Cuci Bersih Shoes And Care",
+    "processed": true,
+    "phone": "0895329532278",
+    "phoneType": "mobile",
+    "phoneRaw": "+62895329532278",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 380,
+    "name": "SUKACUCI",
+    "processed": true,
+    "phone": "085723234313",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285723234313",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 381,
+    "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+    "processed": true,
+    "phone": "089612956100",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289612956100",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 382,
+    "name": "Wash it! Cuci Sepatu Sukabumi",
+    "processed": true,
+    "phone": "085280465741",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285280465741",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 383,
+    "name": "RUANG CUCI",
+    "processed": true,
+    "phone": "085888856910",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285888856910",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 384,
+    "name": "Clean Care Laundry Sepatu Cisaat",
+    "processed": true,
+    "phone": "085771074283",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285771074283",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 385,
+    "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+    "processed": true,
+    "phone": "085723234313",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285723234313",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 386,
+    "name": "Koomba Shoes Clean",
+    "processed": true,
+    "phone": "085773095370",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285773095370",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 387,
+    "name": "WASH SHOE (WS)",
+    "processed": true,
+    "phone": "085834016005",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285834016005",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 388,
+    "name": "D'SHOES LAUNDRY",
+    "processed": true,
+    "phone": "085798193764",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285798193764",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 389,
+    "name": "Dewi Swadaya",
+    "processed": true,
+    "phone": "085720987019",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285720987019",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 390,
+    "name": "Gadawu Shoes Care",
+    "processed": true,
+    "phone": "082110233334",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282110233334",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 391,
+    "name": "Rawat Sepatu Sukabumi Shoes Treatment & Laundry",
+    "processed": true,
+    "phone": "089628999218",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289628999218",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 392,
+    "name": "Toko Bahan Bangunan Bukti Rahayu",
+    "processed": true,
+    "phone": "081214200800",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281214200800",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 393,
+    "name": "Sinar baru / sinar bangunan cisaat",
+    "processed": true,
+    "phone": "085863444498",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285863444498",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 394,
+    "name": "PT. Semen Jawa (Siam Cement Group)",
+    "processed": true,
+    "phone": "02663220100",
+    "phoneType": "landline",
+    "phoneRaw": "+622663220100",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 396,
+    "name": "Mega Baja Sukabumi",
+    "processed": true,
+    "phone": "085321905055",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285321905055",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 397,
+    "name": "Tunas Baru",
+    "processed": true,
+    "phone": "08158006325",
+    "phoneType": "mobile",
+    "phoneRaw": "+628158006325",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 398,
+    "name": "Central Baja Sukabumi - Distributor Baja | Toko Bahan Bangunan | Baja Ringan",
+    "processed": true,
+    "phone": "0266218475",
+    "phoneType": "landline",
+    "phoneRaw": "+62266218475",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 400,
+    "name": "Mitra Besi Baja Sukabumi",
+    "processed": true,
+    "phone": "085117388321",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285117388321",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 401,
+    "name": "Toko Besi Naga Mas",
+    "processed": true,
+    "phone": "0266224575",
+    "phoneType": "landline",
+    "phoneRaw": "+62266224575",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 402,
+    "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+    "processed": true,
+    "phone": "08991701928",
+    "phoneType": "mobile",
+    "phoneRaw": "+628991701928",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 405,
+    "name": "Roda Mas Home Center",
+    "processed": true,
+    "phone": "085814756268",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285814756268",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 407,
+    "name": "Toko Cat Sinar Jaya Tiga",
+    "processed": true,
+    "phone": "081806117234",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281806117234",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 408,
+    "name": "TOKO ATHARRAZKA ( CAT TEMBOK KILOAN )",
+    "processed": true,
+    "phone": "081911748499",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281911748499",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 410,
+    "name": "Toko Keramik & Plywood SUMBER MAKMUR",
+    "processed": true,
+    "phone": "0816605523",
+    "phoneType": "mobile",
+    "phoneRaw": "+62816605523",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 412,
+    "name": "Toko GRS Maju Bersama | Plywood, Triplek, HPL, Aksesoris Furniture Sukabumi",
+    "processed": true,
+    "phone": "082344470877",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282344470877",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 413,
+    "name": "PD Jaya abadi",
+    "processed": true,
+    "phone": "085793333234",
+    "phoneType": "mobile",
+    "phoneRaw": "085793333234",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 414,
+    "name": "Gudang Berkah Makmur Plywood",
+    "processed": true,
+    "phone": "082344470877",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282344470877",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 415,
+    "name": "CV . Makmur Jaya",
+    "processed": true,
+    "phone": "0266222294",
+    "phoneType": "landline",
+    "phoneRaw": "+62266222294",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 416,
+    "name": "Distributor pipa ppr pvc hdpe",
+    "processed": true,
+    "phone": "081295805387",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281295805387",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 417,
+    "name": "Plafon PVC Sukabumi",
+    "processed": true,
+    "phone": "081281774186",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281281774186",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 418,
+    "name": "Gemilang plafon pvc Sukabumi",
+    "processed": true,
+    "phone": "087778088011",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287778088011",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 419,
+    "name": "distributor hdpe pipe selang hdpe",
+    "processed": true,
+    "phone": "085819588099",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285819588099",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 422,
+    "name": "Amorcakes and Bakery - Cikole Sukabumi",
+    "processed": true,
+    "phone": "081190088982",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281190088982",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 423,
+    "name": "Holland Bakery",
+    "processed": true,
+    "phone": "08975971945",
+    "phoneType": "mobile",
+    "phoneRaw": "+628975971945",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 425,
+    "name": "Cantigi",
+    "processed": true,
+    "phone": "085624764111",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285624764111",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 426,
+    "name": "Toko kue basah SnS",
+    "processed": true,
+    "phone": "089698820076",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289698820076",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 427,
+    "name": "Toko CS",
+    "processed": true,
+    "phone": "0266227673",
+    "phoneType": "landline",
+    "phoneRaw": "+62266227673",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 429,
+    "name": "Bolu Amor Jl Gudang",
+    "processed": true,
+    "phone": "085798900304",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285798900304",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 431,
+    "name": "Bolu Pisang Ibu Onih",
+    "processed": true,
+    "phone": "081572824444",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281572824444",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 432,
+    "name": "Shell patisserie",
+    "processed": true,
+    "phone": "08982288222",
+    "phoneType": "mobile",
+    "phoneRaw": "+628982288222",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 433,
+    "name": "Praline Sukabumi",
+    "processed": true,
+    "phone": "08118957881",
+    "phoneType": "mobile",
+    "phoneRaw": "+628118957881",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 434,
+    "name": "Bolu Labu Al-Hijrah (Oleh-Oleh Khas Sukabumi)",
+    "processed": true,
+    "phone": "081563715053",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281563715053",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 435,
+    "name": "Toko Sindang Sari Oleh Oleh Sukabumi",
+    "processed": true,
+    "phone": "081283354474",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281283354474",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 436,
+    "name": "Mochi A Yani",
+    "processed": true,
+    "phone": "087748271423",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287748271423",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 439,
+    "name": "Dodol Garut Maryati",
+    "processed": true,
+    "phone": "081572248570",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281572248570",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 440,
+    "name": "Dodol Ngaray",
+    "processed": true,
+    "phone": "085862888823",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285862888823",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 441,
+    "name": "Mochi Kaswari Bakat Jaya",
+    "processed": true,
+    "phone": "0266232092",
+    "phoneType": "landline",
+    "phoneRaw": "+62266232092",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 442,
+    "name": "LUCKY Kamera (Sukabumi Kota)",
+    "processed": true,
+    "phone": "08569899000",
+    "phoneType": "mobile",
+    "phoneRaw": "+628569899000",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 443,
+    "name": "KAMERA IBNU (SEWA KAMERA SUKABUMI)",
+    "processed": true,
+    "phone": "08566601264",
+    "phoneType": "mobile",
+    "phoneRaw": "+628566601264",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 444,
+    "name": "ADAMASANYA.SMI",
+    "processed": true,
+    "phone": "085939717250",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285939717250",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 445,
+    "name": "Digital Camera Repair AGPA service kamera sukabumi",
+    "processed": true,
+    "phone": "085171005972",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285171005972",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 446,
+    "name": "Rental Alat Sukabumi 2",
+    "processed": true,
+    "phone": "085718087000",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285718087000",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 447,
+    "name": "Rezz Digital",
+    "processed": true,
+    "phone": "085872335899",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285872335899",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 448,
+    "name": "Foto Lee Ming",
+    "processed": true,
+    "phone": "089652173979",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289652173979",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 449,
+    "name": "DIGI PHOTO Lab & Studio SUKABUMI",
+    "processed": true,
+    "phone": "082321518428",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282321518428",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 451,
+    "name": "NET FOTOGRAFI Sukabumi _ Office & Studio",
+    "processed": true,
+    "phone": "089517708799",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289517708799",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 452,
+    "name": "JSTUDIO PHOTO",
+    "processed": true,
+    "phone": "082122699920",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282122699920",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 453,
+    "name": "Kita Photo Studio",
+    "processed": true,
+    "phone": "085863377149",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285863377149",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 454,
+    "name": "LUVINOPICTURES",
+    "processed": true,
+    "phone": "085863600900",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285863600900",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 455,
+    "name": "Qss Digital Photo Studio Sukabumi",
+    "processed": true,
+    "phone": "02666244927",
+    "phoneType": "landline",
+    "phoneRaw": "+622666244927",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 456,
+    "name": "Kertas Warna",
+    "processed": true,
+    "phone": "089620193110",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289620193110",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 458,
+    "name": "WM STUDIO / Studio Music Sukabumi",
+    "processed": true,
+    "phone": "087720807888",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287720807888",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 459,
+    "name": "HARU STUDIO",
+    "processed": true,
+    "phone": "081316674422",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281316674422",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 460,
+    "name": "Ping!!! Music Studio",
+    "processed": true,
+    "phone": "083818225533",
+    "phoneType": "mobile",
+    "phoneRaw": "+6283818225533",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 461,
+    "name": "Leo Musik Studio",
+    "processed": true,
+    "phone": "085793561531",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285793561531",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 462,
+    "name": "Dji's Studio",
+    "processed": true,
+    "phone": "085215307215",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285215307215",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 463,
+    "name": "Mabes Studio Recording",
+    "processed": true,
+    "phone": "0266238112",
+    "phoneType": "landline",
+    "phoneRaw": "+62266238112",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 464,
+    "name": "Playback Music Studio Recording",
+    "processed": true,
+    "phone": "085723371249",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285723371249",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 465,
+    "name": "Mg Music Studio",
+    "processed": true,
+    "phone": "085721866448",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285721866448",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 466,
+    "name": "lans studio musik",
+    "processed": true,
+    "phone": "085720720731",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285720720731",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 467,
+    "name": "Grow Entertainment",
+    "processed": true,
+    "phone": "0895628098040",
+    "phoneType": "mobile",
+    "phoneRaw": "+62895628098040",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 468,
+    "name": "TR RECORD STUDIO",
+    "processed": true,
+    "phone": "08156117115",
+    "phoneType": "mobile",
+    "phoneRaw": "+628156117115",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 469,
+    "name": "Gilang Ramadhan Studio Band",
+    "processed": true,
+    "phone": "0266213260",
+    "phoneType": "landline",
+    "phoneRaw": "+62266213260",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 470,
+    "name": "Syika Studio",
+    "processed": true,
+    "phone": "085659187813",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285659187813",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 471,
+    "name": "Purwacaraka music Studio Sukabumi",
+    "processed": true,
+    "phone": "081573295905",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281573295905",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 472,
+    "name": "Sukabumi Music School",
+    "processed": true,
+    "phone": "08562059167",
+    "phoneType": "mobile",
+    "phoneRaw": "+628562059167",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 473,
+    "name": "Nada Cendekia Music School",
+    "processed": true,
+    "phone": "0881011894565",
+    "phoneType": "mobile",
+    "phoneRaw": "+62881011894565",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 474,
+    "name": "Stiva Music Studio",
+    "processed": true,
+    "phone": "081386161110",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281386161110",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 475,
+    "name": "Jays Music Studio",
+    "processed": true,
+    "phone": "082117577125",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282117577125",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 476,
+    "name": "M9 Rumah Seni",
+    "processed": true,
+    "phone": "085724055363",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285724055363",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 478,
+    "name": "Ghibran Pakan Hewan",
+    "processed": true,
+    "phone": "085624046610",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285624046610",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 479,
+    "name": "DUNIA AQUARIUM PET & POULTRY SHOP",
+    "processed": true,
+    "phone": "085659453347",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285659453347",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 480,
+    "name": "JJ Pet Shop, Grooming & Pet Hotel - Pasundan",
+    "processed": true,
+    "phone": "081315446377",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281315446377",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 481,
+    "name": "Pamz Grooming sukabumi",
+    "processed": true,
+    "phone": "08876070000",
+    "phoneType": "mobile",
+    "phoneRaw": "+628876070000",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 483,
+    "name": "Dokter Hewan Riki Barata",
+    "processed": true,
+    "phone": "08175411477",
+    "phoneType": "mobile",
+    "phoneRaw": "+628175411477",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 484,
+    "name": "KLINIK HEWAN KOTA SUKABUMI (BIDANG PETERNAKAN & KESEHATAN HEWAN)",
+    "processed": true,
+    "phone": "0266222186",
+    "phoneType": "landline",
+    "phoneRaw": "+62266222186",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 485,
+    "name": "Praktek Drh Ilianawati",
+    "processed": true,
+    "phone": "087878403766",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287878403766",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 486,
+    "name": "Tulip pet care",
+    "processed": true,
+    "phone": "085212382042",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285212382042",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 487,
+    "name": "Klinik Hewan drh Narti (Vhivet Care)&petshop",
+    "processed": true,
+    "phone": "085775217706",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285775217706",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 488,
+    "name": "Ratu Cathouse Sukabumi",
+    "processed": true,
+    "phone": "089652508535",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289652508535",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 489,
+    "name": "Odeon Aquarium",
+    "processed": true,
+    "phone": "081563172094",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281563172094",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 490,
+    "name": "Sukabumi Aquarium",
+    "processed": true,
+    "phone": "08977513364",
+    "phoneType": "mobile",
+    "phoneRaw": "+628977513364",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 491,
+    "name": "Aloha",
+    "processed": true,
+    "phone": "0266225615",
+    "phoneType": "landline",
+    "phoneRaw": "+62266225615",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 492,
+    "name": "Hansee Aquarium",
+    "processed": true,
+    "phone": "08111179334",
+    "phoneType": "mobile",
+    "phoneRaw": "+628111179334",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 493,
+    "name": "Toko ikan kondang aquarium",
+    "processed": true,
+    "phone": "085759003958",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285759003958",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 494,
+    "name": "Pribumi Aquarium",
+    "processed": true,
+    "phone": "081563324611",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281563324611",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 495,
+    "name": "Ikan hias laut sukabumi",
+    "processed": true,
+    "phone": "085624776964",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285624776964",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 496,
+    "name": "Arf Bird Shop",
+    "processed": true,
+    "phone": "0816609607",
+    "phoneType": "mobile",
+    "phoneRaw": "+62816609607",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 497,
+    "name": "Pasar Burung Pasundan Sukabumi",
+    "processed": true,
+    "phone": "085719343555",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285719343555",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 499,
+    "name": "MAJA KICAU",
+    "processed": true,
+    "phone": "08111184812",
+    "phoneType": "mobile",
+    "phoneRaw": "+628111184812",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 500,
+    "name": "Mahesa Bird Shop",
+    "processed": true,
+    "phone": "081212062381",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281212062381",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 501,
+    "name": "Pd Mahardika",
+    "processed": true,
+    "phone": "08159000051",
+    "phoneType": "mobile",
+    "phoneRaw": "+628159000051",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 502,
+    "name": "KIOS BURUNG FAHREZA (KBF)",
+    "processed": true,
+    "phone": "085720869500",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285720869500",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 503,
+    "name": "Zaki Aquatic Store Sukabumi",
+    "processed": true,
+    "phone": "085180594831",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285180594831",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 504,
+    "name": "veiz aquascape",
+    "processed": true,
+    "phone": "081212766669",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281212766669",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 506,
+    "name": "Bangsawan Toys (Diecast store)",
+    "processed": true,
+    "phone": "089610420994",
+    "phoneType": "mobile",
+    "phoneRaw": "+6289610420994",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 507,
+    "name": "Binangkit Store",
+    "processed": true,
+    "phone": "081384761978",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281384761978",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 508,
+    "name": "SUARA HATI TOYS",
+    "processed": true,
+    "phone": "085872043165",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285872043165",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 509,
+    "name": "Saung Hobby and Toys",
+    "processed": true,
+    "phone": "082110060441",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282110060441",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 511,
+    "name": "Toko AZWA",
+    "processed": true,
+    "phone": "085294273717",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285294273717",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 512,
+    "name": "Samudra",
+    "processed": true,
+    "phone": "0266220165",
+    "phoneType": "landline",
+    "phoneRaw": "+62266220165",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 513,
+    "name": "Sinar Sakti",
+    "processed": true,
+    "phone": "087820530919",
+    "phoneType": "mobile",
+    "phoneRaw": "+6287820530919",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 514,
+    "name": "Toko Ujm",
+    "processed": true,
+    "phone": "081221219578",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281221219578",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 515,
+    "name": "ABCDcell TAMIYA MINI 4WD SUKABUMI",
+    "processed": true,
+    "phone": "083871762872",
+    "phoneType": "mobile",
+    "phoneRaw": "+6283871762872",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 516,
+    "name": "rctopia",
+    "processed": true,
+    "phone": "085221888188",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285221888188",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 517,
+    "name": "Lego Lagi",
+    "processed": true,
+    "phone": "085156848468",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285156848468",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 518,
+    "name": "Nadaria Toys",
+    "processed": true,
+    "phone": "081318266794",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281318266794",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 519,
+    "name": "Ganz toys",
+    "processed": true,
+    "phone": "081563737888",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281563737888",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 520,
+    "name": "Sagalaya Toys & Hobby",
+    "processed": true,
+    "phone": "085798806061",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285798806061",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 521,
+    "name": "Hollyland Shop",
+    "processed": true,
+    "phone": "08988227805",
+    "phoneType": "mobile",
+    "phoneRaw": "+628988227805",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 522,
+    "name": "KawaidOllshop",
+    "processed": true,
+    "phone": "08997100085",
+    "phoneType": "mobile",
+    "phoneRaw": "+628997100085",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 523,
+    "name": "Toko Rigo",
+    "processed": true,
+    "phone": "085703000529",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285703000529",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 524,
+    "name": "Cosrent Sukabumi",
+    "processed": true,
+    "phone": "083894534775",
+    "phoneType": "mobile",
+    "phoneRaw": "+6283894534775",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 525,
+    "name": "Sewa kostum tari",
+    "processed": true,
+    "phone": "085217854267",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285217854267",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 526,
+    "name": "Ambu Costume",
+    "processed": true,
+    "phone": "085759665215",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285759665215",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 527,
+    "name": "ARVANI COSPLAY",
+    "processed": true,
+    "phone": "085846133638",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285846133638",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 528,
+    "name": "Kostum tari bu nur (alnamira salon)",
+    "processed": true,
+    "phone": "081381335196",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281381335196",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 529,
+    "name": "ARIANA PRO",
+    "processed": true,
+    "phone": "082224252023",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282224252023",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 530,
+    "name": "Toko Rei Gift Shop",
+    "processed": true,
+    "phone": "0266222528",
+    "phoneType": "landline",
+    "phoneRaw": "+62266222528",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 531,
+    "name": "Gadget Plan",
+    "processed": true,
+    "phone": "081546773342",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281546773342",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 532,
+    "name": "Abadi Cell & Elektronik",
+    "processed": true,
+    "phone": "08567121314",
+    "phoneType": "mobile",
+    "phoneRaw": "+628567121314",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 533,
+    "name": "G Selular Sudirman",
+    "processed": true,
+    "phone": "0266222779",
+    "phoneType": "landline",
+    "phoneRaw": "+62266222779",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 534,
+    "name": "iClaude Service iPhone Sukabumi",
+    "processed": true,
+    "phone": "082130995656",
+    "phoneType": "mobile",
+    "phoneRaw": "+6282130995656",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 535,
+    "name": "iRoom Service Sukabumi",
+    "processed": true,
+    "phone": "0811262086",
+    "phoneType": "mobile",
+    "phoneRaw": "+62811262086",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 536,
+    "name": "Fixapple Solutions",
+    "processed": true,
+    "phone": "085602021202",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285602021202",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 537,
+    "name": "SERVICE IPHONE & ANDROID",
+    "processed": true,
+    "phone": "08161116705",
+    "phoneType": "mobile",
+    "phoneRaw": "+628161116705",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 538,
+    "name": "iFixPro Cabang Sukabumi",
+    "processed": true,
+    "phone": "08133168383",
+    "phoneType": "mobile",
+    "phoneRaw": "+628133168383",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 539,
+    "name": "APPLE IN STORE",
+    "processed": true,
+    "phone": "085795903806",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285795903806",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 540,
+    "name": "iBox Sukabumi",
+    "processed": true,
+    "phone": "02667510004",
+    "phoneType": "landline",
+    "phoneRaw": "+622667510004",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 541,
+    "name": "VINCI APPLE STORE / TOKO IPHONE SUKABUMI SECOND DAN BARU NEW GRESS / SERVICE IPHONE SUKABUMI",
+    "processed": true,
+    "phone": "085179597849",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285179597849",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 542,
+    "name": "PANDU APPLE STORE",
+    "processed": true,
+    "phone": "085723232527",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285723232527",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 543,
+    "name": "Sukabumi_phone2 pemuda",
+    "processed": true,
+    "phone": "081460950057",
+    "phoneType": "mobile",
+    "phoneRaw": "+6281460950057",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 544,
+    "name": "Qtell Phoneshop",
+    "processed": true,
+    "phone": "085863117799",
+    "phoneType": "mobile",
+    "phoneRaw": "+6285863117799",
+    "source": "rescrape_niche"
   }
 ]
