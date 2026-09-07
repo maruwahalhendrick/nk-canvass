@@ -1,0 +1,336 @@
+[
+  {
+    "query": "studio musik sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Studio Musik Cees",
+        "rating": 4.7,
+        "address": "Studio Rekaman ·  · Jl. Babakan Jampang",
+        "href": "https://www.google.com/maps/place/Studio+Musik+Cees/data=!4m7!3m6!1s0x2e684962db629155:0x30847fb7135650e8!8m2!3d-6.9105789!4d106.9437876!16s%2Fg%2F11gl28b8hv!19",
+        "reviews": 69
+      },
+      {
+        "name": "WM STUDIO / Studio Music Sukabumi",
+        "rating": 4.9,
+        "address": "Jasa Rental Alat Musik · Jl. Raya Rambay",
+        "href": "https://www.google.com/maps/place/WM+STUDIO+%2F+Studio+Music+Sukabumi/data=!4m7!3m6!1s0x2e68370d8b3ca757:0xfa6c1c147987a8a4!8m2!3d-6.9120186!4d106.8964338!16s%2",
+        "reviews": 13
+      },
+      {
+        "name": "HARU STUDIO",
+        "rating": 4.9,
+        "address": "Jasa Rental Alat Musik · Jl. Merdeka No.16",
+        "href": "https://www.google.com/maps/place/HARU+STUDIO/data=!4m7!3m6!1s0x2e6839bd2407b639:0x6a4d0b08f88bc57b!8m2!3d-6.9578996!4d106.9089886!16s%2Fg%2F11mpbq3nt7!19sChIJO",
+        "reviews": 40
+      },
+      {
+        "name": "Ping!!! Music Studio",
+        "rating": 4.3,
+        "address": "Studio Rekaman ·  · Jl. Pabuaran No.18",
+        "href": "https://www.google.com/maps/place/Ping!!!+Music+Studio/data=!4m7!3m6!1s0x2e68482479395cab:0x4d6d9ac57f8fb8c0!8m2!3d-6.9273801!4d106.9208664!16s%2Fg%2F11dyqznzj8",
+        "reviews": 68
+      },
+      {
+        "name": "Leo Musik Studio",
+        "rating": 4.8,
+        "address": "Jasa Rental Alat Musik ·  · Gg. Dewa No.1 No. 17, RT.02/RW.12",
+        "href": "https://www.google.com/maps/place/Leo+Musik+Studio/data=!4m7!3m6!1s0x2e6849928e0eb00b:0x9fe2c20845c6b82b!8m2!3d-6.9151168!4d106.9183254!16s%2Fg%2F11gslv1qyt!19s",
+        "reviews": 34
+      },
+      {
+        "name": "Dji's Studio",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Mayor Mahmud No.16",
+        "href": "https://www.google.com/maps/place/Dji%27s+Studio/data=!4m7!3m6!1s0x2e6849600af78d2d:0x767aca1f2b1dd0e5!8m2!3d-6.9050635!4d106.9430868!16s%2Fg%2F11fp3vrsn2!19sCh",
+        "reviews": 68
+      },
+      {
+        "name": "Mabes Studio Recording",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Mabes+Studio+Recording/data=!4m7!3m6!1s0x2e68363312445add:0x87eab79e34a5fc24!8m2!3d-6.9123109!4d106.8961426!16s%2Fg%2F11b7r6ym",
+        "reviews": 55
+      },
+      {
+        "name": "Playback Music Studio Recording",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Playback+Music+Studio+Recording/data=!4m7!3m6!1s0x2e68498c95b57cad:0xc57fc1492aadef76!8m2!3d-6.9315583!4d106.9279472!16s%2Fg%2",
+        "reviews": 18
+      },
+      {
+        "name": "Mg Music Studio",
+        "rating": 5,
+        "address": "Jasa Rental Alat Musik · 3WH4+8F6, Jl. Raya Sukabumi",
+        "href": "https://www.google.com/maps/place/Mg+Music+Studio/data=!4m7!3m6!1s0x2e6837d0cc2e7b6f:0x64c5a86da35cb2dd!8m2!3d-6.9217103!4d106.9061453!16s%2Fg%2F11hdb0z1sh!19sC",
+        "reviews": 10
+      },
+      {
+        "name": "lans studio musik",
+        "rating": 4.7,
+        "address": "Jasa Rental Alat Musik · Perum Jayaraksa Pratama Jl. Sudajaya Hilir No.4 blok E, RT.03/RW.",
+        "href": "https://www.google.com/maps/place/lans+studio+musik/data=!4m7!3m6!1s0x2e68480a6d6e0db3:0xe8ea9ca81e9f67ad!8m2!3d-6.9527765!4d106.9315289!16s%2Fg%2F11gbxct117!19",
+        "reviews": 13
+      }
+    ],
+    "category": "Studio Musik & Seni"
+  },
+  {
+    "query": "studio rekaman sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Mabes Studio Recording",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Mabes+Studio+Recording/data=!4m7!3m6!1s0x2e68363312445add:0x87eab79e34a5fc24!8m2!3d-6.9123109!4d106.8961426!16s%2Fg%2F11b7r6ym",
+        "reviews": 55
+      },
+      {
+        "name": "Playback Music Studio Recording",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Playback+Music+Studio+Recording/data=!4m7!3m6!1s0x2e68498c95b57cad:0xc57fc1492aadef76!8m2!3d-6.9315583!4d106.9279472!16s%2Fg%2",
+        "reviews": 18
+      },
+      {
+        "name": "Studio Musik Cees",
+        "rating": 4.7,
+        "address": "Studio Rekaman ·  · Jl. Babakan Jampang",
+        "href": "https://www.google.com/maps/place/Studio+Musik+Cees/data=!4m7!3m6!1s0x2e684962db629155:0x30847fb7135650e8!8m2!3d-6.9105789!4d106.9437876!16s%2Fg%2F11gl28b8hv!19",
+        "reviews": 69
+      },
+      {
+        "name": "Grow Entertainment",
+        "rating": 4.9,
+        "address": "Studio Rekaman ·  · Jl. Baros No.Km. 6, RT.01/RW.05",
+        "href": "https://www.google.com/maps/place/Grow+Entertainment/data=!4m7!3m6!1s0x2e6847f6e6591943:0x2b17681da9a3c7a7!8m2!3d-6.9643703!4d106.9406444!16s%2Fg%2F11jvcnp_3g!1",
+        "reviews": 32
+      },
+      {
+        "name": "TR RECORD STUDIO",
+        "rating": 4.7,
+        "address": "Studio Rekaman · Jl. Raya Salakopi, RT.002/RW.004",
+        "href": "https://www.google.com/maps/place/TR+RECORD+STUDIO/data=!4m7!3m6!1s0x2e68379b5512d8a1:0x12762974b19a2619!8m2!3d-6.9015665!4d106.8373398!16s%2Fg%2F11sh1f8dx8!19s",
+        "reviews": 83
+      },
+      {
+        "name": "HARU STUDIO",
+        "rating": 4.9,
+        "address": "Jasa Rental Alat Musik · Jl. Merdeka No.16",
+        "href": "https://www.google.com/maps/place/HARU+STUDIO/data=!4m7!3m6!1s0x2e6839bd2407b639:0x6a4d0b08f88bc57b!8m2!3d-6.9578996!4d106.9089886!16s%2Fg%2F11mpbq3nt7!19sChIJO",
+        "reviews": 40
+      },
+      {
+        "name": "Ping!!! Music Studio",
+        "rating": 4.3,
+        "address": "Studio Rekaman ·  · Jl. Pabuaran No.18",
+        "href": "https://www.google.com/maps/place/Ping!!!+Music+Studio/data=!4m7!3m6!1s0x2e68482479395cab:0x4d6d9ac57f8fb8c0!8m2!3d-6.9273801!4d106.9208664!16s%2Fg%2F11dyqznzj8",
+        "reviews": 68
+      }
+    ],
+    "category": "Studio Musik & Seni"
+  },
+  {
+    "query": "tempat latihan band sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "HARU STUDIO",
+        "rating": 4.9,
+        "address": "Jasa Rental Alat Musik · Jl. Merdeka No.16",
+        "href": "https://www.google.com/maps/place/HARU+STUDIO/data=!4m7!3m6!1s0x2e6839bd2407b639:0x6a4d0b08f88bc57b!8m2!3d-6.9578996!4d106.9089886!16s%2Fg%2F11mpbq3nt7!19sChIJO",
+        "reviews": 40
+      },
+      {
+        "name": "Mars studio band",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Pelda Suryanta R.E. Suryanta No.10",
+        "href": "https://www.google.com/maps/place/Mars+studio+band/data=!4m7!3m6!1s0x2e6849f2dd8bb58f:0x920d088bdd95bec7!8m2!3d-6.9318979!4d106.9331151!16s%2Fg%2F11jz096yxn!19s",
+        "reviews": 4
+      },
+      {
+        "name": "WM STUDIO / Studio Music Sukabumi",
+        "rating": 4.9,
+        "address": "Jasa Rental Alat Musik · Jl. Raya Rambay",
+        "href": "https://www.google.com/maps/place/WM+STUDIO+%2F+Studio+Music+Sukabumi/data=!4m7!3m6!1s0x2e68370d8b3ca757:0xfa6c1c147987a8a4!8m2!3d-6.9120186!4d106.8964338!16s%2",
+        "reviews": 13
+      },
+      {
+        "name": "Gilang Ramadhan Studio Band",
+        "rating": 5,
+        "address": "Sekolah Pendidikan Orang Dewasa · Jl. Zaenal Zakse No.9C",
+        "href": "https://www.google.com/maps/place/Gilang+Ramadhan+Studio+Band/data=!4m7!3m6!1s0x2e6848375bdd3cdf:0x265ef8ecc4dfad7d!8m2!3d-6.9222396!4d106.9309107!16s%2Fg%2F11b",
+        "reviews": 2
+      },
+      {
+        "name": "Dji's Studio",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Mayor Mahmud No.16",
+        "href": "https://www.google.com/maps/place/Dji%27s+Studio/data=!4m7!3m6!1s0x2e6849600af78d2d:0x767aca1f2b1dd0e5!8m2!3d-6.9050635!4d106.9430868!16s%2Fg%2F11fp3vrsn2!19sCh",
+        "reviews": 68
+      },
+      {
+        "name": "Syika Studio",
+        "rating": 4.2,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Syika+Studio/data=!4m7!3m6!1s0x2e683640a7d5f0f3:0x8bd8fb712935ff66!8m2!3d-6.897605!4d106.8884794!16s%2Fg%2F11ddx18dyj!19sChIJ8",
+        "reviews": 80
+      },
+      {
+        "name": "Studio Musik Cees",
+        "rating": 4.7,
+        "address": "Studio Rekaman ·  · Jl. Babakan Jampang",
+        "href": "https://www.google.com/maps/place/Studio+Musik+Cees/data=!4m7!3m6!1s0x2e684962db629155:0x30847fb7135650e8!8m2!3d-6.9105789!4d106.9437876!16s%2Fg%2F11gl28b8hv!19",
+        "reviews": 69
+      },
+      {
+        "name": "Leo Musik Studio",
+        "rating": 4.8,
+        "address": "Jasa Rental Alat Musik ·  · Gg. Dewa No.1 No. 17, RT.02/RW.12",
+        "href": "https://www.google.com/maps/place/Leo+Musik+Studio/data=!4m7!3m6!1s0x2e6849928e0eb00b:0x9fe2c20845c6b82b!8m2!3d-6.9151168!4d106.9183254!16s%2Fg%2F11gslv1qyt!19s",
+        "reviews": 34
+      },
+      {
+        "name": "Purwacaraka music Studio Sukabumi",
+        "rating": 5,
+        "address": "Pusat Pendidikan · 3WFG+R79 alfamart seberang Klenteng, Jl. Pajagalan no",
+        "href": "https://www.google.com/maps/place/Purwacaraka+music+Studio+Sukabumi/data=!4m7!3m6!1s0x2e6849f36f612337:0xee800879dbbc7cd3!8m2!3d-6.9254566!4d106.92574!16s%2Fg%2",
+        "reviews": 5
+      },
+      {
+        "name": "Sukabumi Music School",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl.Pajagalan, Komplek Ruko Danalaga Square, Blok C, no.3, Odeon,",
+        "href": "https://www.google.com/maps/place/Sukabumi+Music+School/data=!4m7!3m6!1s0x2e68483b1dac25b9:0xe85ce7846cc4b860!8m2!3d-6.9256164!4d106.9257906!16s%2Fg%2F11bz_0ks6",
+        "reviews": 4
+      }
+    ],
+    "category": "Studio Musik & Seni"
+  },
+  {
+    "query": "sekolah musik sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Dji's Studio",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Mayor Mahmud No.16",
+        "href": "https://www.google.com/maps/place/Dji%27s+Studio/data=!4m7!3m6!1s0x2e6849600af78d2d:0x767aca1f2b1dd0e5!8m2!3d-6.9050635!4d106.9430868!16s%2Fg%2F11fp3vrsn2!19sCh",
+        "reviews": 68
+      },
+      {
+        "name": "Sukabumi Music School",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl.Pajagalan, Komplek Ruko Danalaga Square, Blok C, no.3, Odeon,",
+        "href": "https://www.google.com/maps/place/Sukabumi+Music+School/data=!4m7!3m6!1s0x2e68483b1dac25b9:0xe85ce7846cc4b860!8m2!3d-6.9256164!4d106.9257906!16s%2Fg%2F11bz_0ks6",
+        "reviews": 4
+      },
+      {
+        "name": "Purwacaraka music Studio Sukabumi",
+        "rating": 5,
+        "address": "Pusat Pendidikan · 3WFG+R79 alfamart seberang Klenteng, Jl. Pajagalan no",
+        "href": "https://www.google.com/maps/place/Purwacaraka+music+Studio+Sukabumi/data=!4m7!3m6!1s0x2e6849f36f612337:0xee800879dbbc7cd3!8m2!3d-6.9254566!4d106.92574!16s%2Fg%2",
+        "reviews": 5
+      },
+      {
+        "name": "Nada Cendekia Music School",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Pelabuhan II",
+        "href": "https://www.google.com/maps/place/Nada+Cendekia+Music+School/data=!4m7!3m6!1s0x2e6833fff86f1bc1:0xc0ec0c7808936c2d!8m2!3d-6.9777917!4d106.8486859!16s%2Fg%2F11n9",
+        "reviews": 2
+      },
+      {
+        "name": "Stiva Music Studio",
+        "rating": 5,
+        "address": "Studio Rekaman · 3X95+729, Jl. Pembangunan Jl. Selakaso Kulon",
+        "href": "https://www.google.com/maps/place/Stiva+Music+Studio/data=!4m7!3m6!1s0x2e68485fd8b2ed19:0x677784ea7886a1c1!8m2!3d-6.9318466!4d106.9576194!16s%2Fg%2F11g9vpz79k!1",
+        "reviews": 1
+      },
+      {
+        "name": "Jays Music Studio",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Jays+Music+Studio/data=!4m7!3m6!1s0x2e6832985595c707:0x6343a46856424101!8m2!3d-6.8185187!4d106.7324201!16s%2Fg%2F11c2ptt09w!19",
+        "reviews": 12
+      },
+      {
+        "name": "Gilang Ramadhan Studio Band",
+        "rating": 5,
+        "address": "Sekolah Pendidikan Orang Dewasa · Jl. Zaenal Zakse No.9C",
+        "href": "https://www.google.com/maps/place/Gilang+Ramadhan+Studio+Band/data=!4m7!3m6!1s0x2e6848375bdd3cdf:0x265ef8ecc4dfad7d!8m2!3d-6.9222396!4d106.9309107!16s%2Fg%2F11b",
+        "reviews": 2
+      },
+      {
+        "name": "M9 Rumah Seni",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Cipelang Leutik No.7 No.14",
+        "href": "https://www.google.com/maps/place/M9+Rumah+Seni/data=!4m7!3m6!1s0x2e684833900cf473:0xb3fd2498e039f806!8m2!3d-6.9155306!4d106.9291232!16s%2Fg%2F11g9vn7qms!19sChI",
+        "reviews": 1
+      },
+      {
+        "name": "Mars studio band",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Pelda Suryanta R.E. Suryanta No.10",
+        "href": "https://www.google.com/maps/place/Mars+studio+band/data=!4m7!3m6!1s0x2e6849f2dd8bb58f:0x920d088bdd95bec7!8m2!3d-6.9318979!4d106.9331151!16s%2Fg%2F11jz096yxn!19s",
+        "reviews": 4
+      },
+      {
+        "name": "Ayodhaloka Art Space",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Ayodhaloka+Art+Space/data=!4m7!3m6!1s0x2e683727a5fd96eb:0x52b70ac05a14ad20!8m2!3d-6.9022008!4d106.9112652!16s%2Fg%2F11jlqzjxm5",
+        "reviews": 7
+      }
+    ],
+    "category": "Studio Musik & Seni"
+  },
+  {
+    "query": "sanggar tari sukabumi",
+    "mode": "panel",
+    "category": "Studio Musik & Seni"
+  },
+  {
+    "query": "kursus vokal sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Purwacaraka music Studio Sukabumi",
+        "rating": 5,
+        "address": "Pusat Pendidikan · 3WFG+R79 alfamart seberang Klenteng, Jl. Pajagalan no",
+        "href": "https://www.google.com/maps/place/Purwacaraka+music+Studio+Sukabumi/data=!4m7!3m6!1s0x2e6849f36f612337:0xee800879dbbc7cd3!8m2!3d-6.9254566!4d106.92574!16s%2Fg%2",
+        "reviews": 5
+      },
+      {
+        "name": "Sukabumi Music School",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl.Pajagalan, Komplek Ruko Danalaga Square, Blok C, no.3, Odeon,",
+        "href": "https://www.google.com/maps/place/Sukabumi+Music+School/data=!4m7!3m6!1s0x2e68483b1dac25b9:0xe85ce7846cc4b860!8m2!3d-6.9256164!4d106.9257906!16s%2Fg%2F11bz_0ks6",
+        "reviews": 4
+      },
+      {
+        "name": "Dji's Studio",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Mayor Mahmud No.16",
+        "href": "https://www.google.com/maps/place/Dji%27s+Studio/data=!4m7!3m6!1s0x2e6849600af78d2d:0x767aca1f2b1dd0e5!8m2!3d-6.9050635!4d106.9430868!16s%2Fg%2F11fp3vrsn2!19sCh",
+        "reviews": 68
+      },
+      {
+        "name": "Stiva Music Studio",
+        "rating": 5,
+        "address": "Studio Rekaman · 3X95+729, Jl. Pembangunan Jl. Selakaso Kulon",
+        "href": "https://www.google.com/maps/place/Stiva+Music+Studio/data=!4m7!3m6!1s0x2e68485fd8b2ed19:0x677784ea7886a1c1!8m2!3d-6.9318466!4d106.9576194!16s%2Fg%2F11g9vpz79k!1",
+        "reviews": 1
+      },
+      {
+        "name": "M9 Rumah Seni",
+        "rating": 5,
+        "address": "Sekolah Musik · Jl. Cipelang Leutik No.7 No.14",
+        "href": "https://www.google.com/maps/place/M9+Rumah+Seni/data=!4m7!3m6!1s0x2e684833900cf473:0xb3fd2498e039f806!8m2!3d-6.9155306!4d106.9291232!16s%2Fg%2F11g9vn7qms!19sChI",
+        "reviews": 1
+      }
+    ],
+    "category": "Studio Musik & Seni"
+  }
+]
