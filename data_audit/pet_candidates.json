@@ -1,0 +1,408 @@
+[
+  {
+    "query": "toko pakan hewan sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Jansen Petshop",
+        "rating": 4.8,
+        "address": "Toko Pakan Hewan ·  · No.02 Blok N, Danalaga Square, Jl. Pajagalan",
+        "href": "https://www.google.com/maps/place/Jansen+Petshop/data=!4m7!3m6!1s0x2e68483b7031786f:0xf5cd06ca7607ec92!8m2!3d-6.9270894!4d106.9263499!16s%2Fg%2F11d_ytp1pw!19sCh"
+      },
+      {
+        "name": "Ghibran Pakan Hewan",
+        "rating": 4.9,
+        "address": "Toko Pakan Hewan · perum Jl. Bougenville No.53 Blok.C, RT.2/RW.7 Kel",
+        "href": "https://www.google.com/maps/place/Ghibran+Pakan+Hewan/data=!4m7!3m6!1s0x2e68474aca47e819:0x7d35c39abbbc3263!8m2!3d-6.957169!4d106.9428542!16s%2Fg%2F11n4pbdz2v!1"
+      },
+      {
+        "name": "Tani Raya Poultry Shop",
+        "rating": 4.7,
+        "address": "Toko Pakan Hewan · Jl. R.A. Kosasih No.376",
+        "href": "https://www.google.com/maps/place/Tani+Raya+Poultry+Shop/data=!4m7!3m6!1s0x2e684987ef9835d9:0x3f9ff0434614e72e!8m2!3d-6.9197084!4d106.9546565!16s%2Fg%2F11h5pnty"
+      },
+      {
+        "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+        "rating": 4.7,
+        "address": "Toko Pakan Hewan ·  · Jl. Surya Kencana No.58",
+        "href": "https://www.google.com/maps/place/Kamo+Petshop+dan+Kamo+klinik+Hewan+Surya+Kencana/data=!4m7!3m6!1s0x2e68497b4060a165:0x4c3919f6b3601084!8m2!3d-6.9160933!4d106."
+      },
+      {
+        "name": "DUNIA AQUARIUM PET & POULTRY SHOP",
+        "rating": 4.6,
+        "address": "Toko Pakan Hewan ·  · Jl. Veteran",
+        "href": "https://www.google.com/maps/place/DUNIA+AQUARIUM+PET+%26+POULTRY+SHOP/data=!4m7!3m6!1s0x2e6837b4f25837e5:0x8d4d968066c011cc!8m2!3d-6.9159101!4d106.8843877!16s%2"
+      },
+      {
+        "name": "Zahra Pet Shop & Grooming",
+        "rating": 4.7,
+        "address": "Toko Hewan Peliharaan ·  · Jl. Siliwangi No.62",
+        "href": "https://www.google.com/maps/place/Zahra+Pet+Shop+%26+Grooming/data=!4m7!3m6!1s0x2e684849d79c43f3:0xa8caa28f22ec29b9!8m2!3d-6.9192787!4d106.9359799!16s%2Fg%2F11f"
+      },
+      {
+        "name": "Sebiru Biru Pet & Poultry Shop",
+        "rating": 5,
+        "address": "Toko Pakan Hewan · Jl. Baru Sukaraja",
+        "href": "https://www.google.com/maps/place/Sebiru+Biru+Pet+%26+Poultry+Shop/data=!4m7!3m6!1s0x2e6849de145daab9:0xbe9bc303f0d9d419!8m2!3d-6.9227505!4d106.9583077!16s%2Fg%"
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "pet grooming sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Zahra Pet Shop & Grooming",
+        "rating": 4.7,
+        "address": "Toko Hewan Peliharaan ·  · Jl. Siliwangi No.62",
+        "href": "https://www.google.com/maps/place/Zahra+Pet+Shop+%26+Grooming/data=!4m7!3m6!1s0x2e684849d79c43f3:0xa8caa28f22ec29b9!8m2!3d-6.9192787!4d106.9359799!16s%2Fg%2F11f",
+        "reviews": 255
+      },
+      {
+        "name": "RG Petshop & GROOMING",
+        "rating": 4.7,
+        "address": "Toko Perlengkapan Hewan Peliharaan ·  · Jl. Pasundan No.79",
+        "href": "https://www.google.com/maps/place/RG+Petshop+%26+GROOMING/data=!4m7!3m6!1s0x2e6849da5b398e79:0xc6da3c094d3efe80!8m2!3d-6.9238107!4d106.9237776!16s%2Fg%2F11g1drj",
+        "reviews": 169
+      },
+      {
+        "name": "JJ Pet Shop, Grooming & Pet Hotel - Pasundan",
+        "rating": 5,
+        "address": "Toko Hewan Peliharaan · Jl. Pasundan No.75",
+        "href": "https://www.google.com/maps/place/JJ+Pet+Shop,+Grooming+%26+Pet+Hotel+-+Pasundan/data=!4m7!3m6!1s0x2e68498bc2bec8cd:0x469865e08c549e1c!8m2!3d-6.9238744!4d106.92",
+        "reviews": 198
+      },
+      {
+        "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+        "rating": 4.7,
+        "address": "Toko Hewan Peliharaan ·  · Jl. Surya Kencana No.58",
+        "href": "https://www.google.com/maps/place/Kamo+Petshop+dan+Kamo+klinik+Hewan+Surya+Kencana/data=!4m7!3m6!1s0x2e68497b4060a165:0x4c3919f6b3601084!8m2!3d-6.9160933!4d106.",
+        "reviews": 335
+      },
+      {
+        "name": "Millan Petshop Sukabumi",
+        "rating": 5,
+        "address": "Toko Perlengkapan Hewan Peliharaan · Jl. Perintis Kemerdekaan No.50",
+        "href": "https://www.google.com/maps/place/Millan+Petshop+Sukabumi/data=!4m7!3m6!1s0x2e6849c5f2195dbb:0xa90c715cbf89f18e!8m2!3d-6.9201621!4d106.9273078!16s%2Fg%2F11jsjfp",
+        "reviews": 31
+      },
+      {
+        "name": "Pamz Grooming sukabumi",
+        "rating": 5,
+        "address": "Salon Hewan Peliharaan · Gg limus rt 2 rw 2 ciaul pintuhek, Jl. R.A. Kosasih",
+        "href": "https://www.google.com/maps/place/Pamz+Grooming+sukabumi/data=!4m7!3m6!1s0x2e68496bcda2ac9b:0x56a90ae5a4dc2d28!8m2!3d-6.9211825!4d106.9476154!16s%2Fg%2F11k5czy0",
+        "reviews": 39
+      },
+      {
+        "name": "Jansen Petshop",
+        "rating": 4.8,
+        "address": "Toko Hewan Peliharaan ·  · No.02 Blok N, Danalaga Square, Jl. Pajagalan",
+        "href": "https://www.google.com/maps/place/Jansen+Petshop/data=!4m7!3m6!1s0x2e68483b7031786f:0xf5cd06ca7607ec92!8m2!3d-6.9270894!4d106.9263499!16s%2Fg%2F11d_ytp1pw!19sCh",
+        "reviews": 69
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "klinik hewan sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Klinik Hewan Sukabumi (Ryvet)",
+        "rating": 4.7,
+        "address": "Perawatan Hewan ·  · setelah ayam bakar virgo, Jl. Garuda No.45, RT.03/RW.18",
+        "href": "https://www.google.com/maps/place/Klinik+Hewan+Sukabumi+%28Ryvet%29/data=!4m7!3m6!1s0x2e68493df010d40f:0x1d8ed3e4975140ef!8m2!3d-6.9593588!4d106.9437977!16s%2Fg",
+        "reviews": 69
+      },
+      {
+        "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+        "rating": 4.7,
+        "address": "Dokter Hewan ·  · Jl. Surya Kencana No.58",
+        "href": "https://www.google.com/maps/place/Kamo+Petshop+dan+Kamo+klinik+Hewan+Surya+Kencana/data=!4m7!3m6!1s0x2e68497b4060a165:0x4c3919f6b3601084!8m2!3d-6.9160933!4d106.",
+        "reviews": 335
+      },
+      {
+        "name": "drh. Ate Rahmat, M.Si",
+        "rating": 4.8,
+        "address": "Dokter Hewan · Jl. Pajajaran I Blok AC No.1",
+        "href": "https://www.google.com/maps/place/drh.+Ate+Rahmat,+M.Si/data=!4m7!3m6!1s0x2e6837b951b35ec3:0xbab59e777fac0873!8m2!3d-6.9204958!4d106.898305!16s%2Fg%2F11p0z99y_m",
+        "reviews": 58
+      },
+      {
+        "name": "Dokter Hewan Riki Barata",
+        "rating": 4.8,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Dokter+Hewan+Riki+Barata/data=!4m7!3m6!1s0x2e68493f7169772b:0x1125b6936204cdec!8m2!3d-6.9472297!4d106.9368071!16s%2Fg%2F11r8tx",
+        "reviews": 167
+      },
+      {
+        "name": "KLINIK HEWAN KOTA SUKABUMI (BIDANG PETERNAKAN & KESEHATAN HEWAN)",
+        "rating": 4.6,
+        "address": "Dokter Hewan · Jl. Cemerlang KM 4 103-211",
+        "href": "https://www.google.com/maps/place/KLINIK+HEWAN+KOTA+SUKABUMI+%28BIDANG+PETERNAKAN+%26+KESEHATAN+HEWAN%29/data=!4m7!3m6!1s0x2e68370435d62337:0x9909e270d3ed25d7!8",
+        "reviews": 109
+      },
+      {
+        "name": "Praktek Drh Ilianawati",
+        "rating": 4.8,
+        "address": "Dokter Hewan · Jl. Syamsudin. SH No.4",
+        "href": "https://www.google.com/maps/place/Praktek+Drh+Ilianawati/data=!4m7!3m6!1s0x2e6849d93d94118f:0xf1d3ca37213f566f!8m2!3d-6.9179776!4d106.9297589!16s%2Fg%2F11fq9fy1",
+        "reviews": 60
+      },
+      {
+        "name": "Tulip pet care",
+        "rating": 4.9,
+        "address": "Dokter Hewan ·  · Jl. Surya Kencana No.108",
+        "href": "https://www.google.com/maps/place/Tulip+pet+care/data=!4m7!3m6!1s0x2e684957d9e6414b:0xf04f4f4f11462a35!8m2!3d-6.9116961!4d106.934129!16s%2Fg%2F11q864390j!19sChI",
+        "reviews": 58
+      },
+      {
+        "name": "Wingke Pets Corner",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Wingke+Pets+Corner/data=!4m7!3m6!1s0x2e683305b7409beb:0x39911a21c859ecbc!8m2!3d-6.8952178!4d106.8100884!16s%2Fg%2F11n_ymhwb_!1",
+        "reviews": 74
+      },
+      {
+        "name": "Klinik Hewan drh Narti (Vhivet Care)&petshop",
+        "rating": 4.2,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Klinik+Hewan+drh+Narti+%28Vhivet+Care%29%26petshop/data=!4m7!3m6!1s0x2e6833cc3a6b7da7:0x88e34fd3781b73e3!8m2!3d-6.8386427!4d10",
+        "reviews": 64
+      },
+      {
+        "name": "Zahra Pet Shop & Grooming",
+        "rating": 4.7,
+        "address": "Toko Hewan Peliharaan ·  · Jl. Siliwangi No.62",
+        "href": "https://www.google.com/maps/place/Zahra+Pet+Shop+%26+Grooming/data=!4m7!3m6!1s0x2e684849d79c43f3:0xa8caa28f22ec29b9!8m2!3d-6.9192787!4d106.9359799!16s%2Fg%2F11f",
+        "reviews": 255
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "toko aksesoris hewan kucing sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Zahra Pet Shop & Grooming",
+        "rating": 4.7,
+        "address": "Toko Perlengkapan Hewan Peliharaan ·  · Jl. Siliwangi No.62",
+        "href": "https://www.google.com/maps/place/Zahra+Pet+Shop+%26+Grooming/data=!4m7!3m6!1s0x2e684849d79c43f3:0xa8caa28f22ec29b9!8m2!3d-6.9192787!4d106.9359799!16s%2Fg%2F11f",
+        "reviews": 255
+      },
+      {
+        "name": "RG Petshop & GROOMING",
+        "rating": 4.7,
+        "address": "Toko Perlengkapan Hewan Peliharaan ·  · Jl. Pasundan No.79",
+        "href": "https://www.google.com/maps/place/RG+Petshop+%26+GROOMING/data=!4m7!3m6!1s0x2e6849da5b398e79:0xc6da3c094d3efe80!8m2!3d-6.9238107!4d106.9237776!16s%2Fg%2F11g1drj",
+        "reviews": 169
+      },
+      {
+        "name": "Jansen Petshop",
+        "rating": 4.8,
+        "address": "Toko Hewan Peliharaan ·  · No.02 Blok N, Danalaga Square, Jl. Pajagalan",
+        "href": "https://www.google.com/maps/place/Jansen+Petshop/data=!4m7!3m6!1s0x2e68483b7031786f:0xf5cd06ca7607ec92!8m2!3d-6.9270894!4d106.9263499!16s%2Fg%2F11d_ytp1pw!19sCh",
+        "reviews": 69
+      },
+      {
+        "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+        "rating": 4.7,
+        "address": "Toko Hewan Peliharaan ·  · Jl. Surya Kencana No.58",
+        "href": "https://www.google.com/maps/place/Kamo+Petshop+dan+Kamo+klinik+Hewan+Surya+Kencana/data=!4m7!3m6!1s0x2e68497b4060a165:0x4c3919f6b3601084!8m2!3d-6.9160933!4d106.",
+        "reviews": 335
+      },
+      {
+        "name": "Millan Petshop Sukabumi",
+        "rating": 5,
+        "address": "Toko Perlengkapan Hewan Peliharaan · Jl. Perintis Kemerdekaan No.50",
+        "href": "https://www.google.com/maps/place/Millan+Petshop+Sukabumi/data=!4m7!3m6!1s0x2e6849c5f2195dbb:0xa90c715cbf89f18e!8m2!3d-6.9201621!4d106.9273078!16s%2Fg%2F11jsjfp",
+        "reviews": 31
+      },
+      {
+        "name": "JJ Pet Shop, Grooming & Pet Hotel - Pasundan",
+        "rating": 5,
+        "address": "Toko Perlengkapan Hewan Peliharaan · Jl. Pasundan No.75",
+        "href": "https://www.google.com/maps/place/JJ+Pet+Shop,+Grooming+%26+Pet+Hotel+-+Pasundan/data=!4m7!3m6!1s0x2e68498bc2bec8cd:0x469865e08c549e1c!8m2!3d-6.9238744!4d106.92",
+        "reviews": 198
+      },
+      {
+        "name": "Ratu Cathouse Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Hewan Peliharaan · Jl. Selabintana No.100",
+        "href": "https://www.google.com/maps/place/Ratu+Cathouse+Sukabumi/data=!4m7!3m6!1s0x2e6849070245445f:0x71480a20e31bd16f!8m2!3d-6.8986951!4d106.9389151!16s%2Fg%2F11ss7ggs",
+        "reviews": 66
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "toko ikan hias sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Odeon Aquarium",
+        "rating": 4.6,
+        "address": "Toko Akuarium ·  · Jl. Pelabuhan No.29",
+        "href": "https://www.google.com/maps/place/Odeon+Aquarium/data=!4m7!3m6!1s0x2e6849f8743d1f03:0x4b6bf42bd6d094b2!8m2!3d-6.9256301!4d106.9270003!16s%2Fg%2F11fnbfcjrc!19sCh",
+        "reviews": 244
+      },
+      {
+        "name": "Sukabumi Aquarium",
+        "rating": 4.5,
+        "address": "Toko Akuarium · Jl. Masjid No.19",
+        "href": "https://www.google.com/maps/place/Sukabumi+Aquarium/data=!4m7!3m6!1s0x2e68483036aff3e9:0xa1dcc3765046ffd5!8m2!3d-6.9205555!4d106.9252155!16s%2Fg%2F11f03bgmjf!19",
+        "reviews": 31
+      },
+      {
+        "name": "Aloha",
+        "rating": 4.4,
+        "address": "Toko Akuarium ·  · Jl. PGRI No.1",
+        "href": "https://www.google.com/maps/place/Aloha/data=!4m7!3m6!1s0x2e684830b17df691:0xc681a8b21e8f93fa!8m2!3d-6.9222501!4d106.9294859!16s%2Fg%2F1hf4g2fw6!19sChIJkfZ9sTBI",
+        "reviews": 121
+      },
+      {
+        "name": "Hansee Aquarium",
+        "rating": 4.4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Hansee+Aquarium/data=!4m7!3m6!1s0x2e68480378fcbe87:0x2cc71d207c55ef4f!8m2!3d-6.9460071!4d106.9175301!16s%2Fg%2F11c0t0zm3m!19sC",
+        "reviews": 165
+      },
+      {
+        "name": "Toko ikan kondang aquarium",
+        "rating": 4.9,
+        "address": "Toko Ikan · Jl. Pramuka No.28-22",
+        "href": "https://www.google.com/maps/place/Toko+ikan+kondang+aquarium/data=!4m7!3m6!1s0x2e6849cff7ad712f:0xf6b180704281b71c!8m2!3d-6.9416112!4d106.924599!16s%2Fg%2F11qp4",
+        "reviews": 18
+      },
+      {
+        "name": "Pribumi Aquarium",
+        "rating": 4.4,
+        "address": "Toko Akuarium ·  · Jl. R.A. Kosasih No.248",
+        "href": "https://www.google.com/maps/place/Pribumi+Aquarium/data=!4m7!3m6!1s0x2e6848461a9a43ff:0x5af1f37302f4ea6!8m2!3d-6.9228564!4d106.940919!16s%2Fg%2F11f03vcdyn!19sCh",
+        "reviews": 42
+      },
+      {
+        "name": "Ikan hias laut sukabumi",
+        "rating": 5,
+        "address": "Toko Akuarium · Jalan Beugeg Jl. Begeg No.Kp, RT.5/RW.2",
+        "href": "https://www.google.com/maps/place/Ikan+hias+laut+sukabumi/data=!4m7!3m6!1s0x2e68492518d6483f:0x1d342cba163affb6!8m2!3d-6.9477206!4d106.9205517!16s%2Fg%2F11yy_y2",
+        "reviews": 5
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "toko burung kicau sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Arf Bird Shop",
+        "rating": 4.4,
+        "address": "Toko Burung · 3WGF+H9C, Jl. Pasundan",
+        "href": "https://www.google.com/maps/place/Arf+Bird+Shop/data=!4m7!3m6!1s0x2e6848254ebacf45:0xf314c7ffc5d0d95a!8m2!3d-6.9235615!4d106.923395!16s%2Fg%2F11dxlg4_8_!19sChIJ",
+        "reviews": 34
+      },
+      {
+        "name": "Pasar Burung Pasundan Sukabumi",
+        "rating": 4.1,
+        "address": "Pasar · 3WGG+86W, Jl. Pasundan",
+        "href": "https://www.google.com/maps/place/Pasar+Burung+Pasundan+Sukabumi/data=!4m7!3m6!1s0x2e68483ac76e64e7:0x60d44e55d27bfebe!8m2!3d-6.9241487!4d106.9255876!16s%2Fg%2F",
+        "reviews": 82
+      },
+      {
+        "name": "KIOS BURUNG PAK ARMAN",
+        "rating": 4.3,
+        "address": "Toko Burung · 3WGG+699, Jl. Pasundan",
+        "href": "https://www.google.com/maps/place/KIOS+BURUNG+PAK+ARMAN/data=!4m7!3m6!1s0x2e68483aeee7494d:0x11011cdc87ffb973!8m2!3d-6.9244688!4d106.9259965!16s%2Fg%2F11gdd1z4y",
+        "reviews": 9
+      },
+      {
+        "name": "MAJA KICAU",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/MAJA+KICAU/data=!4m7!3m6!1s0x2e6833bd69739781:0x3825b7cf21a4a2ad!8m2!3d-6.866607!4d106.7259902!16s%2Fg%2F11v63dqlg7!19sChIJgZd",
+        "reviews": 4
+      },
+      {
+        "name": "Mahesa Bird Shop",
+        "rating": 4.3,
+        "address": "Toko Burung · 3XG4+WW5, Jl. Pembangunan",
+        "href": "https://www.google.com/maps/place/Mahesa+Bird+Shop/data=!4m7!3m6!1s0x2e6849d00ee76e97:0x3d1ff4ec16aa3a4f!8m2!3d-6.9227378!4d106.9573566!16s%2Fg%2F11p66q5rxg!19s",
+        "reviews": 6
+      },
+      {
+        "name": "Pd Mahardika",
+        "rating": 3.7,
+        "address": "Toko Hewan Peliharaan · Jl. Lettu Bakrie No.49-51",
+        "href": "https://www.google.com/maps/place/Pd+Mahardika/data=!4m7!3m6!1s0x2e6848254dae3a79:0x39899f0e0cd04682!8m2!3d-6.9235731!4d106.9238286!16s%2Fg%2F11fy4qz1xt!19sChIJ",
+        "reviews": 22
+      },
+      {
+        "name": "KIOS BURUNG FAHREZA (KBF)",
+        "rating": 5,
+        "address": "Toko Burung · Jl. Bhineka Karya",
+        "href": "https://www.google.com/maps/place/KIOS+BURUNG+FAHREZA+%28KBF%29/data=!4m7!3m6!1s0x2e68493d77074f83:0x93fb0037bc2f7ec6!8m2!3d-6.9012226!4d106.9231828!16s%2Fg%2F1",
+        "reviews": 2
+      }
+    ],
+    "category": "Pet & Hewan"
+  },
+  {
+    "query": "aquascape sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Hansee Aquarium",
+        "rating": 4.4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Hansee+Aquarium/data=!4m7!3m6!1s0x2e68480378fcbe87:0x2cc71d207c55ef4f!8m2!3d-6.9460071!4d106.9175301!16s%2Fg%2F11c0t0zm3m!19sC",
+        "reviews": 165
+      },
+      {
+        "name": "Sukabumi Aquarium",
+        "rating": 4.5,
+        "address": "Toko Akuarium · Jl. Masjid No.19",
+        "href": "https://www.google.com/maps/place/Sukabumi+Aquarium/data=!4m7!3m6!1s0x2e68483036aff3e9:0xa1dcc3765046ffd5!8m2!3d-6.9205555!4d106.9252155!16s%2Fg%2F11f03bgmjf!19",
+        "reviews": 31
+      },
+      {
+        "name": "Odeon Aquarium",
+        "rating": 4.6,
+        "address": "Toko Akuarium ·  · Jl. Pelabuhan No.29",
+        "href": "https://www.google.com/maps/place/Odeon+Aquarium/data=!4m7!3m6!1s0x2e6849f8743d1f03:0x4b6bf42bd6d094b2!8m2!3d-6.9256301!4d106.9270003!16s%2Fg%2F11fnbfcjrc!19sCh",
+        "reviews": 244
+      },
+      {
+        "name": "Zaki Aquatic Store Sukabumi",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Zaki+Aquatic+Store+Sukabumi/data=!4m7!3m6!1s0x2e6836462618dfab:0x64a1ae44b5223cab!8m2!3d-6.9040959!4d106.8860281!16s%2Fg%2F11c",
+        "reviews": 57
+      },
+      {
+        "name": "veiz aquascape",
+        "rating": 4.4,
+        "address": "Toko Akuarium · Jl. Lkr. Sel. No.kel, RT.01/RW.02",
+        "href": "https://www.google.com/maps/place/veiz+aquascape/data=!4m7!3m6!1s0x2e684952d37692b3:0x2c96b9e084c26ba0!8m2!3d-6.9504118!4d106.9323719!16s%2Fg%2F11q261s_fw!19sCh",
+        "reviews": 9
+      },
+      {
+        "name": "Pribumi Aquarium",
+        "rating": 4.4,
+        "address": "Toko Akuarium ·  · Jl. R.A. Kosasih No.248",
+        "href": "https://www.google.com/maps/place/Pribumi+Aquarium/data=!4m7!3m6!1s0x2e6848461a9a43ff:0x5af1f37302f4ea6!8m2!3d-6.9228564!4d106.940919!16s%2Fg%2F11f03vcdyn!19sCh",
+        "reviews": 42
+      },
+      {
+        "name": "Aloha",
+        "rating": 4.4,
+        "address": "Toko Akuarium ·  · Jl. PGRI No.1",
+        "href": "https://www.google.com/maps/place/Aloha/data=!4m7!3m6!1s0x2e684830b17df691:0xc681a8b21e8f93fa!8m2!3d-6.9222501!4d106.9294859!16s%2Fg%2F1hf4g2fw6!19sChIJkfZ9sTBI",
+        "reviews": 121
+      }
+    ],
+    "category": "Pet & Hewan"
+  }
+]
