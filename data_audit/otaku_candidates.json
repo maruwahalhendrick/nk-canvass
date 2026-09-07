@@ -1,0 +1,268 @@
+[
+  {
+    "query": "toko action figure sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Binangkit Store",
+        "rating": 4.8,
+        "address": "Toko Mainan · Jl. A. Yani",
+        "href": "https://www.google.com/maps/place/Binangkit+Store/data=!4m7!3m6!1s0x2e6848375523e6a1:0x408ca7062379ec21!8m2!3d-6.9223956!4d106.9286593!16s%2Fg%2F11bzrpxs3n!19sC"
+      },
+      {
+        "name": "Samudra",
+        "rating": 4.4,
+        "address": "Toko Mainan ·  · Jl. A. Yani No.274",
+        "href": "https://www.google.com/maps/place/Samudra/data=!4m7!3m6!1s0x2e6848382561e561:0x9047c6c3c3d75a91!8m2!3d-6.9229827!4d106.9335824!16s%2Fg%2F11fy45fy04!19sChIJYeVhJ"
+      },
+      {
+        "name": "SUARA HATI TOYS",
+        "rating": 4.7,
+        "address": "Toko Mainan · depan rumah sakit kartika, Jl. Siliwangi",
+        "href": "https://www.google.com/maps/place/SUARA+HATI+TOYS/data=!4m7!3m6!1s0x2e68316dae88f41d:0x5606a36413e8bb22!8m2!3d-6.8936377!4d106.784922!16s%2Fg%2F11hdc4mtsd!19sCh"
+      },
+      {
+        "name": "Djunior Diecast - Hotwheels Store",
+        "rating": 5,
+        "address": "Toko Mainan · Jingga Residence, Jl. Ciaul Pasir Blok B23",
+        "href": "https://www.google.com/maps/place/Djunior+Diecast+-+Hotwheels+Store/data=!4m7!3m6!1s0x2e6837211bcc059b:0xd5c01e4b3fe37d26!8m2!3d-6.9155088!4d106.9433882!16s%2Fg"
+      },
+      {
+        "name": "Toko AZWA",
+        "rating": 4.6,
+        "address": "Toko Mainan ·  · Jl. Cagak - Cibaraja No.11",
+        "href": "https://www.google.com/maps/place/Toko+AZWA/data=!4m7!3m6!1s0x2e68364616df952b:0xbb0bb53c13c37fcc!8m2!3d-6.902692!4d106.8839575!16s%2Fg%2F11g9sts1t5!19sChIJK5Xf"
+      },
+      {
+        "name": "Inona yoga toys. Sukabumi",
+        "rating": 4.2,
+        "address": "Toko Mainan · Jl. Pelabuhan II No.421",
+        "href": "https://www.google.com/maps/place/Inona+yoga+toys.+Sukabumi/data=!4m7!3m6!1s0x2e6849df5d994ddd:0x11d12b05230ab3a6!8m2!3d-6.9454079!4d106.9184717!16s%2Fg%2F11smg"
+      },
+      {
+        "name": "Sagalaya Toys & Hobby",
+        "rating": 5,
+        "address": "Toko Mainan · Perum pesona cigunung E6 No.09",
+        "href": "https://www.google.com/maps/place/Sagalaya+Toys+%26+Hobby/data=!4m7!3m6!1s0x2e6837004a41cf91:0x6786aae19dfc1f03!8m2!3d-6.9037014!4d106.9003026!16s%2Fg%2F11z2jbr"
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  },
+  {
+    "query": "toko anime sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Hollyland Shop",
+        "rating": 4.5,
+        "address": "Toko Aksesori Pakaian ·  · Jl. R. E. Martadinata No.15",
+        "href": "https://www.google.com/maps/place/Hollyland+Shop/data=!4m7!3m6!1s0x2e684830d82cf01b:0xa37580e89ddec404!8m2!3d-6.9201898!4d106.9291173!16s%2Fg%2F11f038srx3!19sCh",
+        "reviews": 85
+      },
+      {
+        "name": "Gramedia Sukabumi",
+        "rating": 4.7,
+        "address": "Toko Buku & Alat Sekolah · Jl. Surya Kencana No.12",
+        "href": "https://www.google.com/maps/place/Gramedia+Sukabumi/data=!4m7!3m6!1s0x2e6849524715c7bf:0x78ad50f03b09d499!8m2!3d-6.9188289!4d106.9287682!16s%2Fg%2F11jmbjwctr!19",
+        "reviews": 483
+      },
+      {
+        "name": "KawaidOllshop",
+        "rating": 4.6,
+        "address": "Toko Alat Kecantikan ·  · Jalan Sriwidari No.30 Sriwidari",
+        "href": "https://www.google.com/maps/place/KawaidOllshop/data=!4m7!3m6!1s0x2e6848335353af8f:0x9a95cd11457dae0f!8m2!3d-6.9167624!4d106.9260532!16s%2Fg%2F11g6njlyq2!19sChI",
+        "reviews": 445
+      },
+      {
+        "name": "Binangkit Store",
+        "rating": 4.8,
+        "address": "Toko Mainan · Jl. A. Yani",
+        "href": "https://www.google.com/maps/place/Binangkit+Store/data=!4m7!3m6!1s0x2e6848375523e6a1:0x408ca7062379ec21!8m2!3d-6.9223956!4d106.9286593!16s%2Fg%2F11bzrpxs3n!19sC",
+        "reviews": 14
+      },
+      {
+        "name": "Enzy Enterprise",
+        "rating": 4.6,
+        "address": "Toko Game ·  · Sukabumi Indah Plaza, Jl. R. E. Martadinata",
+        "href": "https://www.google.com/maps/place/Enzy+Enterprise/data=!4m7!3m6!1s0x2e684836d51c5c11:0xc7db2591c45f07b0!8m2!3d-6.9200488!4d106.9299775!16s%2Fg%2F1pzsrqgg9!19sCh",
+        "reviews": 116
+      },
+      {
+        "name": "Planet Elektronik",
+        "rating": 5,
+        "address": "Grosir elektronik ·  · Jl. A. Yani No.185",
+        "href": "https://www.google.com/maps/place/Planet+Elektronik/data=!4m7!3m6!1s0x2e6848307e68dc43:0xfc5133b22c5164b3!8m2!3d-6.9224481!4d106.930595!16s%2Fg%2F1pzppcfm1!19sC",
+        "reviews": 2414
+      },
+      {
+        "name": "Toko Rigo",
+        "rating": 4.7,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Toko+Rigo/data=!4m7!3m6!1s0x2e684807f57815e5:0x45458d17d7136f3a!8m2!3d-6.9537971!4d106.9227588!16s%2Fg%2F11f4_683_4!19sChIJ5RV",
+        "reviews": 6
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  },
+  {
+    "query": "sewa kostum cosplay sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Cosrent Sukabumi",
+        "rating": 5,
+        "address": "Persewaan Kostum · Jl.tata Nugraha, Kec. baros. Kel. Jaya Mekar,KP. Cicadas Girang, RT002 ",
+        "href": "https://www.google.com/maps/place/Cosrent+Sukabumi/data=!4m7!3m6!1s0x2e684790a637b0a5:0xc908eeb4bfff9be2!8m2!3d-6.9621396!4d106.9253581!16s%2Fg%2F11z3zv1ht4!19s",
+        "reviews": 7
+      },
+      {
+        "name": "Sewa kostum tari",
+        "rating": 5,
+        "address": "Persewaan Kostum · 3W49+WXM, Jl. Cikujang",
+        "href": "https://www.google.com/maps/place/Sewa+kostum+tari/data=!4m7!3m6!1s0x2e68490061401ad7:0xa2203441f3136f4c!8m2!3d-6.9426112!4d106.9200615!16s%2Fg%2F11njmh3gjn!19s",
+        "reviews": 6
+      },
+      {
+        "name": "Ambu Costume",
+        "rating": 4.8,
+        "address": "Persewaan Kostum · Jl. Mekar Sari Desa, RT./RW/RW.013/004",
+        "href": "https://www.google.com/maps/place/Ambu+Costume/data=!4m7!3m6!1s0x2e68193d5e382047:0xfcd9c6e808dff669!8m2!3d-7.211626!4d106.649274!16s%2Fg%2F11g4htryyf!19sChIJRy",
+        "reviews": 6
+      },
+      {
+        "name": "ARVANI COSPLAY",
+        "rating": 5,
+        "address": "Gg. Nangka No.RT 12/05",
+        "href": "https://www.google.com/maps/place/ARVANI+COSPLAY/data=!4m7!3m6!1s0x2e68371ba107aeb9:0x2318c12bda102437!8m2!3d-6.8951813!4d106.895203!16s%2Fg%2F11rp3ngvbl!19sChI",
+        "reviews": 1
+      },
+      {
+        "name": "Kostum tari bu nur (alnamira salon)",
+        "rating": 4,
+        "address": "Persewaan Kostum · Jl. Cipelang Leutik No.26",
+        "href": "https://www.google.com/maps/place/Kostum+tari+bu+nur+%28alnamira+salon%29/data=!4m7!3m6!1s0x2e6849f0bf99362f:0x29c58c0623d9c827!8m2!3d-6.9155932!4d106.9279174!1",
+        "reviews": 5
+      },
+      {
+        "name": "ARIANA PRO",
+        "rating": 4.9,
+        "address": "Persewaan Kostum · Jalan Cipelang Gede No.15",
+        "href": "https://www.google.com/maps/place/ARIANA+PRO/data=!4m7!3m6!1s0x2e684933846b20d9:0xf9f76202033e87e0!8m2!3d-6.917065!4d106.9124708!16s%2Fg%2F11sbxtlsct!19sChIJ2SB",
+        "reviews": 43
+      },
+      {
+        "name": "Lovevitation",
+        "rating": 5,
+        "address": "Layanan Percetakan Undangan · Jl. Pelabuhan II KM.3 No.30a Km 3",
+        "href": "https://www.google.com/maps/place/Lovevitation/data=!4m7!3m6!1s0x2e6849b1e958f25f:0x11f23b96df589062!8m2!3d-6.9464901!4d106.9169767!16s%2Fg%2F11hds_8qv0!19sChIJ",
+        "reviews": 1
+      },
+      {
+        "name": "SUKABUMI COSPLAY",
+        "rating": 5,
+        "address": "Kantor Perusahaan · 3WV2+R7G, Jl. Sukaresmi",
+        "href": "https://www.google.com/maps/place/SUKABUMI+COSPLAY/data=!4m7!3m6!1s0x2e68374e684892f9:0xf8e6edfd2c69863e!8m2!3d-6.9054341!4d106.9007!16s%2Fg%2F11j210stxx!19sChI",
+        "reviews": 1
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  },
+  {
+    "query": "toko figure gundam sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Binangkit Store",
+        "rating": 4.8,
+        "address": "Toko Mainan · Jl. A. Yani",
+        "href": "https://www.google.com/maps/place/Binangkit+Store/data=!4m7!3m6!1s0x2e6848375523e6a1:0x408ca7062379ec21!8m2!3d-6.9223956!4d106.9286593!16s%2Fg%2F11bzrpxs3n!19sC",
+        "reviews": 14
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  },
+  {
+    "query": "toko komik sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Gramedia Sukabumi",
+        "rating": 4.7,
+        "address": "Toko Buku & Alat Sekolah · Jl. Surya Kencana No.12",
+        "href": "https://www.google.com/maps/place/Gramedia+Sukabumi/data=!4m7!3m6!1s0x2e6849524715c7bf:0x78ad50f03b09d499!8m2!3d-6.9188289!4d106.9287682!16s%2Fg%2F11jmbjwctr!19",
+        "reviews": 483
+      },
+      {
+        "name": "Toko Buku AA",
+        "rating": 4.6,
+        "address": "Toko Buku ·  · Jl. A. Yani No.86",
+        "href": "https://www.google.com/maps/place/Toko+Buku+AA/data=!4m7!3m6!1s0x2e68483099358b7d:0x3bbebffefde558e1!8m2!3d-6.9223555!4d106.9281661!16s%2Fg%2F11d_vdfgd0!19sChIJ",
+        "reviews": 1688
+      },
+      {
+        "name": "Toko Buku Agung",
+        "rating": 4.5,
+        "address": "Toko Buku · Jl. A. Yani No.183",
+        "href": "https://www.google.com/maps/place/Toko+Buku+Agung/data=!4m7!3m6!1s0x2e6848f8eb0ca6a9:0x657f691588b231fb!8m2!3d-6.9224798!4d106.9306568!16s%2Fg%2F1pzx_y43j!19sCh",
+        "reviews": 252
+      },
+      {
+        "name": "Toko kitab H.AYIM",
+        "rating": 4.6,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Toko+kitab+H.AYIM/data=!4m7!3m6!1s0x2e68483a86140aad:0xad0ff6a90847ddc9!8m2!3d-6.9233493!4d106.926641!16s%2Fg%2F11c5stfr40!19s",
+        "reviews": 158
+      },
+      {
+        "name": "Toko Kitab - Buku Al-Islamiyah SUKABUMI",
+        "rating": 4.6,
+        "address": "Toko Buku Agama ·  · Jl. Zaenal Zakse",
+        "href": "https://www.google.com/maps/place/Toko+Kitab+-+Buku+Al-Islamiyah+SUKABUMI/data=!4m7!3m6!1s0x2e684837416a07d7:0x53f95062ed53a7ac!8m2!3d-6.9223649!4d106.9310444!1",
+        "reviews": 140
+      },
+      {
+        "name": "Toko Buku Sukabumi",
+        "rating": 3,
+        "address": "Toko Buku & Alat Sekolah · Jl. Kapling Garuda No.2",
+        "href": "https://www.google.com/maps/place/Toko+Buku+Sukabumi/data=!4m7!3m6!1s0x2e68362a9bff38ed:0x14c9b11b6c7cbcc5!8m2!3d-6.96007!4d106.9435576!16s%2Fg%2F11cn2m49lj!19s",
+        "reviews": 3
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  },
+  {
+    "query": "toko nendoroid sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Hollyland Shop",
+        "rating": 4.5,
+        "address": "Toko Memorabilia ·  · Jl. R. E. Martadinata No.15",
+        "href": "https://www.google.com/maps/place/Hollyland+Shop/data=!4m7!3m6!1s0x2e684830d82cf01b:0xa37580e89ddec404!8m2!3d-6.9201898!4d106.9291173!16s%2Fg%2F11f038srx3!19sCh",
+        "reviews": 85
+      },
+      {
+        "name": "Binangkit Store",
+        "rating": 4.8,
+        "address": "Toko Mainan · Jl. A. Yani",
+        "href": "https://www.google.com/maps/place/Binangkit+Store/data=!4m7!3m6!1s0x2e6848375523e6a1:0x408ca7062379ec21!8m2!3d-6.9223956!4d106.9286593!16s%2Fg%2F11bzrpxs3n!19sC",
+        "reviews": 14
+      },
+      {
+        "name": "Kyou Hobby Shop - Alpha Store",
+        "rating": 4.6,
+        "address": "Toko Hobi ·  · Sentra Niaga, SN5-9 Kota Harapan Indah No.39 5 Blok, RT.10/RW.8",
+        "href": "https://www.google.com/maps/place/Kyou+Hobby+Shop+-+Alpha+Store/data=!4m7!3m6!1s0x2e698bb889258f1d:0x9df0501bc43189c6!8m2!3d-6.1677713!4d106.9742882!16s%2Fg%2F1",
+        "reviews": 706
+      },
+      {
+        "name": "Toko Rei Gift Shop",
+        "rating": 4.8,
+        "address": "Toko Suvenir · Jl. Mayawati Atas No.21",
+        "href": "https://www.google.com/maps/place/Toko+Rei+Gift+Shop/data=!4m7!3m6!1s0x2e6848306160770d:0xfbdc8dc5f6e0207c!8m2!3d-6.9217123!4d106.9267308!16s%2Fg%2F11g9w94tng!1",
+        "reviews": 5
+      }
+    ],
+    "category": "Otaku & Cosplay"
+  }
+]
