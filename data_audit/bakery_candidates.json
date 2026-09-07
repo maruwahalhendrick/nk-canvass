@@ -1,0 +1,436 @@
+[
+  {
+    "query": "toko roti sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Maple Bakery",
+        "rating": 4.7,
+        "address": "Toko Roti ·  · Jl. Gudang No.1",
+        "href": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJ"
+      },
+      {
+        "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · Jl. R. E. Martadinata No.46",
+        "href": "https://www.google.com/maps/place/PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684830dad06f71:0x2712ea0831da0c99!8m2!3d-6.9207051!4d106.9304953!1"
+      },
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1"
+      },
+      {
+        "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. Syamsudin. SH No.31",
+        "href": "https://www.google.com/maps/place/Takashi+Bakehouse+x+Republik+Burger+Sukabumi/data=!4m7!3m6!1s0x2e6849d4079d1495:0x1012323ad552eab2!8m2!3d-6.9184632!4d106.9328"
+      },
+      {
+        "name": "Bandung Cheesecuit Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue · Jl. Siliwangi No.A10",
+        "href": "https://www.google.com/maps/place/Bandung+Cheesecuit+Sukabumi/data=!4m7!3m6!1s0x2e6849dee74c13df:0x3132482c5cdfcd1c!8m2!3d-6.9154567!4d106.9360574!16s%2Fg%2F11y"
+      },
+      {
+        "name": "DAPUR MUNGIL PUSAT",
+        "rating": 4.8,
+        "address": "Toko Roti ·  · Jalan bayangkara, samping Jl. Bhayangkara Gg. Rawasalak No.70",
+        "href": "https://www.google.com/maps/place/DAPUR+MUNGIL+PUSAT/data=!4m7!3m6!1s0x2e6849d234eb57e1:0x63a7feb68b88d92d!8m2!3d-6.9153794!4d106.9197504!16s%2Fg%2F11f5hp07rh!1"
+      },
+      {
+        "name": "Amorcakes and Bakery - Cikole Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. Gudang",
+        "href": "https://www.google.com/maps/place/Amorcakes+and+Bakery+-+Cikole+Sukabumi/data=!4m7!3m6!1s0x2e68494b80315a59:0xf448f1881e91b2ee!8m2!3d-6.9222771!4d106.9339709!16"
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "bakery sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Maple Bakery",
+        "rating": 4.7,
+        "address": "Toko Roti ·  · Jl. Gudang No.1",
+        "href": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJ",
+        "reviews": 617
+      },
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1",
+        "reviews": 1906
+      },
+      {
+        "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. Syamsudin. SH No.31",
+        "href": "https://www.google.com/maps/place/Takashi+Bakehouse+x+Republik+Burger+Sukabumi/data=!4m7!3m6!1s0x2e6849d4079d1495:0x1012323ad552eab2!8m2!3d-6.9184632!4d106.9328",
+        "reviews": 123
+      },
+      {
+        "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · Jl. R. E. Martadinata No.46",
+        "href": "https://www.google.com/maps/place/PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684830dad06f71:0x2712ea0831da0c99!8m2!3d-6.9207051!4d106.9304953!1",
+        "reviews": 856
+      },
+      {
+        "name": "Bandung Cheesecuit Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue · Jl. Siliwangi No.A10",
+        "href": "https://www.google.com/maps/place/Bandung+Cheesecuit+Sukabumi/data=!4m7!3m6!1s0x2e6849dee74c13df:0x3132482c5cdfcd1c!8m2!3d-6.9154567!4d106.9360574!16s%2Fg%2F11y",
+        "reviews": 187
+      },
+      {
+        "name": "Holland Bakery",
+        "rating": 4.3,
+        "address": "Toko Roti ·  · Jl. Sudirman No.79",
+        "href": "https://www.google.com/maps/place/Holland+Bakery/data=!4m7!3m6!1s0x2e6848293a0c336b:0xd55b8d57f400d7eb!8m2!3d-6.9195959!4d106.9175958!16s%2Fg%2F11d_7tvm4r!19sCh",
+        "reviews": 119
+      },
+      {
+        "name": "Amorcakes and Bakery - Cikole Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. Gudang",
+        "href": "https://www.google.com/maps/place/Amorcakes+and+Bakery+-+Cikole+Sukabumi/data=!4m7!3m6!1s0x2e68494b80315a59:0xf448f1881e91b2ee!8m2!3d-6.9222771!4d106.9339709!16",
+        "reviews": 212
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "toko kue ulang tahun sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Mayasari RE Martadinata - Bakery Oleh Oleh Khas Bandung",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. L. L. R.E. Martadinata No.87",
+        "href": "https://www.google.com/maps/place/Mayasari+RE+Martadinata+-+Bakery+Oleh+Oleh+Khas+Bandung/data=!4m7!3m6!1s0x2e68e7855a609dbb:0xb5cd2f439dc2ea5!8m2!3d-6.9057442!",
+        "reviews": 455
+      },
+      {
+        "name": "The Harvest Cakes",
+        "rating": 4.5,
+        "address": "Toko Kue ·  · Jl. Ir. H. Juanda No.15",
+        "href": "https://www.google.com/maps/place/The+Harvest+Cakes/data=!4m7!3m6!1s0x2e68e64836cadfed:0xafc20a11239e5d86!8m2!3d-6.9053289!4d107.6102687!16s%2Fg%2F1td8wjs5!19sC",
+        "reviews": 1627
+      },
+      {
+        "name": "Maple Bakery",
+        "rating": 4.7,
+        "address": "Toko Roti ·  · Jl. Gudang No.1",
+        "href": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJ",
+        "reviews": 617
+      },
+      {
+        "name": "Kartika Sari Kebon Jukut",
+        "rating": 4.5,
+        "address": "Toko Roti · Jl. Kb. Jukut No.3C",
+        "href": "https://www.google.com/maps/place/Kartika+Sari+Kebon+Jukut/data=!4m7!3m6!1s0x2e68e63bbfcb2359:0x59a564ebaa7d7d5a!8m2!3d-6.9143179!4d107.6053131!16s%2Fg%2F1tg_1d",
+        "reviews": 9498
+      },
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1",
+        "reviews": 1906
+      },
+      {
+        "name": "Kartika Sari Pusat",
+        "rating": 4.5,
+        "address": "Toko Kue · Jl. H. Akbar No.4",
+        "href": "https://www.google.com/maps/place/Kartika+Sari+Pusat/data=!4m7!3m6!1s0x2e68e63e6639dda3:0x2c8e03c7d4428ecb!8m2!3d-6.9119648!4d107.5998354!16s%2Fg%2F1tcwzmw7!19s",
+        "reviews": 4686
+      },
+      {
+        "name": "Vitasari Bakery",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · Komp. Kurdi, Jl. H. Kurdi 1",
+        "href": "https://www.google.com/maps/place/Vitasari+Bakery/data=!4m7!3m6!1s0x2e68e8926b9fde29:0xd3c916d4de32755d!8m2!3d-6.9442721!4d107.605623!16s%2Fg%2F1trphmlm!19sChIJ",
+        "reviews": 5654
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "toko kue basah sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Cantigi",
+        "rating": 4,
+        "address": "Toko Kue ·  · Jl. Siliwangi No.29",
+        "href": "https://www.google.com/maps/place/Cantigi/data=!4m7!3m6!1s0x2e684837e42b0b97:0xd5573910c838e4bd!8m2!3d-6.9204755!4d106.9356054!16s%2Fg%2F1pzs4szdv!19sChIJlwsr5D",
+        "reviews": 28
+      },
+      {
+        "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · Jl. R. E. Martadinata No.46",
+        "href": "https://www.google.com/maps/place/PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684830dad06f71:0x2712ea0831da0c99!8m2!3d-6.9207051!4d106.9304953!1",
+        "reviews": 856
+      },
+      {
+        "name": "Maple Bakery",
+        "rating": 4.7,
+        "address": "Toko Kue ·  · Jl. Gudang No.1",
+        "href": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJ",
+        "reviews": 617
+      },
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1",
+        "reviews": 1906
+      },
+      {
+        "name": "Toko kue basah SnS",
+        "rating": 5,
+        "address": "Toko Kue · Jl. Ciaul Pasir",
+        "href": "https://www.google.com/maps/place/Toko+kue+basah+SnS/data=!4m7!3m6!1s0x2e6849e08c7e44df:0x644a7f8b80b51076!8m2!3d-6.9212904!4d106.9438386!16s%2Fg%2F11xls81qk1!1",
+        "reviews": 11
+      },
+      {
+        "name": "Toko CS",
+        "rating": 4.8,
+        "address": "Toko Roti · Jl. A. Yani No.203",
+        "href": "https://www.google.com/maps/place/Toko+CS/data=!4m7!3m6!1s0x2e684839dff67b3b:0x761fdbdd34920328!8m2!3d-6.9225346!4d106.9310699!16s%2Fg%2F11f01t997m!19sChIJO3v23",
+        "reviews": 24
+      },
+      {
+        "name": "Toko Oleh-oleh Khas Sukabumi Bika Ambon Sunda Rasa",
+        "rating": 4.7,
+        "address": "Toko Kue · Jl. Siliwangi No.68",
+        "href": "https://www.google.com/maps/place/Toko+Oleh-oleh+Khas+Sukabumi+Bika+Ambon+Sunda+Rasa/data=!4m7!3m6!1s0x2e68493dbdecac3f:0x788b18caf5d1d8ab!8m2!3d-6.9188655!4d10",
+        "reviews": 341
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "brownis bolu sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1",
+        "reviews": 1906
+      },
+      {
+        "name": "Siliwangi Bolu Kukus Jendral Sudirman, Sukabumi",
+        "rating": 4.5,
+        "address": "Toko Kue · Ruko No.4, Jl. Sudirman 75D",
+        "href": "https://www.google.com/maps/place/Siliwangi+Bolu+Kukus+Jendral+Sudirman,+Sukabumi/data=!4m7!3m6!1s0x2e684984a4ba2e19:0x8bb61b4f48f7e1b0!8m2!3d-6.9209058!4d106.9",
+        "reviews": 73
+      },
+      {
+        "name": "Bolu Amor Jl Gudang",
+        "rating": 5,
+        "address": "Toko Kue · 3WHM+3HW, Jl. Gudang",
+        "href": "https://www.google.com/maps/place/Bolu+Amor+Jl+Gudang/data=!4m7!3m6!1s0x2e6849a1dd90fb19:0x16dd0fff939a0bec!8m2!3d-6.9222635!4d106.9339469!16s%2Fg%2F11h75pnkg9!",
+        "reviews": 410
+      },
+      {
+        "name": "Rumah Puding Premium dan Pusat Oleh-Oleh di Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue · Jl. Balai Desa No.9",
+        "href": "https://www.google.com/maps/place/Rumah+Puding+Premium+dan+Pusat+Oleh-Oleh+di+Sukabumi/data=!4m7!3m6!1s0x2e6849007c7cb409:0x103322fae153686a!8m2!3d-6.9210081!4d",
+        "reviews": 171
+      },
+      {
+        "name": "Bandung Cheesecuit Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue · Jl. Siliwangi No.A10",
+        "href": "https://www.google.com/maps/place/Bandung+Cheesecuit+Sukabumi/data=!4m7!3m6!1s0x2e6849dee74c13df:0x3132482c5cdfcd1c!8m2!3d-6.9154567!4d106.9360574!16s%2Fg%2F11y",
+        "reviews": 187
+      },
+      {
+        "name": "zakesta brownies and cakes",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/zakesta+brownies+and+cakes/data=!4m7!3m6!1s0x2e6849f8dc041ac3:0x35eb5b383fec7e85!8m2!3d-6.8976582!4d106.9130019!16s%2Fg%2F11fd",
+        "reviews": 125
+      },
+      {
+        "name": "Bolu Pisang Ibu Onih",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · 3W38+932, Jalan Jalur Lingkar Selatan, Cipanengah, Dayeuhluhur",
+        "href": "https://www.google.com/maps/place/Bolu+Pisang+Ibu+Onih/data=!4m7!3m6!1s0x2e68480254550dbf:0x2b672b572322c0d3!8m2!3d-6.9466157!4d106.9151343!16s%2Fg%2F11f06m7qp2",
+        "reviews": 57
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "pastry sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Roti · Jl. Syamsudin. SH No.31",
+        "href": "https://www.google.com/maps/place/Takashi+Bakehouse+x+Republik+Burger+Sukabumi/data=!4m7!3m6!1s0x2e6849d4079d1495:0x1012323ad552eab2!8m2!3d-6.9184632!4d106.9328",
+        "reviews": 123
+      },
+      {
+        "name": "Maple Bakery",
+        "rating": 4.7,
+        "address": "Toko Roti ·  · Jl. Gudang No.1",
+        "href": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJ",
+        "reviews": 617
+      },
+      {
+        "name": "Shell patisserie",
+        "rating": 4.8,
+        "address": "Toko Roti · Jl. R.A. Kosasih No.15, RW.07",
+        "href": "https://www.google.com/maps/place/Shell+patisserie/data=!4m7!3m6!1s0x2e6849001b78e8e7:0x38be4037794e5627!8m2!3d-6.9229741!4d106.9360352!16s%2Fg%2F11xp2l5xpk!19s",
+        "reviews": 114
+      },
+      {
+        "name": "Bandung Cheesecuit Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue · Jl. Siliwangi No.A10",
+        "href": "https://www.google.com/maps/place/Bandung+Cheesecuit+Sukabumi/data=!4m7!3m6!1s0x2e6849dee74c13df:0x3132482c5cdfcd1c!8m2!3d-6.9154567!4d106.9360574!16s%2Fg%2F11y",
+        "reviews": 187
+      },
+      {
+        "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+        "rating": 4.6,
+        "address": "Toko Roti ·  · Jl. R. E. Martadinata No.46",
+        "href": "https://www.google.com/maps/place/PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684830dad06f71:0x2712ea0831da0c99!8m2!3d-6.9207051!4d106.9304953!1",
+        "reviews": 856
+      },
+      {
+        "name": "Praline Sukabumi",
+        "rating": 4.5,
+        "address": "Restoran · Jl. Surya Kencana No.82",
+        "href": "https://www.google.com/maps/place/Praline+Sukabumi/data=!4m7!3m6!1s0x2e68483567c113a7:0xedd710740d6b681f!8m2!3d-6.9138936!4d106.9336072!16s%2Fg%2F11clzhb15d!19s",
+        "reviews": 433
+      },
+      {
+        "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Kue ·  · Jl. Sudirman No.36",
+        "href": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!1",
+        "reviews": 1906
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "oleh oleh khas sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Toko Oleh-oleh Khas Sukabumi Bika Ambon Sunda Rasa",
+        "rating": 4.7,
+        "address": "Toko Kue · Jl. Siliwangi No.68",
+        "href": "https://www.google.com/maps/place/Toko+Oleh-oleh+Khas+Sukabumi+Bika+Ambon+Sunda+Rasa/data=!4m7!3m6!1s0x2e68493dbdecac3f:0x788b18caf5d1d8ab!8m2!3d-6.9188655!4d10",
+        "reviews": 341
+      },
+      {
+        "name": "Pusat Jajanan Khas Sukabumi",
+        "rating": 4.6,
+        "address": "Toko Makanan · Jalan Suryakencana No. 32 & Jalan Syamsudin. Sh., Cikole",
+        "href": "https://www.google.com/maps/place/Pusat+Jajanan+Khas+Sukabumi/data=!4m7!3m6!1s0x2e684831557316f7:0xaca5c3ca5ac2ac9f!8m2!3d-6.9171828!4d106.9313857!16s%2Fg%2F11f",
+        "reviews": 55
+      },
+      {
+        "name": "Bolu Labu Al-Hijrah (Oleh-Oleh Khas Sukabumi)",
+        "rating": 4.5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Bolu+Labu+Al-Hijrah+%28Oleh-Oleh+Khas+Sukabumi%29/data=!4m7!3m6!1s0x2e6848ef766c4655:0x3ef77143aec914e0!8m2!3d-6.9202998!4d106",
+        "reviews": 43
+      },
+      {
+        "name": "Mochi Kaswari Lampion",
+        "rating": 4.6,
+        "address": "Toko Kue · Gg. Kaswari No.1",
+        "href": "https://www.google.com/maps/place/Mochi+Kaswari+Lampion/data=!4m7!3m6!1s0x2e684834a61ab6b3:0xa3a3055e8adaae9d!8m2!3d-6.912719!4d106.9304255!16s%2Fg%2F1pzy6dtl6!",
+        "reviews": 3588
+      },
+      {
+        "name": "Toko Sindang Sari Oleh Oleh Sukabumi",
+        "rating": 4.3,
+        "address": "Toko · 2WXC+JQ4, Jl. Lkr. Sel. Jl. Balandongan",
+        "href": "https://www.google.com/maps/place/Toko+Sindang+Sari+Oleh+Oleh+Sukabumi/data=!4m7!3m6!1s0x2e6848064ef1169b:0xfb3131ae783d3cfc!8m2!3d-6.9509898!4d106.9219393!16s%",
+        "reviews": 15
+      },
+      {
+        "name": "Mochi A Yani",
+        "rating": 4.7,
+        "address": "Toko Kue ·  · Jl. A. Yani JL. No. 170 A",
+        "href": "https://www.google.com/maps/place/Mochi+A+Yani/data=!4m7!3m6!1s0x2e684837540c1b55:0xbc03dcb873c6f6cf!8m2!3d-6.9226815!4d106.9311829!16s%2Fg%2F1pzsvng08!19sChIJV",
+        "reviews": 466
+      },
+      {
+        "name": "Kusuma Oleh - Oleh Sukabumi",
+        "rating": 5,
+        "address": "Toko Kue ·  · Jl. Siliwangi No.46",
+        "href": "https://www.google.com/maps/place/Kusuma+Oleh+-+Oleh+Sukabumi/data=!4m7!3m6!1s0x2e68491dcf16a5c5:0x6d94b2b20ebb805!8m2!3d-6.9204182!4d106.9358763!16s%2Fg%2F11tn",
+        "reviews": 12
+      }
+    ],
+    "category": "Bakery & Kue"
+  },
+  {
+    "query": "dodol sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Dodol Harendong",
+        "rating": 5,
+        "address": "Toko Kue · Jl. Pirus III No.17",
+        "href": "https://www.google.com/maps/place/Dodol+Harendong/data=!4m7!3m6!1s0x2e684793398ced7d:0xe1e2629d7dc0734d!8m2!3d-6.9611636!4d106.9478421!16s%2Fg%2F11jsmnyl7x!19sC",
+        "reviews": 2
+      },
+      {
+        "name": "Dodol Garut Maryati",
+        "rating": 5,
+        "address": "Toko · 3W8H+JQG, Gg. Sumber Jaya",
+        "href": "https://www.google.com/maps/place/Dodol+Garut+Maryati/data=!4m7!3m6!1s0x2e6849005c156e6d:0x2e29ced8bc8efe17!8m2!3d-6.9334265!4d106.9294529!16s%2Fg%2F11wfhhgy2q!",
+        "reviews": 10
+      },
+      {
+        "name": "Dodol Ngaray",
+        "rating": 5,
+        "address": "Toko · 3XH3+MQ6, Jl. R.A. Kosasih",
+        "href": "https://www.google.com/maps/place/Dodol+Ngaray/data=!4m7!3m6!1s0x2e6849d7036d325b:0x2ccd8982969c5045!8m2!3d-6.9207225!4d106.9547092!16s%2Fg%2F11jt09t7wc!19sChIJ",
+        "reviews": 1
+      },
+      {
+        "name": "Toko Sindang Sari Oleh Oleh Sukabumi",
+        "rating": 4.3,
+        "address": "Toko · 2WXC+JQ4, Jl. Lkr. Sel. Jl. Balandongan",
+        "href": "https://www.google.com/maps/place/Toko+Sindang+Sari+Oleh+Oleh+Sukabumi/data=!4m7!3m6!1s0x2e6848064ef1169b:0xfb3131ae783d3cfc!8m2!3d-6.9509898!4d106.9219393!16s%",
+        "reviews": 15
+      },
+      {
+        "name": "Dodol sirsak RAOS",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Dodol+sirsak+RAOS/data=!4m7!3m6!1s0x2e684992bc9d3573:0xca78a9c8a90de01d!8m2!3d-6.9291083!4d106.9255563!16s%2Fg%2F11ly41scry!19",
+        "reviews": 3
+      },
+      {
+        "name": "Mochi Kaswari Bakat Jaya",
+        "rating": 4.5,
+        "address": "Toko Suvenir ·  · Jl. Kenari No.24",
+        "href": "https://www.google.com/maps/place/Mochi+Kaswari+Bakat+Jaya/data=!4m7!3m6!1s0x2e68491532539901:0x3519ad75fc265430!8m2!3d-6.9137576!4d106.9306165!16s%2Fg%2F11g0w2",
+        "reviews": 211
+      }
+    ],
+    "category": "Bakery & Kue"
+  }
+]

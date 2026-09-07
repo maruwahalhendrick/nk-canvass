@@ -1,0 +1,397 @@
+[
+  {
+    "name": "DAPUR MUNGIL PUSAT",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko roti sukabumi"
+    ],
+    "listedRating": 4.8,
+    "listedAddress": "Toko Roti ·  · Jalan bayangkara, samping Jl. Bhayangkara Gg. Rawasalak No.70",
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jalan bayangkara, samping Jl. Bhayangkara Gg. Rawasalak No.70, Bayangkara, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43122",
+    "reviews": 241,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Amorcakes and Bakery - Cikole Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko roti sukabumi",
+      "bakery sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedAddress": "Toko Roti · Jl. Gudang",
+    "mode": "panel-via-click",
+    "rating": 4.9,
+    "address": "Jl. Gudang, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "href": "https://www.google.com/maps/place/Amorcakes+and+Bakery+-+Cikole+Sukabumi/data=!4m7!3m6!1s0x2e68494b80315a59:0xf448f1881e91b2ee!8m2!3d-6.9222771!4d106.9339709!16s%2Fg%2F11kprl66h3!19sChIJWVoxgEtJaC4R7rKRHojxSPQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 212,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Holland Bakery",
+    "category": "Bakery & Kue",
+    "queries": [
+      "bakery sukabumi"
+    ],
+    "listedRating": 4.3,
+    "listedReviews": 119,
+    "listedAddress": "Toko Roti ·  · Jl. Sudirman No.79",
+    "mode": "panel-via-click",
+    "rating": 4.3,
+    "address": "Jl. Sudirman No.79, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 35128",
+    "href": "https://www.google.com/maps/place/Holland+Bakery/data=!4m7!3m6!1s0x2e6848293a0c336b:0xd55b8d57f400d7eb!8m2!3d-6.9195959!4d106.9175958!16s%2Fg%2F11d_7tvm4r!19sChIJazMMOilIaC4R69cA9FeNW9U?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 119,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Mayasari RE Martadinata - Bakery Oleh Oleh Khas Bandung",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue ulang tahun sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 455,
+    "listedAddress": "Toko Roti · Jl. L. L. R.E. Martadinata No.87",
+    "mode": "panel-via-click",
+    "rating": 4.9,
+    "address": "Jl. L. L. R.E. Martadinata No.87, Citarum, Kec. Bandung Wetan, Kota Bandung, Jawa Barat 40115",
+    "href": "https://www.google.com/maps/place/Mayasari+RE+Martadinata+-+Bakery+Oleh+Oleh+Khas+Bandung/data=!4m7!3m6!1s0x2e68e7855a609dbb:0xb5cd2f439dc2ea5!8m2!3d-6.9057442!4d107.6192697!16s%2Fg%2F11v16973r8!19sChIJu51gWoXnaC4RpS7cOfTSXAs?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 455,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "The Harvest Cakes - Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue ulang tahun sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 1627,
+    "listedAddress": "Toko Kue ·  · Jl. Ir. H. Juanda No.15",
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. Siliwangi No.52-42, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 198,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Kartika Sari Kebon Jukut",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue ulang tahun sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 9498,
+    "listedAddress": "Toko Roti · Jl. Kb. Jukut No.3C",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Kb. Jukut No.3C, Babakan Ciamis, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40117",
+    "reviews": 9498,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Kartika Sari Pusat",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue ulang tahun sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 4686,
+    "listedAddress": "Toko Kue · Jl. H. Akbar No.4",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. H. Akbar No.4, Pasir Kaliki, Kec. Cicendo, Kota Bandung, Jawa Barat 40171",
+    "reviews": 4686,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Vitasari Bakery",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue ulang tahun sukabumi"
+    ],
+    "listedRating": 4.6,
+    "listedReviews": 5654,
+    "listedAddress": "Toko Roti ·  · Komp. Kurdi, Jl. H. Kurdi 1",
+    "mode": "panel-via-click",
+    "rating": 4.3,
+    "address": "Jl. Surapati No.55A, Sadang Serang, Kecamatan Coblong, Kota Bandung, Jawa Barat 40133",
+    "href": "https://www.google.com/maps/place/Vitasari+Bakery/data=!4m7!3m6!1s0x2e68e64d2281532f:0xf9cc8ba084194900!8m2!3d-6.8990099!4d107.6200948!16s%2Fg%2F11bbwyxf_d!19sChIJL1OBIk3maC4RAEkZhKCLzPk?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 207,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Cantigi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue basah sukabumi"
+    ],
+    "listedRating": 4,
+    "listedReviews": 28,
+    "listedAddress": "Toko Kue ·  · Jl. Siliwangi No.29",
+    "mode": "panel",
+    "rating": 4,
+    "address": "Jl. Siliwangi No.29, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 28,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko kue basah SnS",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue basah sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 11,
+    "listedAddress": "Toko Kue · Jl. Ciaul Pasir",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Ciaul Pasir, Subangjaya, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43116",
+    "reviews": 11,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko CS",
+    "category": "Bakery & Kue",
+    "queries": [
+      "toko kue basah sukabumi"
+    ],
+    "listedRating": 4.8,
+    "listedReviews": 24,
+    "listedAddress": "Toko Roti · Jl. A. Yani No.203",
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. A. Yani No.203, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 24,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Siliwangi Bolu Kukus Jendral Sudirman, Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "brownis bolu sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 73,
+    "listedAddress": "Toko Kue · Ruko No.4, Jl. Sudirman 75D",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Ruko No.4, Jl. Sudirman 75D, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 73,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Bolu Amor Jl Gudang",
+    "category": "Bakery & Kue",
+    "queries": [
+      "brownis bolu sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 410,
+    "listedAddress": "Toko Kue · 3WHM+3HW, Jl. Gudang",
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WHM+3HW, Jl. Gudang, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 410,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "zakesta brownies and cakes",
+    "category": "Bakery & Kue",
+    "queries": [
+      "brownis bolu sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 125,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Perumahan Assifa, Karang Tengah, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 125,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Bolu Pisang Ibu Onih",
+    "category": "Bakery & Kue",
+    "queries": [
+      "brownis bolu sukabumi"
+    ],
+    "listedRating": 4.6,
+    "listedReviews": 57,
+    "listedAddress": "Toko Roti ·  · 3W38+932, Jalan Jalur Lingkar Selatan, Cipanengah, Dayeuhluhur",
+    "mode": "panel-via-click",
+    "rating": 4.6,
+    "href": "https://www.google.com/maps/place/Bolu+Pisang+Ibu+Onih/data=!4m7!3m6!1s0x2e68480254550dbf:0x2b672b572322c0d3!8m2!3d-6.9466157!4d106.9151343!16s%2Fg%2F11f06m7qp2!19sChIJvw1VVAJIaC4R08AiI1crZys?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "address": "3W38+932, Jalan Jalur Lingkar Selatan, Cipanengah, Dayeuhluhur, Kec. Warudoyong, Kabupaten Sukabumi, Jawa Barat 43134",
+    "reviews": 57,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Shell patisserie",
+    "category": "Bakery & Kue",
+    "queries": [
+      "pastry sukabumi"
+    ],
+    "listedRating": 4.8,
+    "listedReviews": 114,
+    "listedAddress": "Toko Roti · Jl. R.A. Kosasih No.15, RW.07",
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. R.A. Kosasih No.15, RW.07, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43116",
+    "reviews": 114,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Praline Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "pastry sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 433,
+    "listedAddress": "Restoran · Jl. Surya Kencana No.82",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jl. Surya Kencana No.82, Cikole, Kec. Cikole, Kota Sukabumi, Jawa Barat 43113",
+    "reviews": 433,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Bolu Labu Al-Hijrah (Oleh-Oleh Khas Sukabumi)",
+    "category": "Bakery & Kue",
+    "queries": [
+      "oleh oleh khas sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 43,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Perum al-hijrah blok C no.16, Pasirhalang, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 43,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko Sindang Sari Oleh Oleh Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "oleh oleh khas sukabumi",
+      "dodol sukabumi"
+    ],
+    "listedRating": 4.3,
+    "listedReviews": 15,
+    "listedAddress": "Toko · 2WXC+JQ4, Jl. Lkr. Sel. Jl. Balandongan",
+    "mode": "panel",
+    "rating": 4.3,
+    "address": "2WXC+JQ4, Jl. Lkr. Sel. Jl. Balandongan, Sudajaya Hilir, Kec. Baros, Kota Sukabumi, Jawa Barat 43161",
+    "reviews": 15,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Mochi A Yani",
+    "category": "Bakery & Kue",
+    "queries": [
+      "oleh oleh khas sukabumi"
+    ],
+    "listedRating": 4.7,
+    "listedReviews": 466,
+    "listedAddress": "Toko Kue ·  · Jl. A. Yani JL. No. 170 A",
+    "mode": "panel",
+    "rating": 4.7,
+    "address": "Jl. A. Yani JL. No. 170 A, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43165",
+    "reviews": 466,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Kusuma Oleh - Oleh Sukabumi",
+    "category": "Bakery & Kue",
+    "queries": [
+      "oleh oleh khas sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 12,
+    "listedAddress": "Toko Kue ·  · Jl. Siliwangi No.46",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Siliwangi No.46, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43112",
+    "reviews": 12,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Dodol Harendong",
+    "category": "Bakery & Kue",
+    "queries": [
+      "dodol sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 2,
+    "listedAddress": "Toko Kue · Jl. Pirus III No.17",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Pirus III No.17, Baros, Kec. Baros, Kota Sukabumi, Jawa Barat 43161",
+    "reviews": 2,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Dodol Garut Maryati",
+    "category": "Bakery & Kue",
+    "queries": [
+      "dodol sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 10,
+    "listedAddress": "Toko · 3W8H+JQG, Gg. Sumber Jaya",
+    "mode": "panel",
+    "rating": 5,
+    "address": "3W8H+JQG, Gg. Sumber Jaya, Citamiang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43143",
+    "reviews": 10,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Dodol Ngaray",
+    "category": "Bakery & Kue",
+    "queries": [
+      "dodol sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 1,
+    "listedAddress": "Toko · 3XH3+MQ6, Jl. R.A. Kosasih",
+    "mode": "panel",
+    "rating": 5,
+    "address": "3XH3+MQ6, Jl. R.A. Kosasih, Subangjaya, Kec. Cikole, Kabupaten Sukabumi, Jawa Barat 43165",
+    "reviews": 1,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Dodol sirsak RAOS",
+    "category": "Bakery & Kue",
+    "queries": [
+      "dodol sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 3,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 5,
+    "reviews": 3,
+    "city": "unknown"
+  },
+  {
+    "name": "Mochi Kaswari Bakat Jaya",
+    "category": "Bakery & Kue",
+    "queries": [
+      "dodol sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 211,
+    "listedAddress": "Toko Suvenir ·  · Jl. Kenari No.24",
+    "mode": "panel-via-click",
+    "rating": 4.5,
+    "address": "Jl. Kenari No.24, Selabatu, Kec. Cikole, Kota Sukabumi, Jawa Barat 43114",
+    "href": "https://www.google.com/maps/place/Mochi+Kaswari+Bakat+Jaya/data=!4m7!3m6!1s0x2e68491532539901:0x3519ad75fc265430!8m2!3d-6.9137576!4d106.9306165!16s%2Fg%2F11g0w2j6jv!19sChIJAZlTMhVJaC4RMFQm_HWtGTU?authuser=0&hl=id&g_ep=EgoyMDI2MDkwMi4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 211,
+    "city": "Sukabumi"
+  }
+]
