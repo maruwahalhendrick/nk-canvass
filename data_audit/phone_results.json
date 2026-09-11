@@ -3205,5 +3205,50 @@
     "phoneType": "landline",
     "phoneRaw": "0266731145",
     "source": "rescrape_niche"
+  },
+  {
+    "id": 583,
+    "name": "Amani Laundry Karpet Cisaat Cikiray",
+    "processed": true,
+    "phone": "085719273592",
+    "phoneType": "mobile",
+    "phoneRaw": "085719273592",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 584,
+    "name": "Laundry Karpet Sukabumi - Kyabi Clean Laundry Karpet Express",
+    "processed": true,
+    "phone": "081399941779",
+    "phoneType": "mobile",
+    "phoneRaw": "081399941779",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 585,
+    "name": "Miki Waka Helm, Laundry & Store",
+    "processed": true,
+    "phone": "081291596099",
+    "phoneType": "mobile",
+    "phoneRaw": "081291596099",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 586,
+    "name": "CUCIHELM.SMI",
+    "processed": true,
+    "phone": "085798047422",
+    "phoneType": "mobile",
+    "phoneRaw": "085798047422",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 589,
+    "name": "DENK SERVIS HELM SUKABUMI",
+    "processed": true,
+    "phone": "085798250014",
+    "phoneType": "mobile",
+    "phoneRaw": "085798250014",
+    "source": "rescrape_niche"
   }
 ]

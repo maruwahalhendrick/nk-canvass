@@ -1,0 +1,81 @@
+[
+  {
+    "name": "Miki Waka Helm, Laundry & Store",
+    "category": "Cuci Tas & Helm",
+    "queries": [
+      "cuci helm sukabumi",
+      "laundry helm sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 1,
+    "listedAddress": "Layanan Binatu ·  · Jl. Perintis Kemerdekaan No.01",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Perintis Kemerdekaan No.01, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 1,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "CUCIHELM.SMI",
+    "category": "Cuci Tas & Helm",
+    "queries": [
+      "cuci helm sukabumi",
+      "laundry helm sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 5,
+    "listedAddress": "Tempat cuci motor · Jl. R.A. Kosasih Gg. Samsitirta",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. R.A. Kosasih Gg. Samsitirta, Cisarua, Kec. Cikole, Kota Sukabumi, Jawa Barat 43115",
+    "reviews": 5,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Cuci Helm Kilat Sukabumi",
+    "category": "Cuci Tas & Helm",
+    "queries": [
+      "cuci helm sukabumi",
+      "laundry helm sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 1,
+    "listedAddress": "Layanan Binatu · Jl. Pelabuhan 2 No. 396 Cipanengah (Babakan Pangumbahan",
+    "mode": "panel-via-click",
+    "rating": 5,
+    "address": "Jl. Pelabuhan 2 No. 396 Cipanengah (Babakan Pangumbahan, Dayeuhluhur, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43134",
+    "href": "https://www.google.com/maps/place/Cuci+Helm+Kilat+Sukabumi/data=!4m7!3m6!1s0x2e684900371dcb3f:0x76f25a45425d042a!8m2!3d-6.9483529!4d106.9152912!16s%2Fg%2F11n4pm14zt!19sChIJP8sdNwBJaC4RKgRdQkVa8nY?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 1,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Cuci Helm Jayadi",
+    "category": "Cuci Tas & Helm",
+    "queries": [
+      "laundry helm sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 4,
+    "listedAddress": "Toko Suku Cadang Motor · Jalan Lettu Bakri No 6, Nyomplong, Warudoyong",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jalan Lettu Bakri No 6, Nyomplong, Warudoyong, Benteng, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "reviews": 4,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "DENK SERVIS HELM SUKABUMI",
+    "category": "Cuci Tas & Helm",
+    "queries": [
+      "cuci helm sukabumi"
+    ],
+    "listedRating": 4.6,
+    "listedReviews": 18,
+    "listedAddress": "Layanan reparasi · Jl. Lio Santa No.20",
+    "mode": "panel",
+    "rating": 4.6,
+    "address": "Jl. Lio Santa No.20, Cikondang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43142",
+    "reviews": 18,
+    "city": "Sukabumi"
+  }
+]

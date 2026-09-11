@@ -1,0 +1,598 @@
+[
+  {
+    "query": "cuci sofa sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Layanan Binatu ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br"
+      },
+      {
+        "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4"
+      },
+      {
+        "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 4314",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e68499f80df49fd:0xc49cf0900b63cc4e!8m2!3d-6.9397134!4d106.9321"
+      },
+      {
+        "name": "Sukabumi Laundry Pusat Sukaraja",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Baru Sukaraja Ruko Perumahan Bumi Tando No.2",
+        "href": "https://www.google.com/maps/place/Sukabumi+Laundry+Pusat+Sukaraja/data=!4m7!3m6!1s0x2e6849ed70f0066b:0xbfe3b422574b0875!8m2!3d-6.9218618!4d106.9655449!16s%2Fg%2"
+      },
+      {
+        "name": "Amani Laundry Karpet Cisaat Cikiray",
+        "rating": 4.8,
+        "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504d8b3:0x838f951c8fd18b59!8m2!3d-6.9082422!4d106.8977215!16s%2"
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Layanan Binatu · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4"
+      }
+    ],
+    "category": "Cuci Sofa & Karpet"
+  },
+  {
+    "query": "cuci kasur sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4",
+        "reviews": 104
+      },
+      {
+        "name": "Sukabumi Laundry Pusat Sukaraja",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Baru Sukaraja Ruko Perumahan Bumi Tando No.2",
+        "href": "https://www.google.com/maps/place/Sukabumi+Laundry+Pusat+Sukaraja/data=!4m7!3m6!1s0x2e6849ed70f0066b:0xbfe3b422574b0875!8m2!3d-6.9218618!4d106.9655449!16s%2Fg%2",
+        "reviews": 185
+      },
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Layanan Binatu ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br",
+        "reviews": 127
+      },
+      {
+        "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 4314",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e68499f80df49fd:0xc49cf0900b63cc4e!8m2!3d-6.9397134!4d106.9321",
+        "reviews": 96
+      },
+      {
+        "name": "Amani Laundry Terdekat Sukabumi - Gratis Antar Jemput",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Karamat, Karamat, Kec. Gunungpuyuh, Kota Sukabumi",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Terdekat+Sukabumi+-+Gratis+Antar+Jemput/data=!4m7!3m6!1s0x2e68490d597385d5:0x6b9a2dd9dc5bd741!8m2!3d-6.9029715!4",
+        "reviews": 51
+      },
+      {
+        "name": "Amani Laundry Karpet Cisaat Cikiray",
+        "rating": 4.8,
+        "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504d8b3:0x838f951c8fd18b59!8m2!3d-6.9082422!4d106.8977215!16s%2",
+        "reviews": 177
+      },
+      {
+        "name": "Eternal Light Laundry Cabang Nyomplong",
+        "rating": 4.9,
+        "address": "Binatu · Jl. Nyomplong No.37",
+        "href": "https://www.google.com/maps/place/Eternal+Light+Laundry+Cabang+Nyomplong/data=!4m7!3m6!1s0x2e684914a876ce13:0x77baa1a3cef0dbff!8m2!3d-6.9245815!4d106.9216691!16",
+        "reviews": 127
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Layanan Binatu · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4",
+        "reviews": 32
+      },
+      {
+        "name": "MEGA CEMERLANG SUKABUMI",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl. Cimahpar Endah 2 Jl. Cendrawasih No.24 A",
+        "href": "https://www.google.com/maps/place/MEGA+CEMERLANG+SUKABUMI/data=!4m7!3m6!1s0x2e684929fa4603db:0x8376b98062a930f5!8m2!3d-6.919023!4d106.9615775!16s%2Fg%2F11svbfzb",
+        "reviews": 5
+      },
+      {
+        "name": "KlinLaundry",
+        "rating": 5,
+        "address": "Binatu · 3WG3+W72, Jl. Raya Cemerlang",
+        "href": "https://www.google.com/maps/place/KlinLaundry/data=!4m7!3m6!1s0x2e6837e42771c5a7:0x40b6e81981987b37!8m2!3d-6.9227373!4d106.9031252!16s%2Fg%2F11h3x5fclv!19sChIJp",
+        "reviews": 1
+      }
+    ],
+    "category": "Cuci Sofa & Karpet"
+  },
+  {
+    "query": "cuci karpet sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Jasa Pembersih Karpet ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br",
+        "reviews": 127
+      },
+      {
+        "name": "Amani Laundry Karpet Cisaat Cikiray",
+        "rating": 4.8,
+        "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504d8b3:0x838f951c8fd18b59!8m2!3d-6.9082422!4d106.8977215!16s%2",
+        "reviews": 177
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Jasa Pembersih Karpet · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4",
+        "reviews": 32
+      },
+      {
+        "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+        "rating": 5,
+        "address": "Jasa Pembersih Karpet · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 4",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e68499f80df49fd:0xc49cf0900b63cc4e!8m2!3d-6.9397134!4d106.9321",
+        "reviews": 96
+      },
+      {
+        "name": "Laundry Karpet Sukabumi - Kyabi Clean Laundry Karpet Express",
+        "rating": 5,
+        "address": "Binatu · Kp Purwasari 2 Jalan goodyear, Dekat gang kuburan Jl. Kongsi, RT.01/RW.05",
+        "href": "https://www.google.com/maps/place/Laundry+Karpet+Sukabumi+-+Kyabi+Clean+Laundry+Karpet+Express/data=!4m7!3m6!1s0x2e69cda76ff332db:0x8ae553342e25ee4!8m2!3d-6.791",
+        "reviews": 14
+      },
+      {
+        "name": "Sukabumi Laundry Pusat Sukaraja",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Baru Sukaraja Ruko Perumahan Bumi Tando No.2",
+        "href": "https://www.google.com/maps/place/Sukabumi+Laundry+Pusat+Sukaraja/data=!4m7!3m6!1s0x2e6849ed70f0066b:0xbfe3b422574b0875!8m2!3d-6.9218618!4d106.9655449!16s%2Fg%2",
+        "reviews": 185
+      },
+      {
+        "name": "Amani Laundry Terdekat Sukabumi - Gratis Antar Jemput",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Karamat, Karamat, Kec. Gunungpuyuh, Kota Sukabumi",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Terdekat+Sukabumi+-+Gratis+Antar+Jemput/data=!4m7!3m6!1s0x2e68490d597385d5:0x6b9a2dd9dc5bd741!8m2!3d-6.9029715!4",
+        "reviews": 51
+      },
+      {
+        "name": "Eternal Light Laundry Cabang Nyomplong",
+        "rating": 4.9,
+        "address": "Binatu · Jl. Nyomplong No.37",
+        "href": "https://www.google.com/maps/place/Eternal+Light+Laundry+Cabang+Nyomplong/data=!4m7!3m6!1s0x2e684914a876ce13:0x77baa1a3cef0dbff!8m2!3d-6.9245815!4d106.9216691!16",
+        "reviews": 127
+      },
+      {
+        "name": "karpet sukabumi",
+        "rating": 4.7,
+        "address": "Toko Karpet · Jl. Alun-Alun Utara",
+        "href": "https://www.google.com/maps/place/karpet+sukabumi/data=!4m7!3m6!1s0x2e68493a42521259:0x4e20fa46ea034811!8m2!3d-6.9199507!4d106.9260661!16s%2Fg%2F11pq85_5m8!19sC",
+        "reviews": 7
+      },
+      {
+        "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Lumire+Laundry+-+GRATIS+Antar+Jemput+Sukabumi+-+Express+2+Jam+Beres/data=!4m7!3m6!1s0x2e6849c7abd577cb:0xad68105e9186bcbd!8m2!",
+        "reviews": 182
+      }
+    ],
+    "category": "Cuci Sofa & Karpet"
+  },
+  {
+    "query": "cuci spring bed sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4",
+        "reviews": 104
+      },
+      {
+        "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 4314",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e68499f80df49fd:0xc49cf0900b63cc4e!8m2!3d-6.9397134!4d106.9321",
+        "reviews": 96
+      }
+    ],
+    "category": "Cuci Sofa & Karpet"
+  },
+  {
+    "query": "laundry sofa sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4",
+        "reviews": 104
+      },
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Layanan Binatu ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br",
+        "reviews": 127
+      },
+      {
+        "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+        "rating": 5,
+        "address": "Layanan Kebersihan · Jl rh Didi Sukardi gedong panjang Citamiang gg gempar RT 01, pos 4314",
+        "href": "https://www.google.com/maps/place/ADAVA+LAUNDRY+SPRINGBED+SOFA+KARPET+SUKABUMI/data=!4m7!3m6!1s0x2e68499f80df49fd:0xc49cf0900b63cc4e!8m2!3d-6.9397134!4d106.9321",
+        "reviews": 96
+      },
+      {
+        "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Lumire+Laundry+-+GRATIS+Antar+Jemput+Sukabumi+-+Express+2+Jam+Beres/data=!4m7!3m6!1s0x2e6849c7abd577cb:0xad68105e9186bcbd!8m2!",
+        "reviews": 182
+      },
+      {
+        "name": "Sukabumi Laundry Pusat Sukaraja",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Baru Sukaraja Ruko Perumahan Bumi Tando No.2",
+        "href": "https://www.google.com/maps/place/Sukabumi+Laundry+Pusat+Sukaraja/data=!4m7!3m6!1s0x2e6849ed70f0066b:0xbfe3b422574b0875!8m2!3d-6.9218618!4d106.9655449!16s%2Fg%2",
+        "reviews": 185
+      },
+      {
+        "name": "Eternal Light Laundry Cabang Nyomplong",
+        "rating": 4.9,
+        "address": "Binatu · Jl. Nyomplong No.37",
+        "href": "https://www.google.com/maps/place/Eternal+Light+Laundry+Cabang+Nyomplong/data=!4m7!3m6!1s0x2e684914a876ce13:0x77baa1a3cef0dbff!8m2!3d-6.9245815!4d106.9216691!16",
+        "reviews": 127
+      },
+      {
+        "name": "Amani Laundry Karpet Cisaat Cikiray",
+        "rating": 4.8,
+        "address": "Layanan Binatu · Ruko Bumi Asri, Jl. Cikiray-Cijambu Nomor A6",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504d8b3:0x838f951c8fd18b59!8m2!3d-6.9082422!4d106.8977215!16s%2",
+        "reviews": 177
+      },
+      {
+        "name": "Amani Laundry Terdekat Sukabumi - Gratis Antar Jemput",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Karamat, Karamat, Kec. Gunungpuyuh, Kota Sukabumi",
+        "href": "https://www.google.com/maps/place/Amani+Laundry+Terdekat+Sukabumi+-+Gratis+Antar+Jemput/data=!4m7!3m6!1s0x2e68490d597385d5:0x6b9a2dd9dc5bd741!8m2!3d-6.9029715!4",
+        "reviews": 51
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Layanan Binatu · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4",
+        "reviews": 32
+      },
+      {
+        "name": "Eternal Light Laundry Sukabumi Cab IPB",
+        "rating": 4.9,
+        "address": "Binatu · Jl. Sarasa",
+        "href": "https://www.google.com/maps/place/Eternal+Light+Laundry+Sukabumi+Cab+IPB/data=!4m7!3m6!1s0x2e68487bb9c47109:0x979330ccfce8d699!8m2!3d-6.9461058!4d106.9514169!16",
+        "reviews": 176
+      }
+    ],
+    "category": "Cuci Sofa & Karpet"
+  },
+  {
+    "query": "cuci tas sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Bersih.in WearCare",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Lettu Bakrie No.2",
+        "href": "https://www.google.com/maps/place/Bersih.in+WearCare/data=!4m7!3m6!1s0x2e68490035e4905d:0x835535c89b50370d!8m2!3d-6.9216587!4d106.9221576!16s%2Fg%2F11z0y_7zrg!1",
+        "reviews": 224
+      },
+      {
+        "name": "CuciWangi Sukabumi",
+        "rating": 5,
+        "address": "Toko outlet · kantor walikota sukabumi, Jl. R. Syamsudin S.H, kanan No.13",
+        "href": "https://www.google.com/maps/place/CuciWangi+Sukabumi/data=!4m7!3m6!1s0x2e684965711ad235:0xb84442112df893b3!8m2!3d-6.9177545!4d106.9305571!16s%2Fg%2F11g_zk5612!1",
+        "reviews": 2789
+      },
+      {
+        "name": "Cuci Disini Sukabumi",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Veteran Citengkor No.4",
+        "href": "https://www.google.com/maps/place/Cuci+Disini+Sukabumi/data=!4m7!3m6!1s0x2e68370007c2852b:0xb09d1648fa9078db!8m2!3d-6.9079312!4d106.8894095!16s%2Fg%2F11lw94jct8",
+        "reviews": 66
+      },
+      {
+        "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Lumire+Laundry+-+GRATIS+Antar+Jemput+Sukabumi+-+Express+2+Jam+Beres/data=!4m7!3m6!1s0x2e6849c7abd577cb:0xad68105e9186bcbd!8m2!",
+        "reviews": 182
+      },
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Layanan Binatu ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br",
+        "reviews": 127
+      },
+      {
+        "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+        "rating": 4.7,
+        "address": "Binatu · Gg. Cipelang Leutik 1",
+        "href": "https://www.google.com/maps/place/Laundry+%26+Cuci+Sepatu+-+Pasti+Bersih.Small+Space/data=!4m7!3m6!1s0x2e684938b5083957:0xfa09c9ae81ce17f7!8m2!3d-6.9173379!4d10",
+        "reviews": 26
+      },
+      {
+        "name": "NGUMBAH SAPATU KOTA SUKABUMI",
+        "rating": 4.9,
+        "address": "Layanan Binatu · Jl. Pelda Suryanta",
+        "href": "https://www.google.com/maps/place/NGUMBAH+SAPATU+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684940060f513b:0xacea18ce332897d3!8m2!3d-6.9341755!4d106.9355178!16s%2Fg%2F11",
+        "reviews": 24
+      },
+      {
+        "name": "Cuci Bersih Shoes And Care",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Taman Bahagia. Kp. Nagrak, GG. Albarokah No.18",
+        "href": "https://www.google.com/maps/place/Cuci+Bersih+Shoes+And+Care/data=!4m7!3m6!1s0x2e6849cfb8e99b83:0x818454b45a998675!8m2!3d-6.9277186!4d106.9195539!16s%2Fg%2F11xy",
+        "reviews": 27
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Layanan Binatu · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4",
+        "reviews": 32
+      },
+      {
+        "name": "Eira Laundry",
+        "rating": 4.8,
+        "address": "Binatu Cucian Kering ·  · Jl. Veteran 1 No.22",
+        "href": "https://www.google.com/maps/place/Eira+Laundry/data=!4m7!3m6!1s0x2e68482e383918c5:0xfc629a6d7c212ff1!8m2!3d-6.9195194!4d106.9227699!16s%2Fg%2F11c5_g7m2m!19sChIJ",
+        "reviews": 40
+      }
+    ],
+    "category": "Cuci Tas & Helm"
+  },
+  {
+    "query": "laundry tas sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Bersih.in WearCare",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Lettu Bakrie No.2",
+        "href": "https://www.google.com/maps/place/Bersih.in+WearCare/data=!4m7!3m6!1s0x2e68490035e4905d:0x835535c89b50370d!8m2!3d-6.9216587!4d106.9221576!16s%2Fg%2F11z0y_7zrg!1",
+        "reviews": 224
+      },
+      {
+        "name": "CuciWangi Sukabumi",
+        "rating": 5,
+        "address": "Toko outlet · kantor walikota sukabumi, Jl. R. Syamsudin S.H, kanan No.13",
+        "href": "https://www.google.com/maps/place/CuciWangi+Sukabumi/data=!4m7!3m6!1s0x2e684965711ad235:0xb84442112df893b3!8m2!3d-6.9177545!4d106.9305571!16s%2Fg%2F11g_zk5612!1",
+        "reviews": 2789
+      },
+      {
+        "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Lumire+Laundry+-+GRATIS+Antar+Jemput+Sukabumi+-+Express+2+Jam+Beres/data=!4m7!3m6!1s0x2e6849c7abd577cb:0xad68105e9186bcbd!8m2!",
+        "reviews": 182
+      },
+      {
+        "name": "Cuci Disini Sukabumi",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Veteran Citengkor No.4",
+        "href": "https://www.google.com/maps/place/Cuci+Disini+Sukabumi/data=!4m7!3m6!1s0x2e68370007c2852b:0xb09d1648fa9078db!8m2!3d-6.9079312!4d106.8894095!16s%2Fg%2F11lw94jct8",
+        "reviews": 66
+      },
+      {
+        "name": "SUKACUCI",
+        "rating": 4.8,
+        "address": "Layanan Binatu ·  · Jl. Pabuaran No.44",
+        "href": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3br",
+        "reviews": 127
+      },
+      {
+        "name": "Eira Laundry",
+        "rating": 4.8,
+        "address": "Binatu Cucian Kering ·  · Jl. Veteran 1 No.22",
+        "href": "https://www.google.com/maps/place/Eira+Laundry/data=!4m7!3m6!1s0x2e68482e383918c5:0xfc629a6d7c212ff1!8m2!3d-6.9195194!4d106.9227699!16s%2Fg%2F11c5_g7m2m!19sChIJ",
+        "reviews": 40
+      },
+      {
+        "name": "Lavandera Laundry",
+        "rating": 4.7,
+        "address": "Layanan Binatu ·  · Jl. Bhayangkara No.214",
+        "href": "https://www.google.com/maps/place/Lavandera+Laundry/data=!4m7!3m6!1s0x2e6849cd41b0f1e1:0x9cfc88adab84bb57!8m2!3d-6.9124159!4d106.9293318!16s%2Fg%2F11cs2hqm7n!19",
+        "reviews": 169
+      },
+      {
+        "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Letda T. Asmita Gg.Babakan Kuta 4 No.29",
+        "href": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4",
+        "reviews": 104
+      },
+      {
+        "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+        "rating": 4.7,
+        "address": "Binatu · Gg. Cipelang Leutik 1",
+        "href": "https://www.google.com/maps/place/Laundry+%26+Cuci+Sepatu+-+Pasti+Bersih.Small+Space/data=!4m7!3m6!1s0x2e684938b5083957:0xfa09c9ae81ce17f7!8m2!3d-6.9173379!4d10",
+        "reviews": 26
+      },
+      {
+        "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+        "rating": 5,
+        "address": "Layanan Binatu · Gg. Oyo No.37",
+        "href": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4",
+        "reviews": 32
+      }
+    ],
+    "category": "Cuci Tas & Helm"
+  },
+  {
+    "query": "cuci helm sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Miki Waka Helm, Laundry & Store",
+        "rating": 5,
+        "address": "Layanan Binatu ·  · Jl. Perintis Kemerdekaan No.01",
+        "href": "https://www.google.com/maps/place/Miki+Waka+Helm,+Laundry+%26+Store/data=!4m7!3m6!1s0x2e6849973ddea663:0x1e4d92743d8c5192!8m2!3d-6.9205861!4d106.9264641!16s%2Fg",
+        "reviews": 1
+      },
+      {
+        "name": "CUCIHELM.SMI",
+        "rating": 5,
+        "address": "Tempat cuci motor · Jl. R.A. Kosasih Gg. Samsitirta",
+        "href": "https://www.google.com/maps/place/CUCIHELM.SMI/data=!4m7!3m6!1s0x2e6849cf850ba2bb:0xd31746b7236136e1!8m2!3d-6.9197427!4d106.940078!16s%2Fg%2F11sd33v97l!19sChIJu",
+        "reviews": 5
+      },
+      {
+        "name": "Cuci Helm Kilat Sukabumi",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Pelabuhan 2 No. 396 Cipanengah (Babakan Pangumbahan",
+        "href": "https://www.google.com/maps/place/Cuci+Helm+Kilat+Sukabumi/data=!4m7!3m6!1s0x2e684900371dcb3f:0x76f25a45425d042a!8m2!3d-6.9483529!4d106.9152912!16s%2Fg%2F11n4pm",
+        "reviews": 1
+      },
+      {
+        "name": "Millenium Helm Sukabumi",
+        "rating": 4.3,
+        "address": "Toko Sepeda Motor ·  · Jl. Otto Iskandardinata No.41",
+        "href": "https://www.google.com/maps/place/Millenium+Helm+Sukabumi/data=!4m7!3m6!1s0x2e6848385b734b65:0x6154e9165d3de3c2!8m2!3d-6.9245357!4d106.9338411!16s%2Fg%2F11c70cb",
+        "reviews": 186
+      },
+      {
+        "name": "Cuci Steam Mobil & Motor 24 jam",
+        "rating": 4.3,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Cuci+Steam+Mobil+%26+Motor+24+jam/data=!4m7!3m6!1s0x2e6848250d0597f5:0xf09f7ed95eee4410!8m2!3d-6.9242964!4d106.9216983!16s%2Fg",
+        "reviews": 711
+      },
+      {
+        "name": "Rumah Helm Sukabumi (RHS)",
+        "rating": 4.4,
+        "address": "Toko Swalayan ·  · Jl. Pelabuhan II Jl. Pangleseran",
+        "href": "https://www.google.com/maps/place/Rumah+Helm+Sukabumi+%28RHS%29/data=!4m7!3m6!1s0x2e684977313d4c59:0x9f4796102ecee130!8m2!3d-6.9763077!4d106.8544194!16s%2Fg%2F1",
+        "reviews": 36
+      },
+      {
+        "name": "CuciWangi Sukabumi",
+        "rating": 5,
+        "address": "Toko outlet · kantor walikota sukabumi, Jl. R. Syamsudin S.H, kanan No.13",
+        "href": "https://www.google.com/maps/place/CuciWangi+Sukabumi/data=!4m7!3m6!1s0x2e684965711ad235:0xb84442112df893b3!8m2!3d-6.9177545!4d106.9305571!16s%2Fg%2F11g_zk5612!1",
+        "reviews": 2789
+      },
+      {
+        "name": "DENK SERVIS HELM SUKABUMI",
+        "rating": 4.6,
+        "address": "Layanan reparasi · Jl. Lio Santa No.20",
+        "href": "https://www.google.com/maps/place/DENK+SERVIS+HELM+SUKABUMI/data=!4m7!3m6!1s0x2e6849976acfacff:0x46dee9235111aea7!8m2!3d-6.9466481!4d106.9247238!16s%2Fg%2F11fhm",
+        "reviews": 18
+      },
+      {
+        "name": "Bersih.in WearCare",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Lettu Bakrie No.2",
+        "href": "https://www.google.com/maps/place/Bersih.in+WearCare/data=!4m7!3m6!1s0x2e68490035e4905d:0x835535c89b50370d!8m2!3d-6.9216587!4d106.9221576!16s%2Fg%2F11z0y_7zrg!1",
+        "reviews": 224
+      },
+      {
+        "name": "TOKO HELM STAR BIKE MART SUKABUMI",
+        "rating": 4.4,
+        "address": "Pasar mobil ·  · Jl. R.A. Kosasih No.107",
+        "href": "https://www.google.com/maps/place/TOKO+HELM+STAR+BIKE+MART+SUKABUMI/data=!4m7!3m6!1s0x2e68490f80d44b6b:0x4eb0ae5038bef48a!8m2!3d-6.9225854!4d106.9403352!16s%2Fg",
+        "reviews": 92
+      }
+    ],
+    "category": "Cuci Tas & Helm"
+  },
+  {
+    "query": "laundry helm sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Miki Waka Helm, Laundry & Store",
+        "rating": 5,
+        "address": "Layanan Binatu ·  · Jl. Perintis Kemerdekaan No.01",
+        "href": "https://www.google.com/maps/place/Miki+Waka+Helm,+Laundry+%26+Store/data=!4m7!3m6!1s0x2e6849973ddea663:0x1e4d92743d8c5192!8m2!3d-6.9205861!4d106.9264641!16s%2Fg",
+        "reviews": 1
+      },
+      {
+        "name": "Cuci Helm Kilat Sukabumi",
+        "rating": 5,
+        "address": "Layanan Binatu · Jl. Pelabuhan 2 No. 396 Cipanengah (Babakan Pangumbahan",
+        "href": "https://www.google.com/maps/place/Cuci+Helm+Kilat+Sukabumi/data=!4m7!3m6!1s0x2e684900371dcb3f:0x76f25a45425d042a!8m2!3d-6.9483529!4d106.9152912!16s%2Fg%2F11n4pm",
+        "reviews": 1
+      },
+      {
+        "name": "CUCIHELM.SMI",
+        "rating": 5,
+        "address": "Tempat cuci motor · Jl. R.A. Kosasih Gg. Samsitirta",
+        "href": "https://www.google.com/maps/place/CUCIHELM.SMI/data=!4m7!3m6!1s0x2e6849cf850ba2bb:0xd31746b7236136e1!8m2!3d-6.9197427!4d106.940078!16s%2Fg%2F11sd33v97l!19sChIJu",
+        "reviews": 5
+      },
+      {
+        "name": "RUANG CUCI",
+        "rating": 4.7,
+        "address": "Layanan Binatu · Jl. Pelabuhan II No.km. 5",
+        "href": "https://www.google.com/maps/place/RUANG+CUCI/data=!4m7!3m6!1s0x2e6839310183bee3:0x52f3d37d27adeed0!8m2!3d-6.9563294!4d106.9061894!16s%2Fg%2F11nyft6q_1!19sChIJ47",
+        "reviews": 31
+      },
+      {
+        "name": "CuciWangi Sukabumi",
+        "rating": 5,
+        "address": "Toko outlet · kantor walikota sukabumi, Jl. R. Syamsudin S.H, kanan No.13",
+        "href": "https://www.google.com/maps/place/CuciWangi+Sukabumi/data=!4m7!3m6!1s0x2e684965711ad235:0xb84442112df893b3!8m2!3d-6.9177545!4d106.9305571!16s%2Fg%2F11g_zk5612!1",
+        "reviews": 2789
+      },
+      {
+        "name": "Cuci Disini Sukabumi",
+        "rating": 5,
+        "address": "Toko Reparasi Sepatu · Jl. Veteran Citengkor No.4",
+        "href": "https://www.google.com/maps/place/Cuci+Disini+Sukabumi/data=!4m7!3m6!1s0x2e68370007c2852b:0xb09d1648fa9078db!8m2!3d-6.9079312!4d106.8894095!16s%2Fg%2F11lw94jct8",
+        "reviews": 66
+      },
+      {
+        "name": "Rumah Helm Sukabumi (RHS)",
+        "rating": 4.4,
+        "address": "Toko Swalayan ·  · Jl. Pelabuhan II Jl. Pangleseran",
+        "href": "https://www.google.com/maps/place/Rumah+Helm+Sukabumi+%28RHS%29/data=!4m7!3m6!1s0x2e684977313d4c59:0x9f4796102ecee130!8m2!3d-6.9763077!4d106.8544194!16s%2Fg%2F1",
+        "reviews": 36
+      },
+      {
+        "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+        "rating": 4.7,
+        "address": "Binatu · Gg. Cipelang Leutik 1",
+        "href": "https://www.google.com/maps/place/Laundry+%26+Cuci+Sepatu+-+Pasti+Bersih.Small+Space/data=!4m7!3m6!1s0x2e684938b5083957:0xfa09c9ae81ce17f7!8m2!3d-6.9173379!4d10",
+        "reviews": 26
+      },
+      {
+        "name": "Cuci Helm Jayadi",
+        "rating": 5,
+        "address": "Toko Suku Cadang Motor · Jalan Lettu Bakri No 6, Nyomplong, Warudoyong",
+        "href": "https://www.google.com/maps/place/Cuci+Helm+Jayadi/data=!4m7!3m6!1s0x2e68482f96e8e83b:0x14d6287cd9cf0e0a!8m2!3d-6.9218064!4d106.9220776!16s%2Fg%2F11fy43l5sr!19s",
+        "reviews": 4
+      }
+    ],
+    "category": "Cuci Tas & Helm"
+  }
+]

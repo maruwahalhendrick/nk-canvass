@@ -2535,5 +2535,74 @@
     "panelName": "Toko Mas Permata Cibadak",
     "nameScore": 1,
     "noPhone": true
+  },
+  {
+    "id": 583,
+    "name": "Amani Laundry Karpet Cisaat Cikiray",
+    "processed": true,
+    "panelName": "Amani Laundry Karpet Cisaat Cikiray",
+    "nameScore": 1,
+    "phone": "085719273592",
+    "phoneType": "mobile",
+    "phoneRaw": "085719273592"
+  },
+  {
+    "id": 584,
+    "name": "Laundry Karpet Sukabumi - Kyabi Clean Laundry Karpet Express",
+    "processed": true,
+    "panelName": "Laundry Karpet Sukabumi - Kyabi Clean Laundry Karpet Express",
+    "nameScore": 1,
+    "phone": "081399941779",
+    "phoneType": "mobile",
+    "phoneRaw": "081399941779"
+  },
+  {
+    "id": 585,
+    "name": "Miki Waka Helm, Laundry & Store",
+    "processed": true,
+    "panelName": "Miki Waka Helm, Laundry & Store",
+    "nameScore": 1,
+    "phone": "081291596099",
+    "phoneType": "mobile",
+    "phoneRaw": "081291596099"
+  },
+  {
+    "id": 586,
+    "name": "CUCIHELM.SMI",
+    "processed": true,
+    "panelName": "CUCIHELM.SMI",
+    "nameScore": 1,
+    "phone": "085798047422",
+    "phoneType": "mobile",
+    "phoneRaw": "085798047422"
+  },
+  {
+    "id": 587,
+    "name": "Cuci Helm Kilat Sukabumi",
+    "processed": true,
+    "candName": "Cuci Helm Kilat Sukabumi",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "Cuci Helm Kilat Sukabumi",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 588,
+    "name": "Cuci Helm Jayadi",
+    "processed": true,
+    "panelName": "Cuci Helm Jayadi",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 589,
+    "name": "DENK SERVIS HELM SUKABUMI",
+    "processed": true,
+    "panelName": "DENK SERVIS HELM SUKABUMI",
+    "nameScore": 1,
+    "phone": "085798250014",
+    "phoneType": "mobile",
+    "phoneRaw": "085798250014"
   }
 ]
