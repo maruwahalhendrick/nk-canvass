@@ -7670,5 +7670,33 @@
     "phoneType": "",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi",
     "source": "niche-scrape"
+  },
+  {
+    "id": 549,
+    "name": "Service Jam Arifin",
+    "category": "Jam & Arloji",
+    "rating": 5,
+    "reviews": 2,
+    "strategy": "HIGH_LOW_REV",
+    "zone": "Zona 5 (Timur/Utara)",
+    "address": "4239+6GP, Cimangkok, Kec. Sukalarang, Kabupaten Sukabumi, Jawa Barat 43191",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Service%20Jam%20Arifin%20sukabumi",
+    "source": "niche-scrape"
+  },
+  {
+    "id": 550,
+    "name": "Wa karna service arloji",
+    "category": "Jam & Arloji",
+    "rating": 5,
+    "reviews": 6,
+    "strategy": "HIGH_LOW_REV",
+    "zone": "Zona 4 (Jantung Kota)",
+    "address": "Jl. Ciseke, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43192",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wa%20karna%20service%20arloji%20sukabumi",
+    "source": "niche-scrape"
   }
 ]

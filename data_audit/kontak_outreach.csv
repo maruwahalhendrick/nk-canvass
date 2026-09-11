@@ -547,3 +547,5 @@ id,nama,kategori,zona,strategi,telepon,tipe,rating,reviews,maps_url
 546,"Toko Maribaya","Jam & Arloji","Zona 4 (Jantung Kota)","UNDER_5",0266222301,landline,4.1,33,"https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi"
 547,"Toko Anyar","Jam & Arloji","Zona 4 (Jantung Kota)","UNDER_5",0266211573,landline,4.2,5,"https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi"
 548,"Toko SUTERA WATCH","Jam & Arloji","Zona 1 (Baros/Jalur)","UNDER_5",0266222915,landline,4.4,337,"https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi"
+549,"Service Jam Arifin","Jam & Arloji","Zona 5 (Timur/Utara)","HIGH_LOW_REV",085604967327,mobile,5,2,"https://www.google.com/maps/search/?api=1&query=Service%20Jam%20Arifin%20sukabumi"
+550,"Wa karna service arloji","Jam & Arloji","Zona 4 (Jantung Kota)","HIGH_LOW_REV",08568152865,mobile,5,6,"https://www.google.com/maps/search/?api=1&query=Wa%20karna%20service%20arloji%20sukabumi"

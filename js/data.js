@@ -1,7 +1,7 @@
 // ============================================================
 // NEURALKATS CANVASSING HUB — Master Data UMKM Sukabumi
 // Sumber: scrape fresh Google Maps 2026-09-11 (pipeline: data_audit/)
-// Total: 548 UMKM | 494 ada nomor telepon (dari listing Maps publik)
+// Total: 550 UMKM | 496 ada nomor telepon (dari listing Maps publik)
 //
 // CARA NAMBAH DATA:
 // 1. Copy template di bawah, paste di akhir array:
@@ -564,4 +564,6 @@ window.UMKM_DATA = [
   { name: "Toko Maribaya", category: "Jam & Arloji", rating: 4.1, reviews: 33, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. A. Yani No.134, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111", phone: "0266222301", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi" },
   { name: "Toko Anyar", category: "Jam & Arloji", rating: 4.2, reviews: 5, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. A. Yani No.86, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111", phone: "0266211573", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi" },
   { name: "Toko SUTERA WATCH", category: "Jam & Arloji", rating: 4.4, reviews: 337, strategy: "UNDER_5", zone: "Zona 1 (Baros/Jalur)", address: "Jl. A. Yani No.62, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131", phone: "0266222915", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi" },
+  { name: "Service Jam Arifin", category: "Jam & Arloji", rating: 5, reviews: 2, strategy: "HIGH_LOW_REV", zone: "Zona 5 (Timur/Utara)", address: "4239+6GP, Cimangkok, Kec. Sukalarang, Kabupaten Sukabumi, Jawa Barat 43191", phone: "085604967327", phoneType: "mobile", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Service%20Jam%20Arifin%20sukabumi" },
+  { name: "Wa karna service arloji", category: "Jam & Arloji", rating: 5, reviews: 6, strategy: "HIGH_LOW_REV", zone: "Zona 4 (Jantung Kota)", address: "Jl. Ciseke, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43192", phone: "08568152865", phoneType: "mobile", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Wa%20karna%20service%20arloji%20sukabumi" },
 ];

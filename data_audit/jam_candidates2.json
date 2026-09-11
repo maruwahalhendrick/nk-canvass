@@ -1,0 +1,472 @@
+[
+  {
+    "query": "kios jam sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Kios Biru Kebon Kelapa Sukabumi",
+        "rating": 5,
+        "address": "Kios · Jl. A. Yani Jalan Manggis Kebon Kelapa No.222",
+        "href": "https://www.google.com/maps/place/Kios+Biru+Kebon+Kelapa+Sukabumi/data=!4m7!3m6!1s0x2e6849002f19c97d:0xb5068cd33169a069!8m2!3d-6.9229122!4d106.9324598!16s%2Fg%2"
+      },
+      {
+        "name": "Kios dan Kontrakan Ibu Susi",
+        "rating": 5,
+        "address": "Pusat Perbelanjaan · Jl. Lio Santa",
+        "href": "https://www.google.com/maps/place/Kios+dan+Kontrakan+Ibu+Susi/data=!4m7!3m6!1s0x2e6849d20c93efd9:0x4873f2ca3a6de93d!8m2!3d-6.946843!4d106.9254216!16s%2Fg%2F11hz"
+      },
+      {
+        "name": "KIOS MUJUR III",
+        "rating": 5,
+        "address": "Toko · 3WFJ+WCW, Jl. Tembus St. Timur",
+        "href": "https://www.google.com/maps/place/KIOS+MUJUR+III/data=!4m7!3m6!1s0x2e6849000fe4c007:0xba9f59e06e55364d!8m2!3d-6.9251278!4d106.9310927!16s%2Fg%2F11y_vzzppq!19sCh"
+      },
+      {
+        "name": "Kios Jabar",
+        "rating": 4.7,
+        "address": "Kios · 4X47+V65, Jl. Goalpara",
+        "href": "https://www.google.com/maps/place/Kios+Jabar/data=!4m7!3m6!1s0x2e6849514796fed3:0x58dd5cf9876f5d9e!8m2!3d-6.8928632!4d106.9630992!16s%2Fg%2F11gmxvxllz!19sChIJ0_"
+      },
+      {
+        "name": "Kios ORE",
+        "rating": 3,
+        "address": "Toko · Jl. Masjid No.9",
+        "href": "https://www.google.com/maps/place/Kios+ORE/data=!4m7!3m6!1s0x2e68483037d2b025:0xd18fdcaf5a455548!8m2!3d-6.9206524!4d106.9254846!16s%2Fg%2F11hb43g0l1!19sChIJJbDS"
+      },
+      {
+        "name": "KIOS MANG RUDZ",
+        "rating": 4.5,
+        "address": "Kios ·  · Gg. Re Sasmita No.43",
+        "href": "https://www.google.com/maps/place/KIOS+MANG+RUDZ/data=!4m7!3m6!1s0x2e6848153f98abcf:0x75565bb233a71ce8!8m2!3d-6.9341839!4d106.934754!16s%2Fg%2F11f3vqrzxl!19sChI"
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "penjual jam tangan sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "SIMASTEL 2 - MISHOP",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Ciwangi No.12",
+        "href": "https://www.google.com/maps/place/SIMASTEL+2+-+MISHOP/data=!4m7!3m6!1s0x2e68483092298b9b:0xdb203e7afd0b9a54!8m2!3d-6.9214856!4d106.9280014!16s%2Fg%2F11f3880zm0!",
+        "reviews": 153
+      },
+      {
+        "name": "Toko Maribaya",
+        "rating": 4.1,
+        "address": "Jasa Reparasi Jam ·  · Jl. A. Yani No.134",
+        "href": "https://www.google.com/maps/place/Toko+Maribaya/data=!4m7!3m6!1s0x2e684830aa801381:0xbd3bd80ad524f232!8m2!3d-6.9225418!4d106.9298091!16s%2Fg%2F1pzqjcslx!19sChIJ",
+        "reviews": 33
+      },
+      {
+        "name": "Toko Anyar",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.86",
+        "href": "https://www.google.com/maps/place/Toko+Anyar/data=!4m7!3m6!1s0x2e6848309eaef757:0x63e54d4f46293ef3!8m2!3d-6.9223413!4d106.9281466!16s%2Fg%2F11g9ph3sxj!19sChIJV_",
+        "reviews": 5
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "perbaikan jam sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Servis jam tangan",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Servis+jam+tangan/data=!4m7!3m6!1s0x2e6833ff756afa7b:0xb666fe23e2125fdd!8m2!3d-6.842456!4d106.7555778!16s%2Fg%2F11rr2c41gc!19s",
+        "reviews": 12
+      },
+      {
+        "name": "Toko Maribaya",
+        "rating": 4.1,
+        "address": "Jasa Reparasi Jam ·  · Jl. A. Yani No.134",
+        "href": "https://www.google.com/maps/place/Toko+Maribaya/data=!4m7!3m6!1s0x2e684830aa801381:0xbd3bd80ad524f232!8m2!3d-6.9225418!4d106.9298091!16s%2Fg%2F1pzqjcslx!19sChIJ",
+        "reviews": 33
+      },
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "Service Jam Arifin",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Service+Jam+Arifin/data=!4m7!3m6!1s0x2e684fd36d699a7b:0x4531f1823ed1d44b!8m2!3d-6.8958269!4d107.0190142!16s%2Fg%2F11t_zrlrlc!1",
+        "reviews": 2
+      },
+      {
+        "name": "Montir 24 jam sukabumi",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Montir+24+jam+sukabumi/data=!4m7!3m6!1s0x2e683723153f5a53:0xa28b660efc5eda7d!8m2!3d-6.912565!4d106.9078809!16s%2Fg%2F11ht3pb4j",
+        "reviews": 17
+      },
+      {
+        "name": "RAJA REPAIR CIBADAK SUKABUMI",
+        "rating": 4.9,
+        "address": "Toko Perbaikan Ponsel ·  · Jl. Suryakencana No.219",
+        "href": "https://www.google.com/maps/place/RAJA+REPAIR+CIBADAK+SUKABUMI/data=!4m7!3m6!1s0x2e68318955be96ed:0x30e0d41f72c3d756!8m2!3d-6.8843411!4d106.7787144!16s%2Fg%2F11",
+        "reviews": 252
+      },
+      {
+        "name": "SIMASTEL 2 - MISHOP",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Ciwangi No.12",
+        "href": "https://www.google.com/maps/place/SIMASTEL+2+-+MISHOP/data=!4m7!3m6!1s0x2e68483092298b9b:0xdb203e7afd0b9a54!8m2!3d-6.9214856!4d106.9280014!16s%2Fg%2F11f3880zm0!",
+        "reviews": 153
+      },
+      {
+        "name": "KAMILAH WATCH (JASA SERVICE JAM TANGAN BANDUNG)",
+        "rating": 4.9,
+        "address": "Jasa Servis Jam ·  · Jl. Awi Bitung No.17",
+        "href": "https://www.google.com/maps/place/KAMILAH+WATCH+%28JASA+SERVICE+JAM+TANGAN+BANDUNG%29/data=!4m7!3m6!1s0x2e68e7c6b49df161:0x5babbe3cb3c3d9cc!8m2!3d-6.9098077!4d1",
+        "reviews": 376
+      },
+      {
+        "name": "iRoom Service Sukabumi",
+        "rating": 5,
+        "address": "Jasa Perbaikan Telepon · Jl. R. E. Martadinata No.32",
+        "href": "https://www.google.com/maps/place/iRoom+Service+Sukabumi/data=!4m7!3m6!1s0x2e684900758220e5:0xa4280e48c6136560!8m2!3d-6.920721!4d106.929874!16s%2Fg%2F11ybdxvgp3",
+        "reviews": 4566
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "servis arloji sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "SIMASTEL 2 - MISHOP",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Ciwangi No.12",
+        "href": "https://www.google.com/maps/place/SIMASTEL+2+-+MISHOP/data=!4m7!3m6!1s0x2e68483092298b9b:0xdb203e7afd0b9a54!8m2!3d-6.9214856!4d106.9280014!16s%2Fg%2F11f3880zm0!",
+        "reviews": 153
+      },
+      {
+        "name": "Wa karna service arloji",
+        "rating": 5,
+        "address": "Toko Elektronik · Jl. Ciseke",
+        "href": "https://www.google.com/maps/place/Wa+karna+service+arloji/data=!4m7!3m6!1s0x2e6849d766f888c3:0x73757f1f3a9d0a6!8m2!3d-6.9256367!4d106.9618654!16s%2Fg%2F11fp8378",
+        "reviews": 6
+      },
+      {
+        "name": "Toko Maribaya",
+        "rating": 4.1,
+        "address": "Jasa Reparasi Jam ·  · Jl. A. Yani No.134",
+        "href": "https://www.google.com/maps/place/Toko+Maribaya/data=!4m7!3m6!1s0x2e684830aa801381:0xbd3bd80ad524f232!8m2!3d-6.9225418!4d106.9298091!16s%2Fg%2F1pzqjcslx!19sChIJ",
+        "reviews": 33
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "jam smartwatch sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "SIMASTEL 2 - MISHOP",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Ciwangi No.12",
+        "href": "https://www.google.com/maps/place/SIMASTEL+2+-+MISHOP/data=!4m7!3m6!1s0x2e68483092298b9b:0xdb203e7afd0b9a54!8m2!3d-6.9214856!4d106.9280014!16s%2Fg%2F11f3880zm0!",
+        "reviews": 153
+      },
+      {
+        "name": "Toko SUTERA WATCH",
+        "rating": 4.4,
+        "address": "Toko Jam ·  · Jl. A. Yani No.62",
+        "href": "https://www.google.com/maps/place/Toko+SUTERA+WATCH/data=!4m7!3m6!1s0x2e68483086990099:0x639cf1d8193bfd06!8m2!3d-6.9223159!4d106.9274516!16s%2Fg%2F11bz_1jhvh!19",
+        "reviews": 337
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "apple watch sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "iBox Sukabumi",
+        "rating": 4.8,
+        "address": "Toko Ponsel · Jl. Sudirman No.41, RT.03/RW.01",
+        "href": "https://www.google.com/maps/place/iBox+Sukabumi/data=!4m7!3m6!1s0x2e6849aad7c6a9a1:0xc1214c4dac5505b!8m2!3d-6.919499!4d106.9190905!16s%2Fg%2F11l29w_5b2!19sChIJo",
+        "reviews": 931
+      },
+      {
+        "name": "APPLE IN STORE",
+        "rating": 3.8,
+        "address": "Toko Ponsel · Jl. Pajagalan No.62",
+        "href": "https://www.google.com/maps/place/APPLE+IN+STORE/data=!4m7!3m6!1s0x2e6849103719469f:0x214ae6dff07dd219!8m2!3d-6.9250057!4d106.9217137!16s%2Fg%2F11r10tkmwd!19sCh",
+        "reviews": 30
+      },
+      {
+        "name": "PANDU APPLE STORE",
+        "rating": 4.7,
+        "address": "Toko Ponsel · Jl. Otto Iskandardinata",
+        "href": "https://www.google.com/maps/place/PANDU+APPLE+STORE/data=!4m7!3m6!1s0x2e6849000f853205:0x6e4021b08c9a905e!8m2!3d-6.9286818!4d106.9329719!16s%2Fg%2F11vrhgj90v!19",
+        "reviews": 86
+      },
+      {
+        "name": "iPhone Sukabumi",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Lettu Bakri",
+        "href": "https://www.google.com/maps/place/iPhone+Sukabumi/data=!4m7!3m6!1s0x2e684947a6eff49f:0x95c02ca2f2cee650!8m2!3d-6.9218353!4d106.9223274!16s%2Fg%2F11y0bg3qc8!19sC",
+        "reviews": 112
+      },
+      {
+        "name": "Erafone Megastore Sukabumi 2",
+        "rating": 4.9,
+        "address": "Toko Elektronik · Jl. R. E. Martadinata No.38",
+        "href": "https://www.google.com/maps/place/Erafone+Megastore+Sukabumi+2/data=!4m7!3m6!1s0x2e68495bf5703f29:0xfde1c93a03fec0f1!8m2!3d-6.9205498!4d106.9300093!16s%2Fg%2F11",
+        "reviews": 360
+      },
+      {
+        "name": "Erafone Sukabumi",
+        "rating": 4.8,
+        "address": "Toko Ponsel · Jl. A. Yani No.130",
+        "href": "https://www.google.com/maps/place/Erafone+Sukabumi/data=!4m7!3m6!1s0x2e6849daf3f136ab:0x8e63b29d7957502a!8m2!3d-6.9225494!4d106.9296832!16s%2Fg%2F11g0cy44vc!19s",
+        "reviews": 355
+      },
+      {
+        "name": "Halife Store",
+        "rating": 4.7,
+        "address": "Toko Ponsel · Jl. Tipar No.30",
+        "href": "https://www.google.com/maps/place/Halife+Store/data=!4m7!3m6!1s0x2e68483c6f3a17bd:0x109ef79679e98e49!8m2!3d-6.928736!4d106.927863!16s%2Fg%2F11c6rh6jvf!19sChIJvR",
+        "reviews": 187
+      },
+      {
+        "name": "Gadget Plan",
+        "rating": 4.4,
+        "address": "Toko Ponsel · Jl. RH Didi Sukardi, B Cigodeg No.10",
+        "href": "https://www.google.com/maps/place/Gadget+Plan/data=!4m7!3m6!1s0x2e6849de0fc5cb35:0x86f7e2cbe5580961!8m2!3d-6.9321535!4d106.9322173!16s%2Fg%2F11fmrlnj06!19sChIJN",
+        "reviews": 262
+      },
+      {
+        "name": "GiStore_Service iPhone",
+        "rating": 4.8,
+        "address": "Toko Perbaikan Ponsel · Jl. Stadion No.1",
+        "href": "https://www.google.com/maps/place/GiStore_Service+iPhone/data=!4m7!3m6!1s0x2e6849235f1cffb3:0x948bda557111629!8m2!3d-6.9312861!4d106.9206234!16s%2Fg%2F11jt49nhq",
+        "reviews": 68
+      },
+      {
+        "name": "PSTORE SUKABUMI",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/PSTORE+SUKABUMI/data=!4m7!3m6!1s0x2e68499ecef84855:0xc792864082e81493!8m2!3d-6.9226429!4d106.9406217!16s%2Fg%2F11txfy8xmb!19sC",
+        "reviews": 1150
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "toko jam second sukabumi",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "Second branded Sukabumi",
+        "rating": 3.7,
+        "address": "Toko · Jl. Selabintana No.117",
+        "href": "https://www.google.com/maps/place/Second+branded+Sukabumi/data=!4m7!3m6!1s0x2e684903dffe2581:0x3b33e73bbf3075fa!8m2!3d-6.8936884!4d106.9384662!16s%2Fg%2F11qqnxk",
+        "reviews": 3
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "toko jam cibadak",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "TOKO ANYAR26 CIBADAK",
+        "rating": 4.6,
+        "address": "Toko ·  · JL. Cibadak 26, Kec. Astana Anyar",
+        "href": "https://www.google.com/maps/place/TOKO+ANYAR26+CIBADAK/data=!4m7!3m6!1s0x2e68e6227afcfd49:0xc79b46456e6d1d1e!8m2!3d-6.9218221!4d107.6031789!16s%2Fg%2F1hcb4fmj5!",
+        "reviews": 157
+      },
+      {
+        "name": "Abadi Supplier Souvenir Cibadak",
+        "rating": 4.9,
+        "address": "Toko Suvenir · Jl. Cibadak No.8",
+        "href": "https://www.google.com/maps/place/Abadi+Supplier+Souvenir+Cibadak/data=!4m7!3m6!1s0x2e68e7006545e7bf:0xc38fc3545f262a04!8m2!3d-6.921941!4d107.6036248!16s%2Fg%2F",
+        "reviews": 40
+      },
+      {
+        "name": "Sukses Jaya Promosi",
+        "rating": 5,
+        "address": "Produsen suvenir · Jl. Cibadak No.3",
+        "href": "https://www.google.com/maps/place/Sukses+Jaya+Promosi/data=!4m7!3m6!1s0x2e68e61974e79f93:0x34d4ae8d2c13de4f!8m2!3d-6.9221249!4d107.6038524!16s%2Fg%2F11c0xthtc7!",
+        "reviews": 111
+      },
+      {
+        "name": "Seribu Satu Toko",
+        "rating": 4.4,
+        "address": "Pemasok Peralatan Industri ·  · Jl. Cibadak No.17",
+        "href": "https://www.google.com/maps/place/Seribu+Satu+Toko/data=!4m7!3m6!1s0x2e68e623ec9c5aeb:0xb6df1c7edd9fe394!8m2!3d-6.9220821!4d107.6034403!16s%2Fg%2F1pzxh21df!19sC",
+        "reviews": 262
+      },
+      {
+        "name": "Djasa Mekar",
+        "rating": 4.2,
+        "address": "Minimarket ·  · Jl. Cibadak No.49A",
+        "href": "https://www.google.com/maps/place/Djasa+Mekar/data=!4m7!3m6!1s0x2e68e623be0c9a8b:0xeadda2b45e70713e!8m2!3d-6.9219471!4d107.6022271!16s%2Fg%2F11gdlyr0z4!19sChIJi",
+        "reviews": 299
+      },
+      {
+        "name": "Indomas. PD",
+        "rating": 3.9,
+        "address": "Toko Aksesori Pakaian ·  · Jl. Cibadak No.11",
+        "href": "https://www.google.com/maps/place/Indomas.+PD/data=!4m7!3m6!1s0x2e68e6239163b9b3:0x82d46b222340b239!8m2!3d-6.9221109!4d107.6036299!16s%2Fg%2F1pzqf9y6t!19sChIJs7",
+        "reviews": 117
+      },
+      {
+        "name": "Toko Maju Jaya",
+        "rating": 4.5,
+        "address": "Toko Peralatan Makan ·  · Jl. Cibadak No.88",
+        "href": "https://www.google.com/maps/place/Toko+Maju+Jaya/data=!4m7!3m6!1s0x2e68e7530df4b685:0x45a62bfe66dc389f!8m2!3d-6.921658!4d107.6011561!16s%2Fg%2F11glsz_8lf!19sChI",
+        "reviews": 54
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "toko jam cisaat",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Erablue Electronics Cibatu Cisaat",
+        "rating": 5,
+        "address": "Toko Elektronik · Jl. Raya Cibatu Cisaat, RT.002/RW.001",
+        "href": "https://www.google.com/maps/place/Erablue+Electronics+Cibatu+Cisaat/data=!4m7!3m6!1s0x2e6837928d30e61b:0xa76ab6add31a1ecf!8m2!3d-6.9048846!4d106.8871079!16s%2Fg",
+        "reviews": 1016
+      },
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "Erafone Cisaat Sukabumi",
+        "rating": 4.8,
+        "address": "Toko Elektronik · Jl. Nasional III",
+        "href": "https://www.google.com/maps/place/Erafone+Cisaat+Sukabumi/data=!4m7!3m6!1s0x2e68374bb9da4511:0xbe5bb78c0838b5a5!8m2!3d-6.9097624!4d106.8942866!16s%2Fg%2F11wvlsk",
+        "reviews": 292
+      },
+      {
+        "name": "SIMASTEL 2 - MISHOP",
+        "rating": 4.9,
+        "address": "Toko Ponsel · Jl. Ciwangi No.12",
+        "href": "https://www.google.com/maps/place/SIMASTEL+2+-+MISHOP/data=!4m7!3m6!1s0x2e68483092298b9b:0xdb203e7afd0b9a54!8m2!3d-6.9214856!4d106.9280014!16s%2Fg%2F11f3880zm0!",
+        "reviews": 153
+      },
+      {
+        "name": "Karya Baru Toko",
+        "rating": 5,
+        "address": "Toko · JL. Cibatu, No. 322, Cisaat",
+        "href": "https://www.google.com/maps/place/Karya+Baru+Toko/data=!4m7!3m6!1s0x2e68364868ad8003:0xa7489e188eb8a17!8m2!3d-6.9044249!4d106.8865051!16s%2Fg%2F1pzrqwhlk!19sChI",
+        "reviews": 1
+      },
+      {
+        "name": "Niceso Cisaat",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Niceso+Cisaat/data=!4m7!3m6!1s0x2e6837a349785445:0xd3e7eb536531c5b9!8m2!3d-6.9115687!4d106.8964425!16s%2Fg%2F11sgxr5xnx!19sChI",
+        "reviews": 2299
+      }
+    ],
+    "category": "Retail"
+  },
+  {
+    "query": "toko jam cicurug",
+    "mode": "list",
+    "candidates": [
+      {
+        "name": "Raya Arloji",
+        "rating": 5,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Raya+Arloji/data=!4m7!3m6!1s0x2e69ccd3ac38d97f:0x91aab1511f131ce9!8m2!3d-6.790772!4d106.7792069!16s%2Fg%2F11vyn_0jp6!19sChIJf9",
+        "reviews": 20
+      },
+      {
+        "name": "Toko Bahagia Cicurug",
+        "rating": 4.5,
+        "address": "Toko Elektronik ·  · Jalan Raya Pasar No.99, Ruko No.A-C",
+        "href": "https://www.google.com/maps/place/Toko+Bahagia+Cicurug/data=!4m7!3m6!1s0x2e69ccd1b49b5aeb:0xe06d75ee112db9c8!8m2!3d-6.7860808!4d106.7805035!16s%2Fg%2F11bc7sfsw2",
+        "reviews": 344
+      },
+      {
+        "name": "Mitra Grosir Toserba",
+        "rating": 4.1,
+        "address": "Toko bahan makanan ·  · Jl. Siliwangi No.27",
+        "href": "https://www.google.com/maps/place/Mitra+Grosir+Toserba/data=!4m7!3m6!1s0x511167f5db1413f:0xcb0cc9582775ebb1!8m2!3d-6.7880157!4d106.7794478!16s%2Fg%2F11b6p6nv8y!",
+        "reviews": 527
+      },
+      {
+        "name": "Nice So Cicurug",
+        "rating": 4.9,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Nice+So+Cicurug/data=!4m7!3m6!1s0x2e69cd86f0de13b1:0xd147ce1d931d8fda!8m2!3d-6.7808691!4d106.7828003!16s%2Fg%2F11k6b3n_rn!19sC",
+        "reviews": 3101
+      },
+      {
+        "name": "DUTA ARLOJI SUKABUMI",
+        "rating": 4.2,
+        "address": "Toko Jam · Jl. A. Yani No.81",
+        "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf",
+        "reviews": 64
+      },
+      {
+        "name": "Toko Aneka Elektronik",
+        "rating": 4.8,
+        "address": "Toko Elektronik · Jl. Raya Sukabumi No.27",
+        "href": "https://www.google.com/maps/place/Toko+Aneka+Elektronik/data=!4m7!3m6!1s0x2e69ccd1bae2f5a7:0x373d12884c5c4f9e!8m2!3d-6.7868128!4d106.7803789!16s%2Fg%2F11ddwxdhv",
+        "reviews": 29
+      },
+      {
+        "name": "Toko OMEGA",
+        "rating": 4,
+        "address": "",
+        "href": "https://www.google.com/maps/place/Toko+OMEGA/data=!4m7!3m6!1s0x2e69cd27a42ebc8f:0x41763167032f09c7!8m2!3d-6.7864079!4d106.7815793!16s%2Fg%2F11fhr75rvw!19sChIJj7",
+        "reviews": 3422
+      }
+    ],
+    "category": "Retail"
+  }
+]

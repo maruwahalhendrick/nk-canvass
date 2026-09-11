@@ -1,0 +1,538 @@
+[
+  {
+    "name": "Kios Biru Kebon Kelapa Sukabumi",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 5,
+    "listedAddress": "Kios · Jl. A. Yani Jalan Manggis Kebon Kelapa No.222",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. A. Yani Jalan Manggis Kebon Kelapa No.222, Kebonjati, Cikole, Sukabumi City, West Java 43112",
+    "reviews": 2,
+    "city": "Sukabumi?"
+  },
+  {
+    "name": "Kios dan Kontrakan Ibu Susi",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 5,
+    "listedAddress": "Pusat Perbelanjaan · Jl. Lio Santa",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Lio Santa, Gedongpanjang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43144",
+    "reviews": 2,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "KIOS MUJUR III",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 5,
+    "listedAddress": "Toko · 3WFJ+WCW, Jl. Tembus St. Timur",
+    "mode": "panel",
+    "rating": 5,
+    "address": "3WFJ+WCW, Jl. Tembus St. Timur, Kebonjati, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 2,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Kios Jabar",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 4.7,
+    "listedAddress": "Kios · 4X47+V65, Jl. Goalpara",
+    "mode": "panel-via-click",
+    "rating": 4.7,
+    "address": "4X47+V65, Jl. Goalpara, Sukamekar, Kec. Sukaraja, Kabupaten Sukabumi, Jawa Barat 43192",
+    "href": "https://www.google.com/maps/place/Kios+Jabar/data=!4m7!3m6!1s0x2e6849514796fed3:0x58dd5cf9876f5d9e!8m2!3d-6.8928632!4d106.9630992!16s%2Fg%2F11gmxvxllz!19sChIJ0_6WR1FJaC4Rnl1vh_lc3Vg?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 7,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Kios ORE",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 3,
+    "listedAddress": "Toko · Jl. Masjid No.9",
+    "mode": "panel",
+    "rating": 3,
+    "address": "Jl. Masjid No.9, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 1,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "KIOS MANG RUDZ",
+    "category": "Retail",
+    "queries": [
+      "kios jam sukabumi"
+    ],
+    "listedRating": 4.5,
+    "listedAddress": "Kios ·  · Gg. Re Sasmita No.43",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Gg. Re Sasmita No.43, Nanggeleng, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43145",
+    "reviews": 28,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "SIMASTEL 2 - MISHOP",
+    "category": "Retail",
+    "queries": [
+      "penjual jam tangan sukabumi",
+      "perbaikan jam sukabumi",
+      "servis arloji sukabumi",
+      "jam smartwatch sukabumi",
+      "toko jam cisaat"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 153,
+    "listedAddress": "Toko Ponsel · Jl. Ciwangi No.12",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Ciwangi No.12, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 153,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "DUTA ARLOJI SUKABUMI",
+    "category": "Retail",
+    "queries": [
+      "perbaikan jam sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 12,
+    "listedAddress": "",
+    "mode": "panel-via-click",
+    "rating": 4.2,
+    "address": "Jl. A. Yani No.81, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "href": "https://www.google.com/maps/place/DUTA+ARLOJI+SUKABUMI/data=!4m7!3m6!1s0x2e684979d596507d:0xa2889493ac104d61!8m2!3d-6.9220327!4d106.9273823!16s%2Fg%2F11h8lcpnqf!19sChIJfVCW1XlJaC4RYU0QrJOUiKI?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 64,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Service Jam Arifin",
+    "category": "Retail",
+    "queries": [
+      "perbaikan jam sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 2,
+    "listedAddress": "",
+    "mode": "panel-via-click",
+    "rating": 5,
+    "href": "https://www.google.com/maps/place/Service+Jam+Arifin/data=!4m7!3m6!1s0x2e684fd36d699a7b:0x4531f1823ed1d44b!8m2!3d-6.8958269!4d107.0190142!16s%2Fg%2F11t_zrlrlc!19sChIJe5ppbdNPaC4RS9TRPoLxMUU?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "address": "4239+6GP, Cimangkok, Kec. Sukalarang, Kabupaten Sukabumi, Jawa Barat 43191",
+    "reviews": 2,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Montir 24 jam sukabumi",
+    "category": "Retail",
+    "queries": [
+      "perbaikan jam sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 17,
+    "listedAddress": "",
+    "mode": "panel-via-click",
+    "rating": 4.9,
+    "href": "https://www.google.com/maps/place/Montir+24+jam+sukabumi/data=!4m7!3m6!1s0x2e683723153f5a53:0xa28b660efc5eda7d!8m2!3d-6.912565!4d106.9078809!16s%2Fg%2F11ht3pb4j5!19sChIJU1o_FSM3aC4Rfdpe_A5mi6I?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "address": "3WP5+X5C, Karang Tengah, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43121",
+    "reviews": 17,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "RAJA REPAIR CIBADAK SUKABUMI",
+    "category": "Retail",
+    "queries": [
+      "perbaikan jam sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 252,
+    "listedAddress": "Toko Perbaikan Ponsel ·  · Jl. Suryakencana No.219",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Suryakencana No.219, Cibadak, Kec. Cibadak, Kabupaten Sukabumi, Jawa Barat 43351",
+    "reviews": 252,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "KAMILAH WATCH (JASA SERVICE JAM TANGAN BANDUNG)",
+    "category": "Retail",
+    "queries": [
+      "perbaikan jam sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 376,
+    "listedAddress": "Jasa Servis Jam ·  · Jl. Awi Bitung No.17",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Awi Bitung No.17, Cicadas, Kec. Cibeunying Kidul, Bandung Kota, Jawa Barat 40121",
+    "reviews": 376,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Wa karna service arloji",
+    "category": "Retail",
+    "queries": [
+      "servis arloji sukabumi"
+    ],
+    "listedRating": 5,
+    "listedReviews": 6,
+    "listedAddress": "Toko Elektronik · Jl. Ciseke",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Ciseke, Cikaret, Kec. Kebonpedes, Kabupaten Sukabumi, Jawa Barat 43192",
+    "reviews": 6,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "iBox Sukabumi",
+    "category": "Retail",
+    "queries": [
+      "apple watch sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 112,
+    "listedAddress": "Toko Ponsel · Jl. Lettu Bakri",
+    "mode": "panel-via-click",
+    "rating": 4.8,
+    "address": "Jl. Sudirman No.41, RT.03/RW.01, Gunungpuyuh, Kec. Gunungpuyuh, Kota Sukabumi, Jawa Barat 43123",
+    "href": "https://www.google.com/maps/place/iBox+Sukabumi/data=!4m7!3m6!1s0x2e6849aad7c6a9a1:0xc1214c4dac5505b!8m2!3d-6.919499!4d106.9190905!16s%2Fg%2F11l29w_5b2!19sChIJoanG16pJaC4RW1DF2sQUEgw?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 931,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Erafone Megastore Sukabumi 2",
+    "category": "Retail",
+    "queries": [
+      "apple watch sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 360,
+    "listedAddress": "Toko Elektronik · Jl. R. E. Martadinata No.38",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. R. E. Martadinata No.38, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 360,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "iRoom Service Sukabumi",
+    "category": "Retail",
+    "queries": [
+      "apple watch sukabumi"
+    ],
+    "listedRating": 4.8,
+    "listedReviews": 68,
+    "listedAddress": "Toko Perbaikan Ponsel · Jl. Stadion No.1",
+    "mode": "panel-via-click",
+    "rating": 5,
+    "address": "Jl. R. E. Martadinata No.32, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "href": "https://www.google.com/maps/place/iRoom+Service+Sukabumi/data=!4m7!3m6!1s0x2e684900758220e5:0xa4280e48c6136560!8m2!3d-6.920721!4d106.929874!16s%2Fg%2F11ybdxvgp3!19sChIJ5SCCdQBJaC4RYGUTxkgOKKQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 4566,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "PSTORE SUKABUMI",
+    "category": "Retail",
+    "queries": [
+      "apple watch sukabumi"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 1150,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Di samping klinik permata, ciaul, PSTORE, Kec. Cikole, Kota Sukabumi, Jawa Barat 43115",
+    "reviews": 1150,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Second branded Sukabumi",
+    "category": "Retail",
+    "queries": [
+      "toko jam second sukabumi"
+    ],
+    "listedRating": 3.7,
+    "listedReviews": 3,
+    "listedAddress": "Toko · Jl. Selabintana No.117",
+    "mode": "panel-via-click",
+    "rating": 3.7,
+    "address": "Jl. Selabintana No.117, Warnasari, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43151",
+    "href": "https://www.google.com/maps/place/Second+branded+Sukabumi/data=!4m7!3m6!1s0x2e684903dffe2581:0x3b33e73bbf3075fa!8m2!3d-6.8936884!4d106.9384662!16s%2Fg%2F11qqnxkzsz!19sChIJgSX-3wNJaC4R-nUwvzvnMzs?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 3,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "TOKO ANYAR26 CIBADAK",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 4.6,
+    "listedReviews": 157,
+    "listedAddress": "Toko ·  · JL. Cibadak 26, Kec. Astana Anyar",
+    "mode": "panel-via-click",
+    "rating": 4.6,
+    "address": "JL. Cibadak 26, Kec. Astana Anyar, Karanganyar, BANDUNG, Jawa Barat, 40241",
+    "href": "https://www.google.com/maps/place/TOKO+ANYAR26+CIBADAK/data=!4m7!3m6!1s0x2e68e6227afcfd49:0xc79b46456e6d1d1e!8m2!3d-6.9218221!4d107.6031789!16s%2Fg%2F1hcb4fmj5!19sChIJSf38eiLmaC4RHh1tbkVGm8c?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 157,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Abadi Supplier Souvenir Cibadak",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 40,
+    "listedAddress": "Toko Suvenir · Jl. Cibadak No.8",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Jl. Cibadak No.8, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",
+    "reviews": 40,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Sukses Jaya Promosi",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 5,
+    "listedReviews": 111,
+    "listedAddress": "Produsen suvenir · Jl. Cibadak No.3",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Cibadak No.3, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",
+    "reviews": 111,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Seribu Satu Toko",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 4.4,
+    "listedReviews": 262,
+    "listedAddress": "Pemasok Peralatan Industri ·  · Jl. Cibadak No.17",
+    "mode": "panel-via-click",
+    "rating": 4.4,
+    "address": "Jl. Cibadak No.17, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",
+    "href": "https://www.google.com/maps/place/Seribu+Satu+Toko/data=!4m7!3m6!1s0x2e68e623ec9c5aeb:0xb6df1c7edd9fe394!8m2!3d-6.9220821!4d107.6034403!16s%2Fg%2F1pzxh21df!19sChIJ61qc7CPmaC4RlOOf3X4c37Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 262,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Djasa Mekar",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 4.2,
+    "listedReviews": 299,
+    "listedAddress": "Minimarket ·  · Jl. Cibadak No.49A",
+    "mode": "panel-via-click",
+    "rating": 4.2,
+    "address": "Jl. Cibadak No.49A, Cibadak, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",
+    "href": "https://www.google.com/maps/place/Djasa+Mekar/data=!4m7!3m6!1s0x2e68e623be0c9a8b:0xeadda2b45e70713e!8m2!3d-6.9219471!4d107.6022271!16s%2Fg%2F11gdlyr0z4!19sChIJi5oMviPmaC4RPnFwXrSi3eo?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 299,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Indomas. PD",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 3.9,
+    "listedReviews": 117,
+    "listedAddress": "Toko Aksesori Pakaian ·  · Jl. Cibadak No.11",
+    "mode": "panel",
+    "rating": 3.9,
+    "address": "Jl. Cibadak No.11, Karanganyar, Kec. Astanaanyar, Kota Bandung, Jawa Barat 40241",
+    "reviews": 117,
+    "city": "BUKAN-SUKABUMI"
+  },
+  {
+    "name": "Toko Maju Jaya",
+    "category": "Retail",
+    "queries": [
+      "toko jam cibadak"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 54,
+    "listedAddress": "Toko Peralatan Makan ·  · Jl. Cibadak No.88",
+    "mode": "panel-via-click",
+    "rating": 3.5,
+    "address": "2VRR+5GV, Jl. Pelabuhan II, Lembursitu, Kec. Lembursitu, Kabupaten Sukabumi, Jawa Barat 43169",
+    "href": "https://www.google.com/maps/place/Toko+Maju+Jaya/data=!4m7!3m6!1s0x2e68381f28a0b1ff:0x3f4ec7b1146449e1!8m2!3d-6.9595178!4d106.8912888!16s%2Fg%2F11bzrk9t9x!19sChIJ_7GgKB84aC4R4UlkFLHHTj8?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 2,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Erablue Electronics Cibatu Cisaat",
+    "category": "Retail",
+    "queries": [
+      "toko jam cisaat"
+    ],
+    "listedRating": 5,
+    "listedReviews": 1016,
+    "listedAddress": "Toko Elektronik · Jl. Raya Cibatu Cisaat, RT.002/RW.001",
+    "mode": "panel",
+    "rating": 5,
+    "address": "Jl. Raya Cibatu Cisaat, RT.002/RW.001, Nagrak, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43359",
+    "reviews": 1016,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Erafone Cisaat Sukabumi",
+    "category": "Retail",
+    "queries": [
+      "toko jam cisaat"
+    ],
+    "listedRating": 4.8,
+    "listedReviews": 292,
+    "listedAddress": "Toko Elektronik · Jl. Nasional III",
+    "mode": "panel",
+    "rating": 4.8,
+    "address": "Jl. Nasional III, Sukamanah, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 292,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Karya Baru Toko",
+    "category": "Retail",
+    "queries": [
+      "toko jam cisaat"
+    ],
+    "listedRating": 5,
+    "listedReviews": 1,
+    "listedAddress": "Toko · JL. Cibatu, No. 322, Cisaat",
+    "mode": "panel",
+    "rating": 5,
+    "address": "JL. Cibatu, No. 322, Cisaat, Nagrak, Kab. Sukabumi, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 1,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Niceso Cisaat",
+    "category": "Retail",
+    "queries": [
+      "toko jam cisaat"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 2299,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Sukamanah, Kec. Cisaat, Kabupaten Sukabumi, Jawa Barat 43152",
+    "reviews": 2299,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "DUTA ARLOJI SUKABUMI",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 5,
+    "listedReviews": 20,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 4.2,
+    "address": "Jl. A. Yani No.81, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "reviews": 64,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko Bahagia Cicurug",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 4.5,
+    "listedReviews": 344,
+    "listedAddress": "Toko Elektronik ·  · Jalan Raya Pasar No.99, Ruko No.A-C",
+    "mode": "panel",
+    "rating": 4.5,
+    "address": "Jalan Raya Pasar No.99, Ruko No.A-C, Cicurug, Kec. Cicurug, Kabupaten Sukabumi, Jawa Barat 43359",
+    "reviews": 344,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Mitra Grosir Toserba",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 4.1,
+    "listedReviews": 527,
+    "listedAddress": "Toko bahan makanan ·  · Jl. Siliwangi No.27",
+    "mode": "panel",
+    "rating": 4.1,
+    "address": "Jl. Siliwangi No.27, Cicurug, Kec. Cicurug, Kabupaten Sukabumi, Jawa Barat 43359",
+    "reviews": 527,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Nice So Cicurug",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 4.9,
+    "listedReviews": 3101,
+    "listedAddress": "",
+    "mode": "panel",
+    "rating": 4.9,
+    "address": "Cicurug, Kec. Cicurug, Kabupaten Sukabumi, Jawa Barat 43359",
+    "reviews": 3101,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko Aneka Elektronik",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 4.8,
+    "listedReviews": 29,
+    "listedAddress": "Toko Elektronik · Jl. Raya Sukabumi No.27",
+    "mode": "panel-via-click",
+    "rating": 4.8,
+    "address": "Jl. Raya Sukabumi No.27, Cicurug, Kec. Cicurug, Kabupaten Sukabumi, Jawa Barat 43359",
+    "href": "https://www.google.com/maps/place/Toko+Aneka+Elektronik/data=!4m7!3m6!1s0x2e69ccd1bae2f5a7:0x373d12884c5c4f9e!8m2!3d-6.7868128!4d106.7803789!16s%2Fg%2F11ddwxdhvf!19sChIJp_XiutHMaS4Rnk9cTIgSPTc?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "reviews": 29,
+    "city": "Sukabumi"
+  },
+  {
+    "name": "Toko OMEGA",
+    "category": "Retail",
+    "queries": [
+      "toko jam cicurug"
+    ],
+    "listedRating": 4,
+    "listedReviews": 3422,
+    "listedAddress": "",
+    "mode": "panel-via-click",
+    "rating": 4,
+    "href": "https://www.google.com/maps/place/Toko+OMEGA/data=!4m7!3m6!1s0x2e69cd27a42ebc8f:0x41763167032f09c7!8m2!3d-6.7864079!4d106.7815793!16s%2Fg%2F11fhr75rvw!19sChIJj7wupCfNaS4RxwkvA2cxdkE?authuser=0&hl=id&g_ep=EgoyMDI2MDkwOC4wIJJjKgBIAVAD&rclk=1",
+    "address": "6Q7J+FG9, Unnamed Road, Cicurug, Kec. Cicurug, Kabupaten Sukabumi, Jawa Barat 43359",
+    "reviews": 3422,
+    "city": "Sukabumi"
+  }
+]

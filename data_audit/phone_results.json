@@ -2989,5 +2989,23 @@
     "phoneType": "landline",
     "phoneRaw": "0266222915",
     "source": "rescrape_niche"
+  },
+  {
+    "id": 549,
+    "name": "Service Jam Arifin",
+    "processed": true,
+    "phone": "085604967327",
+    "phoneType": "mobile",
+    "phoneRaw": "085604967327",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 550,
+    "name": "Wa karna service arloji",
+    "processed": true,
+    "phone": "08568152865",
+    "phoneType": "mobile",
+    "phoneRaw": "08568152865",
+    "source": "rescrape_niche"
   }
 ]
