@@ -2221,5 +2221,319 @@
     "phone": "08568152865",
     "phoneType": "mobile",
     "phoneRaw": "08568152865"
+  },
+  {
+    "id": 551,
+    "name": "Optik Melawai - Kacamata & Softlens - Citimall Sukabumi",
+    "processed": true,
+    "panelName": "Optik Melawai - Kacamata & Softlens - Citimall Sukabumi",
+    "nameScore": 1,
+    "phone": "08551837281",
+    "phoneType": "mobile",
+    "phoneRaw": "08551837281"
+  },
+  {
+    "id": 552,
+    "name": "Optik B Riski Sukabumi",
+    "processed": true,
+    "panelName": "Optik B Riski Sukabumi",
+    "nameScore": 1,
+    "phone": "082258124356",
+    "phoneType": "mobile",
+    "phoneRaw": "082258124356"
+  },
+  {
+    "id": 553,
+    "name": "optik99K Sukabumi",
+    "processed": true,
+    "panelName": "optik99K Sukabumi",
+    "nameScore": 1,
+    "phone": "08119193599",
+    "phoneType": "mobile",
+    "phoneRaw": "08119193599"
+  },
+  {
+    "id": 554,
+    "name": "Optik Melawai - Kacamata & Softlens - Sudirman Sukabumi",
+    "processed": true,
+    "panelName": "Bersponsor\n",
+    "nameScore": 0,
+    "phone": "08551837281",
+    "phoneType": "mobile",
+    "phoneRaw": "0855-1837-281"
+  },
+  {
+    "id": 555,
+    "name": "Optik kasoem Vision Care - Citimall Sukabumi",
+    "processed": true,
+    "panelName": "Optik kasoem Vision Care - Citimall Sukabumi",
+    "nameScore": 1,
+    "phone": "087780811634",
+    "phoneType": "mobile",
+    "phoneRaw": "087780811634"
+  },
+  {
+    "id": 556,
+    "name": "Alam Jaya Optikal",
+    "processed": true,
+    "panelName": "Alam Jaya Optikal",
+    "nameScore": 1,
+    "phone": "0266221655",
+    "phoneType": "landline",
+    "phoneRaw": "0266221655"
+  },
+  {
+    "id": 557,
+    "name": "Optik Melawai - R.A Kosasih Sukabumi",
+    "processed": true,
+    "panelName": "Optik Melawai - R.A Kosasih Sukabumi",
+    "nameScore": 1,
+    "phone": "081514166721",
+    "phoneType": "mobile",
+    "phoneRaw": "081514166721"
+  },
+  {
+    "id": 558,
+    "name": "TOKO KACAMATA PASUNDAN SUKABUMI",
+    "processed": true,
+    "panelName": "TOKO KACAMATA PASUNDAN SUKABUMI",
+    "nameScore": 1,
+    "phone": "085894817591",
+    "phoneType": "mobile",
+    "phoneRaw": "085894817591"
+  },
+  {
+    "id": 559,
+    "name": "Citra Optikal",
+    "processed": true,
+    "panelName": "Citra Optikal",
+    "nameScore": 1,
+    "phone": "0266226715",
+    "phoneType": "landline",
+    "phoneRaw": "0266226715"
+  },
+  {
+    "id": 560,
+    "name": "Optikal Sukabumi",
+    "processed": true,
+    "candName": "Optikal Sukabumi",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "Optikal Sukabumi",
+    "nameScore": 1,
+    "phone": "0266222322",
+    "phoneType": "landline",
+    "phoneRaw": "0266222322"
+  },
+  {
+    "id": 561,
+    "name": "KACAMATA BAIK (KB)",
+    "processed": true,
+    "panelName": "KACAMATA BAIK (KB)",
+    "nameScore": 1,
+    "phone": "087820998667",
+    "phoneType": "mobile",
+    "phoneRaw": "087820998667"
+  },
+  {
+    "id": 562,
+    "name": "Optik B Riski Cibadak",
+    "processed": true,
+    "panelName": "Optik B Riski Cibadak",
+    "nameScore": 1,
+    "phone": "085189291285",
+    "phoneType": "mobile",
+    "phoneRaw": "085189291285"
+  },
+  {
+    "id": 563,
+    "name": "Rama Optikal",
+    "processed": true,
+    "panelName": "Rama Optikal",
+    "nameScore": 1,
+    "phone": "0266533520",
+    "phoneType": "landline",
+    "phoneRaw": "0266533520"
+  },
+  {
+    "id": 564,
+    "name": "Toko Mas Pulau Indah 3",
+    "processed": true,
+    "panelName": "Toko Mas Pulau Indah 3",
+    "nameScore": 1,
+    "phone": "085123670069",
+    "phoneType": "mobile",
+    "phoneRaw": "085123670069"
+  },
+  {
+    "id": 565,
+    "name": "Toko Emas Sinar Agung",
+    "processed": true,
+    "panelName": "Toko Emas Sinar Agung",
+    "nameScore": 1,
+    "phone": "085721672835",
+    "phoneType": "mobile",
+    "phoneRaw": "085721672835"
+  },
+  {
+    "id": 566,
+    "name": "Toko Mas Famili",
+    "processed": true,
+    "panelName": "Toko Mas Famili",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 567,
+    "name": "Toko Mas Nirmala (PT.Nirmala Valasa Prima)",
+    "processed": true,
+    "panelName": "Toko Mas Nirmala (PT.Nirmala Valasa Prima)",
+    "nameScore": 1,
+    "phone": "0266222334",
+    "phoneType": "landline",
+    "phoneRaw": "0266222334"
+  },
+  {
+    "id": 568,
+    "name": "toko mas Candra 2",
+    "processed": true,
+    "panelName": "toko mas Candra 2",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 569,
+    "name": "Toko mas Megah Indah (Cabang)",
+    "processed": true,
+    "candName": "Toko mas Megah Indah (Cabang)",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "Toko mas Megah Indah (Cabang)",
+    "nameScore": 1,
+    "phone": "02666225369",
+    "phoneType": "landline",
+    "phoneRaw": "02666225369"
+  },
+  {
+    "id": 570,
+    "name": "Spesial Gold | Citimall Sukabumi | Jual Beli Emas | Segala Kondisi",
+    "processed": true,
+    "panelName": "Spesial Gold | Citimall Sukabumi | Jual Beli Emas | Segala Kondisi",
+    "nameScore": 1,
+    "phone": "083191963924",
+    "phoneType": "mobile",
+    "phoneRaw": "083191963924"
+  },
+  {
+    "id": 571,
+    "name": "Toko Perhiasan Perak Abadi",
+    "processed": true,
+    "panelName": "Toko Perhiasan Perak Abadi",
+    "nameScore": 1,
+    "phone": "0266221602",
+    "phoneType": "landline",
+    "phoneRaw": "0266221602"
+  },
+  {
+    "id": 572,
+    "name": "Toko Emas Sinar Kencana",
+    "processed": true,
+    "candName": "Toko Emas Sinar Kencana",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "Toko Emas Sinar Kencana",
+    "nameScore": 1,
+    "phone": "0266222224",
+    "phoneType": "landline",
+    "phoneRaw": "0266222224"
+  },
+  {
+    "id": 573,
+    "name": "Toko Emas Sinar Murni",
+    "processed": true,
+    "panelName": "Toko Emas Sinar Murni",
+    "nameScore": 1,
+    "phone": "082240424030",
+    "phoneType": "mobile",
+    "phoneRaw": "082240424030"
+  },
+  {
+    "id": 574,
+    "name": "Toko Perak Indah JSLR Cicurug",
+    "processed": true,
+    "panelName": "Toko Perak Indah JSLR Cicurug",
+    "nameScore": 1,
+    "phone": "08111168199",
+    "phoneType": "mobile",
+    "phoneRaw": "08111168199"
+  },
+  {
+    "id": 575,
+    "name": "TOKO MAS SURYA KENCANA",
+    "processed": true,
+    "candName": "TOKO MAS SURYA KENCANA",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "TOKO MAS SURYA KENCANA",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 576,
+    "name": "Toko Mas Sukabumi Jaya",
+    "processed": true,
+    "panelName": "Toko Mas Sukabumi Jaya",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 577,
+    "name": "Toko Mas Harapan Maju",
+    "processed": true,
+    "panelName": "Toko Mas Harapan Maju",
+    "nameScore": 1,
+    "phone": "0266731145",
+    "phoneType": "landline",
+    "phoneRaw": "0266731145"
+  },
+  {
+    "id": 578,
+    "name": "Pulau indah Cicurug",
+    "processed": true,
+    "panelName": "Pulau indah Cicurug",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 579,
+    "name": "Toko Perak Cemerlang",
+    "processed": true,
+    "panelName": "Toko Perak Cemerlang",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 580,
+    "name": "Toko Mas 999 (Toko Orok)",
+    "processed": true,
+    "panelName": "Toko Mas 999 (Toko Orok)",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 581,
+    "name": "Toko Emas Surya Kencana Cisaat Sukabumi",
+    "processed": true,
+    "panelName": "Toko Emas Surya Kencana Cisaat Sukabumi",
+    "nameScore": 1,
+    "noPhone": true
+  },
+  {
+    "id": 582,
+    "name": "Toko Mas Permata Cibadak",
+    "processed": true,
+    "panelName": "Toko Mas Permata Cibadak",
+    "nameScore": 1,
+    "noPhone": true
   }
 ]
