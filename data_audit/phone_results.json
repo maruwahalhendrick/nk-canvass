@@ -2953,5 +2953,41 @@
     "phoneType": "mobile",
     "phoneRaw": "+6285863117799",
     "source": "rescrape_niche"
+  },
+  {
+    "id": 545,
+    "name": "DUTA ARLOJI SUKABUMI",
+    "processed": true,
+    "phone": "0266223569",
+    "phoneType": "landline",
+    "phoneRaw": "0266223569",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 546,
+    "name": "Toko Maribaya",
+    "processed": true,
+    "phone": "0266222301",
+    "phoneType": "landline",
+    "phoneRaw": "0266222301",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 547,
+    "name": "Toko Anyar",
+    "processed": true,
+    "phone": "0266211573",
+    "phoneType": "landline",
+    "phoneRaw": "0266211573",
+    "source": "rescrape_niche"
+  },
+  {
+    "id": 548,
+    "name": "Toko SUTERA WATCH",
+    "processed": true,
+    "phone": "0266222915",
+    "phoneType": "landline",
+    "phoneRaw": "0266222915",
+    "source": "rescrape_niche"
   }
 ]

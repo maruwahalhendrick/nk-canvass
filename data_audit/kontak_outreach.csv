@@ -543,3 +543,7 @@ id,nama,kategori,zona,strategi,telepon,tipe,rating,reviews,maps_url
 542,"PANDU APPLE STORE","Electronics","Zona 1 (Baros/Jalur)","UNDER_5",085723232527,mobile,4.7,87,"https://www.google.com/maps/search/?api=1&query=PANDU%20APPLE%20STORE%20sukabumi"
 543,"Sukabumi_phone2 pemuda","Electronics","Zona 1 (Baros/Jalur)","UNDER_5",081460950057,mobile,4.9,90,"https://www.google.com/maps/search/?api=1&query=Sukabumi_phone2%20pemuda"
 544,"Qtell Phoneshop","Electronics","Zona 4 (Jantung Kota)","UNDER_5",085863117799,mobile,4.6,104,"https://www.google.com/maps/search/?api=1&query=Qtell%20Phoneshop%20sukabumi"
+545,"DUTA ARLOJI SUKABUMI","Jam & Arloji","Zona 4 (Jantung Kota)","UNDER_5",0266223569,landline,4.2,266,"https://www.google.com/maps/search/?api=1&query=DUTA%20ARLOJI%20SUKABUMI"
+546,"Toko Maribaya","Jam & Arloji","Zona 4 (Jantung Kota)","UNDER_5",0266222301,landline,4.1,33,"https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi"
+547,"Toko Anyar","Jam & Arloji","Zona 4 (Jantung Kota)","UNDER_5",0266211573,landline,4.2,5,"https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi"
+548,"Toko SUTERA WATCH","Jam & Arloji","Zona 1 (Baros/Jalur)","UNDER_5",0266222915,landline,4.4,337,"https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi"

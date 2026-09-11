@@ -1,7 +1,7 @@
 // ============================================================
 // NEURALKATS CANVASSING HUB — Master Data UMKM Sukabumi
-// Sumber: scrape fresh Google Maps 2026-09-07 (pipeline: data_audit/)
-// Total: 544 UMKM | 490 ada nomor telepon (dari listing Maps publik)
+// Sumber: scrape fresh Google Maps 2026-09-11 (pipeline: data_audit/)
+// Total: 548 UMKM | 494 ada nomor telepon (dari listing Maps publik)
 //
 // CARA NAMBAH DATA:
 // 1. Copy template di bawah, paste di akhir array:
@@ -560,4 +560,8 @@ window.UMKM_DATA = [
   { name: "PANDU APPLE STORE", category: "Electronics", rating: 4.7, reviews: 87, strategy: "UNDER_5", zone: "Zona 1 (Baros/Jalur)", address: "Jl. Otto Iskandardinata, Citamiang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43143, Indonesia", phone: "085723232527", phoneType: "mobile", mapsUrl: "https://www.google.com/maps/search/?api=1&query=PANDU%20APPLE%20STORE%20sukabumi" },
   { name: "Sukabumi_phone2 pemuda", category: "Electronics", rating: 4.9, reviews: 90, strategy: "UNDER_5", zone: "Zona 1 (Baros/Jalur)", address: "3W9J+GH3, Jl. Pemuda, Citamiang, Kec. Citamiang, Kota Sukabumi, Jawa Barat 43166, Indonesia", phone: "081460950057", phoneType: "mobile", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Sukabumi_phone2%20pemuda" },
   { name: "Qtell Phoneshop", category: "Electronics", rating: 4.6, reviews: 104, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. R. E. Martadinata, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111, Indonesia", phone: "085863117799", phoneType: "mobile", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Qtell%20Phoneshop%20sukabumi" },
+  { name: "DUTA ARLOJI SUKABUMI", category: "Jam & Arloji", rating: 4.2, reviews: 266, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. A. Yani No.81, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111", phone: "0266223569", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=DUTA%20ARLOJI%20SUKABUMI" },
+  { name: "Toko Maribaya", category: "Jam & Arloji", rating: 4.1, reviews: 33, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. A. Yani No.134, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111", phone: "0266222301", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi" },
+  { name: "Toko Anyar", category: "Jam & Arloji", rating: 4.2, reviews: 5, strategy: "UNDER_5", zone: "Zona 4 (Jantung Kota)", address: "Jl. A. Yani No.86, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111", phone: "0266211573", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi" },
+  { name: "Toko SUTERA WATCH", category: "Jam & Arloji", rating: 4.4, reviews: 337, strategy: "UNDER_5", zone: "Zona 1 (Baros/Jalur)", address: "Jl. A. Yani No.62, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131", phone: "0266222915", phoneType: "landline", mapsUrl: "https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi" },
 ];

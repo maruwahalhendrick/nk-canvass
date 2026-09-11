@@ -7614,5 +7614,61 @@
     "phoneType": "",
     "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qtell%20Phoneshop%20sukabumi",
     "source": "niche-scrape"
+  },
+  {
+    "id": 545,
+    "name": "DUTA ARLOJI SUKABUMI",
+    "category": "Jam & Arloji",
+    "rating": 4.2,
+    "reviews": 266,
+    "strategy": "UNDER_5",
+    "zone": "Zona 4 (Jantung Kota)",
+    "address": "Jl. A. Yani No.81, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DUTA%20ARLOJI%20SUKABUMI",
+    "source": "niche-scrape"
+  },
+  {
+    "id": 546,
+    "name": "Toko Maribaya",
+    "category": "Jam & Arloji",
+    "rating": 4.1,
+    "reviews": 33,
+    "strategy": "UNDER_5",
+    "zone": "Zona 4 (Jantung Kota)",
+    "address": "Jl. A. Yani No.134, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi",
+    "source": "niche-scrape"
+  },
+  {
+    "id": 547,
+    "name": "Toko Anyar",
+    "category": "Jam & Arloji",
+    "rating": 4.2,
+    "reviews": 5,
+    "strategy": "UNDER_5",
+    "zone": "Zona 4 (Jantung Kota)",
+    "address": "Jl. A. Yani No.86, Gunungparang, Kec. Cikole, Kota Sukabumi, Jawa Barat 43111",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi",
+    "source": "niche-scrape"
+  },
+  {
+    "id": 548,
+    "name": "Toko SUTERA WATCH",
+    "category": "Jam & Arloji",
+    "rating": 4.4,
+    "reviews": 337,
+    "strategy": "UNDER_5",
+    "zone": "Zona 1 (Baros/Jalur)",
+    "address": "Jl. A. Yani No.62, Nyomplong, Kec. Warudoyong, Kota Sukabumi, Jawa Barat 43131",
+    "phone": "",
+    "phoneType": "",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi",
+    "source": "niche-scrape"
   }
 ]

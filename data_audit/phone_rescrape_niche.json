@@ -2155,5 +2155,48 @@
     "phone": "085863117799",
     "phoneType": "mobile",
     "phoneRaw": "+6285863117799"
+  },
+  {
+    "id": 545,
+    "name": "DUTA ARLOJI SUKABUMI",
+    "processed": true,
+    "panelName": "DUTA ARLOJI SUKABUMI",
+    "nameScore": 1,
+    "phone": "0266223569",
+    "phoneType": "landline",
+    "phoneRaw": "0266223569"
+  },
+  {
+    "id": 546,
+    "name": "Toko Maribaya",
+    "processed": true,
+    "panelName": "Toko Maribaya",
+    "nameScore": 1,
+    "phone": "0266222301",
+    "phoneType": "landline",
+    "phoneRaw": "0266222301"
+  },
+  {
+    "id": 547,
+    "name": "Toko Anyar",
+    "processed": true,
+    "candName": "Toko Anyar",
+    "candScore": 1,
+    "viaPlaceClick": true,
+    "panelName": "Toko Anyar",
+    "nameScore": 1,
+    "phone": "0266211573",
+    "phoneType": "landline",
+    "phoneRaw": "0266211573"
+  },
+  {
+    "id": 548,
+    "name": "Toko SUTERA WATCH",
+    "processed": true,
+    "panelName": "Toko SUTERA WATCH",
+    "nameScore": 1,
+    "phone": "0266222915",
+    "phoneType": "landline",
+    "phoneRaw": "0266222915"
   }
 ]
