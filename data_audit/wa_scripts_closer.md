@@ -9,18 +9,19 @@ Produk NeuralKats + dataset nk-canvass (358 UMKM Sukabumi)
 ## Panduan Umum (dari notebook)
 - JANGAN pernah buka dengan pitch produk. Buka dengan PERTANYAAN masalah (pattern interrupt).
 - Di percakapan, cuma 3 hal: pertanyaan, nyata-ulang kata dia, cerita singkat (contoh klien).
-- Pitch (kalau ditanya/diizinkan) MAKS 3 menit / 1 pesan pendek. Jual "liburannya" (review naik = pelanggan baru datang sendiri), BUKAN "pesawatnya" (teknologi QR, hosting, domain).
+- Pitch (kalau ditanya/diizinkan) MAKS 3 menit / 1 pesan pendek. Jual "liburannya" (customer baru datang, feedback masuk, reputasi jalan sendiri), BUKAN "pesawatnya" (teknologi QR, hosting, domain).
 - BAMFAM: setiap chat DITUTUP dengan janji konkret (kirim jam X, telepon hari Y jam Z). Gak ada chat ditutup menggantung.
 - Keberatan: SETUJUI dulu, baru reframe. Jangan bantah.
 
 ## Kualifikasi Cepat dari Dataset (sebelum kirim)
 | Kondisi di nk-canvass | Produk leads |
 |---|---|
-| Review < 50, apapun kategorinya | #1 (kartu review) — pintu masuk termurah |
-| Review < 50 + gak ada website | #2 (langganan) atau #3 (sekali bayar) |
-| Review udah oke, gak ada website | #2/#3 langsung |
-| Sering "nanti dulu" / sensitif harga | #1 dulu, upsell bundel belakangan |
-| Benci biaya bulanan | #3 |
+| Review < 50, apapun kategorinya | #1 Kartu Review (50rb) — pintu masuk termurah |
+| Review < 50 + gak ada website | #2 Website Starter (500rb) atau #3 Booster kalau dia open sistem |
+| Review udah oke, gak ada website | #2 langsung; upsell #3 Booster |
+| Sering "nanti dulu" / sensitif harga | #1 dulu, upsell belakangan |
+| Benci biaya bulanan | #2 (serah terima penuh, no tagihan) |
+| Pengen hasil terukur / punya budget marketing | #3 BUSINESS BOOSTER (hero) |
 
 ---
 
@@ -71,35 +72,42 @@ Bapak, gak perlu cari-cari lagi. 10 detik selesai.
 Review naik terus = urutan di Google naik = orang baru berani mampir tanpa Bapak
 harus iklan apa-apa.
 
-Harganya 50rb SEKALI BAYAR, kartunya kami antar hari ini juga (maksimal 1x24 jam).
+Harganya 50rb SEKALI BAYAR, kartunya kami antar hari ini juga (maksimal 1x24 jam). Reviewnya tetap sukarela & jujur dari customer yang beneran datang ya Pak.
 
 Mau saya antarin ke [alamat/di zona X] besok, Pak?
 ```
 
-### Produk 2 — Bundel Langganan (200rb/bln):
+### Produk 2 — Website Starter (500rb sekali bayar):
 ```
-Kalau boleh saya kasih pilihan yang lebih lengkap, Pak:
+Kalau Bapak butuh presence online dulu, ada Website Starter:
 
-Website usaha + 2 kartu review Google, semuanya kami rawat.
-- Website bermasalah? Garansi selesai maksimal 3 hari kerja.
-- Bulan ini gak ada perubahan? Dapat 2 kartu review baru GRATIS buat nambah review.
-- Biayanya 200rb/bulan — seperti gaji 1 karyawan digital yang kerja 24 jam.
+Website bisnis + 2 kartu review Google + domain, SEKALI BAYAR 500rb.
+Serah terima penuh — asetnya jadi milik Bapak, gak ada tagihan bulanan sama sekali.
 
-Jadi urusan online Bapak beres terus tanpa mikir. Mau saya liatin contoh hasilnya?
+Cocok buat yang mau beres online tanpa mikir biaya rutin. Mau saya liatin contoh?
 ```
 
-### Produk 3 — Bundel Sekali Bayar (500rb):
+### Produk 3 — BUSINESS BOOSTER (hero — tawarkan ini duluan kalau dia engage):
 ```
-Dan kalau Bapak tipe yang kurang suka biaya bulanan, ada opsi ke-3:
+Dan ini yang paling lengkap, Pak — kami nggak cuma bikin website, kami jalanin
+SISTEM pencari customer buat [Nama Usaha]:
 
-Website lengkap + 2 kartu review, SEKALI BAYAR 500rb — beres.
-Website serah terima penuh, domain resmi atas nama Bapak, gak ada tagihan bulanan.
+🚀 Business Booster — 1,5jt setup + 299rb/bulan:
+- BUILD: website profesional + kartu review + setup tracking
+- ATTRACT: campaign akuisisi customer lokal, maks 3 opportunity/bulan
+- LEARN: feedback dari customer yang beneran datang
+- IMPROVE: laporan bulanan + evaluasi + optimasi
 
-Sekali keluar, aset itu milik Bapak selamanya.
+Bapak fokus jalanin bisnis. Setup, campaign, tracking, laporan — kami yang handle.
+Catatan penting & transparan: budget acquisition (±50rb/customer, maks 150rb/bln)
+terpisah dari fee 299rb — jadi Bapak tahu persis uangnya ke mana.
+
+Kami nggak janji omzet naik atau review bintang 5 — hasilnya kita ukur bareng dari
+campaign pertama. Kalau cocok lanjut, nggak cocok berhenti. Mau mulai eksperimen kecil?
 ```
 
 ## STAGE 4 — Explain Concerns (keberatan: SETUJUI → REFRAME)
-- **"Mahal"** → "Iya Pak, bener, 50rb itu bukan uang receh. Coba dihitung bareng: 1 pelanggan baru doang dari Google udah balik modal — dan kartunya kerja tiap hari bertahun-tahun."
+- **"Mahal"** → "Iya Pak, saya paham. Makanya kami bikin bertingkat: mulai 50rb sekali bayar buat kartu doang, atau 500rb buat website. Yang Booster emang investasi — tapi anggapannya gaji sebagian staff marketing yang kerja penuh, dan budget acquisition-nya terpisah & transparan. Boleh mulai yang kecil dulu, Pak."
 - **"Nanti dulu / dipikir dulu"** → "Boleh banget Pak, keputusan usaha mah jangan buru-buru. Biar gak ketutup urusan, saya follow up [hari] jam [10] ya — saya ingetin sekali aja, gak saya spam 🙏"  ← BAMFAM: selalu ada janji waktu.
 - **"Saya udah punya website"** → "Wah bagus Pak, berarti tinggal polish dikit. Kartu reviewnya juga jalan sendiri, gak campur-campur sama website lama Bapak — dua-duanya nambah pelanggan."
 - **"Kurang percaya"** → cerita singkat (anecdotal story): "Paham banget Pak, banyak juga yang awalnya ragu. [Contoh: warung/kategori sejenis di zona X] awalnya review-nya [N], 2 bulan pake kartu jadi [M], sekarang muncul di 3 teratas." (GUNAKAN ANGKA ASLI dari dataset, jangan mengarang.)

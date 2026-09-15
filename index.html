@@ -715,32 +715,44 @@
                             <input type="radio" name="invPackage" value="card_50k" checked onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
                             <div class="flex-1">
                                 <div class="flex items-center justify-between">
-                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🎴 Google Review Card (NFC + QR)</span>
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🪪 Google Review Card</span>
                                     <span class="font-bold text-[#e8deb8] text-xs">Rp 50.000</span>
                                 </div>
-                                <p class="text-[11px] text-[#8cb89d]">Kartu fisik pintar NFC Tap & Scan QR Google Review langsung ke toko. Diantar maksimal 1x24 jam (same day).</p>
+                                <p class="text-[11px] text-[#8cb89d]">Kartu NFC + QR yang memudahkan pelanggan membuka halaman Google Review dengan sekali tap atau scan. Diantar maks. 1x24 jam. Review tetap sukarela & jujur.</p>
                             </div>
                         </label>
 
                         <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
-                            <input type="radio" name="invPackage" value="bundle_200k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <input type="radio" name="invPackage" value="starter_500k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
                             <div class="flex-1">
                                 <div class="flex items-center justify-between">
-                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🌐 Bundle Langganan Web + Card</span>
-                                    <span class="font-bold text-[#5eead4] text-xs">Rp 200.000 / bln</span>
-                                </div>
-                                <p class="text-[11px] text-[#8cb89d]">Website + 2x Review Card + garansi perbaikan web maks. 3 hari kerja. Bulan tanpa perubahan = bonus 2 kartu review.</p>
-                            </div>
-                        </label>
-
-                        <label class="flex items-start gap-2.5 p-2.5 bg-[#061e11] hover:bg-[#0c331d] border border-[#1c4d2e] rounded-2xl cursor-pointer transition-all">
-                            <input type="radio" name="invPackage" value="bundle_500k" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
-                            <div class="flex-1">
-                                <div class="flex items-center justify-between">
-                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🚀 Bundle One-Time Web + Card</span>
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🌐 Website Starter</span>
                                     <span class="font-bold text-[#fbbf24] text-xs">Rp 500.000</span>
                                 </div>
-                                <p class="text-[11px] text-[#8cb89d]">Website + 2x Google Review Card (Sekali bayar, serah terima penuh + domain, tanpa maintenance).</p>
+                                <p class="text-[11px] text-[#8cb89d]">Website bisnis + 2x Google Review Card + domain. Serah terima penuh, tanpa biaya maintenance bulanan.</p>
+                            </div>
+                        </label>
+
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#0c331d] hover:bg-[#124427] border-2 border-[#5eead4] rounded-2xl cursor-pointer transition-all relative">
+                            <span class="absolute -top-2 right-3 bg-[#5eead4] text-[#04140b] text-[9px] font-black px-2 py-0.5 rounded-full tracking-wider">PALING LENGKAP ★ RECOMMENDED</span>
+                            <input type="radio" name="invPackage" value="booster_setup" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🚀 Business Booster (Setup)</span>
+                                    <span class="font-bold text-[#5eead4] text-xs">Rp 1.500.000</span>
+                                </div>
+                                <p class="text-[11px] text-[#a8ccb6]">Sistem akuisisi customer lokal: website profesional + 1 Review Card + setup journey & tracking. + Rp 299.000/bln pengelolaan (lihat opsi berikutnya). Budget acquisition maks Rp 150.000/bln terpisah.</p>
+                            </div>
+                        </label>
+
+                        <label class="flex items-start gap-2.5 p-2.5 bg-[#0c331d] hover:bg-[#124427] border border-[#29643f] rounded-2xl cursor-pointer transition-all">
+                            <input type="radio" name="invPackage" value="booster_monthly" onchange="updateInvoicePackage()" class="mt-1 accent-[#f4ede2]">
+                            <div class="flex-1">
+                                <div class="flex items-center justify-between">
+                                    <span class="font-extrabold text-[#fbf7ee] font-retro-serif">🔄 Booster — Pengelolaan Bulanan</span>
+                                    <span class="font-bold text-[#5eead4] text-xs">Rp 299.000 / bln</span>
+                                </div>
+                                <p class="text-[11px] text-[#8cb89d]">Management fee: campaign, tracking, feedback, laporan bulanan & optimasi. Budget acquisition (±Rp 50.000/customer, maks 3/bln = maks Rp 150.000) di luar fee ini.</p>
                             </div>
                         </label>
 
@@ -751,6 +763,7 @@
                                     <span class="font-extrabold text-[#fbf7ee] font-retro-serif">✍️ Custom Item / Jasa Tambahan</span>
                                     <span class="text-[#a8ccb6] text-[10px]">Nominal Manual</span>
                                 </div>
+                                <p class="text-[10px] text-[#6f9a80] mt-0.5">Contoh: kartu review tambahan Rp 50.000/kartu, campaign tambahan, landing page, content asset, automation.</p>
                                 <input type="text" id="invCustomDesc" placeholder="Nama item / layanan kustom" class="w-full mt-1.5 bg-[#092615] border border-[#1c4d2e] rounded-xl p-1.5 text-xs text-[#fbf7ee] focus:outline-none hidden">
                             </div>
                         </label>
@@ -863,22 +876,22 @@
             {
                 title: "Owner lagi keluar / gak ada di tempat",
                 context: "Biasanya dijawab oleh kasir atau karyawan penjaga outlet.",
-                script: "Wah pas banget Kak! Justru saya mampir dari NeuralKats buat bantu kerjaan kasir/admin biar makin enteng. Boleh saya titip kartu sampel atau minta nomor WhatsApp owner? Nanti saya kirimkan video 30 detik demonya biar owner tahu inovasi kartu pintar NFC+QR & website ini buat naikin omset toko."
+                script: "Wah pas banget Kak! Justru saya mampir dari NeuralKats buat bantu kerjaan kasir/admin biar makin enteng. Boleh saya titip kartu sampel atau minta nomor WhatsApp owner? Nanti saya kirimkan video 30 detik demonya biar owner tahu cara sistem Business Booster bantu dapet customer baru & feedback nyata dari Google Maps."
             },
             {
                 title: "Toko / Resto kita udah rame, gak butuh review",
                 context: "Pemilik toko merasa sudah cukup ramai dan tidak perlu marketing lagi.",
-                script: "Mantap banget kalau udah ramai Kak! Tapi di Google Maps, kompetitor baru tiap bulan selalu muncul dan agresif cari review. Kartu ini bukan cuma buat toko sepi, tapi buat 'mengunci dominasi' ranking 1 permanen di Sukabumi. Apalagi harganya cuma Rp 50.000 sekali bayar, kartunya langsung kami antarkan maksimal 1x24 jam."
+                script: "Mantap banget kalau udah ramai Kak! Tapi di Google Maps, kompetitor baru tiap bulan selalu muncul dan agresif cari review. Justru toko rame itu modal terbaik buat bangun social proof yang genuine. Kami punya sistem Business Booster: campaign acquisition terukur, feedback customer nyata, dan laporan bulanan transparan. Atau mulai simpel dulu dari kartu review Rp 50.000 sekali bayar, diantar maks 1x24 jam."
             },
             {
                 title: "Takut customer iseng ngasih rating jelek / bintang 1",
                 context: "Owner khawatir membuka pintu untuk komplain negatif di publik.",
-                script: "Justru itu strategi rahasianya Kak! Kartu NFC+QR ini disodorkan pas customer lagi senyum atau puas. Kalau 1 komplain bintang 1 ditutup sama 20 review bintang 5 baru dalam seminggu, rating toko malah naik drastis dan review jelek langsung tenggelam ke bawah."
+                script: "Wajar Kak concern-nya. Tapi review itu ya harus jujur & sukarela — kami nggak pernah janji bintang 5. Justru bagusnya: rating rendah dari customer beneran itu feedback berharga buat bahan evaluasi. makin banyak feedback, makin jelas bagian mana yang perlu diperbaiki, dan itu bagian yang kami laporkan tiap bulan."
             },
             {
                 title: "Mahal / Gak ada anggaran dana sekarang",
                 context: "Bantahan harga atau prioritas pengeluaran.",
-                script: "Di NeuralKats kartu pintar NFC+QR ini cuma Rp 50.000 sekali bayar Kak, langsung diantar maks. 1x24 jam. Kalau Kakak butuh website profesional juga ada bundle hemat 200rb/bulan (plus garansi perbaikan web maks. 3 hari kerja) atau 500rb sekali bayar (serah terima penuh + domain). ROI-nya langsung balik hanya dari 1 customer baru yang mampir lewat Maps."
+                script: "Ada bertingkat Kak, sesuai kebutuhan: kartu review Rp 50.000 sekali bayar, Website Starter Rp 500.000 sekali bayar (web + 2 kartu + domain, serah terima penuh), atau Business Booster Rp 1,5jt setup + Rp 299rb/bulan untuk sistem akuisisi customer yang dikelola penuh. Yang Rp299rb itu murni fee pengelolaan — budget acquisition (maks Rp 150rb/bln) terpisah & transparan, nggak kami sembunyiin."
             }
         ];
 
@@ -1003,12 +1016,13 @@
         let waDebounceTimer = null;
         let currentInvoiceLead = null;
 
-        // NeuralKats Product Packages Configuration
+        // NeuralKats Product Packages Configuration — Business Booster offer structure
         const PACKAGES_CONFIG = {
-            card_50k: { name: "Google Review Card (NFC + QR Code)", price: 50000, desc: "Kartu fisik pintar NFC Tap & Scan QR Code Google Review (diantar maks. 1x24 jam)" },
-            bundle_200k: { name: "Paket Bundle Langganan Website + 2x Review Card", price: 200000, desc: "Website + 2x Review Card + Maintenance & garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu" },
-            bundle_500k: { name: "Paket Bundle One-Time Website + 2x Review Card", price: 500000, desc: "Website + 2x Review Card (Sekali bayar, serah terima penuh + domain, tanpa maintenance)" },
-            custom: { name: "Layanan Kustom / Custom Item", price: 0, desc: "Layanan teknologi / custom project NeuralKats" }
+            card_50k: { name: "Google Review Card (NFC + QR)", price: 50000, desc: "Kartu NFC + QR yang memudahkan pelanggan membuka halaman Google Review dengan sekali tap atau scan (diantar maks. 1x24 jam). Review tetap sukarela & jujur dari customer yang benar-benar berkunjung." },
+            starter_500k: { name: "Website Starter", price: 500000, desc: "Website bisnis sederhana + 2x Google Review Card + domain, serah terima penuh tanpa biaya maintenance bulanan." },
+            booster_setup: { name: "Business Booster — Setup", price: 1500000, desc: "Sistem akuisisi customer lokal: website profesional + 1 Review Card + setup customer journey & campaign tracking. Fee pengelolaan Rp 299.000/bulan terpisah. Budget acquisition customer (maks. Rp 150.000/bln) di luar biaya layanan." },
+            booster_monthly: { name: "Business Booster — Pengelolaan Bulanan", price: 299000, desc: "Pengelolaan sistem Business Booster: maintenance web, campaign management, acquisition tracking, feedback analysis, laporan bulanan & optimasi dasar. Budget acquisition (±Rp 50.000/customer, maks 3 opportunity/bln = maks Rp 150.000) dibayar terpisah oleh customer." },
+            custom: { name: "Custom Item / Jasa Tambahan", price: 0, desc: "Tambahan kartu review (Rp 50.000/kartu), campaign tambahan, landing page, content asset, automation/integrasi, atau kebutuhan digital custom lainnya." }
         };
 
         // WhatsApp Utility Helpers (NeuralKats Persona)
@@ -1024,7 +1038,7 @@
         }
 
         function getWaGreeting(lead) {
-            return `Halo Kak, salam dari NeuralKats Sukabumi. Tadi saya sempat mampir/silaturahmi ke *${lead.name}*. Boleh izin follow-up singkat terkait kartu Google Review (NFC + QR) untuk ${lead.name} Kak? Terima kasih banyak.`;
+            return `Halo Kak, salam dari NeuralKats Sukabumi. Tadi saya sempat mampir/silaturahmi ke *${lead.name}*. Boleh izin follow-up singkat soal kartu Google Review (NFC + QR) & sistem Business Booster untuk ${lead.name} Kak? Terima kasih banyak.`;
         }
 
         // Kontak efektif: nomor WA yang disimpan manual menang; kalau kosong, pakai nomor mobile dari Maps
@@ -1341,17 +1355,17 @@
                     </div>
                     
                     <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
-                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
+                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats Offer — Sistem, Bukan Sekadar Website:</span>
                         <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
-                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar, diantar maks. 1x24 jam).</div>
-                            <div>• <strong>Bundle Langganan Web + 2 Card:</strong> <span class="text-[#5eead4] font-bold">Rp 200.000/bln</span> (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu).</div>
-                            <div>• <strong>Bundle One-Time Web + 2 Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> (Sekali bayar, serah terima penuh + domain, tanpa iuran bulanan).</div>
+                            <div>• <strong>🪪 Google Review Card:</strong> <span class="text-[#e8deb8] font-bold">Rp 50.000</span> sekali bayar — memudahkan customer kasih review jujur dengan sekali tap/scan.</div>
+                            <div>• <strong>🌐 Website Starter:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> sekali bayar — website + 2 kartu + domain, aset serah terima penuh tanpa maintenance.</div>
+                            <div class="bg-[#0c331d] border border-[#5eead4]/40 rounded-xl p-2 mt-1"><strong class="text-[#5eead4]">🚀 Business Booster (PALING DIREKOMENDASIKAN):</strong> <span class="font-bold">Rp 1.500.000 setup + Rp 299.000/bln</span> — sistem akuisisi customer lokal: Build → Attract → Learn → Improve. Campaign terukur (maks 3 opportunity/bln), feedback customer nyata, review genuine, laporan bulanan. Anda fokus jalanin bisnis, kami yang handle. <em class="text-[#8cb89d]">Budget acquisition (maks Rp 150.000/bln) terpisah & transparan.</em></div>
                         </div>
                     </div>
                     
                     <div class="mb-2 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
                         <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">4. Micro-Close:</span>
-                        "Mau coba tes tap langsung di HP Kakak sekarang gimana cepatnya terbuka halaman review <strong class="text-[#fbf7ee] font-bold">${lead.name}</strong>?"
+                        "Mulai dari eksperimen kecil dulu gimana Kak? Mau coba tes tap kartu review langsung di HP Kakak sekarang?"
                     </div>
                 `;
             } else {
@@ -1367,17 +1381,17 @@
                     </div>
                     
                     <div class="mb-3 bg-[#0c331d] p-3.5 rounded-2xl border border-[#29643f]">
-                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats 3-Tier Offer:</span>
+                        <span class="text-[#5eead4] font-bold font-retro-serif block mb-1 text-xs">3. NeuralKats Offer — Sistem, Bukan Sekadar Website:</span>
                         <div class="space-y-1.5 text-[11px] text-[#f4ede2] mt-1.5">
-                            <div>• <strong>Smart NFC+QR Review Card:</strong> Cuma <span class="text-[#e8deb8] font-bold">Rp 50.000</span> (Sekali bayar, diantar maks. 1x24 jam).</div>
-                            <div>• <strong>Bundle Langganan Web + 2 Card:</strong> <span class="text-[#5eead4] font-bold">Rp 200.000/bln</span> (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu).</div>
-                            <div>• <strong>Bundle One-Time Web + 2 Card:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> (Sekali bayar, serah terima penuh + domain, tanpa iuran bulanan).</div>
+                            <div>• <strong>🪪 Google Review Card:</strong> <span class="text-[#e8deb8] font-bold">Rp 50.000</span> sekali bayar — memudahkan customer kasih review jujur dengan sekali tap/scan.</div>
+                            <div>• <strong>🌐 Website Starter:</strong> <span class="text-[#fbbf24] font-bold">Rp 500.000</span> sekali bayar — website + 2 kartu + domain, aset serah terima penuh tanpa maintenance.</div>
+                            <div class="bg-[#0c331d] border border-[#5eead4]/40 rounded-xl p-2 mt-1"><strong class="text-[#5eead4]">🚀 Business Booster (PALING DIREKOMENDASIKAN):</strong> <span class="font-bold">Rp 1.500.000 setup + Rp 299.000/bln</span> — sistem akuisisi customer lokal: Build → Attract → Learn → Improve. Campaign terukur (maks 3 opportunity/bln), feedback customer nyata, review genuine, laporan bulanan. Anda fokus jalanin bisnis, kami yang handle. <em class="text-[#8cb89d]">Budget acquisition (maks Rp 150.000/bln) terpisah & transparan.</em></div>
                         </div>
                     </div>
                     
                     <div class="mb-2 bg-[#061e11] p-3.5 rounded-2xl border border-[#1c4d2e]">
                         <span class="text-[#e8deb8] font-bold font-retro-serif block mb-1 text-xs">4. Micro-Close:</span>
-                        "Cuma 50 ribu sekali bayar, sangat masuk akal kan Kak buat ngunci agar omset toko gak bocor ke kompetitor?"
+                        "Mau mulai dari eksperimen kecil dulu Kak? Kita lihat bareng campaign pertama jalan, hasilnya dilaporkan transparan — cocok lanjut atau nggak."
                     </div>
                 `;
             }
@@ -1389,14 +1403,14 @@
                 return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Volume | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
                 `1. PAIN QUESTION:\n"Permisi Kak, dari 10 customer yang puas setelah transaksi di ${lead.name}, kira-kira berapa orang yang beneran nyempetin nulis review bintang 5 di Google Maps?"\n\n` +
                 `2. VALUE ANCHOR:\n"Padahal kalau setengahnya aja ninggalin review, sebulan udah dapet 100+ review organik. Itu setara sama billboard gratis yang narik customer baru tiap hari."\n\n` +
-                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (Sekali bayar, diantar maks. 1x24 jam)\n• Bundle Langganan Web + 2 Card: Rp 200.000/bln (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu)\n• Bundle One-Time Web + 2 Card: Rp 500.000 (Sekali bayar, serah terima penuh + domain)\n\n` +
-                `4. MICRO-CLOSE:\n"Mau coba tes tap langsung di HP Kakak sekarang gimana cepatnya?"`;
+                `3. NEURALKATS OFFER (Sistem, bukan sekadar website):\n• 🪪 Google Review Card: Rp 50.000 sekali bayar (memudahkan customer kasih review jujur, sekali tap/scan)\n• 🌐 Website Starter: Rp 500.000 sekali bayar (website + 2 kartu + domain, serah terima penuh, tanpa maintenance)\n• 🚀 BUSINESS BOOSTER [RECOMMENDED]: Rp 1.500.000 setup + Rp 299.000/bln — sistem akuisisi customer lokal: Build-Attract-Learn-Improve. Campaign terukur maks 3 opportunity/bln, feedback nyata, laporan bulanan. Budget acquisition (maks Rp 150.000/bln) terpisah & transparan.\n\n` +
+                `4. MICRO-CLOSE:\n"Mau mulai dari eksperimen kecil dulu Kak? Kita tes tap kartu review di HP Kakak sekarang, gampang kan?"`;
             } else {
                 return `[PITCH SCRIPT - ${lead.name.toUpperCase()}]\n(Strategi: Push Rating | Rating: ${lead.rating} | ${lead.reviews} revs)\n\n` +
                 `1. PAIN QUESTION:\n"Permisi Kak, kalau calon pelanggan cari '${lead.category} terdekat' di Google Maps, dan lihat rating ${lead.name} di angka ${lead.rating}, mereka bakal langsung mampir atau malah lari ke kompetitor?"\n\n` +
                 `2. VALUE ANCHOR:\n"Sayang banget kalau pelanggan bocor ke kompetitor cuma karena rating. Padahal kalau tiap customer puas gampang kasih bintang 5, seminggu aja rating langsung naik ke 4.9+."\n\n` +
-                `3. NEURALKATS OFFER:\n• Smart NFC+QR Review Card: Rp 50.000 (Sekali bayar, diantar maks. 1x24 jam)\n• Bundle Langganan Web + 2 Card: Rp 200.000/bln (Website + 2 Kartu + garansi perbaikan web maks. 3 hari kerja; bulan tanpa perubahan = bonus 2 kartu)\n• Bundle One-Time Web + 2 Card: Rp 500.000 (Sekali bayar, serah terima penuh + domain)\n\n` +
-                `4. MICRO-CLOSE:\n"Cuma 50 ribu sekali bayar, sangat masuk akal kan Kak buat ngunci agar omset toko gak bocor?"`;
+                `3. NEURALKATS OFFER (Sistem, bukan sekadar website):\n• 🪪 Google Review Card: Rp 50.000 sekali bayar (memudahkan customer kasih review jujur, sekali tap/scan)\n• 🌐 Website Starter: Rp 500.000 sekali bayar (website + 2 kartu + domain, serah terima penuh, tanpa maintenance)\n• 🚀 BUSINESS BOOSTER [RECOMMENDED]: Rp 1.500.000 setup + Rp 299.000/bln — sistem akuisisi customer lokal: Build-Attract-Learn-Improve. Campaign terukur maks 3 opportunity/bln, feedback nyata, laporan bulanan. Budget acquisition (maks Rp 150.000/bln) terpisah & transparan.\n\n` +
+                `4. MICRO-CLOSE:\n"Mau mulai dari eksperimen kecil dulu Kak? Hasil campaign dilaporkan transparan — cocok lanjut, nggak cocok berhenti."`;
             }
         }
 
