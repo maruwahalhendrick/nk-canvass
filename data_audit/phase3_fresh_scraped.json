@@ -1,0 +1,2267 @@
+[
+  {
+    "name": "The Forest Cafe Sukabumi Coffee and Eatery",
+    "mapsUrl": "https://www.google.com/maps/place/The+Forest+Cafe+Sukabumi+Coffee+and+Eatery/data=!4m7!3m6!1s0x2e6849007fbbf72d:0x708684633e744b3f!8m2!3d-6.8799376!4d106.9474337!16s%2Fg%2F11z7mbts5h!19sChIJLfe7fwBJaC4RP0t0PmOEhnA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Kopi Nako Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Kopi+Nako+Sukabumi/data=!4m7!3m6!1s0x2e6849ab86d58d3b:0x4a5ce73411d9faf!8m2!3d-6.9050142!4d106.9415424!16s%2Fg%2F11l1jqzj7f!19sChIJO43VhqtJaC4Rr58dQXPOpQQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Like Earth Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Like+Earth+Coffee/data=!4m7!3m6!1s0x2e6849939c7d51cf:0x47da53ba2be4d4b9!8m2!3d-6.917897!4d106.9303913!16s%2Fg%2F11f65bn169!19sChIJz1F9nJNJaC4RudTkK7pT2kc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Red Brick Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Red+Brick+Cafe/data=!4m7!3m6!1s0x2e68481a779b386b:0x536ff43d2a289e6e!8m2!3d-6.9400793!4d106.9239191!16s%2Fg%2F11cp77yzq8!19sChIJazibdxpIaC4Rbp4oKj30b1M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "D'Green Resto and Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/D%27Green+Resto+and+Coffee/data=!4m7!3m6!1s0x2e6849b5e5e9edcf:0xe35fbd6ada039627!8m2!3d-6.9073637!4d106.9372068!16s%2Fg%2F11bw21bts8!19sChIJz-3p5bVJaC4RJ5YD2mq9X-M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Moonshine Coffee & Space",
+    "mapsUrl": "https://www.google.com/maps/place/Moonshine+Coffee+%26+Space/data=!4m7!3m6!1s0x2e68372d3da6dac9:0x74a175c1837948b3!8m2!3d-6.8843541!4d106.9064907!16s%2Fg%2F11np7t91m3!19sChIJydqmPS03aC4Rs0h5g8F1oXQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Cafe van Mila",
+    "mapsUrl": "https://www.google.com/maps/place/Cafe+van+Mila/data=!4m7!3m6!1s0x2e6837d3b12a59cb:0x905e971cd768c2ff!8m2!3d-6.9168888!4d106.9039197!16s%2Fg%2F11bw5vqwft!19sChIJy1kqsdM3aC4R_8Jo1xyXXpA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Haus! Dago Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Haus!+Dago+Sukabumi/data=!4m7!3m6!1s0x2e684916c7905bd5:0x6adcf477912a9a7!8m2!3d-6.9203866!4d106.9309622!16s%2Fg%2F11ptdpwhnm!19sChIJ1VuQxxZJaC4Rp6kSeUfPrQY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "The Gade Corner Coffee and Gold Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/The+Gade+Corner+Coffee+and+Gold+Sukabumi/data=!4m7!3m6!1s0x2e68499197259e73:0x127bd12bc1948795!8m2!3d-6.9284842!4d106.9263937!16s%2Fg%2F11sgkd_jxq!19sChIJc54ll5FJaC4RlYeUwSvRexI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Yume Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Yume+Coffee/data=!4m7!3m6!1s0x2e6849f1fae10057:0x80f44f9702ecb7cd!8m2!3d-6.9171048!4d106.929665!16s%2Fg%2F11pbc49wy3!19sChIJVwDh-vFJaC4RzbfsApdP9IA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Praline Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Praline+Sukabumi/data=!4m7!3m6!1s0x2e68483567c113a7:0xedd710740d6b681f!8m2!3d-6.9138936!4d106.9336072!16s%2Fg%2F11clzhb15d!19sChIJpxPBZzVIaC4RH2hrDXQQ1-0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Mokopi Jungle",
+    "mapsUrl": "https://www.google.com/maps/place/Mokopi+Jungle/data=!4m7!3m6!1s0x2e6849eb849354e7:0xfe02f6e2ddeb4e2e!8m2!3d-6.8840526!4d106.9449618!16s%2Fg%2F11sm74y4r9!19sChIJ51SThOtJaC4RLk7r3eL2Av4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "C'KOPI GAUD",
+    "mapsUrl": "https://www.google.com/maps/place/C%27KOPI+GAUD/data=!4m7!3m6!1s0x2e68483019be9e79:0xfa33acd24fc86e97!8m2!3d-6.9216695!4d106.9249364!16s%2Fg%2F11btsvdfml!19sChIJeZ6-GTBIaC4Rl27IT9KsM_o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Sono Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Sono+Coffee/data=!4m7!3m6!1s0x2e68494dc1064663:0x93a4d0bfe48933a!8m2!3d-6.8735452!4d106.9523406!16s%2Fg%2F11mwp7xgxg!19sChIJY0YGwU1JaC4ROpNI_gtNOgk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Somewhere Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Somewhere+Coffee/data=!4m7!3m6!1s0x2e6849b19d34cd4d:0x8e4ca460a49896c9!8m2!3d-6.8939638!4d106.94169!16s%2Fg%2F11lnvn2llc!19sChIJTc00nbFJaC4RyZaYpGCkTI4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "MARA cafe",
+    "mapsUrl": "https://www.google.com/maps/place/MARA+cafe/data=!4m7!3m6!1s0x2e68490074f8ec5f:0xe717175bc25d3cb9!8m2!3d-6.916477!4d106.93573!16s%2Fg%2F11vwhnq_q9!19sChIJX-z4dABJaC4RuTxdwlsXF-c?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Brunch Recipe Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Brunch+Recipe+Cafe/data=!4m7!3m6!1s0x2e684834fff6256d:0x391cbec2bd8f24fd!8m2!3d-6.9185184!4d106.9336938!16s%2Fg%2F11k3g9kdnn!19sChIJbSX2_zRIaC4R_SSPvcK-HDk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Sunset Moment Cafe & Resto (SM Coffee)",
+    "mapsUrl": "https://www.google.com/maps/place/Sunset+Moment+Cafe+%26+Resto+%28SM+Coffee%29/data=!4m7!3m6!1s0x2e6849001cc9d99d:0xd1dc63284be0de71!8m2!3d-6.9423125!4d106.9288125!16s%2Fg%2F11z5r7gjc2!19sChIJndnJHABJaC4Rcd7gSyhj3NE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Sunda Coffee & Space (Coffee Shop & Creative Space)",
+    "mapsUrl": "https://www.google.com/maps/place/Sunda+Coffee+%26+Space+%28Coffee+Shop+%26+Creative+Space%29/data=!4m7!3m6!1s0x2e6849cc84b3244b:0x8dc5aaa06160c7b2!8m2!3d-6.9172988!4d106.9324639!16s%2Fg%2F11h2hjcmtw!19sChIJSySzhMxJaC4RssdgYaCqxY0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Naera coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Naera+coffee/data=!4m7!3m6!1s0x2e6849002ea55fb1:0x4acbe46e9b3cae04!8m2!3d-6.9174631!4d106.9132468!16s%2Fg%2F11ym3rtk7r!19sChIJsV-lLgBJaC4RBK48m27ky0o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Fore Coffee - Citimall Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Fore+Coffee+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684991dae18313:0xa141641b64ed67f2!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11t0pbk97b!19sChIJE4Ph2pFJaC4R8mftZBtkQaE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Mouvie Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Mouvie+Cafe/data=!4m7!3m6!1s0x2e684bf10b5f7d5d:0x61b3fb14d34b3e93!8m2!3d-6.8576247!4d106.9488965!16s%2Fg%2F11l2bw3sv6!19sChIJXX1fC_FLaC4Rkz5L0xT7s2E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Habit Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Habit+Coffee/data=!4m7!3m6!1s0x2e68494a7b03b809:0x63b13e2749581c9e!8m2!3d-6.9142624!4d106.9199599!16s%2Fg%2F11t7m0_xdj!19sChIJCbgDe0pJaC4RnhxYSSc-sWM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Barn Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Barn+Coffee/data=!4m7!3m6!1s0x2e68491ed0a714a5:0xb7a7440674847b73!8m2!3d-6.9224475!4d106.9339727!16s%2Fg%2F11fj2r23z5!19sChIJpRSn0B5JaC4Rc3uEdAZEp7c?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Viesta Coffee & Dining",
+    "mapsUrl": "https://www.google.com/maps/place/Viesta+Coffee+%26+Dining/data=!4m7!3m6!1s0x2e684835659e85e1:0xb6f793b14f2118e7!8m2!3d-6.9138142!4d106.9351942!16s%2Fg%2F11c3_1wtkx!19sChIJ4YWeZTVIaC4R5xghT7GT97Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Brue",
+    "mapsUrl": "https://www.google.com/maps/place/Brue/data=!4m7!3m6!1s0x2e684987b0c938ad:0xa846ed4cf4361deb!8m2!3d-6.917467!4d106.9313126!16s%2Fg%2F11vdf9qrm5!19sChIJrTjJsIdJaC4R6x029EztRqg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "SAIYA SPACE Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/SAIYA+SPACE+Cafe/data=!4m7!3m6!1s0x2e68490013408ed3:0x1e24d5f14318a83!8m2!3d-6.91803!4d106.9258535!16s%2Fg%2F11z590xbsc!19sChIJ045AEwBJaC4Rg4oxFF9N4gE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Sukabumi Coffee Center",
+    "mapsUrl": "https://www.google.com/maps/place/Sukabumi+Coffee+Center/data=!4m7!3m6!1s0x2e6849001a56a705:0xda529dbda9c662be!8m2!3d-6.9215855!4d106.9268733!16s%2Fg%2F11vpdh3jgl!19sChIJBadWGgBJaC4RvmLGqb2dUto?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Kaisha palace Food and coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Kaisha+palace+Food+and+coffee/data=!4m7!3m6!1s0x2e684998c3b208a7:0xde79b254eac2e0fe!8m2!3d-6.9178803!4d106.9363358!16s%2Fg%2F11p55rk93j!19sChIJpwiyw5hJaC4R_uDC6lSyed4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Starbucks Siliwangi Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Starbucks+Siliwangi+Sukabumi/data=!4m7!3m6!1s0x2e6849a100887d59:0x794fe2e192912370!8m2!3d-6.9182585!4d106.9363307!16s%2Fg%2F11rqsmf77h!19sChIJWX2IAKFJaC4RcCORkuHiT3k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Kokka Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Kokka+Coffee/data=!4m7!3m6!1s0x2e68490026d09f5f:0x9de7023fb6487ebb!8m2!3d-6.9192354!4d106.9174879!16s%2Fg%2F11y07f4gyx!19sChIJX5_QJgBJaC4Ru35Itj8C550?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Butler Bar & Bistro",
+    "mapsUrl": "https://www.google.com/maps/place/Butler+Bar+%26+Bistro/data=!4m7!3m6!1s0x2e684835654cf605:0xae23b6e54b3f4e53!8m2!3d-6.9142644!4d106.9353048!16s%2Fg%2F11b8c56rc5!19sChIJBfZMZTVIaC4RU04_S-W2I64?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kafe Sukabumi"
+  },
+  {
+    "name": "Kedai Kopi 35",
+    "mapsUrl": "https://www.google.com/maps/place/Kedai+Kopi+35/data=!4m7!3m6!1s0x2e6849745e51467f:0xaddf5df328382c4!8m2!3d-6.911105!4d106.9346607!16s%2Fg%2F11gk6pwy1q!19sChIJf0ZRXnRJaC4RxIKDMt_13Qo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Seecul Coffee Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Seecul+Coffee+Bar/data=!4m7!3m6!1s0x2e684830fe84a7f7:0xedb745d74a58e691!8m2!3d-6.9202731!4d106.9273496!16s%2Fg%2F11c60h851g!19sChIJ96eE_jBIaC4RkeZYStdFt-0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Kopi Tekun Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Kopi+Tekun+Sukabumi/data=!4m7!3m6!1s0x2e68496e201c4461:0x6807920472c07dcb!8m2!3d-6.9202609!4d106.9309856!16s%2Fg%2F11rf9_ytkc!19sChIJYUQcIG5JaC4Ry33AcgSSB2g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Toko Kopi Candu",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Kopi+Candu/data=!4m7!3m6!1s0x2e6849003fb65025:0x8a45cac9ceb0b02b!8m2!3d-6.9178051!4d106.9255887!16s%2Fg%2F11mrs6g094!19sChIJJVC2PwBJaC4RK7CwzsnKRYo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Laoban Kopitiam By Uncle Osh Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Laoban+Kopitiam+By+Uncle+Osh+Sukabumi/data=!4m7!3m6!1s0x2e6849007d1ede73:0x34b551a3bd7024b0!8m2!3d-6.9085068!4d106.936698!16s%2Fg%2F11wg8j_019!19sChIJc94efQBJaC4RsCRwvaNRtTQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Kedai Kopi Ncek Joe Tie 1953",
+    "mapsUrl": "https://www.google.com/maps/place/Kedai+Kopi+Ncek+Joe+Tie+1953/data=!4m7!3m6!1s0x2e68498288091e0f:0xadba8a4c0d803f30!8m2!3d-6.9220047!4d106.9271848!16s%2Fg%2F11lyp9r5yd!19sChIJDx4JiIJJaC4RMD-ADUyKuq0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "K&J Coffee",
+    "mapsUrl": "https://www.google.com/maps/place/K%26J+Coffee/data=!4m7!3m6!1s0x2e6849522d447747:0xba788359a1968ebe!8m2!3d-6.9145677!4d106.9292051!16s%2Fg%2F11qh3m2dtk!19sChIJR3dELVJJaC4Rvo6WoVmDeLo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Rutinitas coffee",
+    "mapsUrl": "https://www.google.com/maps/place/Rutinitas+coffee/data=!4m7!3m6!1s0x2e6849585e9c00cf:0xdb3950b42082aa63!8m2!3d-6.9225111!4d106.944953!16s%2Fg%2F11mw7qxfk1!19sChIJzwCcXlhJaC4RY6qCILRQOds?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Karna Roastwork",
+    "mapsUrl": "https://www.google.com/maps/place/Karna+Roastwork/data=!4m7!3m6!1s0x2e684900098c3563:0x7589a390ae45268a!8m2!3d-6.9180062!4d106.9173365!16s%2Fg%2F11ml6jgpjk!19sChIJYzWMCQBJaC4RiiZFrpCjiXU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Mokopi Jalur",
+    "mapsUrl": "https://www.google.com/maps/place/Mokopi+Jalur/data=!4m7!3m6!1s0x2e6837b075128f4f:0xddcde4b70d6bbc0f!8m2!3d-6.9339126!4d106.9035494!16s%2Fg%2F11tslq7pz4!19sChIJT48SdbA3aC4RD7xrDbfkzd0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Bumi Kopi Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bumi+Kopi+Sukabumi/data=!4m7!3m6!1s0x2e68497435452471:0x31611ce24f843d34!8m2!3d-6.8866844!4d106.9624125!16s%2Fg%2F11hbnl1pf9!19sChIJcSRFNXRJaC4RND2ET-IcYTE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Dago House Food and Coffee Bar",
+    "mapsUrl": "https://www.google.com/maps/place/Dago+House+Food+and+Coffee+Bar/data=!4m7!3m6!1s0x2e68483727328813:0x60849e2174dde142!8m2!3d-6.919988!4d106.9310191!16s%2Fg%2F11gcn1kwc5!19sChIJE4gyJzdIaC4RQuHddCGehGA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Kedai Kopi Sukabumi"
+  },
+  {
+    "name": "Secret Garden Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Secret+Garden+Sukabumi/data=!4m7!3m6!1s0x2e6849e3f15ea46b:0x4afb659d4208ce9d!8m2!3d-6.9186879!4d106.928139!16s%2Fg%2F11qzzyjrgj!19sChIJa6Re8eNJaC4Rnc4IQp1l-0o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Restaurant Sunda Rasa Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Restaurant+Sunda+Rasa+Sukabumi/data=!4m7!3m6!1s0x2e6849f4e58f15e3:0xe9981092b4ec1e77!8m2!3d-6.918992!4d106.9367039!16s%2Fg%2F11b6wd4j6t!19sChIJ4xWP5fRJaC4Rdx7stJIQmOk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "De Kebondjati",
+    "mapsUrl": "https://www.google.com/maps/place/De+Kebondjati/data=!4m7!3m6!1s0x2e684849dc1e2c2d:0xdd5191cdfa8bb8de!8m2!3d-6.9185767!4d106.9362257!16s%2Fg%2F11c2y3235l!19sChIJLSwe3ElIaC4R3riL-s2RUd0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "PANORAMA RESTO AND CAFE",
+    "mapsUrl": "https://www.google.com/maps/place/PANORAMA+RESTO+AND+CAFE/data=!4m7!3m6!1s0x2e684806f846da81:0xa9706afba66558d6!8m2!3d-6.9509184!4d106.9210714!16s%2Fg%2F11b6dtd_n8!19sChIJgdpG-AZIaC4R1lhlpvtqcKk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Kari am Garuda resto",
+    "mapsUrl": "https://www.google.com/maps/place/Kari+am+Garuda+resto/data=!4m7!3m6!1s0x2e6847a711aa9d8b:0x7b7688eaeec36258!8m2!3d-6.9598514!4d106.9436713!16s%2Fg%2F11qgyynvs4!19sChIJi52qEadHaC4RWGLD7uqIdns?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Ale's Place Cipoho | Restoran Jepang Halal di Kota Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ale%27s+Place+Cipoho+%7C+Restoran+Jepang+Halal+di+Kota+Sukabumi/data=!4m7!3m6!1s0x2e684817711502fb:0x7a15ebd364bcdc23!8m2!3d-6.9360843!4d106.9251829!16s%2Fg%2F11b7cfd710!19sChIJ-wIVcRdIaC4RI9y8ZNPrFXo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Botram Resto",
+    "mapsUrl": "https://www.google.com/maps/place/Botram+Resto/data=!4m7!3m6!1s0x2e684964a39788cb:0xac7ab5bfcf5c6feb!8m2!3d-6.917268!4d106.9294602!16s%2Fg%2F11h84lrbl_!19sChIJy4iXo2RJaC4R629cz7-1eqw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Rumah Makan Cikole Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Makan+Cikole+Sukabumi/data=!4m7!3m6!1s0x2e6848342edf899f:0x88c7b170b3847245!8m2!3d-6.9176893!4d106.9324112!16s%2Fg%2F1pzy67yf9!19sChIJn4nfLjRIaC4RRXKEs3Cxx4g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Seoul little",
+    "mapsUrl": "https://www.google.com/maps/place/Seoul+little/data=!4m7!3m6!1s0x2e684839e072f639:0xd14981339b22672e!8m2!3d-6.9225307!4d106.9314186!16s%2Fg%2F11hck8s7q6!19sChIJOfZy4DlIaC4RLmcimzOBSdE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Ladaland Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ladaland+Sukabumi/data=!4m7!3m6!1s0x2e6849f8db13cdc7:0xd401bf92bff57da6!8m2!3d-6.9161949!4d106.9325596!16s%2Fg%2F11swz6js_c!19sChIJx80T2_hJaC4Rpn31v5K_AdQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Mamih Ungu Resto and Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/Mamih+Ungu+Resto+and+Cafe/data=!4m7!3m6!1s0x2e68482ebe6e327b:0x8e410a1dec0ae9cf!8m2!3d-6.9187583!4d106.9194507!16s%2Fg%2F11btlzcs3g!19sChIJezJuvi5IaC4Rz-kK7B0KQY4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Rumah Makan Haroem Sari",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Makan+Haroem+Sari/data=!4m7!3m6!1s0x2e68492ba084204f:0x4b4dfcf7074bf2b0!8m2!3d-6.9196963!4d106.9359431!16s%2Fg%2F11tjw_jv6v!19sChIJTyCEoCtJaC4RsPJLB_f8TUs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Rumah Seafood Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Seafood+Sukabumi/data=!4m7!3m6!1s0x2e6849b592cbd9bf:0xce1ed5bb6fc3a92b!8m2!3d-6.90814!4d106.9367248!16s%2Fg%2F11f3dcm_3p!19sChIJv9nLkrVJaC4RK6nDb7vVHs4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Padang Baru",
+    "mapsUrl": "https://www.google.com/maps/place/Padang+Baru/data=!4m7!3m6!1s0x2e6849002a669bc3:0x23b58302c060cf9!8m2!3d-6.9168257!4d106.9309764!16s%2Fg%2F11xdqcytzs!19sChIJw5tmKgBJaC4R-QwGLDBYOwI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Kazoku Tei",
+    "mapsUrl": "https://www.google.com/maps/place/Kazoku+Tei/data=!4m7!3m6!1s0x2e6849ca46e293d7:0xecdadc57baacbddf!8m2!3d-6.9170755!4d106.9363721!16s%2Fg%2F11cjhs136b!19sChIJ15PiRspJaC4R372sulfc2uw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "SKBM Resto & Cafe",
+    "mapsUrl": "https://www.google.com/maps/place/SKBM+Resto+%26+Cafe/data=!4m7!3m6!1s0x2e6849daef744235:0x5f6f0b8087655ff1!8m2!3d-6.9118047!4d106.9336239!16s%2Fg%2F11s5czm1d2!19sChIJNUJ079pJaC4R8V9lh4ALb18?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "BANDROS ATA",
+    "mapsUrl": "https://www.google.com/maps/place/BANDROS+ATA/data=!4m7!3m6!1s0x2e6848382168dded:0x5f119c94120a260e!8m2!3d-6.9225906!4d106.9342257!16s%2Fg%2F11f_hg7w0d!19sChIJ7d1oIThIaC4RDiYKEpScEV8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "RM Ibu Bunut",
+    "mapsUrl": "https://www.google.com/maps/place/RM+Ibu+Bunut/data=!4m7!3m6!1s0x2e6848350072afd1:0xb756a0c2e769ccf4!8m2!3d-6.9146862!4d106.9331533!16s%2Fg%2F11bw46s_h6!19sChIJ0a9yADVIaC4R9Mxp58KgVrc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "BONARA - Fusion Restaurant",
+    "mapsUrl": "https://www.google.com/maps/place/BONARA+-+Fusion+Restaurant/data=!4m7!3m6!1s0x2e68490ae4899c1b:0xffabf3fbb3d0daad!8m2!3d-6.9188655!4d106.9362928!16s%2Fg%2F11wc0lf2ht!19sChIJG5yJ5ApJaC4RrdrQs_vzq_8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Soedirman Street Food",
+    "mapsUrl": "https://www.google.com/maps/place/Soedirman+Street+Food/data=!4m7!3m6!1s0x2e6849dd976997f7:0xf11eb7aeabfe4145!8m2!3d-6.9207264!4d106.9220751!16s%2Fg%2F11fm3ybkq9!19sChIJ95dpl91JaC4RRUH-q663HvE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Gudang Steak",
+    "mapsUrl": "https://www.google.com/maps/place/Gudang+Steak/data=!4m7!3m6!1s0x2e68493293acbbb1:0x2907e8e9a03ca123!8m2!3d-6.9224948!4d106.9339653!16s%2Fg%2F11h3kcfc79!19sChIJsbuskzJJaC4RI6E8oOnoByk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Yayasan Darul Aitam Indonesia",
+    "mapsUrl": "https://www.google.com/maps/place/Yayasan+Darul+Aitam+Indonesia/data=!4m7!3m6!1s0x2e684992cc8bc85d:0xa43b783340949009!8m2!3d-6.9364719!4d106.9527247!16s%2Fg%2F11h6r38kyz!19sChIJXciLzJJJaC4RCZCUQDN4O6Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Restoran Baru Sukabumi"
+  },
+  {
+    "name": "Maple Bakery",
+    "mapsUrl": "https://www.google.com/maps/place/Maple+Bakery/data=!4m7!3m6!1s0x2e68483826c622a9:0x2d79ff2b59ba77c4!8m2!3d-6.9227075!4d106.9338423!16s%2Fg%2F11bx1hndq3!19sChIJqSLGJjhIaC4RxHe6WSv_eS0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Amorcakes+%26+Bakery+Sudirman+-+Sukabumi/data=!4m7!3m6!1s0x2e68482ee62fa8d5:0x58ea0dcf2ca63b5!8m2!3d-6.9203506!4d106.9207629!16s%2Fg%2F1pzrm3hnn!19sChIJ1agv5i5IaC4RtWPK8tygjgU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/PURIMAS+3+CAKE+%26+BAKERY+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684830dad06f71:0x2712ea0831da0c99!8m2!3d-6.9207051!4d106.9304953!16s%2Fg%2F1pztrsk07!19sChIJcW_Q2jBIaC4RmQzaMQjqEic?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Bandung Cheesecuit Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bandung+Cheesecuit+Sukabumi/data=!4m7!3m6!1s0x2e6849dee74c13df:0x3132482c5cdfcd1c!8m2!3d-6.9154567!4d106.9360574!16s%2Fg%2F11yl9vwvgj!19sChIJ3xNM595JaC4RHM3fXCxIMjE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "The Harvest Cakes - Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/The+Harvest+Cakes+-+Sukabumi/data=!4m7!3m6!1s0x2e6849dff1772a2d:0xe34768e6c4f989f0!8m2!3d-6.9203196!4d106.9356809!16s%2Fg%2F11sf942nf_!19sChIJLSp38d9JaC4R8In5xOZoR-M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "DAPUR MUNGIL PUSAT",
+    "mapsUrl": "https://www.google.com/maps/place/DAPUR+MUNGIL+PUSAT/data=!4m7!3m6!1s0x2e6849d234eb57e1:0x63a7feb68b88d92d!8m2!3d-6.9153794!4d106.9197504!16s%2Fg%2F11f5hp07rh!19sChIJ4VfrNNJJaC4RLdmIi7b-p2M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Frances",
+    "mapsUrl": "https://www.google.com/maps/place/Frances/data=!4m7!3m6!1s0x2e68484a067ece09:0xe2b72a4861ee82a2!8m2!3d-6.9166745!4d106.9362147!16s%2Fg%2F11f_j2062v!19sChIJCc5-BkpIaC4RooLuYUgqt-I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Rumah Puding Premium dan Pusat Oleh-Oleh di Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Puding+Premium+dan+Pusat+Oleh-Oleh+di+Sukabumi/data=!4m7!3m6!1s0x2e6849007c7cb409:0x103322fae153686a!8m2!3d-6.9210081!4d106.9289585!16s%2Fg%2F11lf4vbq34!19sChIJCbR8fABJaC4RamhT4foiMxA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Holland Bakery",
+    "mapsUrl": "https://www.google.com/maps/place/Holland+Bakery/data=!4m7!3m6!1s0x2e6848293a0c336b:0xd55b8d57f400d7eb!8m2!3d-6.9195959!4d106.9175958!16s%2Fg%2F11d_7tvm4r!19sChIJazMMOilIaC4R69cA9FeNW9U?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Toko Oleh-oleh Khas Sukabumi Bika Ambon Sunda Rasa",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Oleh-oleh+Khas+Sukabumi+Bika+Ambon+Sunda+Rasa/data=!4m7!3m6!1s0x2e68493dbdecac3f:0x788b18caf5d1d8ab!8m2!3d-6.9188655!4d106.9362928!16s%2Fg%2F11g0gp3t5_!19sChIJP6zsvT1JaC4Rq9jR9coYi3g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Amorcakes and Bakery - Cikole Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Amorcakes+and+Bakery+-+Cikole+Sukabumi/data=!4m7!3m6!1s0x2e68494b80315a59:0xf448f1881e91b2ee!8m2!3d-6.9222771!4d106.9339709!16s%2Fg%2F11kprl66h3!19sChIJWVoxgEtJaC4R7rKRHojxSPQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "zakesta brownies and cakes",
+    "mapsUrl": "https://www.google.com/maps/place/zakesta+brownies+and+cakes/data=!4m7!3m6!1s0x2e6849f8dc041ac3:0x35eb5b383fec7e85!8m2!3d-6.8976582!4d106.9130019!16s%2Fg%2F11fd4zzjl6!19sChIJwxoE3PhJaC4RhX7sPzhb6zU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Takashi+Bakehouse+x+Republik+Burger+Sukabumi/data=!4m7!3m6!1s0x2e6849d4079d1495:0x1012323ad552eab2!8m2!3d-6.9182668!4d106.932987!16s%2Fg%2F11t438pzj8!19sChIJlRSdB9RJaC4RsupS1ToyEhA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Grande Passo Cake Shop",
+    "mapsUrl": "https://www.google.com/maps/place/Grande+Passo+Cake+Shop/data=!4m7!3m6!1s0x2e68484a0b3996f1:0xa3430b798b45da03!8m2!3d-6.9159389!4d106.9361847!16s%2Fg%2F11c6mdvzcx!19sChIJ8ZY5C0pIaC4RA9pFi3kLQ6M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "GLOBAL BAKERY PASAR CISAAT SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/GLOBAL+BAKERY+PASAR+CISAAT+SUKABUMI/data=!4m7!3m6!1s0x2e68370631caa1d9:0xe00c4b0f0fd8669!8m2!3d-6.9053556!4d106.8921822!16s%2Fg%2F11vjhntzdz!19sChIJ2aHKMQY3aC4RaYb98LDEAA4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Mochi A Yani",
+    "mapsUrl": "https://www.google.com/maps/place/Mochi+A+Yani/data=!4m7!3m6!1s0x2e684837540c1b55:0xbc03dcb873c6f6cf!8m2!3d-6.9226815!4d106.9311829!16s%2Fg%2F1pzsvng08!19sChIJVRsMVDdIaC4Rz_bGc7jcA7w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Bolu Amor Jl Gudang",
+    "mapsUrl": "https://www.google.com/maps/place/Bolu+Amor+Jl+Gudang/data=!4m7!3m6!1s0x2e6849a1dd90fb19:0x16dd0fff939a0bec!8m2!3d-6.9222635!4d106.9339469!16s%2Fg%2F11h75pnkg9!19sChIJGfuQ3aFJaC4R7Auak_8P3RY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Australian Cake",
+    "mapsUrl": "https://www.google.com/maps/place/Australian+Cake/data=!4m7!3m6!1s0x2e68483a0d9c8fc1:0x944693ac241146ab!8m2!3d-6.9232263!4d106.9286831!16s%2Fg%2F11hbbs5fc2!19sChIJwY-cDTpIaC4Rq0YRJKyTRpQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Global bakery Sukaraja Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Global+bakery+Sukaraja+Sukabumi/data=!4m7!3m6!1s0x2e6849cc12ceee97:0x2810e5ab46c52ba1!8m2!3d-6.9186736!4d106.9592387!16s%2Fg%2F11xds5z37j!19sChIJl-7OEsxJaC4RoSvFRqvlECg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Kiko bakes sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Kiko+bakes+sukabumi/data=!4m7!3m6!1s0x2e68494ba8a0175b:0x96292da01533320a!8m2!3d-6.9116401!4d106.9336738!16s%2Fg%2F11v02tsyv5!19sChIJWxegqEtJaC4RCjIzFaAtKZY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Toko Kue Sarah",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Kue+Sarah/data=!4m7!3m6!1s0x2e684830b6a3fdc1:0x954ea2eef1ade87e!8m2!3d-6.9214992!4d106.9296037!16s%2Fg%2F11c44w9ps8!19sChIJwf2jtjBIaC4Rfuit8e6iTpU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Toko Maju",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Maju/data=!4m7!3m6!1s0x2e68483093c57b55:0x9cafc70b5423c595!8m2!3d-6.9217751!4d106.9279333!16s%2Fg%2F11bc7qms7l!19sChIJVXvFkzBIaC4RlcUjVAvHr5w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Jasun bakery",
+    "mapsUrl": "https://www.google.com/maps/place/Jasun+bakery/data=!4m7!3m6!1s0x2e68499a4fd3d51b:0xd074265dc65c72b9!8m2!3d-6.9076532!4d106.9174932!16s%2Fg%2F11sw0wg28v!19sChIJG9XTT5pJaC4RuXJcxl0mdNA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Siliwangi Bolu Kukus Jendral Sudirman, Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Siliwangi+Bolu+Kukus+Jendral+Sudirman,+Sukabumi/data=!4m7!3m6!1s0x2e684984a4ba2e19:0x8bb61b4f48f7e1b0!8m2!3d-6.9209058!4d106.922751!16s%2Fg%2F11ncfw8h5n!19sChIJGS66pIRJaC4RsOH3SE8btos?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Cantigi",
+    "mapsUrl": "https://www.google.com/maps/place/Cantigi/data=!4m7!3m6!1s0x2e684837e42b0b97:0xd5573910c838e4bd!8m2!3d-6.9204755!4d106.9356054!16s%2Fg%2F1pzs4szdv!19sChIJlwsr5DdIaC4RveQ4yBA5V9U?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Mochi Kaswari Lampion",
+    "mapsUrl": "https://www.google.com/maps/place/Mochi+Kaswari+Lampion/data=!4m7!3m6!1s0x2e684834a61ab6b3:0xa3a3055e8adaae9d!8m2!3d-6.912719!4d106.9304255!16s%2Fg%2F1pzy6dtl6!19sChIJs7YapjRIaC4Rna7ail4Fo6M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Ariesty Cake",
+    "mapsUrl": "https://www.google.com/maps/place/Ariesty+Cake/data=!4m7!3m6!1s0x2e6849cae1cb521d:0x8c68563ffd1b010e!8m2!3d-6.9107138!4d106.9329617!16s%2Fg%2F1pzsncf86!19sChIJHVLL4cpJaC4RDgEb_T9WaIw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Kue Sukabumi"
+  },
+  {
+    "name": "Nadifa Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Nadifa+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e68499a26736065:0x85e601f696d2a513!8m2!3d-6.9229013!4d106.9393466!16s%2Fg%2F11mt8k6ntw!19sChIJZWBzJppJaC4RE6XSlvYB5oU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Natasha Skin Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Natasha+Skin+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e68483615555555:0xd642a2918dd0ce27!8m2!3d-6.9164091!4d106.9318088!16s%2Fg%2F11cjnnxjnn!19sChIJVVVVFTZIaC4RJ87QjZGiQtY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Dr Metz Skincare",
+    "mapsUrl": "https://www.google.com/maps/place/Dr+Metz+Skincare/data=!4m7!3m6!1s0x2e68482be8370981:0xe7ce1bf920a084c5!8m2!3d-6.9171328!4d106.9168175!16s%2Fg%2F11g9qfd7sn!19sChIJgQk36CtIaC4RxYSgIPkbzuc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Calysta skin care clinic",
+    "mapsUrl": "https://www.google.com/maps/place/Calysta+skin+care+clinic/data=!4m7!3m6!1s0x2e684837c0012271:0x6ee15e2f4b705550!8m2!3d-6.9142937!4d106.934761!16s%2Fg%2F11btxjh3pf!19sChIJcSIBwDdIaC4RUFVwSy9e4W4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Ella Skincare Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ella+Skincare+Sukabumi/data=!4m7!3m6!1s0x2e684900025c0131:0xd97fce5b8c4bd21d!8m2!3d-6.916413!4d106.9358537!16s%2Fg%2F11wx19mbf8!19sChIJMQFcAgBJaC4RHdJLjFvOf9k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Erha Skin Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Erha+Skin+Sukabumi/data=!4m7!3m6!1s0x2e6849f6d29dd149:0x21eef8e4489b58da!8m2!3d-6.9164767!4d106.9317562!16s%2Fg%2F11f7r6vfp0!19sChIJSdGd0vZJaC4R2libSOT47iE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "ZAP Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/ZAP+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e68497fd4973d31:0x84058ab6bc5c7ec0!8m2!3d-6.9208916!4d106.9351912!16s%2Fg%2F11y408g9df!19sChIJMT2X1H9JaC4RwH5cvLaKBYQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Naavagreen Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Naavagreen+Sukabumi/data=!4m7!3m6!1s0x2e68493e3c06fa13:0xafe1f2b89f3b5d8e!8m2!3d-6.9209259!4d106.9227661!16s%2Fg%2F11rxlgscq_!19sChIJE_oGPD5JaC4Rjl07n7jy4a8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Amira Aesthetic Clinic",
+    "mapsUrl": "https://www.google.com/maps/place/Amira+Aesthetic+Clinic/data=!4m7!3m6!1s0x2e68484f61f59f7d:0x23748c3b9a63b7e3!8m2!3d-6.9220035!4d106.9436021!16s%2Fg%2F11g9qczddv!19sChIJfZ_1YU9IaC4R47djmjuMdCM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Klinik Irna",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+Irna/data=!4m7!3m6!1s0x2e68482961398edd:0xe9952aaca9256003!8m2!3d-6.917074!4d106.916765!16s%2Fg%2F11ddwzryc_!19sChIJ3Y45YSlIaC4RA2Alqawqlek?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Arora Laser & Aesthetic Clinic",
+    "mapsUrl": "https://www.google.com/maps/place/Arora+Laser+%26+Aesthetic+Clinic/data=!4m7!3m6!1s0x2e684980347ff9b9:0x7ce7977cff80139d!8m2!3d-6.9163899!4d106.9361996!16s%2Fg%2F11rc9n04s9!19sChIJufl_NIBJaC4RnROA_3yX53w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Dr Ve Aesthetic Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Dr+Ve+Aesthetic+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e684979f77e1921:0x1e146e65aa9b095c!8m2!3d-6.9113901!4d106.9208778!16s%2Fg%2F11j03bnq8x!19sChIJIRl-93lJaC4RXAmbqmVuFB4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Kilau Estetik",
+    "mapsUrl": "https://www.google.com/maps/place/Kilau+Estetik/data=!4m7!3m6!1s0x2e683302cb58ec2f:0x68cd8f5ac806b06d!8m2!3d-6.796771!4d106.7768897!16s%2Fg%2F11y5p58x35!19sChIJL-xYywIzaC4RbbAGyFqPzWg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Bening's Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bening%27s+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e68496147b44dd1:0x521d0a3a50757b7e!8m2!3d-6.9194767!4d106.916576!16s%2Fg%2F11v69tlpvm!19sChIJ0U20R2FJaC4Rfnt1UDoKHVI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Klinik Puspitarini",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+Puspitarini/data=!4m7!3m6!1s0x2e68482fe520113b:0x221084169c32b258!8m2!3d-6.9220827!4d106.923498!16s%2Fg%2F11g9mgdxdx!19sChIJOxEg5S9IaC4RWLIynBaEECI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "NMW CLINIC Pos Pengumben",
+    "mapsUrl": "https://www.google.com/maps/place/NMW+CLINIC+Pos+Pengumben/data=!4m7!3m6!1s0x2e69f7574aa8883d:0xb8f7383f888ab50e!8m2!3d-6.2168063!4d106.7690393!16s%2Fg%2F11qyt3mmss!19sChIJPYioSlf3aS4RDrWKiD8497g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Griya Cantik Dokter Dian",
+    "mapsUrl": "https://www.google.com/maps/place/Griya+Cantik+Dokter+Dian/data=!4m7!3m6!1s0x2e683365808784df:0xf3c28c09333d3d4e!8m2!3d-6.8506732!4d106.75529!16s%2Fg%2F11fn57gxmv!19sChIJ34SHgGUzaC4RTj09MwmMwvM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Dr.Luluk Maya Savira (Dr.Vira)",
+    "mapsUrl": "https://www.google.com/maps/place/Dr.Luluk+Maya+Savira+%28Dr.Vira%29/data=!4m7!3m6!1s0x2e69f6d0e2766217:0x3d9999d72c49af4d!8m2!3d-6.2111221!4d106.7797037!16s%2Fg%2F11kmnvxr11!19sChIJF2J24tD2aS4RTa9JLNeZmT0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Klinik kecantikan sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+kecantikan+sukabumi/data=!4m7!3m6!1s0x2e6848296f1e21e9:0x74c291844537a47d!8m2!3d-6.9170894!4d106.9168319!16s%2Fg%2F11g6x87zqg!19sChIJ6SEebylIaC4RfaQ3RYSRwnQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Klinik Honeyfa Aesthetic",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+Honeyfa+Aesthetic/data=!4m7!3m6!1s0x2e683794088c3203:0x12fce07ed8a368dd!8m2!3d-6.9121587!4d106.900595!16s%2Fg%2F11pd33311y!19sChIJAzKMCJQ3aC4R3Wij2H7g_BI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "dr Putri kebon jeruk",
+    "mapsUrl": "https://www.google.com/maps/place/dr+Putri+kebon+jeruk/data=!4m7!3m6!1s0x2e69f1c00a535c3f:0xe00cfa902ffee825!8m2!3d-6.2239551!4d106.770492!16s%2Fg%2F11s7l6qtvl!19sChIJP1xTCsDxaS4RJej-L5D6DOA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Veoli Aesthetic Clinic",
+    "mapsUrl": "https://www.google.com/maps/place/Veoli+Aesthetic+Clinic/data=!4m7!3m6!1s0x2e6849e4e236d451:0xd0dc77f251f487b5!8m2!3d-6.9399368!4d106.923359!16s%2Fg%2F11khtj49gm!19sChIJUdQ24uRJaC4RtYf0UfJ33NA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Dermalita beauty care",
+    "mapsUrl": "https://www.google.com/maps/place/Dermalita+beauty+care/data=!4m7!3m6!1s0x2e69f1bbe3c1698b:0x8146bbab06a67980!8m2!3d-6.2256662!4d106.7725772!16s%2Fg%2F11vqt2ddtx!19sChIJi2nB47vxaS4RgHmmBqu7RoE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Dr Metz Restorative Clinic Cibadak",
+    "mapsUrl": "https://www.google.com/maps/place/Dr+Metz+Restorative+Clinic+Cibadak/data=!4m7!3m6!1s0x2e6831db55e63d39:0x63cc23680cbe3032!8m2!3d-6.8940113!4d106.7861295!16s%2Fg%2F11sjfkl99r!19sChIJOT3mVdsxaC4RMjC-DGgjzGM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Azka Clinic",
+    "mapsUrl": "https://www.google.com/maps/place/Azka+Clinic/data=!4m7!3m6!1s0x2e68482ea72ff66f:0x26d68d3bd553e387!8m2!3d-6.9180282!4d106.9191519!16s%2Fg%2F11fy20rs4r!19sChIJb_Yvpy5IaC4Rh-NT1TuN1iY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Auraku Skin Solution & Spa Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Auraku+Skin+Solution+%26+Spa+Sukabumi/data=!4m7!3m6!1s0x2e68483d5ccd8f45:0xb40399c0f64c511a!8m2!3d-6.9324617!4d106.9252576!16s%2Fg%2F11h9z4s06k!19sChIJRY_NXD1IaC4RGlFM9sCZA7Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Perawatan Kulit Sukabumi"
+  },
+  {
+    "name": "Sara ivonne Beauty Studio Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Sara+ivonne+Beauty+Studio+Sukabumi/data=!4m7!3m6!1s0x2e68484a092e2013:0xe6c04df4870dc23e!8m2!3d-6.9164915!4d106.9362352!16s%2Fg%2F11fxyk0rll!19sChIJEyAuCUpIaC4RPsINh_RNwOY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Avenue Salon Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Avenue+Salon+Sukabumi/data=!4m7!3m6!1s0x2e684929368ab753:0xe779f3ca67c710b2!8m2!3d-6.8983757!4d106.9389487!16s%2Fg%2F11x989xqtq!19sChIJU7eKNilJaC4RshDHZ8rzeec?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "BILS TREATMENT BEAUTY & SPA",
+    "mapsUrl": "https://www.google.com/maps/place/BILS+TREATMENT+BEAUTY+%26+SPA/data=!4m7!3m6!1s0x2e68490048ba538f:0xc882b5d644dd740e!8m2!3d-6.9180341!4d106.9120715!16s%2Fg%2F11yh4_jpyw!19sChIJj1O6SABJaC4RDnTdRNa1gsg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "GDM Natural Beauty Salon & Spa",
+    "mapsUrl": "https://www.google.com/maps/place/GDM+Natural+Beauty+Salon+%26+Spa/data=!4m7!3m6!1s0x2e68492784e0bf83:0xbfee2496fc04937!8m2!3d-6.9189818!4d106.9614474!16s%2Fg%2F11lg2wd29t!19sChIJg7_ghCdJaC4RN0nAb0ni_gs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Paradise Salon & Bridal",
+    "mapsUrl": "https://www.google.com/maps/place/Paradise+Salon+%26+Bridal/data=!4m7!3m6!1s0x2e684839feb0387d:0x8ddaf569ed715c24!8m2!3d-6.9229124!4d106.9345382!16s%2Fg%2F1pzsfhw6w!19sChIJfTiw_jlIaC4RJFxx7Wn12o0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "ARSENIO SALON",
+    "mapsUrl": "https://www.google.com/maps/place/ARSENIO+SALON/data=!4m7!3m6!1s0x2e6849002f996ced:0xf0bbe1e56f9edba7!8m2!3d-6.9259827!4d106.9333201!16s%2Fg%2F11xp81_9f9!19sChIJ7WyZLwBJaC4Rp9ueb-Xhu_A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Apricoat Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Apricoat+Sukabumi/data=!4m7!3m6!1s0x2e684970d1d7aaad:0xf9a035cdd3ad5acd!8m2!3d-6.9195707!4d106.9191652!16s%2Fg%2F11tp6dkvv2!19sChIJrarX0XBJaC4RzVqt0801oPk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Marya Beauty Atelier",
+    "mapsUrl": "https://www.google.com/maps/place/Marya+Beauty+Atelier/data=!4m7!3m6!1s0x2e68498a8064e9a5:0x77ada5110809e12e!8m2!3d-6.9056002!4d106.9373686!16s%2Fg%2F11pvctchtl!19sChIJpelkgIpJaC4RLuEJCBGlrXc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Salon Muslimah Sofia",
+    "mapsUrl": "https://www.google.com/maps/place/Salon+Muslimah+Sofia/data=!4m7!3m6!1s0x2e6849842c90b60b:0x3953875f64f5788a!8m2!3d-6.9219644!4d106.9454379!16s%2Fg%2F11fkcbd4v0!19sChIJC7aQLIRJaC4Rinj1ZF-HUzk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Rudi Salon Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Rudi+Salon+Sukabumi/data=!4m7!3m6!1s0x2e6849087df74253:0xd62fd486957fe349!8m2!3d-6.9172152!4d106.9300684!16s%2Fg%2F11ghgg84rk!19sChIJU0L3fQhJaC4RSeN_lYbUL9Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "D'beaute Aesthetics - Studio Eyelash Extention & NailArt Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/D%27beaute+Aesthetics+-+Studio+Eyelash+Extention+%26+NailArt+Sukabumi/data=!4m7!3m6!1s0x2e6849e10d966c61:0xa38d5bfbbaeeea64!8m2!3d-6.9224918!4d106.9319726!16s%2Fg%2F11sppq0bd5!19sChIJYWyWDeFJaC4RZOruuvtbjaM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "RRsalon Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/RRsalon+Sukabumi/data=!4m7!3m6!1s0x2e68483fce854f1f:0x272884b35b59b537!8m2!3d-6.9319507!4d106.9332529!16s%2Fg%2F11bzph4fk4!19sChIJH0-Fzj9IaC4RN7VZW7OEKCc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "MOOI Beauty Studio",
+    "mapsUrl": "https://www.google.com/maps/place/MOOI+Beauty+Studio/data=!4m7!3m6!1s0x2e6849675af3665b:0x3ad4f98f2754dad7!8m2!3d-6.9213916!4d106.9466111!16s%2Fg%2F11gyy7y6c6!19sChIJW2bzWmdJaC4R19pUJ4_51Do?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Anugerah Salon",
+    "mapsUrl": "https://www.google.com/maps/place/Anugerah+Salon/data=!4m7!3m6!1s0x2e68372d344926a3:0xa8cb6a61d429b41d!8m2!3d-6.9010096!4d106.8989689!16s%2Fg%2F11h1g5y50w!19sChIJoyZJNC03aC4RHbQp1GFqy6g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Erika Salon",
+    "mapsUrl": "https://www.google.com/maps/place/Erika+Salon/data=!4m7!3m6!1s0x2e68482ce7db97bb:0x72212f9cd69efc59!8m2!3d-6.910672!4d106.9215722!16s%2Fg%2F1pzt_bxj6!19sChIJu5fb5yxIaC4RWfye1pwvIXI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "GDM Natural Beauty",
+    "mapsUrl": "https://www.google.com/maps/place/GDM+Natural+Beauty/data=!4m7!3m6!1s0x2e6849de9e61c937:0xfdf5f23e81b236cc!8m2!3d-6.915506!4d106.936047!16s%2Fg%2F11h2n2y0tl!19sChIJN8lhnt5JaC4RzDaygT7y9f0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Madeena Skin Clinic Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Madeena+Skin+Clinic+Sukabumi/data=!4m7!3m6!1s0x2e68370014bb04cd:0x6c575a19fac21ea7!8m2!3d-6.915112!4d106.9062812!16s%2Fg%2F11lz4067wq!19sChIJzQS7FAA3aC4Rpx7C-hlaV2w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Salon Kecantikan Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Nyomplong",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Nyomplong/data=!4m7!3m6!1s0x2e68497effce82c9:0x41ae380659bc39a1!8m2!3d-6.9217645!4d106.9221369!16s%2Fg%2F11n3n0ddl9!19sChIJyYLO_35JaC4RoTm8WQY4rkE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Cipanengah",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Cipanengah/data=!4m7!3m6!1s0x2e6849224eaf6fc3:0x61472920231bb39c!8m2!3d-6.9508505!4d106.9130013!16s%2Fg%2F11ylgx1g98!19sChIJw2-vTiJJaC4RnLMbIyApR2E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Blackburn Barbershop - Sukabumi Branch",
+    "mapsUrl": "https://www.google.com/maps/place/Blackburn+Barbershop+-+Sukabumi+Branch/data=!4m7!3m6!1s0x2e68497c14654f13:0xd141efa27a31c199!8m2!3d-6.9222289!4d106.9272419!16s%2Fg%2F11v0mygq1v!19sChIJE09lFHxJaC4RmcExeqLvQdE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Noah's Barbershop & Coffee Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Noah%27s+Barbershop+%26+Coffee+Sukabumi/data=!4m7!3m6!1s0x2e6849003b528451:0xe1409d53ccd991f3!8m2!3d-6.9171458!4d106.9304!16s%2Fg%2F11wm_vn5lc!19sChIJUYRSOwBJaC4R85HZzFOdQOE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "BARBERSTATION BARBERSHOP",
+    "mapsUrl": "https://www.google.com/maps/place/BARBERSTATION+BARBERSHOP/data=!4m7!3m6!1s0x2e6849849180d535:0xf43d3192e87077ed!8m2!3d-6.9205674!4d106.9358268!16s%2Fg%2F11lmfg_3lp!19sChIJNdWAkYRJaC4R7Xdw6JIxPfQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Sudirman",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Sudirman/data=!4m7!3m6!1s0x2e68490065497f0f:0x17c281fa4d8dea0a!8m2!3d-6.9209238!4d106.9224047!16s%2Fg%2F11whfgcdy3!19sChIJD39JZQBJaC4RCuqNTfqBwhc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Ciaul",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Ciaul/data=!4m7!3m6!1s0x2e684926f4295543:0x4cc3edf7fd8f6485!8m2!3d-6.9210447!4d106.9490176!16s%2Fg%2F11lf8y9qmd!19sChIJQ1Up9CZJaC4RhWSP_fftw0w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Twin Barber",
+    "mapsUrl": "https://www.google.com/maps/place/Twin+Barber/data=!4m7!3m6!1s0x2e68482fac6b8933:0x6f24636061252b31!8m2!3d-6.9205175!4d106.9215687!16s%2Fg%2F11c70jf8cq!19sChIJM4lrrC9IaC4RMSslYWBjJG8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Le Paris Barber Shop",
+    "mapsUrl": "https://www.google.com/maps/place/Le+Paris+Barber+Shop/data=!4m7!3m6!1s0x2e6849b8a823a16b:0x433819aeecb1b8a5!8m2!3d-6.9229793!4d106.9337833!16s%2Fg%2F11fslv2hyc!19sChIJa6EjqLhJaC4Rpbix7K4ZOEM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Bradford Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/Bradford+Barbershop/data=!4m7!3m6!1s0x2e6849d4a7004453:0x1ee3198922d74182!8m2!3d-6.9400865!4d106.9235813!16s%2Fg%2F11pv0h08gz!19sChIJU0QAp9RJaC4RgkHXIokZ4x4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Cisaat",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Cisaat/data=!4m7!3m6!1s0x2e6837556fc84341:0x9a935aff35f3c849!8m2!3d-6.9093615!4d106.8937196!16s%2Fg%2F11w7_bwhh7!19sChIJQUPIb1U3aC4RScjzNf9ak5o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Cut To Cut Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/Cut+To+Cut+Barbershop/data=!4m7!3m6!1s0x2e6848307058f90d:0x6514c26b577626fe!8m2!3d-6.9223047!4d106.9262415!16s%2Fg%2F11c48_dq58!19sChIJDflYcDBIaC4R_iZ2V2vCFGU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "YUK CUKUR BARBERSHOP",
+    "mapsUrl": "https://www.google.com/maps/place/YUK+CUKUR+BARBERSHOP/data=!4m7!3m6!1s0x2e683100752e46d1:0x77fef5c66d414764!8m2!3d-6.8821664!4d106.7835657!16s%2Fg%2F11yy3x1tzw!19sChIJ0UYudQAxaC4RZEdBbcb1_nc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Rudy barbershop sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Rudy+barbershop+sukabumi/data=!4m7!3m6!1s0x2e683772941a171f:0xc4671e9cbce8f7b4!8m2!3d-6.9448518!4d106.9102688!16s%2Fg%2F11mt91nbj6!19sChIJHxcalHI3aC4RtPfovJweZ8Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "zass.barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/zass.barbershop/data=!4m7!3m6!1s0x2e6849aadd81d8a1:0x43ca4c98fa903e73!8m2!3d-6.9229378!4d106.9362891!16s%2Fg%2F11qp4vdwxx!19sChIJodiB3apJaC4Rcz6Q-phMykM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Zona Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/Zona+Barbershop/data=!4m7!3m6!1s0x2e6849b5d9006f0f:0xc2f15a3333782b54!8m2!3d-6.9212615!4d106.9296352!16s%2Fg%2F11q39h7zfk!19sChIJD28A2bVJaC4RVCt4MzNa8cI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "BARBERPEDIA SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/BARBERPEDIA+SUKABUMI/data=!4m7!3m6!1s0x2e6847c802e8b997:0xe9cb467c317fb7ce!8m2!3d-6.9629942!4d106.9400383!16s%2Fg%2F11zggm9ws7!19sChIJl7noAshHaC4Rzrd_MXxGy-k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "MOREGAN Barbershop Cidodol",
+    "mapsUrl": "https://www.google.com/maps/place/MOREGAN+Barbershop+Cidodol/data=!4m7!3m6!1s0x2e69f1cfa344e927:0xfee89cef309f2a03!8m2!3d-6.224919!4d106.771661!16s%2Fg%2F11sf9sqz33!19sChIJJ-lEo8_xaS4RAyqfMO-c6P4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Onyo Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/Onyo+Barbershop/data=!4m7!3m6!1s0x2e68498488537c83:0x60da588b3edf921f!8m2!3d-6.9276259!4d106.9265944!16s%2Fg%2F11hmjst_r9!19sChIJg3xTiIRJaC4RH5LfPotY2mA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Barberock - Gentlemen's Haircut And Shaves - Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/Barberock+-+Gentlemen%27s+Haircut+And+Shaves+-+Barbershop/data=!4m7!3m6!1s0x2e68497f6a5415e5:0x8229a73b2552122d!8m2!3d-6.9116856!4d106.9516339!16s%2Fg%2F11gvwy66yr!19sChIJ5RVUan9JaC4RLRJSJTunKYI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "RJ Barbershop",
+    "mapsUrl": "https://www.google.com/maps/place/RJ+Barbershop/data=!4m7!3m6!1s0x2e69f1dbc55fcc5f:0x54ed5d70cd02af0!8m2!3d-6.2170903!4d106.7604301!16s%2Fg%2F11t5nknrr5!19sChIJX8xfxdvxaS4R8CrQDNfVTgU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Necis Barbershop Kebayoran Lama",
+    "mapsUrl": "https://www.google.com/maps/place/Necis+Barbershop+Kebayoran+Lama/data=!4m7!3m6!1s0x2e69f1ecee6a0bd5:0x10795af8d814527d!8m2!3d-6.2232843!4d106.7780972!16s%2Fg%2F11y82kxhrc!19sChIJ1Qtq7uzxaS4RfVIU2PhaeRA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Linda's Barbershop & Hairsalon",
+    "mapsUrl": "https://www.google.com/maps/place/Linda%27s+Barbershop+%26+Hairsalon/data=!4m7!3m6!1s0x2e69f1436b9ec4af:0xc2a78b621c55b995!8m2!3d-6.2239206!4d106.7694595!16s%2Fg%2F11x6c7bp8x!19sChIJr8Sea0PxaS4RlblVHGKLp8I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Pixel Barbershop Cibadak",
+    "mapsUrl": "https://www.google.com/maps/place/Pixel+Barbershop+Cibadak/data=!4m7!3m6!1s0x2e6831e17787084f:0x4f5ad2fc3d35a081!8m2!3d-6.8938829!4d106.7870252!16s%2Fg%2F11y56pl8qh!19sChIJTwiHd-ExaC4RgaA1PfzSWk8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Barbershop Sukabumi"
+  },
+  {
+    "name": "Zahra Pet Shop & Grooming",
+    "mapsUrl": "https://www.google.com/maps/place/Zahra+Pet+Shop+%26+Grooming/data=!4m7!3m6!1s0x2e684849d79c43f3:0xa8caa28f22ec29b9!8m2!3d-6.9192787!4d106.9359799!16s%2Fg%2F11fy4hz049!19sChIJ80Oc10lIaC4RuSnsIo-iyqg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Millan Petshop Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Millan+Petshop+Sukabumi/data=!4m7!3m6!1s0x2e6849c5f2195dbb:0xa90c715cbf89f18e!8m2!3d-6.9201621!4d106.9273078!16s%2Fg%2F11jsjfpxgv!19sChIJu10Z8sVJaC4RjvGJv1xxDKk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "RG Petshop & GROOMING",
+    "mapsUrl": "https://www.google.com/maps/place/RG+Petshop+%26+GROOMING/data=!4m7!3m6!1s0x2e6849da5b398e79:0xc6da3c094d3efe80!8m2!3d-6.9238107!4d106.9237776!16s%2Fg%2F11g1drjxfz!19sChIJeY45W9pJaC4RgP4-TQk82sY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Jansen Petshop",
+    "mapsUrl": "https://www.google.com/maps/place/Jansen+Petshop/data=!4m7!3m6!1s0x2e68483b7031786f:0xf5cd06ca7607ec92!8m2!3d-6.9270894!4d106.9263499!16s%2Fg%2F11d_ytp1pw!19sChIJb3gxcDtIaC4RkuwHdsoGzfU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Kamo Petshop dan Kamo klinik Hewan Surya Kencana",
+    "mapsUrl": "https://www.google.com/maps/place/Kamo+Petshop+dan+Kamo+klinik+Hewan+Surya+Kencana/data=!4m7!3m6!1s0x2e68497b4060a165:0x4c3919f6b3601084!8m2!3d-6.9160933!4d106.9321811!16s%2Fg%2F11pdnz7dx7!19sChIJZaFgQHtJaC4RhBBgs_YZOUw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "JJ Pet Shop, Grooming & Pet Hotel - Pasundan",
+    "mapsUrl": "https://www.google.com/maps/place/JJ+Pet+Shop,+Grooming+%26+Pet+Hotel+-+Pasundan/data=!4m7!3m6!1s0x2e68498bc2bec8cd:0x469865e08c549e1c!8m2!3d-6.9238744!4d106.9239604!16s%2Fg%2F11s82ypxfm!19sChIJzci-wotJaC4RHJ5UjOBlmEY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Happy pets sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Happy+pets+sukabumi/data=!4m7!3m6!1s0x2e684959cff0104b:0xfb3c1ff1c5d9dd8e!8m2!3d-6.910169!4d106.9218304!16s%2Fg%2F11rcqd4d9f!19sChIJSxDwz1lJaC4Rjt3ZxfEfPPs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Planet petshop",
+    "mapsUrl": "https://www.google.com/maps/place/Planet+petshop/data=!4m7!3m6!1s0x2e684922226bd47d:0x24f7cca8d970af67!8m2!3d-6.9309906!4d106.9160271!16s%2Fg%2F11knklglc5!19sChIJfdRrIiJJaC4RZ69w2ajM9yQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "ARF BIRD AND PET SHOP",
+    "mapsUrl": "https://www.google.com/maps/place/ARF+BIRD+AND+PET+SHOP/data=!4m7!3m6!1s0x2e68494d88c58e35:0x41c72ceee5bf5d20!8m2!3d-6.9177896!4d106.9253562!16s%2Fg%2F11h5f73smg!19sChIJNY7FiE1JaC4RIF2_5e4sx0E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Bubu Petshop Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bubu+Petshop+Sukabumi/data=!4m7!3m6!1s0x2e684973dd311b13:0x94988a373fe9dffc!8m2!3d-6.9105233!4d106.9457174!16s%2Fg%2F11sbqkww58!19sChIJExsx3XNJaC4R_N_pPzeKmJQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Pasundan Pet Shop",
+    "mapsUrl": "https://www.google.com/maps/place/Pasundan+Pet+Shop/data=!4m7!3m6!1s0x2e68483abf537735:0xbed689b18e249ef4!8m2!3d-6.9240442!4d106.9251642!16s%2Fg%2F11fy4sc6nv!19sChIJNXdTvzpIaC4R9J4kjrGJ1r4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Miyu Petshop Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Miyu+Petshop+Sukabumi/data=!4m7!3m6!1s0x2e684930334d751f:0xd7c20e7ff5a79456!8m2!3d-6.8784204!4d106.9514086!16s%2Fg%2F11k3vq550k!19sChIJH3VNMzBJaC4RVpSn9X8Owtc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "RayiRaka Pet Shop & Poultry",
+    "mapsUrl": "https://www.google.com/maps/place/RayiRaka+Pet+Shop+%26+Poultry/data=!4m7!3m6!1s0x2e6849f80e79466b:0xb97b817b6044890c!8m2!3d-6.9206088!4d106.9437043!16s%2Fg%2F11n919hww1!19sChIJa0Z5DvhJaC4RDIlEYHuBe7k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "BUNGBUN STORE Pet Shop & Poultry",
+    "mapsUrl": "https://www.google.com/maps/place/BUNGBUN+STORE+Pet+Shop+%26+Poultry/data=!4m7!3m6!1s0x2e6837bcec6233c5:0xb2b5c74a5560d12b!8m2!3d-6.9465712!4d106.9154152!16s%2Fg%2F11j19fpmzm!19sChIJxTNi7Lw3aC4RK9FgVUrHtbI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Tulip pet care",
+    "mapsUrl": "https://www.google.com/maps/place/Tulip+pet+care/data=!4m7!3m6!1s0x2e684957d9e6414b:0xf04f4f4f11462a35!8m2!3d-6.9116961!4d106.934129!16s%2Fg%2F11q864390j!19sChIJS0Hm2VdJaC4RNSpGEU9PT_A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Pluto Pets Gallery",
+    "mapsUrl": "https://www.google.com/maps/place/Pluto+Pets+Gallery/data=!4m7!3m6!1s0x2e6849f570902bcb:0xfc1e4fd620dcd56b!8m2!3d-6.9266784!4d106.9238301!16s%2Fg%2F11fn2yk0x3!19sChIJyyuQcPVJaC4Ra9XcINZPHvw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Ratu Cathouse Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ratu+Cathouse+Sukabumi/data=!4m7!3m6!1s0x2e6849070245445f:0x71480a20e31bd16f!8m2!3d-6.8986951!4d106.9389151!16s%2Fg%2F11ss7ggs63!19sChIJX0RFAgdJaC4Rb9Eb4yAKSHE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Bintang Petshop",
+    "mapsUrl": "https://www.google.com/maps/place/Bintang+Petshop/data=!4m7!3m6!1s0x2e6837d4428509bb:0x437ebb083c5883d2!8m2!3d-6.9164026!4d106.907863!16s%2Fg%2F11f3hblncq!19sChIJuwmFQtQ3aC4R0oNYPAi7fkM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Kimi Petshop",
+    "mapsUrl": "https://www.google.com/maps/place/Kimi+Petshop/data=!4m7!3m6!1s0x2e684900499f2a4b:0x83ad6098b148fd40!8m2!3d-6.9233538!4d106.9571701!16s%2Fg%2F11y9_zh33t!19sChIJSyqfSQBJaC4RQP1IsZhgrYM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Chenk pet shop",
+    "mapsUrl": "https://www.google.com/maps/place/Chenk+pet+shop/data=!4m7!3m6!1s0x2e6849002a4445c1:0xc532896152a571ca!8m2!3d-6.9364893!4d106.9375411!16s%2Fg%2F11y0_05k68!19sChIJwUVEKgBJaC4RynGlUmGJMsU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Baros Pet Shop",
+    "mapsUrl": "https://www.google.com/maps/place/Baros+Pet+Shop/data=!4m7!3m6!1s0x2e6847bce17e7ee7:0xb26eb74a405a29cd!8m2!3d-6.9632181!4d106.942878!16s%2Fg%2F11fjsy59x3!19sChIJ535-4bxHaC4RzSlaQEq3brI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "DUNIA AQUARIUM PET & POULTRY SHOP",
+    "mapsUrl": "https://www.google.com/maps/place/DUNIA+AQUARIUM+PET+%26+POULTRY+SHOP/data=!4m7!3m6!1s0x2e6837b4f25837e5:0x8d4d968066c011cc!8m2!3d-6.9159101!4d106.8843877!16s%2Fg%2F11ggr0c2b6!19sChIJ5TdY8rQ3aC4RzBHAZoCWTY0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Sebiru Biru Pet & Poultry Shop",
+    "mapsUrl": "https://www.google.com/maps/place/Sebiru+Biru+Pet+%26+Poultry+Shop/data=!4m7!3m6!1s0x2e6849de145daab9:0xbe9bc303f0d9d419!8m2!3d-6.9227505!4d106.9583077!16s%2Fg%2F11zb_wd3df!19sChIJuapdFN5JaC4RGdTZ8APDm74?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Petshop Sukabumi"
+  },
+  {
+    "name": "Klinik Hewan Sukabumi (Ryvet)",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+Hewan+Sukabumi+%28Ryvet%29/data=!4m7!3m6!1s0x2e68493df010d40f:0x1d8ed3e4975140ef!8m2!3d-6.9593588!4d106.9437977!16s%2Fg%2F11ff52yjbq!19sChIJD9QQ8D1JaC4R70BRl-TTjh0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Dokter Hewan Riki Barata",
+    "mapsUrl": "https://www.google.com/maps/place/Dokter+Hewan+Riki+Barata/data=!4m7!3m6!1s0x2e68493f7169772b:0x1125b6936204cdec!8m2!3d-6.9472297!4d106.9368071!16s%2Fg%2F11r8txtnsp!19sChIJK3dpcT9JaC4R7M0EYpO2JRE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "KLINIK HEWAN KOTA SUKABUMI (BIDANG PETERNAKAN & KESEHATAN HEWAN)",
+    "mapsUrl": "https://www.google.com/maps/place/KLINIK+HEWAN+KOTA+SUKABUMI+%28BIDANG+PETERNAKAN+%26+KESEHATAN+HEWAN%29/data=!4m7!3m6!1s0x2e68370435d62337:0x9909e270d3ed25d7!8m2!3d-6.938314!4d106.9085746!16s%2Fg%2F11rc9mng2c!19sChIJNyPWNQQ3aC4R1yXt03DiCZk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Praktek Drh Ilianawati",
+    "mapsUrl": "https://www.google.com/maps/place/Praktek+Drh+Ilianawati/data=!4m7!3m6!1s0x2e6849d93d94118f:0xf1d3ca37213f566f!8m2!3d-6.9179776!4d106.9297589!16s%2Fg%2F11fq9fy191!19sChIJjxGUPdlJaC4Rb1Y_ITfK0_E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "drh. Ate Rahmat, M.Si",
+    "mapsUrl": "https://www.google.com/maps/place/drh.+Ate+Rahmat,+M.Si/data=!4m7!3m6!1s0x2e6837b951b35ec3:0xbab59e777fac0873!8m2!3d-6.9204958!4d106.898305!16s%2Fg%2F11p0z99y_m!19sChIJw16zUbk3aC4Rcwisf3eetbo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "CV. Multi Sarana Abadi",
+    "mapsUrl": "https://www.google.com/maps/place/CV.+Multi+Sarana+Abadi/data=!4m7!3m6!1s0x2e683634bbd74367:0x514d25a6ddd19b2d!8m2!3d-6.9127185!4d106.8935256!16s%2Fg%2F11cn7f13yl!19sChIJZ0PXuzQ2aC4RLZvR3aYlTVE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Wingke Pets Corner",
+    "mapsUrl": "https://www.google.com/maps/place/Wingke+Pets+Corner/data=!4m7!3m6!1s0x2e683305b7409beb:0x39911a21c859ecbc!8m2!3d-6.8952178!4d106.8100884!16s%2Fg%2F11n_ymhwb_!19sChIJ65tAtwUzaC4RvOxZyCEakTk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "GustaVet",
+    "mapsUrl": "https://www.google.com/maps/place/GustaVet/data=!4m7!3m6!1s0x2e69f6ce03e7b6eb:0xca020739e7993765!8m2!3d-6.2130732!4d106.7827405!16s%2Fg%2F1pzrpdycz!19sChIJ67bnA872aS4RZTeZ5zkHAso?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Klinik Hewan drh Narti (Vhivet Care)&petshop",
+    "mapsUrl": "https://www.google.com/maps/place/Klinik+Hewan+drh+Narti+%28Vhivet+Care%29%26petshop/data=!4m7!3m6!1s0x2e6833cc3a6b7da7:0x88e34fd3781b73e3!8m2!3d-6.8386427!4d106.760821!16s%2Fg%2F11hsr9vjpc!19sChIJp31rOswzaC4R43MbeNNP44g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Vethomies | Praktek Dokter Hewan & Premium Grooming Services",
+    "mapsUrl": "https://www.google.com/maps/place/Vethomies+%7C+Praktek+Dokter+Hewan+%26+Premium+Grooming+Services/data=!4m7!3m6!1s0x2e69cd000cd7a7bf:0x38b80ad7cd4c60d1!8m2!3d-6.7800738!4d106.7839304!16s%2Fg%2F11nhfs2lc0!19sChIJv6fXDADNaS4R0WBMzdcKuDg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Sato Cageur",
+    "mapsUrl": "https://www.google.com/maps/place/Sato+Cageur/data=!4m7!3m6!1s0x2e6837005a9ed161:0x5db2777677dcbd71!8m2!3d-6.9123352!4d106.9034006!16s%2Fg%2F11lv8vd5n_!19sChIJYdGeWgA3aC4Rcb3cd3Z3sl0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Klinik Hewan Sukabumi"
+  },
+  {
+    "name": "Tb. Berdikari Jaya",
+    "mapsUrl": "https://www.google.com/maps/place/Tb.+Berdikari+Jaya/data=!4m7!3m6!1s0x2e68481439ceea37:0x21f2f808d16c2f17!8m2!3d-6.9355049!4d106.9315642!16s%2Fg%2F1pzq_1669!19sChIJN-rOORRIaC4RFy9s0Qj48iE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "SUKABUMI HOME CENTER",
+    "mapsUrl": "https://www.google.com/maps/place/SUKABUMI+HOME+CENTER/data=!4m7!3m6!1s0x2e6849c9394fac73:0x5e47de7667418293!8m2!3d-6.9229739!4d106.944239!16s%2Fg%2F11t6pz4tlx!19sChIJc6xPOclJaC4Rk4JBZ3beR14?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Berdikari Expo",
+    "mapsUrl": "https://www.google.com/maps/place/Berdikari+Expo/data=!4m7!3m6!1s0x2e68485719619551:0x9fbe7bfb40ba692d!8m2!3d-6.9195441!4d106.9555443!16s%2Fg%2F11bvt2ff9b!19sChIJUZVhGVdIaC4RLWm6QPt7vp8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Bangunan Baros Jaya",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Bangunan+Baros+Jaya/data=!4m7!3m6!1s0x2e68497a3bb43c0b:0x87828833eb1e7f9e!8m2!3d-6.9325731!4d106.9321335!16s%2Fg%2F11f731qsjk!19sChIJCzy0O3pJaC4Rnn8e6zOIgoc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "RKM Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/RKM+Sukabumi/data=!4m7!3m6!1s0x2e6837f563e1b2b9:0x647f5f112e4edcf6!8m2!3d-6.9035672!4d106.8847427!16s%2Fg%2F11rmt_4kg0!19sChIJubLhY_U3aC4R9txOLhFff2Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Bahan Bangunan Bukti Rahayu",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Bahan+Bangunan+Bukti+Rahayu/data=!4m7!3m6!1s0x2e6848506115d7d9:0x281a9cfee6960df5!8m2!3d-6.9207823!4d106.9507003!16s%2Fg%2F11c61g8cgt!19sChIJ2dcVYVBIaC4R9Q2W5v6cGig?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Sinar baru / sinar bangunan cisaat",
+    "mapsUrl": "https://www.google.com/maps/place/Sinar+baru+%2F+sinar+bangunan+cisaat/data=!4m7!3m6!1s0x2e6836331a4dc0ed:0x3e1c94d768ffd84c!8m2!3d-6.9070896!4d106.8900993!16s%2Fg%2F11b6dgh2xs!19sChIJ7cBNGjM2aC4RTNj_aNeUHD4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "TB. Sumber Milik",
+    "mapsUrl": "https://www.google.com/maps/place/TB.+Sumber+Milik/data=!4m7!3m6!1s0x2e684838d0a5336d:0xe5d079d1feee45ef!8m2!3d-6.926994!4d106.9332891!16s%2Fg%2F11dxm50612!19sChIJbTOl0DhIaC4R70Xu_tF50OU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "TB. MAKMUR - SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/TB.+MAKMUR+-+SUKABUMI/data=!4m7!3m6!1s0x2e6848f0baf7c1d1:0x2c3e38dd213bf245!8m2!3d-6.9220874!4d106.9656861!16s%2Fg%2F11hbnkdjgl!19sChIJ0cH3uvBIaC4RRfI7Id04Piw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Pelangi Jaya",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Pelangi+Jaya/data=!4m7!3m6!1s0x2e684853bb7345b3:0x37faae99c6374b79!8m2!3d-6.9148406!4d106.9514436!16s%2Fg%2F11f0438tqf!19sChIJs0Vzu1NIaC4ReUs3xpmu-jc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Hong+Kiyat+Keramik,+Sanitair,+dan+Cat/data=!4m7!3m6!1s0x2e68483b7a782bb9:0x4a67447b4e9fea14!8m2!3d-6.9264088!4d106.9269736!16s%2Fg%2F1pzs2s3fc!19sChIJuSt4ejtIaC4RFOqfTntEZ0o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Pd Jembar 2",
+    "mapsUrl": "https://www.google.com/maps/place/Pd+Jembar+2/data=!4m7!3m6!1s0x2e68485838d73b23:0x7a23a3b288f3ec84!8m2!3d-6.9227169!4d106.9576309!16s%2Fg%2F11c6lw4f95!19sChIJIzvXOFhIaC4RhOzziLKjI3o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Material Berkah Jaya Bangunan (BJB)",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Material+Berkah+Jaya+Bangunan+%28BJB%29/data=!4m7!3m6!1s0x2e6837fc97f5b8bf:0x666a77590af9901!8m2!3d-6.9454075!4d106.9069633!16s%2Fg%2F11f2_sv237!19sChIJv7j1l_w3aC4RAZmvkHWnZgY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Tb. Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Tb.+Sukabumi/data=!4m7!3m6!1s0x2deda12f4d58fb5f:0x74def4a981cf50b0!8m2!3d-6.237435!4d106.847109!16s%2Fg%2F1tfncrk8!19sChIJX_tYTS-h7S0RsFDPgan03nQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "PD. JEMBAR 1 ( MATERIAL H.JHABAR )",
+    "mapsUrl": "https://www.google.com/maps/place/PD.+JEMBAR+1+%28+MATERIAL+H.JHABAR+%29/data=!4m7!3m6!1s0x2e6849526d8ff269:0xda387ba9ddb5a4d2!8m2!3d-6.9044574!4d106.9304839!16s%2Fg%2F11gh387pqx!19sChIJafKPbVJJaC4R0qS13al7ONo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "PT SINAR ASIA BARU",
+    "mapsUrl": "https://www.google.com/maps/place/PT+SINAR+ASIA+BARU/data=!4m7!3m6!1s0x2e684839dbd7e1c7:0x2fb80fa68242f168!8m2!3d-6.9228212!4d106.9319456!16s%2Fg%2F1pztnrsm1!19sChIJx-HX2zlIaC4RaPFCgqYPuC8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Besi & Bahan Bangunan Mulia Graha",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Besi+%26+Bahan+Bangunan+Mulia+Graha/data=!4m7!3m6!1s0x2e684817ec758805:0x1008b4455fad01a!8m2!3d-6.9341391!4d106.925162!16s%2Fg%2F11fy4ypfy_!19sChIJBYh17BdIaC4RGtD6VUSLAAE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Sinar Bintang",
+    "mapsUrl": "https://www.google.com/maps/place/Sinar+Bintang/data=!4m7!3m6!1s0x2e6848385eb1634f:0x1bca788271033751!8m2!3d-6.9246683!4d106.9338897!16s%2Fg%2F1pzpq90x8!19sChIJT2OxXjhIaC4RUTcDcYJ4yhs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "TB. Jaya Bangunan",
+    "mapsUrl": "https://www.google.com/maps/place/TB.+Jaya+Bangunan/data=!4m7!3m6!1s0x2e684804b0b20145:0x3b748000ffbe6160!8m2!3d-6.9442818!4d106.9193051!16s%2Fg%2F11fy4tt49g!19sChIJRQGysARIaC4RYGG-_wCAdDs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "TB. Metro",
+    "mapsUrl": "https://www.google.com/maps/place/TB.+Metro/data=!4m7!3m6!1s0x2e6849b79098039b:0xa963b3baefcf4c6e!8m2!3d-6.9024193!4d106.9382934!16s%2Fg%2F1pzrvc01l!19sChIJmwOYkLdJaC4RbkzP77qzY6k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Central Baja Sukabumi - Distributor Baja | Toko Bahan Bangunan | Baja Ringan",
+    "mapsUrl": "https://www.google.com/maps/place/Central+Baja+Sukabumi+-+Distributor+Baja+%7C+Toko+Bahan+Bangunan+%7C+Baja+Ringan/data=!4m7!3m6!1s0x2e6848225ed3a55f:0x769cd621e07f859c!8m2!3d-6.931664!4d106.9209392!16s%2Fg%2F11fy4x2788!19sChIJX6XTXiJIaC4RnIV_4CHWnHY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Besi & Bahan Bangunan Rejeki Mas",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Besi+%26+Bahan+Bangunan+Rejeki+Mas/data=!4m7!3m6!1s0x2e684838229b374d:0x499f49fc78aa216d!8m2!3d-6.9228695!4d106.9343425!16s%2Fg%2F11bzrkntd5!19sChIJTTebIjhIaC4RbSGqePxJn0k?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "TB. Megalana",
+    "mapsUrl": "https://www.google.com/maps/place/TB.+Megalana/data=!4m7!3m6!1s0x2e6849c53946c9e3:0x683ccf3676c89035!8m2!3d-6.9002914!4d106.9249917!16s%2Fg%2F11hbpj7bm2!19sChIJ48lGOcVJaC4RNZDIdjbPPGg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Toko Bangunan. Jaya indah serba ada",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Bangunan.+Jaya+indah+serba+ada/data=!4m7!3m6!1s0x2e684995212660e9:0x35fe9c94fd93894e!8m2!3d-6.928104!4d106.93337!16s%2Fg%2F11zxkjq5rr!19sChIJ6WAmIZVJaC4RTomT_ZSc_jU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Bahan Bangunan Sukabumi"
+  },
+  {
+    "name": "Digicom",
+    "mapsUrl": "https://www.google.com/maps/place/Digicom/data=!4m7!3m6!1s0x2e684837ddebeadf:0x9aeec8a9be385508!8m2!3d-6.9209818!4d106.9354785!16s%2Fg%2F11bzrpzclc!19sChIJ3-rr3TdIaC4RCFU4vqnI7po?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "RNY Computer",
+    "mapsUrl": "https://www.google.com/maps/place/RNY+Computer/data=!4m7!3m6!1s0x2e684839e0f94349:0xae1beceded0124ea!8m2!3d-6.9226952!4d106.9322393!16s%2Fg%2F1pzwp_klr!19sChIJSUP54DlIaC4R6iQB7e3sG64?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Sentral Komputer Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Sentral+Komputer+Sukabumi/data=!4m7!3m6!1s0x2e6849cec33660db:0xd21a2b302274c0fe!8m2!3d-6.9199762!4d106.9359469!16s%2Fg%2F11w310stlg!19sChIJ22A2w85JaC4R_sB0IjArGtI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Bestlaptop.id (Jual-Beli Komputer dan Laptop, Service, Sparepart, Aksesoris) Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bestlaptop.id+%28Jual-Beli+Komputer+dan+Laptop,+Service,+Sparepart,+Aksesoris%29+Sukabumi/data=!4m7!3m6!1s0x2e6837c4201ea10f:0xd3e926a029b14706!8m2!3d-6.9084985!4d106.874072!16s%2Fg%2F11rscbm_7h!19sChIJD6EeIMQ3aC4RBkexKaAm6dM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Multitech Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Multitech+Computer/data=!4m7!3m6!1s0x2e684830a02c2295:0x2de02bdbde41b8db!8m2!3d-6.9225356!4d106.9285756!16s%2Fg%2F1pzp_rp6r!19sChIJlSIsoDBIaC4R27hB3tsr4C0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Acenkcom",
+    "mapsUrl": "https://www.google.com/maps/place/Acenkcom/data=!4m7!3m6!1s0x2e6849d8455d57ff:0x8b9ee5ce349c9b93!8m2!3d-6.9010607!4d106.9154635!16s%2Fg%2F11cknc0mmj!19sChIJ_1ddRdhJaC4Rk5ucNM7lnos?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "AGRES ID SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/AGRES+ID+SUKABUMI/data=!4m7!3m6!1s0x2e68490e4fd5db29:0x464a6b7f49d03051!8m2!3d-6.9209313!4d106.935598!16s%2Fg%2F11lzwvkpdy!19sChIJKdvVTw5JaC4RUTDQSX9rSkY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Ziro Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Ziro+Computer/data=!4m7!3m6!1s0x2e6848382b8aca81:0x60072d2450f662a7!8m2!3d-6.922751!4d106.9332169!16s%2Fg%2F11ckxy18nh!19sChIJgcqKKzhIaC4Rp2L2UCQtB2A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "AGRES ID & FONE SUKABUMI 02",
+    "mapsUrl": "https://www.google.com/maps/place/AGRES+ID+%26+FONE+SUKABUMI+02/data=!4m7!3m6!1s0x2e68497930e1c135:0x5ef254d202d33dde!8m2!3d-6.9223389!4d106.9299463!16s%2Fg%2F11x9529j5w!19sChIJNcHhMHlJaC4R3j3TAtJU8l4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Surya Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Surya+Computer/data=!4m7!3m6!1s0x2e6848309ff668c7:0xde71088b86ba066f!8m2!3d-6.9225387!4d106.9285525!16s%2Fg%2F1pzptp6nt!19sChIJx2j2nzBIaC4Rbwa6hosIcd4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Robinson Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Robinson+Computer/data=!4m7!3m6!1s0x2e6848488396e2cb:0x5676547b4c3928e0!8m2!3d-6.9224305!4d106.9307533!16s%2Fg%2F1pzy6dtl9!19sChIJy-KWg0hIaC4R4Cg5THtUdlY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Pusat Laptop&Netbook Second Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Pusat+Laptop%26Netbook+Second+Sukabumi/data=!4m7!3m6!1s0x2e6849ada350586f:0xce9871f5d435150d!8m2!3d-6.9082132!4d106.9498356!16s%2Fg%2F11f31g5j7d!19sChIJb1hQo61JaC4RDRU11PVxmM4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Apollo Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Apollo+Computer/data=!4m7!3m6!1s0x2e684830a8493def:0xefe0d618748bb9a!8m2!3d-6.9224957!4d106.929374!16s%2Fg%2F11d_jp3979!19sChIJ7z1JqDBIaC4RmrtIh2EN_g4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "AGS Computer Jual beli service laptop komputer dan handphone sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/AGS+Computer+Jual+beli+service+laptop+komputer+dan+handphone+sukabumi/data=!4m7!3m6!1s0x2e6837ce5ae760b5:0x58f633813d255a7f!8m2!3d-6.9079493!4d106.8895455!16s%2Fg%2F11sn_3y9sb!19sChIJtWDnWs43aC4Rf1olPYEz9lg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Media Computer Cisaat Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Media+Computer+Cisaat+Sukabumi/data=!4m7!3m6!1s0x2e6836364054ecfd:0x42b4e4514b9bc6ef!8m2!3d-6.9070522!4d106.890314!16s%2Fg%2F11bzrhm_xm!19sChIJ_exUQDY2aC4R78abS1HktEI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "AS Computer",
+    "mapsUrl": "https://www.google.com/maps/place/AS+Computer/data=!4m7!3m6!1s0x2e68363713889bfd:0x5479fcc5b9262793!8m2!3d-6.9047588!4d106.8926855!16s%2Fg%2F11cmd1d4p2!19sChIJ_ZuIEzc2aC4RkycmucX8eVQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "TAMAN JAYA COMPUTER",
+    "mapsUrl": "https://www.google.com/maps/place/TAMAN+JAYA+COMPUTER/data=!4m7!3m6!1s0x2e6849692b413ff1:0xda4515ac40a66882!8m2!3d-6.9219861!4d106.9269907!16s%2Fg%2F11fs7qmv8f!19sChIJ8T9BK2lJaC4RgmimQKwVRdo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Labcom",
+    "mapsUrl": "https://www.google.com/maps/place/Labcom/data=!4m7!3m6!1s0x2e68395912b39e17:0xcff20008f5934e50!8m2!3d-6.948447!4d106.9152177!16s%2Fg%2F11h_c6ljvh!19sChIJF56zElk5aC4RUE6T9QgA8s8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Masagi Computer",
+    "mapsUrl": "https://www.google.com/maps/place/Masagi+Computer/data=!4m7!3m6!1s0x2e684836a6e5966f:0x455f4612559885af!8m2!3d-6.9173092!4d106.9313492!16s%2Fg%2F1pzy95r2x!19sChIJb5blpjZIaC4Rr4WYVRJGX0U?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "DMC COMPUTER CICURUG SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/DMC+COMPUTER+CICURUG+SUKABUMI/data=!4m7!3m6!1s0x2e69ccc4d98b2f61:0x4438490bb401f2ce!8m2!3d-6.7804859!4d106.7831378!16s%2Fg%2F11c6f8sq21!19sChIJYS-L2cTMaS4RzvIBtAtJOEQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "micromedia computer",
+    "mapsUrl": "https://www.google.com/maps/place/micromedia+computer/data=!4m7!3m6!1s0x2e684830380be2a9:0xfbc29edf6649e1cb!8m2!3d-6.9207757!4d106.9255077!16s%2Fg%2F1thh4vpm!19sChIJqeILODBIaC4Ry-FJZt-ewvs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Gen Com",
+    "mapsUrl": "https://www.google.com/maps/place/Gen+Com/data=!4m7!3m6!1s0x2e68490144f3cf69:0xc23ca47ce6dcb1ac!8m2!3d-6.9160335!4d106.9215474!16s%2Fg%2F11r7m_5fw7!19sChIJac_zRAFJaC4RrLHc5nykPMI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Toko Galuh Komputer",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Galuh+Komputer/data=!4m7!3m6!1s0x2e6836f751810beb:0xd88b4d233372b3f3!8m2!3d-6.9039694!4d106.8594521!16s%2Fg%2F11cs3bhrl1!19sChIJ6wuBUfc2aC4R87NyMyNNi9g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Salafindo",
+    "mapsUrl": "https://www.google.com/maps/place/Salafindo/data=!4m7!3m6!1s0x2e684830a03eb5af:0x51c7418cc63df1ca!8m2!3d-6.9225214!4d106.9285566!16s%2Fg%2F11fy4ryksm!19sChIJr7U-oDBIaC4RyvE9xoxBx1E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Service Komputer dan Laptop Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Service+Komputer+dan+Laptop+Sukabumi/data=!4m7!3m6!1s0x2e684906654f8f4b:0x28d9851ac43a4ed!8m2!3d-6.9238314!4d106.9358161!16s%2Fg%2F11n_z7ydy8!19sChIJS49PZQZJaC4R7aRDrFGYjQI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "DT Computer",
+    "mapsUrl": "https://www.google.com/maps/place/DT+Computer/data=!4m7!3m6!1s0x2e6837941a7e3fad:0x951e6c222d11e9ca!8m2!3d-6.9049791!4d106.863246!16s%2Fg%2F11k3zf5zhl!19sChIJrT9-GpQ3aC4RyukRLSJsHpU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Komputer Sukabumi"
+  },
+  {
+    "name": "Doctor HP Sukabumi (Service handphone)",
+    "mapsUrl": "https://www.google.com/maps/place/Doctor+HP+Sukabumi+%28Service+handphone%29/data=!4m7!3m6!1s0x2e68491ea4bedb51:0xa7c3517d628ec759!8m2!3d-6.9225424!4d106.9312562!16s%2Fg%2F11h1fx60y1!19sChIJUdu-pB5JaC4RWceOYn1Rw6c?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Rintel (Phone Service)",
+    "mapsUrl": "https://www.google.com/maps/place/Rintel+%28Phone+Service%29/data=!4m7!3m6!1s0x2e684830a1cff8e5:0xbc84e3a84662b940!8m2!3d-6.9227324!4d106.9396785!16s%2Fg%2F11bwtskp8y!19sChIJ5fjPoTBIaC4RQLliRqjjhLw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Quantum Ponsel - Toko Sparepart & Service HP Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Quantum+Ponsel+-+Toko+Sparepart+%26+Service+HP+Sukabumi/data=!4m7!3m6!1s0x2e6849796b6d1a27:0xb01241f3caa1edcd!8m2!3d-6.9219925!4d106.9438012!16s%2Fg%2F11hf7t3h00!19sChIJJxpta3lJaC4Rze2hyvNBErA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "iFixPro Cabang Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/iFixPro+Cabang+Sukabumi/data=!4m7!3m6!1s0x2e6849c0f4d6a821:0x4326797bb6abb471!8m2!3d-6.9166019!4d106.9316937!16s%2Fg%2F11xtjx_xqv!19sChIJIajW9MBJaC4RcbSrtnt5JkM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "SAS CELL",
+    "mapsUrl": "https://www.google.com/maps/place/SAS+CELL/data=!4m7!3m6!1s0x2e68498300cc739b:0xbd1c2913bf588934!8m2!3d-6.9223064!4d106.9400546!16s%2Fg%2F11rcst9vd5!19sChIJm3PMAINJaC4RNIlYvxMpHL0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Service HP Sukabumi ( Dans Klinik HP )",
+    "mapsUrl": "https://www.google.com/maps/place/Service+HP+Sukabumi+%28+Dans+Klinik+HP+%29/data=!4m7!3m6!1s0x2e6849a562381f99:0xfa78bddf7a374777!8m2!3d-6.9270232!4d106.9459898!16s%2Fg%2F11x1xvy9x2!19sChIJmR84YqVJaC4Rd0c3et-9ePo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "PREFIX Service HP Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/PREFIX+Service+HP+Sukabumi/data=!4m7!3m6!1s0x2e6849758b5ce8ef:0x5b816debb8eccae1!8m2!3d-6.9192688!4d106.915715!16s%2Fg%2F11zdhr0lqs!19sChIJ7-hci3VJaC4R4crsuOttgVs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Mitra G2 Phone ( Service Hp )",
+    "mapsUrl": "https://www.google.com/maps/place/Mitra+G2+Phone+%28+Service+Hp+%29/data=!4m7!3m6!1s0x2e68472d35c4469b:0xec1741d0dc54b348!8m2!3d-6.9312465!4d106.9314246!16s%2Fg%2F11t7brmc2j!19sChIJm0bENS1HaC4RSLNU3NBBF-w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "iClaude Service iPhone Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/iClaude+Service+iPhone+Sukabumi/data=!4m7!3m6!1s0x2e6849004477f247:0xc27134d591f5e966!8m2!3d-6.9210995!4d106.9487964!16s%2Fg%2F11yz6c042l!19sChIJR_J3RABJaC4RZun1kdU0ccI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "SUKABUMI TECHFLASHER",
+    "mapsUrl": "https://www.google.com/maps/place/SUKABUMI+TECHFLASHER/data=!4m7!3m6!1s0x2e6849596abbbf3b:0xc6842388eae6665!8m2!3d-6.9219072!4d106.9223045!16s%2Fg%2F11gl1_lft3!19sChIJO7-7allJaC4RZWaujjhCaAw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "SIMASTEL",
+    "mapsUrl": "https://www.google.com/maps/place/SIMASTEL/data=!4m7!3m6!1s0x2e6848375479bfa3:0xa7d4718753cf062c!8m2!3d-6.9226196!4d106.9322588!16s%2Fg%2F11bc7pn7wt!19sChIJo795VDdIaC4RLAbPU4dx1Kc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Mysamsung Service Center - Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Mysamsung+Service+Center+-+Sukabumi/data=!4m7!3m6!1s0x2e68484a0b4bb0b9:0x565d0e6d85670e!8m2!3d-6.9159389!4d106.9361903!16s%2Fg%2F11c1wv_sc0!19sChIJubBLC0pIaC4RDmeFbQ5dVgA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Service Handphone | AZA HP - REPAIR",
+    "mapsUrl": "https://www.google.com/maps/place/Service+Handphone+%7C+AZA+HP+-+REPAIR/data=!4m7!3m6!1s0x2e6837d2ad43a70b:0xe26b2354935f9e83!8m2!3d-6.9339244!4d106.9373361!16s%2Fg%2F11s_wv4_18!19sChIJC6dDrdI3aC4Rg55fk1Qja-I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Servis Hp",
+    "mapsUrl": "https://www.google.com/maps/place/Servis+Hp/data=!4m7!3m6!1s0x2e6849c6c2cfb827:0xe610f8addfaca2a9!8m2!3d-6.9250955!4d106.937795!16s%2Fg%2F11gjt6mlbk!19sChIJJ7jPwsZJaC4RqaKs3634EOY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "CallFix - Jasa Service Handphone",
+    "mapsUrl": "https://www.google.com/maps/place/CallFix+-+Jasa+Service+Handphone/data=!4m7!3m6!1s0x2e6849bf319dd9eb:0x64b4805ca9c8231c!8m2!3d-6.922378!4d106.9285398!16s%2Fg%2F11n0gd9zwj!19sChIJ69mdMb9JaC4RHCPIqVyAtGQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Sadewa Store - Service Handphone Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Sadewa+Store+-+Service+Handphone+Sukabumi/data=!4m7!3m6!1s0x2e6849cc33b2f5d3:0xac21bcc557062c28!8m2!3d-6.9073223!4d106.9812734!16s%2Fg%2F11v_5vjxqz!19sChIJ0_WyM8xJaC4RKCwGV8W8Iaw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "RRSELL PHON SERVICE",
+    "mapsUrl": "https://www.google.com/maps/place/RRSELL+PHON+SERVICE/data=!4m7!3m6!1s0x2e6839f981e32fc5:0x13c42dac2735d1e6!8m2!3d-6.9577145!4d106.9026999!16s%2Fg%2F11fp376v3s!19sChIJxS_jgfk5aC4R5tE1J6wtxBM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "GiStore_Service iPhone",
+    "mapsUrl": "https://www.google.com/maps/place/GiStore_Service+iPhone/data=!4m7!3m6!1s0x2e6849235f1cffb3:0x948bda557111629!8m2!3d-6.9312861!4d106.9206234!16s%2Fg%2F11jt49nhqq!19sChIJs_8cXyNJaC4RKRYRV6W9SAk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "DERI SERVICE HP",
+    "mapsUrl": "https://www.google.com/maps/place/DERI+SERVICE+HP/data=!4m7!3m6!1s0x2e6849f3d865686f:0x90ee93b1f8c0ff17!8m2!3d-6.9026996!4d106.9394303!16s%2Fg%2F11s67b83p3!19sChIJb2hl2PNJaC4RF__A-LGT7pA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "iRoom Service Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/iRoom+Service+Sukabumi/data=!4m7!3m6!1s0x2e684900758220e5:0xa4280e48c6136560!8m2!3d-6.920721!4d106.929874!16s%2Fg%2F11ybdxvgp3!19sChIJ5SCCdQBJaC4RYGUTxkgOKKQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Ra cell (perbaikan ponsel)",
+    "mapsUrl": "https://www.google.com/maps/place/Ra+cell+%28perbaikan+ponsel%29/data=!4m7!3m6!1s0x2e6849000e7cea8f:0x2129e96aef7bc2f3!8m2!3d-6.922132!4d106.9395782!16s%2Fg%2F11zfrxywfb!19sChIJj-p8DgBJaC4R88J772rpKSE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Reza Phone Service ( Service Hp, Elektronik, Motor)",
+    "mapsUrl": "https://www.google.com/maps/place/Reza+Phone+Service+%28+Service+Hp,+Elektronik,+Motor%29/data=!4m7!3m6!1s0x2e68470066b07267:0x38bbbe600f48ef35!8m2!3d-6.9564208!4d106.9341806!16s%2Fg%2F11vwh1h1z2!19sChIJZ3KwZgBHaC4RNe9ID2C-uzg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "SAHABAT PHONE SPAREPART SERVICE",
+    "mapsUrl": "https://www.google.com/maps/place/SAHABAT+PHONE+SPAREPART+SERVICE/data=!4m7!3m6!1s0x2e68490046484a1b:0x3589045be63e1b68!8m2!3d-6.9225868!4d106.9422462!16s%2Fg%2F11wr620lxc!19sChIJG0pIRgBJaC4RaBs-5lsEiTU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Sri Cell 2",
+    "mapsUrl": "https://www.google.com/maps/place/Sri+Cell+2/data=!4m7!3m6!1s0x2e6838004ca2e753:0x3fab9d608989477a!8m2!3d-6.9560083!4d106.9093062!16s%2Fg%2F11b6d3htp5!19sChIJU-eiTAA4aC4RekeJiWCdqz8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "RaisyaCell Service HP & Laptop ( komputer )",
+    "mapsUrl": "https://www.google.com/maps/place/RaisyaCell+Service+HP+%26+Laptop+%28+komputer+%29/data=!4m7!3m6!1s0x2e6849004b99859f:0x16fa188c88492b17!8m2!3d-6.8970567!4d106.9614635!16s%2Fg%2F11ms35xf42!19sChIJn4WZSwBJaC4RFytJiIwY-hY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "ABIB CELL - SERVIS HP ANDROID SOFTWARE & HARDWARE",
+    "mapsUrl": "https://www.google.com/maps/place/ABIB+CELL+-+SERVIS+HP+ANDROID+SOFTWARE+%26+HARDWARE/data=!4m7!3m6!1s0x2e684995bcb49555:0x73b9984359cb8b35!8m2!3d-6.9530148!4d106.9332754!16s%2Fg%2F11bwhb2hj0!19sChIJVZW0vJVJaC4RNYvLWUOYuXM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "SERVICE HANDPHONE",
+    "mapsUrl": "https://www.google.com/maps/place/SERVICE+HANDPHONE/data=!4m7!3m6!1s0x2e6849fb8ad8152b:0x795a25dd84ac1aa6!8m2!3d-6.9021597!4d106.9385091!16s%2Fg%2F11t8bxq9_0!19sChIJKxXYivtJaC4RphqshN0lWnk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Servis hp & elekteronik",
+    "mapsUrl": "https://www.google.com/maps/place/Servis+hp+%26+elekteronik/data=!4m7!3m6!1s0x2e68497fc412a2fb:0x7ac9d26f75f46bc2!8m2!3d-6.9221874!4d106.9637238!16s%2Fg%2F11ssbwpcnp!19sChIJ-6ISxH9JaC4Rwmv0dW_SyXo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Servis HP Sukabumi"
+  },
+  {
+    "name": "Oke Print Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Oke+Print+Sukabumi/data=!4m7!3m6!1s0x2e68484a06d2169b:0xfbff26e85f937aaf!8m2!3d-6.9155045!4d106.9360821!16s%2Fg%2F11c54c5ft5!19sChIJmxbSBkpIaC4Rr3qTX-gm__s?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Jatrista Digital Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Jatrista+Digital+Printing/data=!4m7!3m6!1s0x2e68483b14129359:0x45468a6ec1af7fd9!8m2!3d-6.9263451!4d106.9258029!16s%2Fg%2F11d_ptry0r!19sChIJWZMSFDtIaC4R2X-vwW6KRkU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "copy paste digital printing sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/copy+paste+digital+printing+sukabumi/data=!4m7!3m6!1s0x2e6836339ca58ccf:0xeaf600c4e821bdf3!8m2!3d-6.9106975!4d106.8953167!16s%2Fg%2F11f3n6jt8f!19sChIJz4ylnDM2aC4R870h6MQA9uo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "PRINTMAX - Digital Printing Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/PRINTMAX+-+Digital+Printing+Sukabumi/data=!4m7!3m6!1s0x2e68493f84c24701:0x9bbad8a95961ef87!8m2!3d-6.9110898!4d106.9348136!16s%2Fg%2F11st6z76s9!19sChIJAUfChD9JaC4Rh-9hWanYups?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Intipromo",
+    "mapsUrl": "https://www.google.com/maps/place/Intipromo/data=!4m7!3m6!1s0x2e68483101df401d:0xb0c28fe28ae9c994!8m2!3d-6.9202401!4d106.9273261!16s%2Fg%2F11cm06yygl!19sChIJHUDfATFIaC4RlMnpiuKPwrA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Universal Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Universal+Printing/data=!4m7!3m6!1s0x2e68483f205ac34d:0x678a412f3a67862!8m2!3d-6.929572!4d106.9329697!16s%2Fg%2F11btxk98rs!19sChIJTcNaID9IaC4RYnim8xKkeAY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "YUDHIS PRINTING & APPAREL",
+    "mapsUrl": "https://www.google.com/maps/place/YUDHIS+PRINTING+%26+APPAREL/data=!4m7!3m6!1s0x2e6849140c2dae2f:0xa9faa6f636ccf6c6!8m2!3d-6.9216029!4d106.9460119!16s%2Fg%2F11vq95qhvf!19sChIJL64tDBRJaC4RxvbMNvam-qk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Percetakan D' Prints (Digital Printing)",
+    "mapsUrl": "https://www.google.com/maps/place/Percetakan+D%27+Prints+%28Digital+Printing%29/data=!4m7!3m6!1s0x2e6839e33f98db65:0x1020c4750eb8584a!8m2!3d-6.967087!4d106.8700862!16s%2Fg%2F11grq08zkl!19sChIJZduYP-M5aC4RSli4DnXEIBA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Hikmah Grafika Barokah",
+    "mapsUrl": "https://www.google.com/maps/place/Hikmah+Grafika+Barokah/data=!4m7!3m6!1s0x2e684952ad63eb1f:0xfccac225b2b3f433!8m2!3d-6.9228027!4d106.9374515!16s%2Fg%2F11h2m8hrpw!19sChIJH-tjrVJJaC4RM_SzsiXCyvw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "CR DIGITAL PRINTING (CRSTORE)",
+    "mapsUrl": "https://www.google.com/maps/place/CR+DIGITAL+PRINTING+%28CRSTORE%29/data=!4m7!3m6!1s0x2e68494855e5c1bb:0xa68a193722ce84a5!8m2!3d-6.9221906!4d106.9171916!16s%2Fg%2F11fd3gjtqt!19sChIJu8HlVUhJaC4RpYTOIjcZiqY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Dgrafika - Printing & Packaging Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Dgrafika+-+Printing+%26+Packaging+Sukabumi/data=!4m7!3m6!1s0x2e6837d8dfd1fffb:0x75d2b768c99bc74f!8m2!3d-6.9020362!4d106.8991842!16s%2Fg%2F11khjzb9vn!19sChIJ-__R39g3aC4RT8ebyWi30nU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Yesgo Digital Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Yesgo+Digital+Printing/data=!4m7!3m6!1s0x2e68490034a26fab:0xb535eb43d1f5a906!8m2!3d-6.9191274!4d106.9560175!16s%2Fg%2F11vrm3m5bd!19sChIJq2-iNABJaC4RBqn10UPrNbU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "flashprint office",
+    "mapsUrl": "https://www.google.com/maps/place/flashprint+office/data=!4m7!3m6!1s0x2e6849e3832ad8e9:0xdea99f245c63a142!8m2!3d-6.9414466!4d106.9230452!16s%2Fg%2F11q8jzhx7t!19sChIJ6dgqg-NJaC4RQqFjXCSfqd4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Agis Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Agis+Printing/data=!4m7!3m6!1s0x2e6848342de2dc6f:0xe21ba20e2f52e366!8m2!3d-6.9167401!4d106.9326511!16s%2Fg%2F1pzrkklzk!19sChIJb9ziLTRIaC4RZuNSLw6iG-I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Semesta Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Semesta+Printing/data=!4m7!3m6!1s0x2e68364a681fe8b5:0xb13d38df78de2daa!8m2!3d-6.9104894!4d106.8871719!16s%2Fg%2F11cncb927n!19sChIJtegfaEo2aC4Rqi3eeN84PbE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Visicomp",
+    "mapsUrl": "https://www.google.com/maps/place/Visicomp/data=!4m7!3m6!1s0x2e6848309ff668c7:0xcc6aa9cae68bc56!8m2!3d-6.922369!4d106.9285369!16s%2Fg%2F1pzxmz229!19sChIJx2j2nzBIaC4RVrxorpyqxgw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Dias Digital Printing dan Fotocopy",
+    "mapsUrl": "https://www.google.com/maps/place/Dias+Digital+Printing+dan+Fotocopy/data=!4m7!3m6!1s0x2e6849b64bd97d51:0xbcd2d01a3ea1d632!8m2!3d-6.9045109!4d106.9375283!16s%2Fg%2F1tg97gq5!19sChIJUX3ZS7ZJaC4RMtahPhrQ0rw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "PRINPERPACK ( Toko Percetakan Digital Printing dan Packaging Dus & Plastik)",
+    "mapsUrl": "https://www.google.com/maps/place/PRINPERPACK+%28+Toko+Percetakan+Digital+Printing+dan+Packaging+Dus+%26+Plastik%29/data=!4m7!3m6!1s0x2e684995066f918f:0x518509e2fe4e14cf!8m2!3d-6.9153974!4d106.9197397!16s%2Fg%2F11nt01rk_q!19sChIJj5FvBpVJaC4RzxRO_uIJhVE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Wayway Digital Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Wayway+Digital+Printing/data=!4m7!3m6!1s0x2e68496dea4494b7:0x6db61624341d01b3!8m2!3d-6.9274881!4d106.9208445!16s%2Fg%2F11hzyh4f6c!19sChIJt5RE6m1JaC4RswEdNCQWtm0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "BARLEY DIGITAL PRINT",
+    "mapsUrl": "https://www.google.com/maps/place/BARLEY+DIGITAL+PRINT/data=!4m7!3m6!1s0x2e6848572fa2fb9f:0x174d47c1924d3f5c!8m2!3d-6.919662!4d106.954205!16s%2Fg%2F11cjhzz_kp!19sChIJn_uiL1dIaC4RXD9NksFHTRc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Sukabumi Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Sukabumi+Printing/data=!4m7!3m6!1s0x2e684839d375ebef:0x9a13da7bf116700!8m2!3d-6.9229369!4d106.9330622!16s%2Fg%2F11cn5fn3z7!19sChIJ7-t10zlIaC4RAGcRv6c9oQk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Mastercetak.id - Percetakan & Digital Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Mastercetak.id+-+Percetakan+%26+Digital+Printing/data=!4m7!3m6!1s0x2e6849b85a404525:0x30f3a7547f558e9e!8m2!3d-6.9227914!4d106.9324306!16s%2Fg%2F11j7yy60hw!19sChIJJUVAWrhJaC4Rno5Vf1Sn8zA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "PIKSEL MEDIA PERCETAKAN & DESAIN",
+    "mapsUrl": "https://www.google.com/maps/place/PIKSEL+MEDIA+PERCETAKAN+%26+DESAIN/data=!4m7!3m6!1s0x2e6837b7475e10c7:0x4bde03c5fa3b50b4!8m2!3d-6.9074588!4d106.8900466!16s%2Fg%2F11kqbrq1tt!19sChIJxxBeR7c3aC4RtFA7-sUD3ks?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Alam Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Alam+Printing/data=!4m7!3m6!1s0x2e6848372a6f4d8f:0x877e29ff30752dda!8m2!3d-6.9200391!4d106.9301914!16s%2Fg%2F11g9mzxlll!19sChIJj01vKjdIaC4R2i11MP8pfoc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Kotoba digital printing & advertising",
+    "mapsUrl": "https://www.google.com/maps/place/Kotoba+digital+printing+%26+advertising/data=!4m7!3m6!1s0x2e6837002a218573:0x7a1f92ee7a84079d!8m2!3d-6.9050359!4d106.87663!16s%2Fg%2F11nt_bq77x!19sChIJc4UhKgA3aC4RnQeEeu6SH3o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Golden Jaya Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Golden+Jaya+Printing/data=!4m7!3m6!1s0x2e68492b05109a9d:0x8c3f3a9d14cc0e5f!8m2!3d-6.9255101!4d106.9338041!16s%2Fg%2F11w4n3g1cb!19sChIJnZoQBStJaC4RXw7MFJ06P4w?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Bahagia Print",
+    "mapsUrl": "https://www.google.com/maps/place/Bahagia+Print/data=!4m7!3m6!1s0x2e6848301860458f:0xcad36553c9b6f9ba!8m2!3d-6.9212312!4d106.9247131!16s%2Fg%2F11bz0bjc10!19sChIJj0VgGDBIaC4Ruvm2yVNl08o?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Digital Printing",
+    "mapsUrl": "https://www.google.com/maps/place/Digital+Printing/data=!4m7!3m6!1s0x2e6837f0e0c2ad25:0xfb08a138c8419e10!8m2!3d-6.9324487!4d106.9323412!16s%2Fg%2F11j4v3xvgs!19sChIJJa3C4PA3aC4REJ5ByDihCPs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Digital Printing Sukabumi"
+  },
+  {
+    "name": "Konveksi Sablon Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+Sablon+Sukabumi/data=!4m7!3m6!1s0x2e6849d23aad3a23:0xb8882b110f104a5d!8m2!3d-6.9040526!4d106.922476!16s%2Fg%2F11c6cw_719!19sChIJIzqtOtJJaC4RXUoQDxEriLg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Alta Konveksi sukabumi Sablon sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Alta+Konveksi+sukabumi+Sablon+sukabumi/data=!4m7!3m6!1s0x2e68481a26e3728f:0x9c6de06a5ed88806!8m2!3d-6.9385995!4d106.9219842!16s%2Fg%2F11c5_b2fhj!19sChIJj3LjJhpIaC4RBojYXmrgbZw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "HIPBONE KONVEKSI SABLON SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/HIPBONE+KONVEKSI+SABLON+SUKABUMI/data=!4m7!3m6!1s0x2e683781310efd33:0xd038a0a99c0e973e!8m2!3d-6.921273!4d106.887919!16s%2Fg%2F11mqjrc1kt!19sChIJM_0OMYE3aC4RPpcOnKmgONA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Konveksi Sablon Amistiker Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+Sablon+Amistiker+Sukabumi/data=!4m7!3m6!1s0x2e68491a7297c3ab:0xa7541166e820fa2c!8m2!3d-6.9109637!4d106.8956813!16s%2Fg%2F11h1r_2yvt!19sChIJq8OXchpJaC4RLPog6GYRVKc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Konveksi & Sablon Sukabumi | Sukabumian",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+%26+Sablon+Sukabumi+%7C+Sukabumian/data=!4m7!3m6!1s0x2e68494a1d36f1e7:0x3c398752372481a8!8m2!3d-6.9139648!4d106.8985943!16s%2Fg%2F11n18vsfmy!19sChIJ5_E2HUpJaC4RqIEkN1KHOTw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "SSC Konveksi & Sablon SUKABUMI Cisaat",
+    "mapsUrl": "https://www.google.com/maps/place/SSC+Konveksi+%26+Sablon+SUKABUMI+Cisaat/data=!4m7!3m6!1s0x2e683771d1e0d965:0xb9e500c08fc8ed45!8m2!3d-6.9046146!4d106.893697!16s%2Fg%2F11hzhw1584!19sChIJZdng0XE3aC4RRe3Ij8AA5bk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "HARMONY INDUSTRIES",
+    "mapsUrl": "https://www.google.com/maps/place/HARMONY+INDUSTRIES/data=!4m7!3m6!1s0x2e68495695771abb:0xf97e0a873b24dc03!8m2!3d-6.9470989!4d106.9167952!16s%2Fg%2F11h7jfy21z!19sChIJuxp3lVZJaC4RA9wkO4cKfvk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "RDH Industries",
+    "mapsUrl": "https://www.google.com/maps/place/RDH+Industries/data=!4m7!3m6!1s0x2e68363c2cc9f2e7:0x6b339b5d1bf3efed!8m2!3d-6.9217!4d106.8969898!16s%2Fg%2F11hbvz48zg!19sChIJ5_LJLDw2aC4R7e_zG12bM2s?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Cititex Siliwangi Sukabumi (Kaos Polos dan Sablon Satuan - Partai Besar)",
+    "mapsUrl": "https://www.google.com/maps/place/Cititex+Siliwangi+Sukabumi+%28Kaos+Polos+dan+Sablon+Satuan+-+Partai+Besar%29/data=!4m7!3m6!1s0x2e68495ba349886b:0x3e7fc2153ea4202b!8m2!3d-6.9166246!4d106.9362104!16s%2Fg%2F11llllnx41!19sChIJa4hJo1tJaC4RKyCkPhXCfz4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Konveksi dan Sablon \"Mandiri\" CV AMK",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+dan+Sablon+%22Mandiri%22+CV+AMK/data=!4m7!3m6!1s0x2e6848ffeb5b1fc1:0x92980cea3a1646e7!8m2!3d-6.9123369!4d106.960622!16s%2Fg%2F11p65qt32p!19sChIJwR9b6_9IaC4R50YWOuoMmJI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "ESTETIK SABLON DAN KONVEKSI SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/ESTETIK+SABLON+DAN+KONVEKSI+SUKABUMI/data=!4m7!3m6!1s0x2e6831006989751d:0x4d8a5d23247dd32a!8m2!3d-6.8937296!4d106.7823743!16s%2Fg%2F11w__4_xsm!19sChIJHXWJaQAxaC4RKtN9JCNdik0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Rumah Ketua RT",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Ketua+RT/data=!4m7!3m6!1s0x2e698dd97cb87b01:0x60d3537b5a45a64!8m2!3d-6.221491!4d106.7776166!16s%2Fg%2F11r_qq480n!19sChIJAXu4fNmNaS4RZFqktTc1DQY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "ZEN SABLON & KONFEKSI",
+    "mapsUrl": "https://www.google.com/maps/place/ZEN+SABLON+%26+KONFEKSI/data=!4m7!3m6!1s0x2e6837e03fd4103b:0x53da66d0442da2bb!8m2!3d-6.929727!4d106.9082328!16s%2Fg%2F11f71gmxbm!19sChIJOxDUP-A3aC4Ru6ItRNBm2lM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Family Collection (Konveksi, Kaos, dan Sablon)",
+    "mapsUrl": "https://www.google.com/maps/place/Family+Collection+%28Konveksi,+Kaos,+dan+Sablon%29/data=!4m7!3m6!1s0x2e6849000e1d09bd:0xa00feced6782baf0!8m2!3d-6.9112606!4d106.9199481!16s%2Fg%2F11ysqxw0r9!19sChIJvQkdDgBJaC4R8LqCZ-3sD6A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "konveksi sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/konveksi+sukabumi/data=!4m7!3m6!1s0x2e6849cf60d40851:0x9434a01f39a0152c!8m2!3d-6.9469944!4d106.917112!16s%2Fg%2F11k39gq3w2!19sChIJUQjUYM9JaC4RLBWgOR-gNJQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "ALJABAR KONVEKSI",
+    "mapsUrl": "https://www.google.com/maps/place/ALJABAR+KONVEKSI/data=!4m7!3m6!1s0x2e6849000a759087:0x2449e59b77ff4199!8m2!3d-6.9127244!4d106.9449758!16s%2Fg%2F11z131rt5h!19sChIJh5B1CgBJaC4RmUH_d5vlSSQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Aisha Production Konveksi & Sablon",
+    "mapsUrl": "https://www.google.com/maps/place/Aisha+Production+Konveksi+%26+Sablon/data=!4m7!3m6!1s0x2e684805bd13d7f7:0x6c3719163775845!8m2!3d-6.9468731!4d106.9224453!16s%2Fg%2F11d_v438x6!19sChIJ99cTvQVIaC4RRVh3Y5FxwwY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Konveksi Gelar Baru sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+Gelar+Baru+sukabumi/data=!4m7!3m6!1s0x2e6837a26db6b9b5:0xa1fd532bb6dadaed!8m2!3d-6.9072132!4d106.8761966!16s%2Fg%2F11ghpt7krm!19sChIJtbm2baI3aC4R7dratitT_aE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Alam Printing & konveksi ciaul",
+    "mapsUrl": "https://www.google.com/maps/place/Alam+Printing+%26+konveksi+ciaul/data=!4m7!3m6!1s0x2e6849bf96e9cf09:0x40488269e6eafe34!8m2!3d-6.9229621!4d106.9396362!16s%2Fg%2F11mhfftcyd!19sChIJCc_plr9JaC4RNP7q5mmCSEA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Sj konveksi dan sablon",
+    "mapsUrl": "https://www.google.com/maps/place/Sj+konveksi+dan+sablon/data=!4m7!3m6!1s0x2e683741b6febfa9:0x43a512f419dc1dd2!8m2!3d-6.9113388!4d106.8891128!16s%2Fg%2F11j4q09zrp!19sChIJqb_-tkE3aC4R0h3cGfQSpUM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "HITTLER KONVEKSI SABLON & BORDIR",
+    "mapsUrl": "https://www.google.com/maps/place/HITTLER+KONVEKSI+SABLON+%26+BORDIR/data=!4m7!3m6!1s0x2e6849249b08e3e5:0x81d199b2f8ac8149!8m2!3d-6.9476013!4d106.9652191!16s%2Fg%2F11pyt4zy4c!19sChIJ5eMImyRJaC4RSYGs-LKZ0YE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "SSC KONVEKSI SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/SSC+KONVEKSI+SUKABUMI/data=!4m7!3m6!1s0x2e683712c524a219:0xbfeb1bd86c137af9!8m2!3d-6.9181835!4d106.8672955!16s%2Fg%2F11kryqyypl!19sChIJGaIkxRI3aC4R-XoTbNgb678?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Sendja Custom Apparel (Konveksi & Sablon)",
+    "mapsUrl": "https://www.google.com/maps/place/Sendja+Custom+Apparel+%28Konveksi+%26+Sablon%29/data=!4m7!3m6!1s0x2e6837eead9be1cf:0x7a24dae309eda880!8m2!3d-6.9087798!4d106.8962843!16s%2Fg%2F11tmzcbt24!19sChIJz-Gbre43aC4RgKjtCePaJHo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Konveksi Topi Ulindo Mandiri",
+    "mapsUrl": "https://www.google.com/maps/place/Konveksi+Topi+Ulindo+Mandiri/data=!4m7!3m6!1s0x2e69f129b4b23165:0x75f8d389c13716a1!8m2!3d-6.226619!4d106.772433!16s%2Fg%2F11bw21g99q!19sChIJZTGytCnxaS4RoRY3wYnT-HU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "double3.id Sablon Kaos & Konveksi semi Garment",
+    "mapsUrl": "https://www.google.com/maps/place/double3.id+Sablon+Kaos+%26+Konveksi+semi+Garment/data=!4m7!3m6!1s0x2e6833fb51274c9d:0x9b7cad44217ef68e!8m2!3d-6.8315976!4d106.7598316!16s%2Fg%2F11jf9sb22r!19sChIJnUwnUfszaC4RjvZ-IUStfJs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Difa Konveksindo",
+    "mapsUrl": "https://www.google.com/maps/place/Difa+Konveksindo/data=!4m7!3m6!1s0x2e6849d99842d39f:0x1344253979e252aa!8m2!3d-6.9330859!4d106.9245506!16s%2Fg%2F11gq_pgfp5!19sChIJn9NCmNlJaC4RqlLieTklRBM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Konveksi Sablon Sukabumi"
+  },
+  {
+    "name": "Amani Laundry Terdekat Sukabumi - Gratis Antar Jemput",
+    "mapsUrl": "https://www.google.com/maps/place/Amani+Laundry+Terdekat+Sukabumi+-+Gratis+Antar+Jemput/data=!4m7!3m6!1s0x2e68490d597385d5:0x6b9a2dd9dc5bd741!8m2!3d-6.9029715!4d106.9182789!16s%2Fg%2F11yy_y0cc4!19sChIJ1YVzWQ1JaC4RQddb3Nktmms?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Lumire Laundry - GRATIS Antar Jemput Sukabumi - Express 2 Jam Beres",
+    "mapsUrl": "https://www.google.com/maps/place/Lumire+Laundry+-+GRATIS+Antar+Jemput+Sukabumi+-+Express+2+Jam+Beres/data=!4m7!3m6!1s0x2e6849c7abd577cb:0xad68105e9186bcbd!8m2!3d-6.9266187!4d106.9257961!16s%2Fg%2F11xf9zc0qs!19sChIJy3fVq8dJaC4RvbyGkV4QaK0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Lavandera Laundry",
+    "mapsUrl": "https://www.google.com/maps/place/Lavandera+Laundry/data=!4m7!3m6!1s0x2e6849cd41b0f1e1:0x9cfc88adab84bb57!8m2!3d-6.9124159!4d106.9293318!16s%2Fg%2F11cs2hqm7n!19sChIJ4fGwQc1JaC4RV7uEq62I_Jw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Eternal Light Laundry Sukabumi Cab IPB",
+    "mapsUrl": "https://www.google.com/maps/place/Eternal+Light+Laundry+Sukabumi+Cab+IPB/data=!4m7!3m6!1s0x2e68487bb9c47109:0x979330ccfce8d699!8m2!3d-6.9461058!4d106.9514169!16s%2Fg%2F11rq202t6m!19sChIJCXHEuXtIaC4Rmdbo_Mwwk5c?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Amani Laundry Gratis Antar Jemput Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Amani+Laundry+Gratis+Antar+Jemput+Sukabumi/data=!4m7!3m6!1s0x2e6849daadcea783:0x70b62484f09393f7!8m2!3d-6.9210326!4d106.91964!16s%2Fg%2F11yklvfgty!19sChIJg6fOrdpJaC4R95OT8IQktnA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "SUKACUCI",
+    "mapsUrl": "https://www.google.com/maps/place/SUKACUCI/data=!4m7!3m6!1s0x2e68482397eb7607:0xe9989457e503989d!8m2!3d-6.9288346!4d106.9204079!16s%2Fg%2F11cnqw2zy0!19sChIJB3brlyNIaC4RnZgD5VeUmOk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Lavandera Laundry 2",
+    "mapsUrl": "https://www.google.com/maps/place/Lavandera+Laundry+2/data=!4m7!3m6!1s0x2e68494382bdf0a7:0x9eb32b313cd48c1a!8m2!3d-6.9179755!4d106.9166136!16s%2Fg%2F11fj467936!19sChIJp_C9gkNJaC4RGozUPDErs54?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Amani Laundry Karpet Cisaat Cikiray",
+    "mapsUrl": "https://www.google.com/maps/place/Amani+Laundry+Karpet+Cisaat+Cikiray/data=!4m7!3m6!1s0x2e6837d97504d8b3:0x838f951c8fd18b59!8m2!3d-6.9082422!4d106.8977215!16s%2Fg%2F11ynttsw6w!19sChIJs9gEddk3aC4RWYvRjxyVj4M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Eternal Light Laundry Cabang Nyomplong",
+    "mapsUrl": "https://www.google.com/maps/place/Eternal+Light+Laundry+Cabang+Nyomplong/data=!4m7!3m6!1s0x2e684914a876ce13:0x77baa1a3cef0dbff!8m2!3d-6.9245815!4d106.9216691!16s%2Fg%2F11l2yh89mz!19sChIJE852qBRJaC4R_9vwzqOhunc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (Cikondang)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28Cikondang%29/data=!4m7!3m6!1s0x2e6849b947185f5d:0xf5d223efe9f259ff!8m2!3d-6.9397142!4d106.923434!16s%2Fg%2F11mhzqclz6!19sChIJXV8YR7lJaC4R_1ny6e8j0vU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (Ciaul)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28Ciaul%29/data=!4m7!3m6!1s0x2e684998dfdbf4a1:0xff8dd9d131c9e970!8m2!3d-6.9217318!4d106.9462236!16s%2Fg%2F11s7c_4h58!19sChIJofTb35hJaC4RcOnJMdHZjf8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Eira Laundry",
+    "mapsUrl": "https://www.google.com/maps/place/Eira+Laundry/data=!4m7!3m6!1s0x2e68482e383918c5:0xfc629a6d7c212ff1!8m2!3d-6.9195194!4d106.9227699!16s%2Fg%2F11c5_g7m2m!19sChIJxRg5OC5IaC4R8S8hfG2aYvw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Sukabumi Laundry Pusat Sukaraja",
+    "mapsUrl": "https://www.google.com/maps/place/Sukabumi+Laundry+Pusat+Sukaraja/data=!4m7!3m6!1s0x2e6849ed70f0066b:0xbfe3b422574b0875!8m2!3d-6.9218618!4d106.9655449!16s%2Fg%2F11l30p9xrs!19sChIJawbwcO1JaC4RdQhLVyK0478?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (degung)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28degung%29/data=!4m7!3m6!1s0x2e6837d1c1cbff01:0x432eefda8fd9d11c!8m2!3d-6.9192863!4d106.9158124!16s%2Fg%2F11f5_h1stm!19sChIJAf_LwdE3aC4RHNHZj9rvLkM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Sukabumi Laundry Cabang Cisaat",
+    "mapsUrl": "https://www.google.com/maps/place/Sukabumi+Laundry+Cabang+Cisaat/data=!4m7!3m6!1s0x2e683728e4766ae5:0x382a27490704747d!8m2!3d-6.908613!4d106.8923057!16s%2Fg%2F11z2_h___6!19sChIJ5Wp25Cg3aC4RfXQEB0knKjg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "AA LAUNDRY ( laundry springbed,sofa,dan lainnya )",
+    "mapsUrl": "https://www.google.com/maps/place/AA+LAUNDRY+%28+laundry+springbed,sofa,dan+lainnya+%29/data=!4m7!3m6!1s0x2e68490055804727:0x73b4e2e031715d24!8m2!3d-6.9378873!4d106.9337048!16s%2Fg%2F11nb6kjkqy!19sChIJJ0eAVQBJaC4RJF1xMeDitHM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Simply Fresh Laundry Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Simply+Fresh+Laundry+Sukabumi/data=!4m7!3m6!1s0x8b3cccf253d6d7f5:0x10e2486f511bf60c!8m2!3d-6.9022731!4d106.8634214!16s%2Fg%2F11z7s7fkwj!19sChIJ9dfWU_LMPIsRDPYbUW9I4hA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (Ciandam)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28Ciandam%29/data=!4m7!3m6!1s0x2e684994745a75e3:0x1ea9dcd039166349!8m2!3d-6.9204581!4d106.9498671!16s%2Fg%2F11sx4mbrkg!19sChIJ43VadJRJaC4RSWMWOdDcqR4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Laundry Antar Jemput Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Laundry+Antar+Jemput+Sukabumi/data=!4m7!3m6!1s0x2e6849afd03b8de7:0x23048ae16960a6bf!8m2!3d-6.9117276!4d106.9128392!16s%2Fg%2F11s79czctn!19sChIJ54070K9JaC4Rv6ZgaeGKBCM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Kila Express Laundry",
+    "mapsUrl": "https://www.google.com/maps/place/Kila+Express+Laundry/data=!4m7!3m6!1s0x2e684988034ef603:0xbf2be7b179bfd35e!8m2!3d-6.9202088!4d106.9160022!16s%2Fg%2F11ym0p_hw0!19sChIJA_ZOA4hJaC4RXtO_ebHnK78?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (Cigodeg)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28Cigodeg%29/data=!4m7!3m6!1s0x2e6849e146e6c6d9:0x1f25d6832fc5ad62!8m2!3d-6.9316652!4d106.9323154!16s%2Fg%2F11tg52y065!19sChIJ2cbmRuFJaC4RYq3FL4PWJR8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Luxe Laundry Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Luxe+Laundry+Sukabumi/data=!4m7!3m6!1s0x2e68490032056de5:0x4a3075c7756ea27f!8m2!3d-6.9235855!4d106.9341167!16s%2Fg%2F11zx3bkwb4!19sChIJ5W0FMgBJaC4Rf6Judcd1MEo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Express Laundry (Sukaraja)",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Express+Laundry+%28Sukaraja%29/data=!4m7!3m6!1s0x2e6849816112c565:0x80cf6cad38bbab38!8m2!3d-6.9175502!4d106.971372!16s%2Fg%2F11sjrg9p64!19sChIJZcUSYYFJaC4ROKu7OK1sz4A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Ami laundry Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ami+laundry+Sukabumi/data=!4m7!3m6!1s0x2e6849b633c119a7:0xc1862c92bf1a89ae!8m2!3d-6.9073926!4d106.9381558!16s%2Fg%2F11s46cfp7_!19sChIJpxnBM7ZJaC4Rrokav5IshsE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+    "mapsUrl": "https://www.google.com/maps/place/Sukacuci+Laundry+Sukabumi+%E2%80%93+Laundry+Kiloan+%26+Express+Antar+Jemput+Terdekat/data=!4m7!3m6!1s0x2e68491215369fc1:0x7ac4b881be8feea4!8m2!3d-6.9125486!4d106.9362057!16s%2Fg%2F11pv5n0vlt!19sChIJwZ82FRJJaC4RpO6PvoG4xHo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "indo express laundry neglasari sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/indo+express+laundry+neglasari+sukabumi/data=!4m7!3m6!1s0x2e68492aedf2dcdb:0xe36b863cdd47d767!8m2!3d-6.9171887!4d106.9673602!16s%2Fg%2F11wqj425c5!19sChIJ29zy7SpJaC4RZ9dH3TyGa-M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "INDO LAUNDRY",
+    "mapsUrl": "https://www.google.com/maps/place/INDO+LAUNDRY/data=!4m7!3m6!1s0x2e684830e714e3cd:0xfef63d745ec5f18d!8m2!3d-6.9204595!4d106.9283826!16s%2Fg%2F11vbg287xf!19sChIJzeMU5zBIaC4RjfHFXnQ99v4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "Indo Trans",
+    "mapsUrl": "https://www.google.com/maps/place/Indo+Trans/data=!4m7!3m6!1s0x2e684837a636d2e1:0x645f27080ec83de2!8m2!3d-6.921219!4d106.9355176!16s%2Fg%2F11g9h2hq9g!19sChIJ4dI2pjdIaC4R4j3IDggnX2Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Laundry Sukabumi"
+  },
+  {
+    "name": "CuciWangi Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/CuciWangi+Sukabumi/data=!4m7!3m6!1s0x2e684965711ad235:0xb84442112df893b3!8m2!3d-6.9177545!4d106.9305571!16s%2Fg%2F11g_zk5612!19sChIJNdIacWVJaC4Rs5P4LRFCRLg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "NGUMBAH SAPATU KOTA SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/NGUMBAH+SAPATU+KOTA+SUKABUMI/data=!4m7!3m6!1s0x2e684940060f513b:0xacea18ce332897d3!8m2!3d-6.9341755!4d106.9355178!16s%2Fg%2F11fnctnhyz!19sChIJO1EPBkBJaC4R05coM84Y6qw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Bersih.in WearCare",
+    "mapsUrl": "https://www.google.com/maps/place/Bersih.in+WearCare/data=!4m7!3m6!1s0x2e68490035e4905d:0x835535c89b50370d!8m2!3d-6.9216587!4d106.9221576!16s%2Fg%2F11z0y_7zrg!19sChIJXZDkNQBJaC4RDTdQm8g1VYM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Cuci Disini Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Cuci+Disini+Sukabumi/data=!4m7!3m6!1s0x2e68370007c2852b:0xb09d1648fa9078db!8m2!3d-6.9079312!4d106.8894095!16s%2Fg%2F11lw94jct8!19sChIJK4XCBwA3aC4R23iQ-kgWnbA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Cuci Bersih Shoes And Care",
+    "mapsUrl": "https://www.google.com/maps/place/Cuci+Bersih+Shoes+And+Care/data=!4m7!3m6!1s0x2e6849cfb8e99b83:0x818454b45a998675!8m2!3d-6.9277186!4d106.9195539!16s%2Fg%2F11xyddf3ng!19sChIJg5vpuM9JaC4RdYaZWrRUhIE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Sneakers Shoes Cleaning",
+    "mapsUrl": "https://www.google.com/maps/place/Sneakers+Shoes+Cleaning/data=!4m7!3m6!1s0x2e6849acc750137f:0xd68a5de44d2a475!8m2!3d-6.9165233!4d106.9328515!16s%2Fg%2F11tfl6px4n!19sChIJfxNQx6xJaC4RdaTSRN6laA0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "PIU PIU Cuci Sepatu Kebayoran Lama",
+    "mapsUrl": "https://www.google.com/maps/place/PIU+PIU+Cuci+Sepatu+Kebayoran+Lama/data=!4m7!3m6!1s0x2e69f71c0c3514c9:0xd0b962b047ac54d3!8m2!3d-6.2130444!4d106.7828956!16s%2Fg%2F11y_pt9qc5!19sChIJyRQ1DBz3aS4R01SsR7BiudA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+    "mapsUrl": "https://www.google.com/maps/place/Laundry+%26+Cuci+Sepatu+-+Pasti+Bersih.Small+Space/data=!4m7!3m6!1s0x2e684938b5083957:0xfa09c9ae81ce17f7!8m2!3d-6.9173379!4d106.9285295!16s%2Fg%2F11s61j4gyq!19sChIJVzkItThJaC4R9xfOga7JCfo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Wash it! Cuci Sepatu Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Wash+it!+Cuci+Sepatu+Sukabumi/data=!4m7!3m6!1s0x2e68379bcea4b89f:0xf7779f3fb339c452!8m2!3d-6.9161309!4d106.9056344!16s%2Fg%2F11vqp9vl4s!19sChIJn7ikzps3aC4RUsQ5sz-fd_c?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Wash it! Cuci sepatu sukabumi cibaraja",
+    "mapsUrl": "https://www.google.com/maps/place/Wash+it!+Cuci+sepatu+sukabumi+cibaraja/data=!4m7!3m6!1s0x2e6837d2cdb0ef4f:0xe8cdab77db5f8ec!8m2!3d-6.8982308!4d106.8773683!16s%2Fg%2F11p5x79pb5!19sChIJT--wzdI3aC4R7Pi1fbfajA4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Alfa Shoes Care Laundry Sepatu (Cuci dan Perawatan Sepatu)",
+    "mapsUrl": "https://www.google.com/maps/place/Alfa+Shoes+Care+Laundry+Sepatu+%28Cuci+dan+Perawatan+Sepatu%29/data=!4m7!3m6!1s0x2e68336a37a8d481:0x74b3a681e044f8f7!8m2!3d-6.8183043!4d106.7597571!16s%2Fg%2F11z5p58fj1!19sChIJgdSoN2ozaC4R9_hE4IGms3Q?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "RUANG CUCI",
+    "mapsUrl": "https://www.google.com/maps/place/RUANG+CUCI/data=!4m7!3m6!1s0x2e6839310183bee3:0x52f3d37d27adeed0!8m2!3d-6.9563294!4d106.9061894!16s%2Fg%2F11nyft6q_1!19sChIJ476DATE5aC4R0O6tJ33T81I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "WASH SHOE (WS)",
+    "mapsUrl": "https://www.google.com/maps/place/WASH+SHOE+%28WS%29/data=!4m7!3m6!1s0x2e6847002c41fecb:0x6351d9abf1fbb93a!8m2!3d-6.973167!4d106.9142941!16s%2Fg%2F11yvjnd11d!19sChIJy_5BLABHaC4ROrn78avZUWM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Freshklin91",
+    "mapsUrl": "https://www.google.com/maps/place/Freshklin91/data=!4m7!3m6!1s0x2e6849428d63f34b:0x1cb1f25882b53620!8m2!3d-6.9207145!4d106.9256505!16s%2Fg%2F11s30twrjt!19sChIJS_NjjUJJaC4RIDa1gljysRw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Eight Clean",
+    "mapsUrl": "https://www.google.com/maps/place/Eight+Clean/data=!4m7!3m6!1s0x2e6848158e806ff3:0x832bd2a5eb352b44!8m2!3d-6.933074!4d106.9320247!16s%2Fg%2F11g6yppjvh!19sChIJ82-AjhVIaC4RRCs166XSK4M?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "D'SHOES LAUNDRY",
+    "mapsUrl": "https://www.google.com/maps/place/D%27SHOES+LAUNDRY/data=!4m7!3m6!1s0x2e68492a60d2240d:0xa16cadea2f586ce5!8m2!3d-6.9115105!4d106.915498!16s%2Fg%2F11ssz5xd56!19sChIJDSTSYCpJaC4R5WxYL-qtbKE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Gadawu Shoes Care",
+    "mapsUrl": "https://www.google.com/maps/place/Gadawu+Shoes+Care/data=!4m7!3m6!1s0x2e6849bb2315f3bb:0xf6727a543eec6b5f!8m2!3d-6.9312818!4d106.9207903!16s%2Fg%2F11twqmgprj!19sChIJu_MVI7tJaC4RX2vsPlR6cvY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Gen Shoe Cidodol",
+    "mapsUrl": "https://www.google.com/maps/place/Gen+Shoe+Cidodol/data=!4m7!3m6!1s0x2e69f15eb3a85757:0x407d6bd514220bf6!8m2!3d-6.2235929!4d106.7715929!16s%2Fg%2F11jgl2wd4n!19sChIJV1eos17xaS4R9gsiFNVrfUA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Zona Laundry 11",
+    "mapsUrl": "https://www.google.com/maps/place/Zona+Laundry+11/data=!4m7!3m6!1s0x2e69f768cf36e273:0x70d03defd724746f!8m2!3d-6.202284!4d106.7824203!16s%2Fg%2F11zggv0k3c!19sChIJc-I2z2j3aS4Rb3Qk1-890HA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Dyclober12 shoes care",
+    "mapsUrl": "https://www.google.com/maps/place/Dyclober12+shoes+care/data=!4m7!3m6!1s0x2e69f78c973a1017:0x9aba9eb772c9dd7a!8m2!3d-6.2129569!4d106.7738685!16s%2Fg%2F11gy4_hl8y!19sChIJFxA6l4z3aS4Ret3Jcreeupo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Bersih.in WearCare Kosambi",
+    "mapsUrl": "https://www.google.com/maps/place/Bersih.in+WearCare+Kosambi/data=!4m7!3m6!1s0x2e69f9689f68bb99:0x2ddb2f800e73353b!8m2!3d-6.1702651!4d106.7227109!16s%2Fg%2F11zg3607n9!19sChIJmbton2j5aS4ROzVzDoAv2y0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Doms Clean Shoes",
+    "mapsUrl": "https://www.google.com/maps/place/Doms+Clean+Shoes/data=!4m7!3m6!1s0x2e68375160ce6d45:0xaf5d845b2940bc2a!8m2!3d-6.9168409!4d106.8985904!16s%2Fg%2F11vdzwqm3p!19sChIJRW3OYFE3aC4RKrxAKVuEXa8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "REPARASI SEPATU ( Owim Rasta )",
+    "mapsUrl": "https://www.google.com/maps/place/REPARASI+SEPATU+%28+Owim+Rasta+%29/data=!4m7!3m6!1s0x2e69c319e605b4a3:0xd2faa018109256ac!8m2!3d-6.8883972!4d106.9964866!16s%2Fg%2F11sbv7s8bx!19sChIJo7QF5hnDaS4RrFaSEBig-tI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Cuci Sepatu Sukabumi"
+  },
+  {
+    "name": "Bimbel Gama UI Kota Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Gama+UI+Kota+Sukabumi/data=!4m7!3m6!1s0x2e684965e8de5fa9:0xcfe5e17c82afdb7e!8m2!3d-6.9215964!4d106.9221749!16s%2Fg%2F11nbzh6fsh!19sChIJqV_e6GVJaC4Rftuvgnzh5c8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Brain Academy Ruangguru Sukabumi Sudirman",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Brain+Academy+Ruangguru+Sukabumi+Sudirman/data=!4m7!3m6!1s0x2e684989933a3c1f:0x6e929843c2ee0e55!8m2!3d-6.9209048!4d106.9227273!16s%2Fg%2F11v15ztt3w!19sChIJHzw6k4lJaC4RVQ7uwkOYkm4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Tunas Permata Bangsa Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Tunas+Permata+Bangsa+Sukabumi/data=!4m7!3m6!1s0x2e684850f58a077b:0x37de0833a77dcd40!8m2!3d-6.9202691!4d106.9507193!16s%2Fg%2F11bytn349q!19sChIJeweK9VBIaC4RQM19pzMI3jc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Ganesha Operation Syamsudin Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ganesha+Operation+Syamsudin+Sukabumi/data=!4m7!3m6!1s0x2e68483691f3481b:0x780bb2702833175d!8m2!3d-6.918147!4d106.9321147!16s%2Fg%2F11bzrq1s4s!19sChIJG0jzkTZIaC4RXRczKHCyC3g?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel ILC & BimBa BacaKata",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+ILC+%26+BimBa+BacaKata/data=!4m7!3m6!1s0x2e6837cafd401347:0xdd4fd48319ee520d!8m2!3d-6.9082193!4d106.8977236!16s%2Fg%2F11h3mw73ph!19sChIJRxNA_co3aC4RDVLuGYPUT90?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "LBB Nurul Fikri RA Kosasih",
+    "mapsUrl": "https://www.google.com/maps/place/LBB+Nurul+Fikri+RA+Kosasih/data=!4m7!3m6!1s0x2e68484589928307:0xb26e7fc906ede09e!8m2!3d-6.9220441!4d106.9435423!16s%2Fg%2F11g98t_9dy!19sChIJB4OSiUVIaC4RnuDtBsl_brI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Ganesha Operation Ra Kosasih Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ganesha+Operation+Ra+Kosasih+Sukabumi/data=!4m7!3m6!1s0x2e68484f61c541e9:0x586aacc6162d9aa6!8m2!3d-6.9220493!4d106.9435093!16s%2Fg%2F11f03x8szv!19sChIJ6UHFYU9IaC4RppotFsasalg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Sahabat Anak kebayoran lama",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Sahabat+Anak+kebayoran+lama/data=!4m7!3m6!1s0x2e69f12c179773e3:0x417286b8b3bd10d6!8m2!3d-6.2231541!4d106.778122!16s%2Fg%2F11cn94h6kn!19sChIJ43OXFyzxaS4R1hC9s7iGckE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Prosus Inten Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Prosus+Inten+Sukabumi/data=!4m7!3m6!1s0x2e684914f4b3036f:0x9ceca7ff0bba265a!8m2!3d-6.916408!4d106.9357974!16s%2Fg%2F11s4trzbzy!19sChIJbwOz9BRJaC4RWia6C_-n7Jw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Brain Academy Ruangguru Sukabumi Cibadak",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Brain+Academy+Ruangguru+Sukabumi+Cibadak/data=!4m7!3m6!1s0x2e6831e71f11252d:0xbf8c9abb2c14abac!8m2!3d-6.8933662!4d106.7835486!16s%2Fg%2F11zc0m5s_g!19sChIJLSURH-cxaC4RrKsULLuajL8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Aflah Education",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Aflah+Education/data=!4m7!3m6!1s0x2e6847afc679567b:0xd6d7595aa885ad5!8m2!3d-6.9582733!4d106.9519471!16s%2Fg%2F11t0r5wf5v!19sChIJe1Z5xq9HaC4R1VqIqpV1bQ0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Cerdas Calistung Bunda Rini",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Cerdas+Calistung+Bunda+Rini/data=!4m7!3m6!1s0x2e68478d99f1fc17:0x8ef67dd262195505!8m2!3d-6.9637191!4d106.9399666!16s%2Fg%2F11h3y97gqf!19sChIJF_zxmY1HaC4RBVUZYtJ99o4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Rumah Bimbel SD",
+    "mapsUrl": "https://www.google.com/maps/place/Rumah+Bimbel+SD/data=!4m7!3m6!1s0x2e6849005526fed7:0x125009f93a9e929e!8m2!3d-6.8980031!4d106.912892!16s%2Fg%2F11x35_2c53!19sChIJ1_4mVQBJaC4RnpKeOvkJUBI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Math Champs - Les Matematika Sukabumi Sudirman",
+    "mapsUrl": "https://www.google.com/maps/place/Math+Champs+-+Les+Matematika+Sukabumi+Sudirman/data=!4m7!3m6!1s0x2e68495fc3cbc187:0x5b8260f82c305000!8m2!3d-6.9207684!4d106.9226821!16s%2Fg%2F11zjp05wfw!19sChIJh8HLw19JaC4RAFAwLPhggls?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "ESL Course bimbel",
+    "mapsUrl": "https://www.google.com/maps/place/ESL+Course+bimbel/data=!4m7!3m6!1s0x2e6849007295c477:0x1fffbd1c0b2744a4!8m2!3d-6.9190437!4d106.9299438!16s%2Fg%2F11y6d8c6gs!19sChIJd8SVcgBJaC4RpEQnCxy9_x8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "LBB NURANI BINA CENDIKIA",
+    "mapsUrl": "https://www.google.com/maps/place/LBB+NURANI+BINA+CENDIKIA/data=!4m7!3m6!1s0x2e6839fa956c22cb:0x12fe9f03116dba7a!8m2!3d-6.9531133!4d106.9280455!16s%2Fg%2F11fhqh92n_!19sChIJyyJslfo5aC4RerptEQOf_hI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel STAN Science Society Cabang Jakarta Barat",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+STAN+Science+Society+Cabang+Jakarta+Barat/data=!4m7!3m6!1s0x2e69f764c217fe3f:0x111d45000cab55a8!8m2!3d-6.2132553!4d106.7779707!16s%2Fg%2F11tg8zl2gb!19sChIJP_4XwmT3aS4RqFWrDABFHRE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel STAN Science Society (SS) Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+STAN+Science+Society+%28SS%29+Sukabumi/data=!4m7!3m6!1s0x2e684837e3f69a95:0xde2cee2f70e2cea9!8m2!3d-6.9215386!4d106.9355029!16s%2Fg%2F11f57fcqmk!19sChIJlZr24zdIaC4Rqc7icC_uLN4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbingan Belajar Bintang Kelas",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbingan+Belajar+Bintang+Kelas/data=!4m7!3m6!1s0x2e684709bdd4cbe9:0x17a876124fef2c63!8m2!3d-6.9623084!4d106.9247932!16s%2Fg%2F11ls4qp57d!19sChIJ6cvUvQlHaC4RYyzvTxJ2qBc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Alvertagi",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Alvertagi/data=!4m7!3m6!1s0x2e6833001625879f:0xa6c7ed6c7dfb95f4!8m2!3d-6.8557083!4d106.8026216!16s%2Fg%2F11w2dcbb2q!19sChIJn4clFgAzaC4R9JX7fWztx6Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Sina Bimbel Private",
+    "mapsUrl": "https://www.google.com/maps/place/Sina+Bimbel+Private/data=!4m7!3m6!1s0x2e6833e0465effbb:0x515fc4fbffb52e23!8m2!3d-6.870157!4d106.8019275!16s%2Fg%2F11xgm1nf86!19sChIJu_9eRuAzaC4RIy61__vEX1E?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Miracles",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Miracles/data=!4m7!3m6!1s0x2e68310057f666cd:0x7b9e6752f2cab1b9!8m2!3d-6.8949232!4d106.7855703!16s%2Fg%2F11zhp6kc92!19sChIJzWb2VwAxaC4RubHK8lJnnns?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Edupoint.id",
+    "mapsUrl": "https://www.google.com/maps/place/Edupoint.id/data=!4m7!3m6!1s0x2e69f1b401323087:0xfd3dfcddaa6857ec!8m2!3d-6.2284504!4d106.8099103!16s%2Fg%2F11zf7g6h2w!19sChIJhzAyAbTxaS4R7Fdoqt38Pf0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "bimba genio cisaat",
+    "mapsUrl": "https://www.google.com/maps/place/bimba+genio+cisaat/data=!4m7!3m6!1s0x2e68370039f4004f:0x4207db8cd98ecedb!8m2!3d-6.9121587!4d106.900595!16s%2Fg%2F11lmbx7853!19sChIJTwD0OQA3aC4R286O2YzbB0I?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "BIMBA GENIO JALUR",
+    "mapsUrl": "https://www.google.com/maps/place/BIMBA+GENIO+JALUR/data=!4m7!3m6!1s0x2e6849fea2a28983:0xcd2378f5c1202c35!8m2!3d-6.9514!4d106.9233173!16s%2Fg%2F11x6wljhhx!19sChIJg4miov5JaC4RNSwgwfV4I80?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Math Polynomial",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Math+Polynomial/data=!4m7!3m6!1s0x2e6837ad441b8385:0x1574825ed8dcbc29!8m2!3d-6.9049092!4d106.8932619!16s%2Fg%2F11tc8xc08_!19sChIJhYMbRK03aC4RKbzc2F6CdBU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "PEC Cidodol",
+    "mapsUrl": "https://www.google.com/maps/place/PEC+Cidodol/data=!4m7!3m6!1s0x2e69f129bbe3ef5d:0x5df28f4e9675ccd3!8m2!3d-6.2259013!4d106.7726999!16s%2Fg%2F11f03y9fbv!19sChIJXe_juynxaS4R08x1lk6P8l0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimbel Brain Academy Ruangguru Rawamangun",
+    "mapsUrl": "https://www.google.com/maps/place/Bimbel+Brain+Academy+Ruangguru+Rawamangun/data=!4m7!3m6!1s0x2e69f53489341171:0x93e470bc67e8aab5!8m2!3d-6.1949721!4d106.8908843!16s%2Fg%2F11j4w32x_r!19sChIJcRE0iTT1aS4RtaroZ7xw5JM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Bimba Genio Cibadak",
+    "mapsUrl": "https://www.google.com/maps/place/Bimba+Genio+Cibadak/data=!4m7!3m6!1s0x2e6837287e374c3b:0x1f7ee9d4e2b1e693!8m2!3d-6.8987072!4d106.8221782!16s%2Fg%2F11xz2g38ms!19sChIJO0w3fig3aC4Rk-ax4tTpfh8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Bimbel Sukabumi"
+  },
+  {
+    "name": "Wansu Store",
+    "mapsUrl": "https://www.google.com/maps/place/Wansu+Store/data=!4m7!3m6!1s0x2e684868910534d7:0x57a81d636286214a!8m2!3d-6.932037!4d106.9478079!16s%2Fg%2F11c52zx1d_!19sChIJ1zQFkWhIaC4RSiGGYmMdqFc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "House of Donatello",
+    "mapsUrl": "https://www.google.com/maps/place/House+of+Donatello/data=!4m7!3m6!1s0x2e684836b3348e17:0x8cdedd30110894d6!8m2!3d-6.920607!4d106.9348324!16s%2Fg%2F11bw73d964!19sChIJF440szZIaC4R1pQIETDd3ow?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "RANK Sports Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/RANK+Sports+Sukabumi/data=!4m7!3m6!1s0x2e6849e6e287acc3:0xe7e1dda2070427fc!8m2!3d-6.9154235!4d106.9360233!16s%2Fg%2F11vd9sx9dw!19sChIJw6yH4uZJaC4R_CcEB6Ld4ec?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Garage shoes sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Garage+shoes+sukabumi/data=!4m7!3m6!1s0x2e68474d5870ed51:0xe9e66d80643aa7b9!8m2!3d-6.9613648!4d106.9368936!16s%2Fg%2F11j79g6bh2!19sChIJUe1wWE1HaC4Ruac6ZIBt5uk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Toko Sinar Terang Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Sinar+Terang+Sukabumi/data=!4m7!3m6!1s0x2e684830a8958723:0xb8e91ab103621fd4!8m2!3d-6.9222514!4d106.929375!16s%2Fg%2F11c2p_ms9c!19sChIJI4eVqDBIaC4R1B9iA7Ea6bg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "sbsxsneakerseverytime",
+    "mapsUrl": "https://www.google.com/maps/place/sbsxsneakerseverytime/data=!4m7!3m6!1s0x2e68493b13a84aa7:0x32621ec424128a0d!8m2!3d-6.9205783!4d106.9358255!16s%2Fg%2F11ts46dby0!19sChIJp0qoEztJaC4RDYoSJMQeYjI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "SUKA SEPATU",
+    "mapsUrl": "https://www.google.com/maps/place/SUKA+SEPATU/data=!4m7!3m6!1s0x2e6849d17ce2ab3f:0xc76e87a888cb153f!8m2!3d-6.9223341!4d106.9262386!16s%2Fg%2F11w922swby!19sChIJP6vifNFJaC4RPxXLiKiHbsc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Toko Sepatu Gs D/h Grand Shoes",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Sepatu+Gs+D%2Fh+Grand+Shoes/data=!4m7!3m6!1s0x2e68483a77a22e97:0xbffec86b5a420151!8m2!3d-6.922787!4d106.9278465!16s%2Fg%2F11fy95hqz2!19sChIJly6idzpIaC4RUQFCWmvI_r8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Authenticsmi",
+    "mapsUrl": "https://www.google.com/maps/place/Authenticsmi/data=!4m7!3m6!1s0x2e68490349107a87:0x3724c9e517060d79!8m2!3d-6.9215728!4d106.9284672!16s%2Fg%2F11g1ydmggg!19sChIJh3oQSQNJaC4ReQ0GF-XJJDc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Toko Sepatu Sinar Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Sepatu+Sinar+Sukabumi/data=!4m7!3m6!1s0x2e68483a77c1d359:0x396d430a062629b5!8m2!3d-6.9227181!4d106.9278381!16s%2Fg%2F11f08fpbyv!19sChIJWdPBdzpIaC4RtSkmBgpDbTk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Sporty Sport Jakarta",
+    "mapsUrl": "https://www.google.com/maps/place/Sporty+Sport+Jakarta/data=!4m7!3m6!1s0x2e69f7003e798e3b:0x667fba9706c27c33!8m2!3d-6.2116241!4d106.7793593!16s%2Fg%2F11vyxs0l38!19sChIJO455PgD3aS4RM3zCBpe6f2Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Toko Sepatu Ceria Sneakers",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Sepatu+Ceria+Sneakers/data=!4m7!3m6!1s0x2e68498455400581:0x5e4f28aa43500ed!8m2!3d-6.9251806!4d106.9215342!16s%2Fg%2F11k9l39g1j!19sChIJgQVAVYRJaC4R7QA1pIry5AU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "TRIFHTING SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/TRIFHTING+SUKABUMI/data=!4m7!3m6!1s0x2e684930bee447e9:0xc6d9b4378b110f93!8m2!3d-6.9403146!4d106.935447!16s%2Fg%2F11sdqchhc9!19sChIJ6UfkvjBJaC4Rkw8Rize02cY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "jatayu",
+    "mapsUrl": "https://www.google.com/maps/place/jatayu/data=!4m7!3m6!1s0x2e6849d1910c1255:0x796987f7cbba1e19!8m2!3d-6.9250782!4d106.9276703!16s%2Fg%2F11h1kdxcnq!19sChIJVRIMkdFJaC4RGR66y_eHaXk?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Buccheri - Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Buccheri+-+Sukabumi/data=!4m7!3m6!1s0x2e684830ab99f3e1:0xd2e09209e433b49b!8m2!3d-6.9220697!4d106.927865!16s%2Fg%2F1pzrk3807!19sChIJ4fOZqzBIaC4Rm7Qz5AmS4NI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Sepatu Second Ori",
+    "mapsUrl": "https://www.google.com/maps/place/Sepatu+Second+Ori/data=!4m7!3m6!1s0x2e6849da0c6084c9:0x6e317dae832664c1!8m2!3d-6.95051!4d106.9477214!16s%2Fg%2F11sstcw5_q!19sChIJyYRgDNpJaC4RwWQmg659MW4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "SNEAKERS JAKARTA",
+    "mapsUrl": "https://www.google.com/maps/place/SNEAKERS+JAKARTA/data=!4m7!3m6!1s0x2e69f74e695c9145:0xf3210efbb4650577!8m2!3d-6.2128582!4d106.7750656!16s%2Fg%2F11sfrllq0d!19sChIJRZFcaU73aS4RdwVltPsOIfM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "WINOD STORE SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/WINOD+STORE+SUKABUMI/data=!4m7!3m6!1s0x2e684900545141ab:0xaaade48d940850ac!8m2!3d-6.9235275!4d106.9274413!16s%2Fg%2F11nvdr4bkb!19sChIJq0FRVABJaC4RrFAIlI3krao?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "TOKO SPORT ONE",
+    "mapsUrl": "https://www.google.com/maps/place/TOKO+SPORT+ONE/data=!4m7!3m6!1s0x2e684830a8efee5b:0xa8bc45501e93e88b!8m2!3d-6.9228127!4d106.9319521!16s%2Fg%2F1hcb8kgbb!19sChIJW-7vqDBIaC4Ri-iTHlBFvKg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Elizabeth Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Elizabeth+Sukabumi/data=!4m7!3m6!1s0x2e6849ff43029795:0x9d2f065b416a1e3b!8m2!3d-6.9204848!4d106.929247!16s%2Fg%2F11f5tv0gfj!19sChIJlZcCQ_9JaC4ROx5qQVsGL50?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Sinar Baru Sport sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Sinar+Baru+Sport+sukabumi/data=!4m7!3m6!1s0x2e68483754af3063:0xa1aa60c86459a2f8!8m2!3d-6.922394!4d106.9289586!16s%2Fg%2F1pzsc9zj2!19sChIJYzCvVDdIaC4R-KJZZMhgqqE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Takis shoes",
+    "mapsUrl": "https://www.google.com/maps/place/Takis+shoes/data=!4m7!3m6!1s0x2e6849b19683adfd:0x51ec707aafac08bb!8m2!3d-6.9081469!4d106.9195898!16s%2Fg%2F11txzydlyp!19sChIJ_a2DlrFJaC4Ruwisr3pw7FE?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Toko Sepatu & Tas Inten",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Sepatu+%26+Tas+Inten/data=!4m7!3m6!1s0x2e684837551bd47d:0xdf115a11836c506e!8m2!3d-6.9223836!4d106.9300875!16s%2Fg%2F11bzrg_bwt!19sChIJfdQbVTdIaC4RblBsgxFaEd8?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Sepatu Sukabumi"
+  },
+  {
+    "name": "Sansui fashion sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Sansui+fashion+sukabumi/data=!4m7!3m6!1s0x2e6849db8962e7ed:0x86ffd8abb4742e9c!8m2!3d-6.922518!4d106.930369!16s%2Fg%2F11fjqjh3zj!19sChIJ7ediidtJaC4RnC50tKvY_4Y?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "MAYOUTFIT SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/MAYOUTFIT+SUKABUMI/data=!4m7!3m6!1s0x2e6849ac0d2ef525:0x441851df845f7dbc!8m2!3d-6.9190793!4d106.9284638!16s%2Fg%2F11h3n36ldp!19sChIJJfUuDaxJaC4RvH1fhN9RGEQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Alisan Ruko Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Alisan+Ruko+Sukabumi/data=!4m7!3m6!1s0x2e68491ea699e509:0xa2e5a0d86ba342f4!8m2!3d-6.9224149!4d106.9302893!16s%2Fg%2F11nnvk4w4r!19sChIJCeWZph5JaC4R9EKja9ig5aI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "N2N Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/N2N+Sukabumi/data=!4m7!3m6!1s0x2e6849005cd8fda1:0x4027b25bf17a85f0!8m2!3d-6.9218498!4d106.9339928!16s%2Fg%2F11yqrdfdjf!19sChIJof3YXABJaC4R8IV68VuyJ0A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Mars",
+    "mapsUrl": "https://www.google.com/maps/place/Mars/data=!4m7!3m6!1s0x2e6848482a049b43:0x46d21e902a10f7d1!8m2!3d-6.9200579!4d106.9358923!16s%2Fg%2F11f03smfh7!19sChIJQ5sEKkhIaC4R0fcQKpAe0kY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "NOBBY Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/NOBBY+Sukabumi/data=!4m7!3m6!1s0x2e6849ca13b56ad1:0xc360527db2002fc0!8m2!3d-6.9219637!4d106.9292952!16s%2Fg%2F11lds0sv6r!19sChIJ0Wq1E8pJaC4RwC8Asn1SYMM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Ria Busana Ahmad Yani",
+    "mapsUrl": "https://www.google.com/maps/place/Ria+Busana+Ahmad+Yani/data=!4m7!3m6!1s0x2e6848309f3d9be7:0x603f6e0dd764db75!8m2!3d-6.9221799!4d106.9287452!16s%2Fg%2F11g6rk8qdq!19sChIJ55s9nzBIaC4Rddtk1w1uP2A?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Moslem House",
+    "mapsUrl": "https://www.google.com/maps/place/Moslem+House/data=!4m7!3m6!1s0x2e684837e9b676c1:0xc031baea337924f!8m2!3d-6.921078!4d106.9345854!16s%2Fg%2F1pzt8msh_!19sChIJwXa26TdIaC4RT5I3o64bAww?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "3Second Store Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/3Second+Store+Sukabumi/data=!4m7!3m6!1s0x2e6849a581e6ae4d:0x432dfabac1e7088f!8m2!3d-6.9206655!4d106.9301884!16s%2Fg%2F11gxmvb2g7!19sChIJTa7mgaVJaC4Rjwjnwbr6LUM?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "ROUGHREBEL STORE SUKABUMI",
+    "mapsUrl": "https://www.google.com/maps/place/ROUGHREBEL+STORE+SUKABUMI/data=!4m7!3m6!1s0x2e684940eb9b708f:0x28f416d67ef56687!8m2!3d-6.920829!4d106.9175677!16s%2Fg%2F11g2xcd3ws!19sChIJj3Cb60BJaC4Rh2b1ftYW9Cg?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "AQLA MUSLIM WEAR & CASUAL",
+    "mapsUrl": "https://www.google.com/maps/place/AQLA+MUSLIM+WEAR+%26+CASUAL/data=!4m7!3m6!1s0x2e68493bdb520231:0xc68264e4bb0e0ea1!8m2!3d-6.9182924!4d106.9329762!16s%2Fg%2F11lm6nzgt4!19sChIJMQJS2ztJaC4RoQ4Ou-RkgsY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "NC Sukabumi Shop Toko Aksesoris dan Fashion Hijab",
+    "mapsUrl": "https://www.google.com/maps/place/NC+Sukabumi+Shop+Toko+Aksesoris+dan+Fashion+Hijab/data=!4m7!3m6!1s0x2e6849007db26af7:0xa47ca30560a17454!8m2!3d-6.9221047!4d106.929471!16s%2Fg%2F11vyrdh_h4!19sChIJ92qyfQBJaC4RVHShYAWjfKQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Nibras House Sukabumi Cikole",
+    "mapsUrl": "https://www.google.com/maps/place/Nibras+House+Sukabumi+Cikole/data=!4m7!3m6!1s0x2e6849b222ac52c3:0x6c9b7476d77347a!8m2!3d-6.922346!4d106.9339855!16s%2Fg%2F11qzc5phrw!19sChIJw1KsIrJJaC4RejR3bUe3yQY?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Toko Star Fashion Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Toko+Star+Fashion+Sukabumi/data=!4m7!3m6!1s0x2e6849cea9ce3cc5:0x6b20d4bc6e78c8ce!8m2!3d-6.9225116!4d106.9316906!16s%2Fg%2F11mllb625n!19sChIJxTzOqc5JaC4Rzsh4brzUIGs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "NAZShoppu Toko Pakaian Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/NAZShoppu+Toko+Pakaian+Sukabumi/data=!4m7!3m6!1s0x2e6849d2faa270d3:0x128902e2fa2a925a!8m2!3d-6.9105124!4d106.9218798!16s%2Fg%2F11g72_v5yj!19sChIJ03Ci-tJJaC4RWpIq-uICiRI?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "ZOYA",
+    "mapsUrl": "https://www.google.com/maps/place/ZOYA/data=!4m7!3m6!1s0x2e6848378c1a150b:0xfb8a105879f7cf30!8m2!3d-6.9218046!4d106.9340269!16s%2Fg%2F11g6xfqbxs!19sChIJCxUajDdIaC4RMM_3eVgQivs?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Bombay Textile",
+    "mapsUrl": "https://www.google.com/maps/place/Bombay+Textile/data=!4m7!3m6!1s0x2e684830879c4dd7:0x5056600730d9e683!8m2!3d-6.9221892!4d106.9270043!16s%2Fg%2F11bzrq0xtx!19sChIJ102chzBIaC4Rg-bZMAdgVlA?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Husna Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Husna+Sukabumi/data=!4m7!3m6!1s0x2e684837b9a95abf:0xa42993d0e274f8ac!8m2!3d-6.9205687!4d106.9341742!16s%2Fg%2F11g6xnljl7!19sChIJv1qpuTdIaC4RrPh04tCTKaQ?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Delia Hijab Sukabumi - Citimall Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Delia+Hijab+Sukabumi+-+Citimall+Sukabumi/data=!4m7!3m6!1s0x2e684908b6ba50b5:0x5175433d5952079!8m2!3d-6.922197!4d106.9287538!16s%2Fg%2F11fqc82m0n!19sChIJtVC6tghJaC4ReSCV1TNUFwU?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Sabillah Fashion",
+    "mapsUrl": "https://www.google.com/maps/place/Sabillah+Fashion/data=!4m7!3m6!1s0x2e6849d89a599971:0xfef8a881cba42458!8m2!3d-6.9154726!4d106.9091811!16s%2Fg%2F11gd1v8y5z!19sChIJcZlZmthJaC4RWCSky4Go-P4?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "ANANDA FASHION",
+    "mapsUrl": "https://www.google.com/maps/place/ANANDA+FASHION/data=!4m7!3m6!1s0x2e684996e7e727f3:0xadbc8abe8bd217c4!8m2!3d-6.9221719!4d106.9276535!16s%2Fg%2F11fwb9z5rf!19sChIJ8yfn55ZJaC4RxBfSi76KvK0?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "DEDUT CLUB Store Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/DEDUT+CLUB+Store+Sukabumi/data=!4m7!3m6!1s0x2e6849004e2c1e1b:0x4c867b04796579ff!8m2!3d-6.9208928!4d106.9351543!16s%2Fg%2F11yrpgsvb1!19sChIJGx4sTgBJaC4R_3lleQR7hkw?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "Ananda Lifestyle Store - Sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/Ananda+Lifestyle+Store+-+Sukabumi/data=!4m7!3m6!1s0x2e68492ceba4fe6d:0xa07ced237a7ba18!8m2!3d-6.9220435!4d106.9277098!16s%2Fg%2F11glv800dq!19sChIJbf6k6yxJaC4RGLqnN9LOBwo?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  },
+  {
+    "name": "toko surya kencana sukabumi",
+    "mapsUrl": "https://www.google.com/maps/place/toko+surya+kencana+sukabumi/data=!4m7!3m6!1s0x2e6849c9b31dcad1:0x176c0dfa4129dec3!8m2!3d-6.922201!4d106.9270504!16s%2Fg%2F11fn616xyk!19sChIJ0cods8lJaC4Rw94pQfoNbBc?authuser=0&hl=id&g_ep=EgoyMDI2MDkxNi4wIJJjKgBIAVAD&rclk=1",
+    "query": "Toko Pakaian Sukabumi"
+  }
+]

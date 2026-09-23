@@ -1,0 +1,3859 @@
+[
+  {
+    "name": "Ayam Goreng SS Super Sambal Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayam%20Goreng%20SS%20Super%20Sambal%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Secret Garden Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Secret%20Garden%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "Like Earth Coffee",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Like%20Earth%20Coffee%20Sukabumi",
+    "newCategory": "Kedai Kopi",
+    "error": null
+  },
+  {
+    "name": "Kedai Kopi Ncek Joe Tie 1953",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kedai%20Kopi%20Ncek%20Joe%20Tie%201953%20Sukabumi",
+    "newCategory": "Kedai Kopi",
+    "error": null
+  },
+  {
+    "name": "D'Green Resto and Coffee",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D'Green%20Resto%20and%20Coffee%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "Butler Bar & Bistro",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Butler%20Bar%20%26%20Bistro%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "Kedai Kopi 35",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kedai%20Kopi%2035%20Sukabumi",
+    "newCategory": "Kafe",
+    "error": null
+  },
+  {
+    "name": "Restaurant Sunda Rasa Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Restaurant%20Sunda%20Rasa%20Sukabumi",
+    "newCategory": "Restoran Sunda",
+    "error": null
+  },
+  {
+    "name": "Botram Resto",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Botram%20Resto%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "PURIMAS 3 CAKE & BAKERY KOTA SUKABUMI",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PURIMAS%203%20CAKE%20%26%20BAKERY%20KOTA%20SUKABUMI",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Red Brick Cafe",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Red%20Brick%20Cafe%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "Maple Bakery",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Maple%20Bakery%20Sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Dedi Catering Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dedi%20Catering%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Kopi Nako Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kopi%20Nako%20Sukabumi",
+    "newCategory": "Kedai Kopi",
+    "error": null
+  },
+  {
+    "name": "Yume Coffee",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yume%20Coffee%20Sukabumi",
+    "newCategory": "Kedai Kopi",
+    "error": null
+  },
+  {
+    "name": "Amorcakes & Bakery Sudirman - Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amorcakes%20%26%20Bakery%20Sudirman%20-%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Bandung Cheesecuit Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bandung%20Cheesecuit%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Takashi Bakehouse x Republik Burger Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Takashi%20Bakehouse%20x%20Republik%20Burger%20Sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Catering & Snack Sarah 009 Dra. N. Rohanah",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catering%20%26%20Snack%20Sarah%20009%20Sukabumi",
+    "newCategory": "Katering",
+    "error": null
+  },
+  {
+    "name": "Sukabumi Coffee Center",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumi%20Coffee%20Center",
+    "newCategory": "Kedai Kopi",
+    "error": null
+  },
+  {
+    "name": "Catering Murah Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Catering%20Murah%20Sukabumi",
+    "newCategory": "Restoran Indonesia",
+    "error": null
+  },
+  {
+    "name": "INI KITCHEN SUKABUMI",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=INI%20KITCHEN%20SUKABUMI",
+    "newCategory": "Katering",
+    "error": null
+  },
+  {
+    "name": "PAKIS Catering Sukabumi",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PAKIS%20Catering%20Sukabumi",
+    "newCategory": "Katering",
+    "error": null
+  },
+  {
+    "name": "Pinisi Relaxation",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pinisi%20Relaxation%20Sukabumi",
+    "newCategory": "Spa pijat",
+    "error": null
+  },
+  {
+    "name": "Rudi Salon Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rudi%20Salon%20Sukabumi",
+    "newCategory": "Salon Rambut",
+    "error": null
+  },
+  {
+    "name": "Sara ivonne Beauty Studio Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sara%20ivonne%20Beauty%20Studio%20Sukabumi",
+    "newCategory": "Salon Kecantikan",
+    "error": null
+  },
+  {
+    "name": "KAYN Wellness",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KAYN%20Wellness%20Sukabumi",
+    "newCategory": "Spa",
+    "error": null
+  },
+  {
+    "name": "Dr Metz Skincare",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dr%20Metz%20Skincare%20Sukabumi",
+    "newCategory": "Klinik Perawatan Kulit",
+    "error": null
+  },
+  {
+    "name": "Avenue Salon Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Avenue%20Salon%20Sukabumi",
+    "newCategory": "Salon Kecantikan",
+    "error": null
+  },
+  {
+    "name": "ADJIE SALON",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ADJIE%20SALON%20Sukabumi",
+    "newCategory": "Salon Rambut",
+    "error": null
+  },
+  {
+    "name": "Pixel Barbershop Nyomplong",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pixel%20Barbershop%20Nyomplong%20Sukabumi",
+    "newCategory": "Tempat Cukur Rambut",
+    "error": null
+  },
+  {
+    "name": "BARBERSTATION BARBERSHOP",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BARBERSTATION%20BARBERSHOP%20Sukabumi",
+    "newCategory": "Tempat Cukur Rambut",
+    "error": null
+  },
+  {
+    "name": "Simi Reflexology Massage & Spa",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Simi%20Reflexology%20Massage%20%26%20Spa%20Sukabumi",
+    "newCategory": "Spa pijat",
+    "error": null
+  },
+  {
+    "name": "Nadifa Clinic Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadifa%20Clinic%20Sukabumi",
+    "newCategory": "Klinik Perawatan Kulit",
+    "error": null
+  },
+  {
+    "name": "Calysta skin care clinic",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Calysta%20skin%20care%20clinic%20Sukabumi",
+    "newCategory": "Klinik Perawatan Kulit",
+    "error": null
+  },
+  {
+    "name": "ARSENIO SALON",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ARSENIO%20SALON%20Sukabumi",
+    "newCategory": "Salon Kecantikan",
+    "error": null
+  },
+  {
+    "name": "Pixel Barbershop Cipanengah",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pixel%20Barbershop%20Cipanengah%20Sukabumi",
+    "newCategory": "Tempat Cukur Rambut",
+    "error": null
+  },
+  {
+    "name": "Blackburn Barbershop - Sukabumi Branch",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Blackburn%20Barbershop%20-%20Sukabumi%20Branch",
+    "newCategory": "Tempat Cukur Rambut",
+    "error": null
+  },
+  {
+    "name": "Pixel Barbershop Ciaul",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pixel%20Barbershop%20Ciaul%20Sukabumi",
+    "newCategory": "Tempat Cukur Rambut",
+    "error": null
+  },
+  {
+    "name": "SERENITY SPA",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SERENITY%20SPA%20Sukabumi",
+    "newCategory": "Spa",
+    "error": null
+  },
+  {
+    "name": "Aida Spa & Massage",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aida%20Spa%20%26%20Massage%20Sukabumi",
+    "newCategory": "Spa pijat",
+    "error": null
+  },
+  {
+    "name": "Natasha Skin Clinic Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Natasha%20Skin%20Clinic%20Sukabumi",
+    "newCategory": "Klinik Perawatan Kulit",
+    "error": null
+  },
+  {
+    "name": "Ella Skincare Sukabumi",
+    "originalCategory": "Beauty",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ella%20Skincare%20Sukabumi",
+    "newCategory": "Klinik Perawatan Kulit",
+    "error": null
+  },
+  {
+    "name": "Hoki Motor sukabumi",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hoki%20Motor%20sukabumi",
+    "newCategory": "Bengkel Sepeda Motor",
+    "error": null
+  },
+  {
+    "name": "Cuci Steam Mobil & Motor 24 jam",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuci%20Steam%20Mobil%20%26%20Motor%2024%20jam%20Sukabumi",
+    "newCategory": "Tempat Pencucian Mobil",
+    "error": null
+  },
+  {
+    "name": "Baros Jaya Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baros%20Jaya%20Motor%20Sukabumi",
+    "newCategory": "Bengkel Mobil",
+    "error": null
+  },
+  {
+    "name": "Inti Prima Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Inti%20Prima%20Motor%20Sukabumi",
+    "newCategory": "Bengkel Mobil",
+    "error": null
+  },
+  {
+    "name": "lulu motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=lulu%20motor%20Sukabumi",
+    "newCategory": "Toko Suku Cadang Motor",
+    "error": null
+  },
+  {
+    "name": "Jaya Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jaya%20Motor%20Sukabumi",
+    "newCategory": "Pemasok Suku Cadang Mobil",
+    "error": null
+  },
+  {
+    "name": "Rey Motor Sukabumi",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rey%20Motor%20Sukabumi",
+    "newCategory": "Toko Suku Cadang Mobil",
+    "error": null
+  },
+  {
+    "name": "Hars Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hars%20Motor%20Sukabumi",
+    "newCategory": "Bengkel Sepeda Motor",
+    "error": null
+  },
+  {
+    "name": "Cipendawa Motor lll",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cipendawa%20Motor%20lll%20Sukabumi",
+    "newCategory": "Bengkel Mobil",
+    "error": null
+  },
+  {
+    "name": "Buana Raya Service - Auto Service Center",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buana%20Raya%20Service%20-%20Auto%20Service%20Center%20Sukabumi",
+    "newCategory": "Bengkel Mobil",
+    "error": null
+  },
+  {
+    "name": "Central Carwash Sukabumi",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Carwash%20Sukabumi",
+    "newCategory": "Tempat Pencucian Mobil",
+    "error": null
+  },
+  {
+    "name": "Ratu Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ratu%20Motor%20Sukabumi",
+    "newCategory": "Toko Suku Cadang Mobil",
+    "error": null
+  },
+  {
+    "name": "CV.KINGKING MOTOR",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CV.KINGKING%20MOTOR%20Sukabumi",
+    "newCategory": "Pusat Suku Cadang Mobil",
+    "error": null
+  },
+  {
+    "name": "SHOWNGARAGE ( CAR WASH )",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SHOWNGARAGE%20(%20CAR%20WASH%20)%20Sukabumi",
+    "newCategory": "Tempat Pencucian Mobil",
+    "error": null
+  },
+  {
+    "name": "CV ZIED AUTO SERVICE",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CV%20ZIED%20AUTO%20SERVICE%20Sukabumi",
+    "newCategory": "Bengkel Mobil",
+    "error": null
+  },
+  {
+    "name": "Bengkel motor sukabumi",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bengkel%20motor%20sukabumi",
+    "newCategory": "Bengkel Sepeda Motor",
+    "error": null
+  },
+  {
+    "name": "Toko Jati Raya Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Jati%20Raya%20Motor%20Sukabumi",
+    "newCategory": "Toko Suku Cadang Mobil",
+    "error": null
+  },
+  {
+    "name": "Green_wash Cuci Mobil & Motor",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Green_wash%20Cuci%20Mobil%20%26%20Motor%20Sukabumi",
+    "newCategory": "Tempat Pencucian Mobil",
+    "error": null
+  },
+  {
+    "name": "RBM (RumahBengkelMotor)",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RBM%20(RumahBengkelMotor)%20Sukabumi",
+    "newCategory": "Bengkel Sepeda Motor",
+    "error": null
+  },
+  {
+    "name": "AH MASTER WASH (cuci garansi hujan)",
+    "originalCategory": "Automotive",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AH%20MASTER%20WASH%20(cuci%20garansi%20hujan)%20Sukabumi",
+    "newCategory": "Tempat Pencucian Mobil",
+    "error": null
+  },
+  {
+    "name": "Grand Permata Hijau Hotel",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grand%20Permata%20Hijau%20Hotel%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Taman Sari Hotel & Resort",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Taman%20Sari%20Hotel%20%26%20Resort%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Balcony Hotel",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Balcony%20Hotel%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Homestay D'mutiara Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Homestay%20D'mutiara%20Sukabumi",
+    "newCategory": "Rumah wisata",
+    "error": null
+  },
+  {
+    "name": "Tikungan Indah Guest House",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tikungan%20Indah%20Guest%20House%20Sukabumi",
+    "newCategory": "Guest house",
+    "error": null
+  },
+  {
+    "name": "Horison Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Horison%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "The Bountie Hotels and Convention Center Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Bountie%20Hotels%20and%20Convention%20Center%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Firma Guest House",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Firma%20Guest%20House%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Anugrah Alam Homestay",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Anugrah%20Alam%20Homestay%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Vimi - villa sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Vimi%20-%20villa%20sukabumi",
+    "newCategory": "Vila",
+    "error": null
+  },
+  {
+    "name": "Kampoeng Kita",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kampoeng%20Kita%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Homestay WS Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Homestay%20WS%20Sukabumi",
+    "newCategory": "Rumah wisata",
+    "error": null
+  },
+  {
+    "name": "Amsberg villa at Selabintana",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amsberg%20villa%20at%20Selabintana%20Sukabumi",
+    "newCategory": "Vila",
+    "error": null
+  },
+  {
+    "name": "DCT Homestay Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DCT%20Homestay%20Sukabumi",
+    "newCategory": "Guest house",
+    "error": null
+  },
+  {
+    "name": "Qiai Guest House Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qiai%20Guest%20House%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "SILVIA GUEST HOUSE",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SILVIA%20GUEST%20HOUSE%20Sukabumi",
+    "newCategory": "Guest house",
+    "error": null
+  },
+  {
+    "name": "Adiza Guest House",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adiza%20Guest%20House%20Sukabumi",
+    "newCategory": "Vila",
+    "error": null
+  },
+  {
+    "name": "De Haus Villa Syariah - Subang Jaya",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De%20Haus%20Villa%20Syariah%20-%20Subang%20Jaya",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Villa Mochi Classic Sukabumi",
+    "originalCategory": "Lodging",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Villa%20Mochi%20Classic%20Sukabumi",
+    "newCategory": "Vila",
+    "error": null
+  },
+  {
+    "name": "APOTEK AFIAT FARMA SUKABUMI",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Apotek%20Afiat%20Farma%20Sukabumi",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Apotek indo Medika",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Apotek%20indo%20Medika%20Sukabumi",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Labkesda Kota Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Labkesda%20Kota%20Sukabumi",
+    "newCategory": "Laboratorium Medis",
+    "error": null
+  },
+  {
+    "name": "KLINIK JALUR FARMA",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KLINIK%20JALUR%20FARMA%20Sukabumi",
+    "newCategory": "Klinik Medis",
+    "error": null
+  },
+  {
+    "name": "Kimia Farma Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kimia%20Farma%20Sukabumi",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Laboratorium Klinik Vita Medika",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laboratorium%20Klinik%20Vita%20Medika%20Sukabumi",
+    "newCategory": "Laboratorium Medis",
+    "error": null
+  },
+  {
+    "name": "Primaya Hospital Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Primaya%20Hospital%20Sukabumi",
+    "newCategory": "Rumah Sakit",
+    "error": null
+  },
+  {
+    "name": "Klinik Pratama Jasalab",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klinik%20Pratama%20Jasalab%20Sukabumi",
+    "newCategory": "Laboratorium Medis",
+    "error": null
+  },
+  {
+    "name": "praktik dokter keluarga dr kamal & dr dini",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=praktik%20dokter%20keluarga%20dr%20kamal%20%26%20dr%20dini%20Sukabumi",
+    "newCategory": "Dokter Umum",
+    "error": null
+  },
+  {
+    "name": "Prodia Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prodia%20Sukabumi",
+    "newCategory": "Laboratorium Medis",
+    "error": null
+  },
+  {
+    "name": "Apotek Mitra Husada",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Apotek%20Mitra%20Husada%20Sukabumi",
+    "newCategory": "Dokter",
+    "error": null
+  },
+  {
+    "name": "KLINIK PRATAMA WALUYA SEJATI ABADI SUKABUMI",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KLINIK%20PRATAMA%20WALUYA%20SEJATI%20ABADI%20SUKABUMI",
+    "newCategory": "Klinik Kesehatan",
+    "error": null
+  },
+  {
+    "name": "Klinik Holistic Natural Insani Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klinik%20Holistic%20Natural%20Insani%20Sukabumi",
+    "newCategory": "Klinik Medis",
+    "error": null
+  },
+  {
+    "name": "Bening's Clinic Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bening's%20Clinic%20Sukabumi",
+    "newCategory": "Klinik Kesehatan",
+    "error": null
+  },
+  {
+    "name": "Apotek Ciaul Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Apotek%20Ciaul%20Sukabumi",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Klinik Obat Dokter Amelia Di Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Klinik%20Obat%20Dokter%20Amelia%20Di%20Sukabumi",
+    "newCategory": "Dokter Anak",
+    "error": null
+  },
+  {
+    "name": "KHITAN SUKABUMI CIPOHO MEDIKA",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KHITAN%20SUKABUMI%20CIPOHO%20MEDIKA",
+    "newCategory": "Dokter Umum",
+    "error": null
+  },
+  {
+    "name": "APOTEK LARAS SUKABUMI",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=APOTEK%20LARAS%20SUKABUMI",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Apotek Cikole Sukabumi",
+    "originalCategory": "Health",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Apotek%20Cikole%20Sukabumi",
+    "newCategory": "Apotek",
+    "error": null
+  },
+  {
+    "name": "Ardin Teknik Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ardin%20Teknik%20Sukabumi",
+    "newCategory": "Toko Reparasi Elektronik",
+    "error": null
+  },
+  {
+    "name": "Lavandera Laundry",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lavandera%20Laundry%20Sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Lumire Laundry Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lumire%20Laundry%20Sukabumi",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "SERVICE AC SUKABUMI SIGMA TECHNIQUE",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SERVICE%20AC%20SUKABUMI%20SIGMA%20TECHNIQUE",
+    "newCategory": "Toko AC",
+    "error": null
+  },
+  {
+    "name": "Buana Jaya Mandiri Ac 1",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Buana%20Jaya%20Mandiri%20Ac%201%20Sukabumi",
+    "newCategory": "Bengkel AC",
+    "error": null
+  },
+  {
+    "name": "SERVICE KULKAS SUKABUMI",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SERVICE%20KULKAS%20SUKABUMI",
+    "newCategory": "Jasa Reparasi Kulkas",
+    "error": null
+  },
+  {
+    "name": "Service mesin cuci Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Service%20mesin%20cuci%20Sukabumi",
+    "newCategory": "Jasa Reparasi Kulkas",
+    "error": null
+  },
+  {
+    "name": "Amani Laundry Terdekat Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amani%20Laundry%20Terdekat%20Sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Sukabumi Laundry Cabang Cisaat",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumi%20Laundry%20Cabang%20Cisaat",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "AA LAUNDRY (springbed, sofa & lainnya) Sukabumi",
+    "originalCategory": "Cuci Sofa & Karpet",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AA%20LAUNDRY%20Sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "MEGA CEMERLANG SUKABUMI",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MEGA%20CEMERLANG%20SUKABUMI",
+    "newCategory": "Layanan Kebersihan",
+    "error": null
+  },
+  {
+    "name": "Bersih.in WearCare Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bersih.in%20WearCare%20Sukabumi",
+    "newCategory": "Toko Reparasi Sepatu",
+    "error": null
+  },
+  {
+    "name": "ADAVA LAUNDRY SPRINGBED SOFA KARPET SUKABUMI",
+    "originalCategory": "Cuci Sofa & Karpet",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ADAVA%20LAUNDRY%20Sukabumi",
+    "newCategory": "Layanan Kebersihan",
+    "error": null
+  },
+  {
+    "name": "SERVICE AC SUKABUMI Alteknik",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SERVICE%20AC%20SUKABUMI%20Alteknik",
+    "newCategory": "Toko AC",
+    "error": null
+  },
+  {
+    "name": "Utama teknik Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Utama%20teknik%20Sukabumi",
+    "newCategory": "Bengkel AC",
+    "error": null
+  },
+  {
+    "name": "BIAN SUMUR BOR SUKABUMI",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=BIAN%20SUMUR%20BOR%20SUKABUMI",
+    "newCategory": "Jasa Tukang",
+    "error": null
+  },
+  {
+    "name": "Sumur Bor Sukabumi Pak Darmi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sumur%20Bor%20Sukabumi%20Pak%20Darmi",
+    "newCategory": "Jasa Tukang",
+    "error": null
+  },
+  {
+    "name": "Servis elektronik sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Servis%20elektronik%20sukabumi",
+    "newCategory": "Bengkel Elektronik",
+    "error": null
+  },
+  {
+    "name": "VANSERVIS Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VANSERVIS%20Sukabumi",
+    "newCategory": "Bengkel Elektronik",
+    "error": null
+  },
+  {
+    "name": "LJL SERVICE Sukabumi",
+    "originalCategory": "Services",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LJL%20SERVICE%20Sukabumi",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "Cambridge Institute Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cambridge%20Institute%20Sukabumi",
+    "newCategory": "Jasa Les Privat",
+    "error": null
+  },
+  {
+    "name": "Little Angels Learning Center Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Little%20Angels%20Learning%20Center%20Sukabumi",
+    "newCategory": "Taman Kanak-kanak",
+    "error": null
+  },
+  {
+    "name": "Tunas Permata Bangsa Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunas%20Permata%20Bangsa%20Sukabumi",
+    "newCategory": "Jasa Les Privat",
+    "error": null
+  },
+  {
+    "name": "Bimbel ILC Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bimbel%20ILC%20Sukabumi",
+    "newCategory": "Kursus",
+    "error": null
+  },
+  {
+    "name": "LPK GPB Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LPK%20GPB%20Sukabumi",
+    "newCategory": "Pusat Pendidikan",
+    "error": null
+  },
+  {
+    "name": "Brain Academy Ruangguru Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brain%20Academy%20Ruangguru%20Sukabumi",
+    "newCategory": "Pusat Belajar",
+    "error": null
+  },
+  {
+    "name": "Math Champs Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Math%20Champs%20Sukabumi",
+    "newCategory": "Pusat Belajar",
+    "error": null
+  },
+  {
+    "name": "Ganesha Operation Ra Kosasih Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ganesha%20Operation%20Ra%20Kosasih%20Sukabumi",
+    "newCategory": "Pusat Belajar",
+    "error": null
+  },
+  {
+    "name": "Ganesha Operation Syamsudin Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ganesha%20Operation%20Syamsudin%20Sukabumi",
+    "newCategory": "Pusat Belajar",
+    "error": null
+  },
+  {
+    "name": "LBB Nurul Fikri RA Kosasih Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LBB%20Nurul%20Fikri%20RA%20Kosasih%20Sukabumi",
+    "newCategory": "Pusat Belajar",
+    "error": null
+  },
+  {
+    "name": "Bumi Kreatif Institute Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bumi%20Kreatif%20Institute%20Sukabumi",
+    "newCategory": "Pusat pelatihan",
+    "error": null
+  },
+  {
+    "name": "TPA KB TK Daruttaqwa Foundation Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TPA%20KB%20TK%20Daruttaqwa%20Foundation%20Sukabumi",
+    "newCategory": "Taman Kanak-kanak",
+    "error": null
+  },
+  {
+    "name": "bimba genio cibeureum Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=bimba%20genio%20cibeureum%20Sukabumi",
+    "newCategory": "Taman Kanak-kanak",
+    "error": null
+  },
+  {
+    "name": "PlayWay Day Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PlayWay%20Day%20Sukabumi",
+    "newCategory": "Pendidik khusus",
+    "error": null
+  },
+  {
+    "name": "TKQ Gemilang Sukabumi",
+    "originalCategory": "Education",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TKQ%20Gemilang%20Sukabumi",
+    "newCategory": "Taman Kanak-kanak",
+    "error": null
+  },
+  {
+    "name": "Berdikari Expo Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Berdikari%20Expo%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "TB. Sumber Milik Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TB.%20Sumber%20Milik%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Mochi Kaswari Lampion Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mochi%20Kaswari%20Lampion%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Pusat Jajanan Khas Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pusat%20Jajanan%20Khas%20Sukabumi",
+    "newCategory": "Toko Makanan",
+    "error": null
+  },
+  {
+    "name": "Toko Bangunan Baros Jaya Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Bangunan%20Baros%20Jaya%20Sukabumi",
+    "newCategory": "Toko Perlengkapan Rumah",
+    "error": null
+  },
+  {
+    "name": "Bika Ambon Sunda Rasa Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bika%20Ambon%20Sunda%20Rasa%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Kelana Oleh-oleh Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kelana%20Oleh-oleh%20Sukabumi",
+    "newCategory": "Toko Suvenir",
+    "error": null
+  },
+  {
+    "name": "SUKABUMI HOME CENTER",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SUKABUMI%20HOME%20CENTER",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "RKM Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RKM%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Rumah Puding Premium Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rumah%20Puding%20Premium%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Nori's Florist Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nori's%20Florist%20Sukabumi",
+    "newCategory": "Toko Bunga",
+    "error": null
+  },
+  {
+    "name": "Sukabumi Ratu Florist",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumi%20Ratu%20Florist",
+    "newCategory": "Toko Bunga",
+    "error": null
+  },
+  {
+    "name": "Florist Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Florist%20Sukabumi",
+    "newCategory": "Toko Bunga",
+    "error": null
+  },
+  {
+    "name": "Keler Bouquet Sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Keler%20Bouquet%20Sukabumi",
+    "newCategory": "Toko Bunga",
+    "error": null
+  },
+  {
+    "name": "Incrediblemoment florist sukabumi",
+    "originalCategory": "Retail",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Incrediblemoment%20florist%20sukabumi",
+    "newCategory": "Toko Bunga",
+    "error": null
+  },
+  {
+    "name": "HAI STUDIOS Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HAI%20STUDIOS%20Sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "Disini Aja Studio Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disini%20Aja%20Studio%20Sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "IMAJI FOTO STUDIO SUKABUMI",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IMAJI%20FOTO%20STUDIO%20SUKABUMI",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "Azkana Wedding Dekorasi Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Azkana%20Wedding%20Dekorasi%20Sukabumi",
+    "newCategory": "Perencana Pernikahan",
+    "error": null
+  },
+  {
+    "name": "GMS Tour and Travel Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GMS%20Tour%20and%20Travel%20Sukabumi",
+    "newCategory": "Event Organizer (EO)",
+    "error": null
+  },
+  {
+    "name": "Wedding Planner Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wedding%20Planner%20Sukabumi",
+    "newCategory": "Layanan penyewaan gaun pernikahan",
+    "error": null
+  },
+  {
+    "name": "JAKA WEDDING ORGANIZER Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JAKA%20WEDDING%20ORGANIZER%20Sukabumi",
+    "newCategory": "Perencana Pernikahan",
+    "error": null
+  },
+  {
+    "name": "Licht Studio Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Licht%20Studio%20Sukabumi",
+    "newCategory": "Studio Fotografi",
+    "error": null
+  },
+  {
+    "name": "Khei Wedding Organizer Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Khei%20Wedding%20Organizer%20Sukabumi",
+    "newCategory": "Perencana Pernikahan",
+    "error": null
+  },
+  {
+    "name": "Affay Project Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Affay%20Project%20Sukabumi",
+    "newCategory": "Perencana Pernikahan",
+    "error": null
+  },
+  {
+    "name": "Gosimplywedding Office 1 Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gosimplywedding%20Office%201%20Sukabumi",
+    "newCategory": "Jasa Pernikahan",
+    "error": null
+  },
+  {
+    "name": "Reality Event Organizer Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Reality%20Event%20Organizer%20Sukabumi",
+    "newCategory": "Jasa Pernikahan",
+    "error": null
+  },
+  {
+    "name": "PRIMA WO Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PRIMA%20WO%20Sukabumi",
+    "newCategory": "Event Organizer (EO)",
+    "error": null
+  },
+  {
+    "name": "Lensa Entertainment Sukabumi",
+    "originalCategory": "Event",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lensa%20Entertainment%20Sukabumi",
+    "newCategory": "Perancang Acara",
+    "error": null
+  },
+  {
+    "name": "Yunas Studio Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yunas%20Studio%20Sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "Moophoto Photobooth Studio Baros Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Moophoto%20Photobooth%20Studio%20Baros%20Sukabumi",
+    "newCategory": "Fotografer",
+    "error": null
+  },
+  {
+    "name": "Fauna photography Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fauna%20photography%20Sukabumi",
+    "newCategory": "Fotografer",
+    "error": null
+  },
+  {
+    "name": "Lawa Creative Studio Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lawa%20Creative%20Studio%20Sukabumi",
+    "newCategory": "Fotografer komersial",
+    "error": null
+  },
+  {
+    "name": "Milkyverse Ramayana Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Milkyverse%20Ramayana%20Sukabumi",
+    "newCategory": "Taman Bermain Dalam Ruangan",
+    "error": null
+  },
+  {
+    "name": "Dinopark Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dinopark%20Sukabumi",
+    "newCategory": "Taman bermain",
+    "error": null
+  },
+  {
+    "name": "SantaSea Water Theme Park Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SantaSea%20Water%20Theme%20Park%20Sukabumi",
+    "newCategory": "Taman Rekreasi Air",
+    "error": null
+  },
+  {
+    "name": "Story Land Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Story%20Land%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Sport Garden Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sport%20Garden%20Sukabumi",
+    "newCategory": null,
+    "error": "page.goto: Timeout 30000ms exceeded.\nCall log:\n\u001b[2m  - navigating to \"https://www.google.com/maps/se"
+  },
+  {
+    "name": "Ryzzy Azzahra Waterpark Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ryzzy%20Azzahra%20Waterpark%20Sukabumi",
+    "newCategory": "Taman Rekreasi Air",
+    "error": null
+  },
+  {
+    "name": "Kolam Renang Pilar Mas Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kolam%20Renang%20Pilar%20Mas%20Sukabumi",
+    "newCategory": "Kolam Renang Umum",
+    "error": null
+  },
+  {
+    "name": "CAMPING GROUND BATUTAPAK Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CAMPING%20GROUND%20BATUTAPAK%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "De' Tani Waterpark Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=De'%20Tani%20Waterpark%20Sukabumi",
+    "newCategory": "Taman Rekreasi Air",
+    "error": null
+  },
+  {
+    "name": "Happy House Playground&cafe Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Happy%20House%20Playground%26cafe%20Sukabumi",
+    "newCategory": "Taman bermain",
+    "error": null
+  },
+  {
+    "name": "Kids story cibadak",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kids%20story%20cibadak",
+    "newCategory": "Taman Bermain Dalam Ruangan",
+    "error": null
+  },
+  {
+    "name": "Cidahu Camping Ground",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cidahu%20Camping%20Ground",
+    "newCategory": "Bumi perkemahan",
+    "error": null
+  },
+  {
+    "name": "CAMPING GROUND SITUGUNUNG",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CAMPING%20GROUND%20SITUGUNUNG",
+    "newCategory": "Bumi perkemahan",
+    "error": null
+  },
+  {
+    "name": "Tanakita 5 Star Camp Sukabumi",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tanakita%205%20Star%20Camp%20Sukabumi",
+    "newCategory": "Bumi perkemahan",
+    "error": null
+  },
+  {
+    "name": "Cidahu Camping Ground Lembah Damar",
+    "originalCategory": "Tourism",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cidahu%20Camping%20Ground%20Lembah%20Damar",
+    "newCategory": "Bumi perkemahan",
+    "error": null
+  },
+  {
+    "name": "Digicom",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Digicom%20sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "Sentral Komputer Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sentral%20Komputer%20Sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "RNY Computer",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RNY%20Computer%20sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "Bestlaptop.id (Jual-Beli Komputer dan Laptop, Service, Sparepart, Aksesoris) Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bestlaptop.id%20(Jual-Beli%20Komputer%20dan%20Laptop%2C%20Service%2C%20Sparepart%2C%20Aksesoris)%20Sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "Multitech Computer",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Multitech%20Computer%20sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "AGRES ID & FONE SUKABUMI 02",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AGRES%20ID%20%26%20FONE%20SUKABUMI%2002",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "Media Computer Cisaat Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Media%20Computer%20Cisaat%20Sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "SIMASTEL",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SIMASTEL%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Erafone Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Erafone%20Sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Gadget Boss id",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gadget%20Boss%20id%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "DIOCELL",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DIOCELL%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Rintel (Phone Service)",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rintel%20(Phone%20Service)%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Quantum Ponsel - Toko Sparepart & Service HP Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Quantum%20Ponsel%20-%20Toko%20Sparepart%20%26%20Service%20HP%20Sukabumi",
+    "newCategory": "Toko Perbaikan Ponsel",
+    "error": null
+  },
+  {
+    "name": "Halife Store",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Halife%20Store%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Service Komputer dan Laptop Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Service%20Komputer%20dan%20Laptop%20Sukabumi",
+    "newCategory": "Jasa Reparasi Komputer",
+    "error": null
+  },
+  {
+    "name": "Acenkcom",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Acenkcom%20sukabumi",
+    "newCategory": "Jasa Reparasi Komputer",
+    "error": null
+  },
+  {
+    "name": "Bestservice.id (Service Laptop dan Komputer Sukabumi)",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bestservice.id%20(Service%20Laptop%20dan%20Komputer%20Sukabumi)",
+    "newCategory": "Servis Komputer",
+    "error": null
+  },
+  {
+    "name": "AGS Computer Jual beli service laptop komputer dan handphone sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=AGS%20Computer%20Jual%20beli%20service%20laptop%20komputer%20dan%20handphone%20sukabumi",
+    "newCategory": "Toko Komputer",
+    "error": null
+  },
+  {
+    "name": "Robinson elektronik sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Robinson%20elektronik%20sukabumi",
+    "newCategory": "Grosir elektronik",
+    "error": null
+  },
+  {
+    "name": "Electronic Square",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Electronic%20Square%20sukabumi",
+    "newCategory": "Grosir elektronik",
+    "error": null
+  },
+  {
+    "name": "Planet Elektronik",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Planet%20Elektronik%20sukabumi",
+    "newCategory": "Grosir elektronik",
+    "error": null
+  },
+  {
+    "name": "Varia Elektronik",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Varia%20Elektronik%20sukabumi",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "Odeon Elektronik Toko",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Odeon%20Elektronik%20Toko%20sukabumi",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "Obey Electronic",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Obey%20Electronic%20sukabumi",
+    "newCategory": "Toko Alat Listrik",
+    "error": null
+  },
+  {
+    "name": "OXO Warehouse Tipar",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=OXO%20Warehouse%20Tipar%20sukabumi",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "Oke Print Sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Oke%20Print%20Sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Jatrista Digital Printing",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jatrista%20Digital%20Printing%20sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "copy paste digital printing sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=copy%20paste%20digital%20printing%20sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Pandawaprint sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pandawaprint%20sukabumi",
+    "newCategory": "Layanan Percetakan Undangan",
+    "error": null
+  },
+  {
+    "name": "PRINTMAX - Digital Printing Sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PRINTMAX%20-%20Digital%20Printing%20Sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Universal Printing",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Universal%20Printing%20sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Hikmah Grafika Barokah",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hikmah%20Grafika%20Barokah%20sukabumi",
+    "newCategory": "Percetakan Komersial",
+    "error": null
+  },
+  {
+    "name": "YUDHIS PRINTING & APPAREL",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=YUDHIS%20PRINTING%20%26%20APPAREL%20sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Intipromo",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Intipromo%20sukabumi",
+    "newCategory": "Layanan cetak digital",
+    "error": null
+  },
+  {
+    "name": "Agis Printing",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agis%20Printing%20sukabumi",
+    "newCategory": "Toko Percetakan",
+    "error": null
+  },
+  {
+    "name": "Percetakan D' Prints (Digital Printing)",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Percetakan%20D'%20Prints%20(Digital%20Printing)%20sukabumi",
+    "newCategory": "Percetakan Komersial",
+    "error": null
+  },
+  {
+    "name": "CR DIGITAL PRINTING (CRSTORE)",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CR%20DIGITAL%20PRINTING%20(CRSTORE)%20sukabumi",
+    "newCategory": "Toko Percetakan",
+    "error": null
+  },
+  {
+    "name": "Cititex Siliwangi Sukabumi (Kaos Polos dan Sablon Satuan - Partai Besar)",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cititex%20Siliwangi%20Sukabumi%20(Kaos%20Polos%20dan%20Sablon%20Satuan%20-%20Partai%20Besar)",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "HARMONY INDUSTRIES",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HARMONY%20INDUSTRIES%20sukabumi",
+    "newCategory": "Toko Kaos Custom",
+    "error": null
+  },
+  {
+    "name": "Alta Konveksi sukabumi Sablon sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alta%20Konveksi%20sukabumi%20Sablon%20sukabumi",
+    "newCategory": "Produsen pakaian dan kain",
+    "error": null
+  },
+  {
+    "name": "Konveksi Sablon Amistiker Sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konveksi%20Sablon%20Amistiker%20Sukabumi",
+    "newCategory": "Toko Kaos Custom",
+    "error": null
+  },
+  {
+    "name": "ZEN SABLON & KONFEKSI",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ZEN%20SABLON%20%26%20KONFEKSI%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "ZISABLON STUDIO",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ZISABLON%20STUDIO%20sukabumi",
+    "newCategory": "Toko Kaos Custom",
+    "error": null
+  },
+  {
+    "name": "Konveksi Sablon Sukabumi",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konveksi%20Sablon%20Sukabumi",
+    "newCategory": "Produsen pakaian dan kain",
+    "error": null
+  },
+  {
+    "name": "Pusat Neon Box Sukabumi Tercepat dan Termurah | SIGNUMI |",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pusat%20Neon%20Box%20Sukabumi%20Tercepat%20dan%20Termurah%20%7C%20SIGNUMI%20%7C",
+    "newCategory": "Toko Lampu Neon",
+    "error": null
+  },
+  {
+    "name": "TUKANG NEONBOX DAN REKLAME SUKABUMI",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TUKANG%20NEONBOX%20DAN%20REKLAME%20SUKABUMI",
+    "newCategory": "Toko Reklame",
+    "error": null
+  },
+  {
+    "name": "Jasa buat neon box sukabumi ( buat papan logo neon, lampu papan nama untuk toko atau ruko)",
+    "originalCategory": "Percetakan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jasa%20buat%20neon%20box%20sukabumi%20(%20buat%20papan%20logo%20neon%2C%20lampu%20papan%20nama%20untuk%20toko%20atau%20ruko)",
+    "newCategory": "Toko Lampu Neon",
+    "error": null
+  },
+  {
+    "name": "UdayDistro",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=UdayDistro%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "ROUGHREBEL STORE SUKABUMI",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ROUGHREBEL%20STORE%20SUKABUMI",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Distro Skaters",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distro%20Skaters%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Grosir Distro Bandung",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grosir%20Distro%20Bandung%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Mars",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mars%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Distro trusted merch",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distro%20trusted%20merch%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Addictive Skateshop & Clothing reja",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Addictive%20Skateshop%20%26%20Clothing%20reja%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "ALJABAR KONVEKSI",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ALJABAR%20KONVEKSI%20sukabumi",
+    "newCategory": "Kantor Perusahaan",
+    "error": null
+  },
+  {
+    "name": "Konveksi & Sablon Sukabumi | Sukabumian",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Konveksi%20%26%20Sablon%20Sukabumi%20%7C%20Sukabumian",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Syafiq Jaya Konveksi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Syafiq%20Jaya%20Konveksi%20sukabumi",
+    "newCategory": "Toko Pakaian",
+    "error": null
+  },
+  {
+    "name": "Husna Boutique",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Husna%20Boutique%20sukabumi",
+    "newCategory": "Butik",
+    "error": null
+  },
+  {
+    "name": "Seply sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Seply%20sukabumi",
+    "newCategory": "Butik",
+    "error": null
+  },
+  {
+    "name": "Sabillah Fashion",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sabillah%20Fashion%20sukabumi",
+    "newCategory": "Butik",
+    "error": null
+  },
+  {
+    "name": "Alvire & Co",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alvire%20%26%20Co%20sukabumi",
+    "newCategory": "Butik",
+    "error": null
+  },
+  {
+    "name": "N2N Sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=N2N%20Sukabumi",
+    "newCategory": "Toko Pakaian Wanita",
+    "error": null
+  },
+  {
+    "name": "ZOYA",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ZOYA%20sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Wansu Store",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wansu%20Store%20sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "House of Donatello",
+    "originalCategory": "F&B",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=House%20of%20Donatello%20sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "Toko Sinar Terang Sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sinar%20Terang%20Sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "RANK Sports Sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RANK%20Sports%20Sukabumi",
+    "newCategory": "Toko Perlengkapan Olahraga",
+    "error": null
+  },
+  {
+    "name": "Toko Sepatu Gs D/h Grand Shoes",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepatu%20Gs%20D%2Fh%20Grand%20Shoes%20sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "Garage shoes sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garage%20shoes%20sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "Toko Sepatu Sinar Sukabumi",
+    "originalCategory": "Fashion",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepatu%20Sinar%20Sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "Tani Raya Poultry Shop",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tani%20Raya%20Poultry%20Shop%20sukabumi",
+    "newCategory": "Toko Pakan Hewan",
+    "error": null
+  },
+  {
+    "name": "PD.CAHAYA MUKTI",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PD.CAHAYA%20MUKTI%20sukabumi",
+    "newCategory": "Toko Swalayan",
+    "error": null
+  },
+  {
+    "name": "Kios Pupuk Sugih Tani (pengecer Resmi PT. Pupuk Kujang)",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kios%20Pupuk%20Sugih%20Tani%20(pengecer%20Resmi%20PT.%20Pupuk%20Kujang)%20sukabumi",
+    "newCategory": "Toko Pertanian",
+    "error": null
+  },
+  {
+    "name": "Revolusi Tani mandiri / (teguh jaya tani)",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Revolusi%20Tani%20mandiri%20%2F%20(teguh%20jaya%20tani)%20sukabumi",
+    "newCategory": "Toko Pertanian",
+    "error": null
+  },
+  {
+    "name": "SYAFAAT TANI (Kios Pertanian )",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SYAFAAT%20TANI%20(Kios%20Pertanian%20)%20sukabumi",
+    "newCategory": "Toko Pertanian",
+    "error": null
+  },
+  {
+    "name": "Toko Pertanian Tani Sejahtera",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Pertanian%20Tani%20Sejahtera%20sukabumi",
+    "newCategory": "Toko Pertanian",
+    "error": null
+  },
+  {
+    "name": "Wijaya Diesel",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wijaya%20Diesel%20sukabumi",
+    "newCategory": "Toko Alat-Alat",
+    "error": null
+  },
+  {
+    "name": "Prima Jaya Tani",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prima%20Jaya%20Tani%20sukabumi",
+    "newCategory": "Toko Pertanian",
+    "error": null
+  },
+  {
+    "name": "Pembibitan Tanah Muda Sukabumi",
+    "originalCategory": "Agrikultur",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pembibitan%20Tanah%20Muda%20Sukabumi",
+    "newCategory": "Pembibitan Tanaman",
+    "error": null
+  },
+  {
+    "name": "Toko Sepeda Family Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepeda%20Family%20Sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Rodalink Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rodalink%20Sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Toko Sepeda Deli Baru",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepeda%20Deli%20Baru%20sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Toko Sepeda Mitra Jaya",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepeda%20Mitra%20Jaya%20sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Toko Sepeda Bintang Terang 2",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sepeda%20Bintang%20Terang%202%20sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Bintang Terang Alat dan Bahan Meubel",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bintang%20Terang%20Alat%20dan%20Bahan%20Meubel%20sukabumi",
+    "newCategory": "Aksesori Mebel",
+    "error": null
+  },
+  {
+    "name": "Pusat Sepeda Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pusat%20Sepeda%20Sukabumi",
+    "newCategory": "Toko Sepeda",
+    "error": null
+  },
+  {
+    "name": "Trijaya Gym Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Trijaya%20Gym%20Sukabumi",
+    "newCategory": "Tempat Fitness",
+    "error": null
+  },
+  {
+    "name": "MyFit Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MyFit%20Sukabumi",
+    "newCategory": "Tempat Fitness",
+    "error": null
+  },
+  {
+    "name": "Fast Track Fitness - Pilates & Gym Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fast%20Track%20Fitness%20-%20Pilates%20%26%20Gym%20Sukabumi",
+    "newCategory": "Pusat kebugaran",
+    "error": null
+  },
+  {
+    "name": "Fitstrength Revolution",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fitstrength%20Revolution%20sukabumi",
+    "newCategory": "Tempat Fitness",
+    "error": null
+  },
+  {
+    "name": "JAF GYM",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JAF%20GYM%20sukabumi",
+    "newCategory": "Tempat Fitness",
+    "error": null
+  },
+  {
+    "name": "Fit Strength (Fitnes Khusus Perempuan)",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fit%20Strength%20(Fitnes%20Khusus%20Perempuan)%20sukabumi",
+    "newCategory": "Pusat kebugaran",
+    "error": null
+  },
+  {
+    "name": "Liverpool Futsal Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Liverpool%20Futsal%20Sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "GOR FUTSAL JAYA ABADI",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GOR%20FUTSAL%20JAYA%20ABADI%20sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Garuda Sport Center",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Garuda%20Sport%20Center%20sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Insani Futsal Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Insani%20Futsal%20Sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Baros Futsal Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Baros%20Futsal%20Sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Castalia Futsal",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Castalia%20Futsal%20sukabumi",
+    "newCategory": "Stadion",
+    "error": null
+  },
+  {
+    "name": "Benteng Futsal",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Benteng%20Futsal%20sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Disen ARENA",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Disen%20ARENA%20sukabumi",
+    "newCategory": "Klub Olahraga",
+    "error": null
+  },
+  {
+    "name": "Barca Futsal",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Barca%20Futsal%20sukabumi",
+    "newCategory": "Lapangan Futsal",
+    "error": null
+  },
+  {
+    "name": "Toko Samudra Pancing",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Samudra%20Pancing%20sukabumi",
+    "newCategory": "Toko Alat Pancing",
+    "error": null
+  },
+  {
+    "name": "NIDIA FISHING SHOP",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NIDIA%20FISHING%20SHOP%20sukabumi",
+    "newCategory": "Toko Alat Pancing",
+    "error": null
+  },
+  {
+    "name": "Toko pancing NEW MUJUR ABADI",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20pancing%20NEW%20MUJUR%20ABADI%20sukabumi",
+    "newCategory": "Toko Alat Pancing",
+    "error": null
+  },
+  {
+    "name": "Toko Pancing Izdihaar",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Pancing%20Izdihaar%20sukabumi",
+    "newCategory": "Toko Alat Pancing",
+    "error": null
+  },
+  {
+    "name": "Satria langit fishing",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Satria%20langit%20fishing%20sukabumi",
+    "newCategory": "Toko Alat Pancing",
+    "error": null
+  },
+  {
+    "name": "Agil Fishing Sukabumi",
+    "originalCategory": "Olahraga",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agil%20Fishing%20Sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "Tb. Berdikari Jaya",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tb.%20Berdikari%20Jaya%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "TB. Jaya Bangunan",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TB.%20Jaya%20Bangunan%20sukabumi",
+    "newCategory": "Toko Tegel",
+    "error": null
+  },
+  {
+    "name": "WYN Karya Perkasa",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WYN%20Karya%20Perkasa%20sukabumi",
+    "newCategory": "Kontraktor konstruksi interior",
+    "error": null
+  },
+  {
+    "name": "PT. Multijaya Prakarsa Abadi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Multijaya%20Prakarsa%20Abadi%20sukabumi",
+    "newCategory": "Kontraktor Umum",
+    "error": null
+  },
+  {
+    "name": "Agassi dekorasi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Agassi%20dekorasi%20sukabumi",
+    "newCategory": "Dekorator interior",
+    "error": null
+  },
+  {
+    "name": "sedot WC Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=sedot%20WC%20Sukabumi",
+    "newCategory": "Kantor Perusahaan",
+    "error": null
+  },
+  {
+    "name": "Bangun Rumah Syariah",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangun%20Rumah%20Syariah%20sukabumi",
+    "newCategory": "Perusahaan Manajemen Properti",
+    "error": null
+  },
+  {
+    "name": "Renovasi Rumah Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Renovasi%20Rumah%20Sukabumi",
+    "newCategory": "Jasa Konstruksi dan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Sala Studio - Arsitek Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sala%20Studio%20-%20Arsitek%20Sukabumi",
+    "newCategory": "Desainer arsitektur",
+    "error": null
+  },
+  {
+    "name": "PUTRA ARKANA BERJAYA COUNTRUCTIONS AND PROPERTY",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PUTRA%20ARKANA%20BERJAYA%20COUNTRUCTIONS%20AND%20PROPERTY%20sukabumi",
+    "newCategory": "Jasa Konstruksi dan Bangunan",
+    "error": null
+  },
+  {
+    "name": "toko padi aluminium dan kaca",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=toko%20padi%20aluminium%20dan%20kaca%20sukabumi",
+    "newCategory": "Pemasok Jendela",
+    "error": null
+  },
+  {
+    "name": "Toko Kaca Bening",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Kaca%20Bening%20sukabumi",
+    "newCategory": "Toko Kaca & Cermin",
+    "error": null
+  },
+  {
+    "name": "Cahaya Baru Aluminium Kaca | Pintu | Jendela | Kusen Lengkung | Tempered",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cahaya%20Baru%20Aluminium%20Kaca%20%7C%20Pintu%20%7C%20Jendela%20%7C%20Kusen%20Lengkung%20%7C%20Tempered%20sukabumi",
+    "newCategory": "Pemasok Aluminium",
+    "error": null
+  },
+  {
+    "name": "Mekar jaya kaca",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mekar%20jaya%20kaca%20sukabumi",
+    "newCategory": "Toko Kaca & Cermin",
+    "error": null
+  },
+  {
+    "name": "Carisma Glass",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Carisma%20Glass%20sukabumi",
+    "newCategory": "Toko Kaca",
+    "error": null
+  },
+  {
+    "name": "Mirah Kaca Mobil Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mirah%20Kaca%20Mobil%20Sukabumi",
+    "newCategory": "Toko Kaca Mobil",
+    "error": null
+  },
+  {
+    "name": "SUBA-Arch",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SUBA-Arch%20sukabumi",
+    "newCategory": "Arsitek",
+    "error": null
+  },
+  {
+    "name": "Sukabumiarsitek",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumiarsitek",
+    "newCategory": "Arsitek",
+    "error": null
+  },
+  {
+    "name": "Kersa studio",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kersa%20studio%20sukabumi",
+    "newCategory": "Desainer arsitektur",
+    "error": null
+  },
+  {
+    "name": "FR DESIGN KONSULTAN",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=FR%20DESIGN%20KONSULTAN%20sukabumi",
+    "newCategory": "Arsitek",
+    "error": null
+  },
+  {
+    "name": "Idsign Interior Desain",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Idsign%20Interior%20Desain%20sukabumi",
+    "newCategory": "Kantor Arsitek Interior",
+    "error": null
+  },
+  {
+    "name": "Ordehaus Desain Interior & Arsitektur Terbaik Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ordehaus%20Desain%20Interior%20%26%20Arsitektur%20Terbaik%20Sukabumi",
+    "newCategory": "Desainer Interior",
+    "error": null
+  },
+  {
+    "name": "CV DIS Indonesia",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CV%20DIS%20Indonesia%20sukabumi",
+    "newCategory": "Perusahaan arsitektur",
+    "error": null
+  },
+  {
+    "name": "Lokatara Architect Studio | Jasa Gambar Arsitek dan Interior",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lokatara%20Architect%20Studio%20%7C%20Jasa%20Gambar%20Arsitek%20dan%20Interior%20sukabumi",
+    "newCategory": "Desainer arsitektur",
+    "error": null
+  },
+  {
+    "name": "PT. Askrindo (Persero) Cabang Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Askrindo%20(Persero)%20Cabang%20Sukabumi",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Asuransi Sinar Mas Kantor Pemasaran Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asuransi%20Sinar%20Mas%20Kantor%20Pemasaran%20Sukabumi",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Prudential",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Prudential%20sukabumi",
+    "newCategory": "Perusahaan Asuransi Jiwa",
+    "error": null
+  },
+  {
+    "name": "IFG Life Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=IFG%20Life%20Sukabumi",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Allianz Life Indonesia - Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Allianz%20Life%20Indonesia%20-%20Sukabumi",
+    "newCategory": "Agen Asuransi",
+    "error": null
+  },
+  {
+    "name": "PT. AJS Bumiputera",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20AJS%20Bumiputera%20sukabumi",
+    "newCategory": "Perusahaan Asuransi Jiwa",
+    "error": null
+  },
+  {
+    "name": "PT Asuransi Tri Pakarta (TRIPA) - Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT%20Asuransi%20Tri%20Pakarta%20(TRIPA)%20-%20Sukabumi",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Asuransi ABDA",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asuransi%20ABDA%20sukabumi",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Aca Asuransi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Aca%20Asuransi%20sukabumi",
+    "newCategory": "Agen Asuransi",
+    "error": null
+  },
+  {
+    "name": "PT. ASURANSI UMUM BUMIDA 1967 SUKABUMI",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20ASURANSI%20UMUM%20BUMIDA%201967%20SUKABUMI",
+    "newCategory": "Perusahaan Asuransi",
+    "error": null
+  },
+  {
+    "name": "Adira Dinamika Multi Finance, Tbk. PT",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adira%20Dinamika%20Multi%20Finance%2C%20Tbk.%20PT%20sukabumi",
+    "newCategory": "Lembaga Keuangan",
+    "error": null
+  },
+  {
+    "name": "Adira Finance Cabang Sukabumi - Surya Kencana",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Adira%20Finance%20Cabang%20Sukabumi%20-%20Surya%20Kencana",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "PT. Mandiri Utama Finance Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Mandiri%20Utama%20Finance%20Sukabumi",
+    "newCategory": "Lembaga Keuangan",
+    "error": null
+  },
+  {
+    "name": "Mandiri Tunas Finance",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandiri%20Tunas%20Finance%20sukabumi",
+    "newCategory": "Lembaga Keuangan",
+    "error": null
+  },
+  {
+    "name": "Mandala finance",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mandala%20finance%20sukabumi",
+    "newCategory": "Kantor Perusahaan",
+    "error": null
+  },
+  {
+    "name": "Kredit Plus Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kredit%20Plus%20Sukabumi",
+    "newCategory": "Layanan Konseling Kredit",
+    "error": null
+  },
+  {
+    "name": "PT. Mandala Multifinance Tbk",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Mandala%20Multifinance%20Tbk%20sukabumi",
+    "newCategory": "Lembaga Keuangan",
+    "error": null
+  },
+  {
+    "name": "Bank Sinarmas - Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bank%20Sinarmas%20-%20Sukabumi",
+    "newCategory": "Bank",
+    "error": null
+  },
+  {
+    "name": "Gadai bpkb motor dan mobil",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gadai%20bpkb%20motor%20dan%20mobil%20sukabumi",
+    "newCategory": "Layanan Leasing Mobil",
+    "error": null
+  },
+  {
+    "name": "Pegadaian Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20Sukabumi",
+    "newCategory": "Agen Pinjaman",
+    "error": null
+  },
+  {
+    "name": "Pegadaian Syariah",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20Syariah%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Pegadaian Pasar Pelita",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20Pasar%20Pelita%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Pegadaian Cibadak",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20Cibadak%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Museum Pegadaian",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Museum%20Pegadaian%20sukabumi",
+    "newCategory": "Museum Sejarah Lokal",
+    "error": null
+  },
+  {
+    "name": "Pusat Gadai Indonesia",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pusat%20Gadai%20Indonesia%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Pegadaian UPC Cisaat",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20UPC%20Cisaat%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Pegadaian UPS Sukaraja",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pegadaian%20UPS%20Sukaraja%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Raja Gadai Cisaat",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Raja%20Gadai%20Cisaat%20sukabumi",
+    "newCategory": "Toko Gadai",
+    "error": null
+  },
+  {
+    "name": "Kantor Pelayanan Pajak Pratama Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kantor%20Pelayanan%20Pajak%20Pratama%20Sukabumi",
+    "newCategory": "Kantor Pelayanan Pajak",
+    "error": null
+  },
+  {
+    "name": "Kantor konsultan pajak KKP Dedy D Rasmin",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kantor%20konsultan%20pajak%20KKP%20Dedy%20D%20Rasmin%20sukabumi",
+    "newCategory": "Konsultan Pajak",
+    "error": null
+  },
+  {
+    "name": "Brevet Pajak Sukabumi",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Brevet%20Pajak%20Sukabumi",
+    "newCategory": "Pusat pelatihan",
+    "error": null
+  },
+  {
+    "name": "Biro Jasa Alan (Jasa Layanan Dokumen Publik)",
+    "originalCategory": "Keuangan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Biro%20Jasa%20Alan%20(Jasa%20Layanan%20Dokumen%20Publik)%20sukabumi",
+    "newCategory": "Jasa Konsultasi CV",
+    "error": null
+  },
+  {
+    "name": "mindz games Rental Playstation",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=mindz%20games%20Rental%20Playstation%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "SF Arcadia",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SF%20Arcadia%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "ADENZ GAMES (MAIN DITEMPAT ATAU SEWA PS ANTAR JEMPUT )",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ADENZ%20GAMES%20(MAIN%20DITEMPAT%20ATAU%20SEWA%20PS%20ANTAR%20JEMPUT%20)%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "Second Home Playstation 4 Rental",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Second%20Home%20Playstation%204%20Rental%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "GAME-Z Playstation Rental",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GAME-Z%20Playstation%20Rental%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "PLAYHERE RENTAL PLAYSTATION (ISI GAME PS & SEWA BAWA PULANG)",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PLAYHERE%20RENTAL%20PLAYSTATION%20(ISI%20GAME%20PS%20%26%20SEWA%20BAWA%20PULANG)%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "Solaris Games Center",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Solaris%20Games%20Center%20sukabumi",
+    "newCategory": "Warnet",
+    "error": null
+  },
+  {
+    "name": "Regalia Gaming ( Farmhouse Sukabumi )",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Regalia%20Gaming%20(%20Farmhouse%20Sukabumi%20)",
+    "newCategory": "Pusat Bisnis",
+    "error": null
+  },
+  {
+    "name": "Lakula Gaming Zone",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lakula%20Gaming%20Zone%20sukabumi",
+    "newCategory": "Warnet",
+    "error": null
+  },
+  {
+    "name": "Cowboy Games",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cowboy%20Games%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "ADENZ GAMES 2 ( MAIN DI TEMPAT & SEWA PS DIBAWA PULANG )",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ADENZ%20GAMES%202%20(%20MAIN%20DI%20TEMPAT%20%26%20SEWA%20PS%20DIBAWA%20PULANG%20)%20sukabumi",
+    "newCategory": "Toko Video Game",
+    "error": null
+  },
+  {
+    "name": "Enzy Enterprise",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Enzy%20Enterprise%20sukabumi",
+    "newCategory": "Toko Game",
+    "error": null
+  },
+  {
+    "name": "RO cafe.billiard.esports",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RO%20cafe.billiard.esports%20sukabumi",
+    "newCategory": "Warnet",
+    "error": null
+  },
+  {
+    "name": "MW GAME ZONE",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=MW%20GAME%20ZONE%20sukabumi",
+    "newCategory": "Warnet",
+    "error": null
+  },
+  {
+    "name": "Rental PS \"MWSTATION\"",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rental%20PS%20%22MWSTATION%22%20sukabumi",
+    "newCategory": "Toko Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "GAME-B RENTAL PLAYSTATION",
+    "originalCategory": "Gaming",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=GAME-B%20RENTAL%20PLAYSTATION%20sukabumi",
+    "newCategory": "Kios Penyewaan Video Game",
+    "error": null
+  },
+  {
+    "name": "CuciWangi Sukabumi",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CuciWangi%20Sukabumi",
+    "newCategory": "Toko outlet",
+    "error": null
+  },
+  {
+    "name": "NGUMBAH SAPATU KOTA SUKABUMI",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NGUMBAH%20SAPATU%20KOTA%20SUKABUMI",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Cuci Disini Sukabumi",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuci%20Disini%20Sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Sneakers Shoes Cleaning",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sneakers%20Shoes%20Cleaning%20sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "Cuci Bersih Shoes And Care",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuci%20Bersih%20Shoes%20And%20Care%20sukabumi",
+    "newCategory": "Toko Reparasi Sepatu",
+    "error": null
+  },
+  {
+    "name": "SUKACUCI",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SUKACUCI%20sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Laundry & Cuci Sepatu - Pasti Bersih.Small Space",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laundry%20%26%20Cuci%20Sepatu%20-%20Pasti%20Bersih.Small%20Space%20sukabumi",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "Wash it! Cuci Sepatu Sukabumi",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wash%20it!%20Cuci%20Sepatu%20Sukabumi",
+    "newCategory": "Toko Sepatu",
+    "error": null
+  },
+  {
+    "name": "RUANG CUCI",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=RUANG%20CUCI%20sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Clean Care Laundry Sepatu Cisaat",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Clean%20Care%20Laundry%20Sepatu%20Cisaat%20sukabumi",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "Sukacuci Laundry Sukabumi – Laundry Kiloan & Express Antar Jemput Terdekat",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukacuci%20Laundry%20Sukabumi%20%E2%80%93%20Laundry%20Kiloan%20%26%20Express%20Antar%20Jemput%20Terdekat",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Koomba Shoes Clean",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Koomba%20Shoes%20Clean%20sukabumi",
+    "newCategory": "Binatu Cucian Kering",
+    "error": null
+  },
+  {
+    "name": "WASH SHOE (WS)",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WASH%20SHOE%20(WS)%20sukabumi",
+    "newCategory": "Jasa Semir Sepatu",
+    "error": null
+  },
+  {
+    "name": "D'SHOES LAUNDRY",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=D'SHOES%20LAUNDRY%20sukabumi",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "Dewi Swadaya",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dewi%20Swadaya%20sukabumi",
+    "newCategory": "Toko Reparasi Sepatu",
+    "error": null
+  },
+  {
+    "name": "Gadawu Shoes Care",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gadawu%20Shoes%20Care%20sukabumi",
+    "newCategory": "Jasa Semir Sepatu",
+    "error": null
+  },
+  {
+    "name": "Rawat Sepatu Sukabumi Shoes Treatment & Laundry",
+    "originalCategory": "Cuci Sepatu",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rawat%20Sepatu%20Sukabumi%20Shoes%20Treatment%20%26%20Laundry",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Toko Bahan Bangunan Bukti Rahayu",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Bahan%20Bangunan%20Bukti%20Rahayu%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Sinar baru / sinar bangunan cisaat",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinar%20baru%20%2F%20sinar%20bangunan%20cisaat%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "PT. Semen Jawa (Siam Cement Group)",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Semen%20Jawa%20(Siam%20Cement%20Group)%20sukabumi",
+    "newCategory": "Produsen semen",
+    "error": null
+  },
+  {
+    "name": "PT. Semen Indonesia Logistik Cabang Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PT.%20Semen%20Indonesia%20Logistik%20Cabang%20Sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Mega Baja Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mega%20Baja%20Sukabumi",
+    "newCategory": "Distributor Baja",
+    "error": null
+  },
+  {
+    "name": "Tunas Baru",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Tunas%20Baru%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Central Baja Sukabumi - Distributor Baja | Toko Bahan Bangunan | Baja Ringan",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Central%20Baja%20Sukabumi%20-%20Distributor%20Baja%20%7C%20Toko%20Bahan%20Bangunan%20%7C%20Baja%20Ringan",
+    "newCategory": "Distributor Baja",
+    "error": null
+  },
+  {
+    "name": "Toko Besi Cahaya Jaya",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Besi%20Cahaya%20Jaya%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Mitra Besi Baja Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mitra%20Besi%20Baja%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Toko Besi Naga Mas",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Besi%20Naga%20Mas%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Toko Hong Kiyat Keramik, Sanitair, dan Cat",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Hong%20Kiyat%20Keramik%2C%20Sanitair%2C%20dan%20Cat%20sukabumi",
+    "newCategory": "Pemasok Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Graha Keramik 1",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Graha%20Keramik%201%20sukabumi",
+    "newCategory": "Toko Perlengkapan Rumah",
+    "error": null
+  },
+  {
+    "name": "Situ Jaya Keramik",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Situ%20Jaya%20Keramik%20sukabumi",
+    "newCategory": "Grosir keramik",
+    "error": null
+  },
+  {
+    "name": "Roda Mas Home Center",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Roda%20Mas%20Home%20Center%20sukabumi",
+    "newCategory": "Toko Perlengkapan Rumah",
+    "error": null
+  },
+  {
+    "name": "Toko Cat Asia Warna 2",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Cat%20Asia%20Warna%202%20sukabumi",
+    "newCategory": "Toko Cat",
+    "error": null
+  },
+  {
+    "name": "Toko Cat Sinar Jaya Tiga",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Cat%20Sinar%20Jaya%20Tiga%20sukabumi",
+    "newCategory": "Toko Cat",
+    "error": null
+  },
+  {
+    "name": "TOKO ATHARRAZKA ( CAT TEMBOK KILOAN )",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TOKO%20ATHARRAZKA%20(%20CAT%20TEMBOK%20KILOAN%20)%20sukabumi",
+    "newCategory": "Toko Cat",
+    "error": null
+  },
+  {
+    "name": "Cat Kiloan Rambay",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cat%20Kiloan%20Rambay%20sukabumi",
+    "newCategory": "Toko Cat",
+    "error": null
+  },
+  {
+    "name": "Toko Keramik & Plywood SUMBER MAKMUR",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Keramik%20%26%20Plywood%20SUMBER%20MAKMUR%20sukabumi",
+    "newCategory": "Toko Perlengkapan Rumah",
+    "error": null
+  },
+  {
+    "name": "Dewi keramik",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dewi%20keramik%20sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "Toko GRS Maju Bersama | Plywood, Triplek, HPL, Aksesoris Furniture Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20GRS%20Maju%20Bersama%20%7C%20Plywood%2C%20Triplek%2C%20HPL%2C%20Aksesoris%20Furniture%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "PD Jaya abadi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PD%20Jaya%20abadi%20sukabumi",
+    "newCategory": "Toko Mebel",
+    "error": null
+  },
+  {
+    "name": "Gudang Berkah Makmur Plywood",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gudang%20Berkah%20Makmur%20Plywood%20sukabumi",
+    "newCategory": "Pemasok aksesori mebel",
+    "error": null
+  },
+  {
+    "name": "CV . Makmur Jaya",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CV%20.%20Makmur%20Jaya%20sukabumi",
+    "newCategory": "Pemasok aksesori mebel",
+    "error": null
+  },
+  {
+    "name": "Distributor pipa ppr pvc hdpe",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Distributor%20pipa%20ppr%20pvc%20hdpe%20sukabumi",
+    "newCategory": "Pemasok Pipa",
+    "error": null
+  },
+  {
+    "name": "Plafon PVC Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Plafon%20PVC%20Sukabumi",
+    "newCategory": "Kontraktor Atap",
+    "error": null
+  },
+  {
+    "name": "Gemilang plafon pvc Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gemilang%20plafon%20pvc%20Sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "distributor hdpe pipe selang hdpe",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=distributor%20hdpe%20pipe%20selang%20hdpe%20sukabumi",
+    "newCategory": "Pemasok Pipa",
+    "error": null
+  },
+  {
+    "name": "Asba Plafon PVC Sukabumi",
+    "originalCategory": "Konstruksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Asba%20Plafon%20PVC%20Sukabumi",
+    "newCategory": "Toko Bahan Bangunan",
+    "error": null
+  },
+  {
+    "name": "DAPUR MUNGIL PUSAT",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DAPUR%20MUNGIL%20PUSAT%20sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Amorcakes and Bakery - Cikole Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amorcakes%20and%20Bakery%20-%20Cikole%20Sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Holland Bakery",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Holland%20Bakery%20sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "The Harvest Cakes - Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=The%20Harvest%20Cakes%20-%20Sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Cantigi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cantigi%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Toko kue basah SnS",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20kue%20basah%20SnS%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Toko CS",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20CS%20sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Siliwangi Bolu Kukus Jendral Sudirman, Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Siliwangi%20Bolu%20Kukus%20Jendral%20Sudirman%2C%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Bolu Amor Jl Gudang",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolu%20Amor%20Jl%20Gudang%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "zakesta brownies and cakes",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=zakesta%20brownies%20and%20cakes%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Bolu Pisang Ibu Onih",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolu%20Pisang%20Ibu%20Onih%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Shell patisserie",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Shell%20patisserie%20sukabumi",
+    "newCategory": "Toko Roti",
+    "error": null
+  },
+  {
+    "name": "Praline Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Praline%20Sukabumi",
+    "newCategory": "Restoran",
+    "error": null
+  },
+  {
+    "name": "Bolu Labu Al-Hijrah (Oleh-Oleh Khas Sukabumi)",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bolu%20Labu%20Al-Hijrah%20(Oleh-Oleh%20Khas%20Sukabumi)",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Toko Sindang Sari Oleh Oleh Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Sindang%20Sari%20Oleh%20Oleh%20Sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "Mochi A Yani",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mochi%20A%20Yani%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Kusuma Oleh - Oleh Sukabumi",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kusuma%20Oleh%20-%20Oleh%20Sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Dodol Harendong",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dodol%20Harendong%20sukabumi",
+    "newCategory": "Toko Kue",
+    "error": null
+  },
+  {
+    "name": "Dodol Garut Maryati",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dodol%20Garut%20Maryati%20sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "Dodol Ngaray",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dodol%20Ngaray%20sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "Mochi Kaswari Bakat Jaya",
+    "originalCategory": "Bakery & Kue",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mochi%20Kaswari%20Bakat%20Jaya%20sukabumi",
+    "newCategory": "Toko Suvenir",
+    "error": null
+  },
+  {
+    "name": "LUCKY Kamera (Sukabumi Kota)",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LUCKY%20Kamera%20(Sukabumi%20Kota)",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "KAMERA IBNU (SEWA KAMERA SUKABUMI)",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KAMERA%20IBNU%20(SEWA%20KAMERA%20SUKABUMI)",
+    "newCategory": "Toko Kamera",
+    "error": null
+  },
+  {
+    "name": "ADAMASANYA.SMI",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ADAMASANYA.SMI%20sukabumi",
+    "newCategory": "Toko Kamera",
+    "error": null
+  },
+  {
+    "name": "Digital Camera Repair AGPA service kamera sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Digital%20Camera%20Repair%20AGPA%20service%20kamera%20sukabumi",
+    "newCategory": "Toko Reparasi Kamera",
+    "error": null
+  },
+  {
+    "name": "Rental Alat Sukabumi 2",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rental%20Alat%20Sukabumi%202",
+    "newCategory": "Jasa fotografi",
+    "error": null
+  },
+  {
+    "name": "Rezz Digital",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rezz%20Digital%20sukabumi",
+    "newCategory": "Toko Reparasi Kamera",
+    "error": null
+  },
+  {
+    "name": "Foto Lee Ming",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Foto%20Lee%20Ming%20sukabumi",
+    "newCategory": "Toko Kamera",
+    "error": null
+  },
+  {
+    "name": "DIGI PHOTO Lab & Studio SUKABUMI",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DIGI%20PHOTO%20Lab%20%26%20Studio%20SUKABUMI",
+    "newCategory": "Lab Foto",
+    "error": null
+  },
+  {
+    "name": "Yakima Photo",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Yakima%20Photo%20sukabumi",
+    "newCategory": "Studio Fotografi",
+    "error": null
+  },
+  {
+    "name": "NET FOTOGRAFI Sukabumi _ Office & Studio",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=NET%20FOTOGRAFI%20Sukabumi%20_%20Office%20%26%20Studio",
+    "newCategory": "Fotografer",
+    "error": null
+  },
+  {
+    "name": "JSTUDIO PHOTO",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=JSTUDIO%20PHOTO%20sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "Kita Photo Studio",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kita%20Photo%20Studio%20sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "LUVINOPICTURES",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=LUVINOPICTURES%20sukabumi",
+    "newCategory": "Fotografer Pernikahan",
+    "error": null
+  },
+  {
+    "name": "Qss Digital Photo Studio Sukabumi",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qss%20Digital%20Photo%20Studio%20Sukabumi",
+    "newCategory": "Studio Fotografi",
+    "error": null
+  },
+  {
+    "name": "Kertas Warna",
+    "originalCategory": "Foto & Kamera",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kertas%20Warna%20sukabumi",
+    "newCategory": "Studio Foto",
+    "error": null
+  },
+  {
+    "name": "Studio Musik Cees",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Studio%20Musik%20Cees%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "WM STUDIO / Studio Music Sukabumi",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=WM%20STUDIO%20%2F%20Studio%20Music%20Sukabumi",
+    "newCategory": "Jasa Rental Alat Musik",
+    "error": null
+  },
+  {
+    "name": "HARU STUDIO",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=HARU%20STUDIO%20sukabumi",
+    "newCategory": "Jasa Rental Alat Musik",
+    "error": null
+  },
+  {
+    "name": "Ping!!! Music Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ping!!!%20Music%20Studio%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "Leo Musik Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Leo%20Musik%20Studio%20sukabumi",
+    "newCategory": "Jasa Rental Alat Musik",
+    "error": null
+  },
+  {
+    "name": "Dji's Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Dji's%20Studio%20sukabumi",
+    "newCategory": "Sekolah Musik",
+    "error": null
+  },
+  {
+    "name": "Mabes Studio Recording",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mabes%20Studio%20Recording%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "Playback Music Studio Recording",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Playback%20Music%20Studio%20Recording%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "Mg Music Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Mg%20Music%20Studio%20sukabumi",
+    "newCategory": "Jasa Rental Alat Musik",
+    "error": null
+  },
+  {
+    "name": "lans studio musik",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=lans%20studio%20musik%20sukabumi",
+    "newCategory": "Jasa Rental Alat Musik",
+    "error": null
+  },
+  {
+    "name": "Grow Entertainment",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Grow%20Entertainment%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "TR RECORD STUDIO",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TR%20RECORD%20STUDIO%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "Gilang Ramadhan Studio Band",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gilang%20Ramadhan%20Studio%20Band%20sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Syika Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Syika%20Studio%20sukabumi",
+    "newCategory": "Panggung Musik",
+    "error": null
+  },
+  {
+    "name": "Purwacaraka music Studio Sukabumi",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Purwacaraka%20music%20Studio%20Sukabumi",
+    "newCategory": "Pusat Pendidikan",
+    "error": null
+  },
+  {
+    "name": "Sukabumi Music School",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumi%20Music%20School",
+    "newCategory": "Sekolah Musik",
+    "error": null
+  },
+  {
+    "name": "Nada Cendekia Music School",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nada%20Cendekia%20Music%20School%20sukabumi",
+    "newCategory": "Sekolah Musik",
+    "error": null
+  },
+  {
+    "name": "Stiva Music Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Stiva%20Music%20Studio%20sukabumi",
+    "newCategory": "Studio Rekaman",
+    "error": null
+  },
+  {
+    "name": "Jays Music Studio",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Jays%20Music%20Studio%20sukabumi",
+    "newCategory": "Sekolah Musik",
+    "error": null
+  },
+  {
+    "name": "M9 Rumah Seni",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=M9%20Rumah%20Seni%20sukabumi",
+    "newCategory": "Instruktur Piano",
+    "error": null
+  },
+  {
+    "name": "Ayodhaloka Art Space",
+    "originalCategory": "Studio Musik & Seni",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ayodhaloka%20Art%20Space%20sukabumi",
+    "newCategory": "Kelas pengerjaan kayu",
+    "error": null
+  },
+  {
+    "name": "Djunior Diecast - Hotwheels Store",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Djunior%20Diecast%20-%20Hotwheels%20Store%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Bangsawan Toys (Diecast store)",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bangsawan%20Toys%20(Diecast%20store)%20sukabumi",
+    "newCategory": "Toko Hobi",
+    "error": null
+  },
+  {
+    "name": "Binangkit Store",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Binangkit%20Store%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "SUARA HATI TOYS",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SUARA%20HATI%20TOYS%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Saung Hobby and Toys",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Saung%20Hobby%20and%20Toys%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Inona yoga toys. Sukabumi",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Inona%20yoga%20toys.%20Sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Toko AZWA",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20AZWA%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Samudra",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Samudra%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Sinar Sakti",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sinar%20Sakti%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Toko Ujm",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Ujm%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "ABCDcell TAMIYA MINI 4WD SUKABUMI",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ABCDcell%20TAMIYA%20MINI%204WD%20SUKABUMI",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "rctopia",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=rctopia%20sukabumi",
+    "newCategory": "Tempat Sewa Mainan",
+    "error": null
+  },
+  {
+    "name": "Lego Lagi",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Lego%20Lagi%20sukabumi",
+    "newCategory": "Kafe",
+    "error": null
+  },
+  {
+    "name": "Nadaria Toys",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Nadaria%20Toys%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Ganz toys",
+    "originalCategory": "Hobi & Koleksi",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ganz%20toys%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Sagalaya Toys & Hobby",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sagalaya%20Toys%20%26%20Hobby%20sukabumi",
+    "newCategory": "Toko Mainan",
+    "error": null
+  },
+  {
+    "name": "Hollyland Shop",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Hollyland%20Shop%20sukabumi",
+    "newCategory": "Toko Aksesori Pakaian",
+    "error": null
+  },
+  {
+    "name": "KawaidOllshop",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KawaidOllshop%20sukabumi",
+    "newCategory": "Toko Alat Kecantikan",
+    "error": null
+  },
+  {
+    "name": "Toko Rigo",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Rigo%20sukabumi",
+    "newCategory": "Toko Perlengkapan Rumah",
+    "error": null
+  },
+  {
+    "name": "Cosrent Sukabumi",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cosrent%20Sukabumi",
+    "newCategory": "Persewaan Kostum",
+    "error": null
+  },
+  {
+    "name": "Sewa kostum tari",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sewa%20kostum%20tari%20sukabumi",
+    "newCategory": "Persewaan Kostum",
+    "error": null
+  },
+  {
+    "name": "Ambu Costume",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Ambu%20Costume%20sukabumi",
+    "newCategory": "Persewaan Kostum",
+    "error": null
+  },
+  {
+    "name": "ARVANI COSPLAY",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ARVANI%20COSPLAY%20sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Kostum tari bu nur (alnamira salon)",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Kostum%20tari%20bu%20nur%20(alnamira%20salon)%20sukabumi",
+    "newCategory": "Persewaan Kostum",
+    "error": null
+  },
+  {
+    "name": "ARIANA PRO",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=ARIANA%20PRO%20sukabumi",
+    "newCategory": "Persewaan Kostum",
+    "error": null
+  },
+  {
+    "name": "Toko Rei Gift Shop",
+    "originalCategory": "Otaku & Cosplay",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Rei%20Gift%20Shop%20sukabumi",
+    "newCategory": "Toko Suvenir",
+    "error": null
+  },
+  {
+    "name": "Gadget Plan",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Gadget%20Plan%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Abadi Cell & Elektronik",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Abadi%20Cell%20%26%20Elektronik%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "G Selular Sudirman",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=G%20Selular%20Sudirman%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "iClaude Service iPhone Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=iClaude%20Service%20iPhone%20Sukabumi",
+    "newCategory": "Jasa Perbaikan Telepon",
+    "error": null
+  },
+  {
+    "name": "iRoom Service Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=iRoom%20Service%20Sukabumi",
+    "newCategory": "Jasa Perbaikan Telepon",
+    "error": null
+  },
+  {
+    "name": "Fixapple Solutions",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Fixapple%20Solutions%20sukabumi",
+    "newCategory": "Toko Perbaikan Ponsel",
+    "error": null
+  },
+  {
+    "name": "SERVICE IPHONE & ANDROID",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=SERVICE%20IPHONE%20%26%20ANDROID%20sukabumi",
+    "newCategory": "Toko Perbaikan Ponsel",
+    "error": null
+  },
+  {
+    "name": "iFixPro Cabang Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=iFixPro%20Cabang%20Sukabumi",
+    "newCategory": "Toko Perbaikan Ponsel",
+    "error": null
+  },
+  {
+    "name": "APPLE IN STORE",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=APPLE%20IN%20STORE%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "iBox Sukabumi",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=iBox%20Sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "VINCI APPLE STORE / TOKO IPHONE SUKABUMI SECOND DAN BARU NEW GRESS / SERVICE IPHONE SUKABUMI",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=VINCI%20APPLE%20STORE%20%2F%20TOKO%20IPHONE%20SUKABUMI%20SECOND%20DAN%20BARU%20NEW%20GRESS%20%2F%20SERVICE%20IPHONE%20SUKABUMI",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "PANDU APPLE STORE",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=PANDU%20APPLE%20STORE%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Sukabumi_phone2 pemuda",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Sukabumi_phone2%20pemuda",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "Qtell Phoneshop",
+    "originalCategory": "Electronics",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Qtell%20Phoneshop%20sukabumi",
+    "newCategory": "Toko Ponsel",
+    "error": null
+  },
+  {
+    "name": "DUTA ARLOJI SUKABUMI",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DUTA%20ARLOJI%20SUKABUMI",
+    "newCategory": "Toko Jam",
+    "error": null
+  },
+  {
+    "name": "Toko Maribaya",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Maribaya%20sukabumi",
+    "newCategory": "Jasa Reparasi Jam",
+    "error": null
+  },
+  {
+    "name": "Toko Anyar",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Anyar%20sukabumi",
+    "newCategory": "Toko Jam",
+    "error": null
+  },
+  {
+    "name": "Toko SUTERA WATCH",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20SUTERA%20WATCH%20sukabumi",
+    "newCategory": null,
+    "error": "Category button/link not found"
+  },
+  {
+    "name": "Service Jam Arifin",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Service%20Jam%20Arifin%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Wa karna service arloji",
+    "originalCategory": "Jam & Arloji",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Wa%20karna%20service%20arloji%20sukabumi",
+    "newCategory": "Toko Elektronik",
+    "error": null
+  },
+  {
+    "name": "Optik Melawai - Kacamata & Softlens - Citimall Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20Melawai%20-%20Kacamata%20%26%20Softlens%20-%20Citimall%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optik B Riski Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20B%20Riski%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "optik99K Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=optik99K%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optik Melawai - Kacamata & Softlens - Sudirman Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20Melawai%20-%20Kacamata%20%26%20Softlens%20-%20Sudirman%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optik kasoem Vision Care - Citimall Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20kasoem%20Vision%20Care%20-%20Citimall%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Alam Jaya Optikal",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Alam%20Jaya%20Optikal%20sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optik Melawai - R.A Kosasih Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20Melawai%20-%20R.A%20Kosasih%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "TOKO KACAMATA PASUNDAN SUKABUMI",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TOKO%20KACAMATA%20PASUNDAN%20SUKABUMI",
+    "newCategory": "Toko Kacamata Hitam",
+    "error": null
+  },
+  {
+    "name": "Citra Optikal",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Citra%20Optikal%20sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optikal Sukabumi",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optikal%20Sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "KACAMATA BAIK (KB)",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=KACAMATA%20BAIK%20(KB)%20sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Optik B Riski Cibadak",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Optik%20B%20Riski%20Cibadak%20sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Rama Optikal",
+    "originalCategory": "Optik & Kacamata",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Rama%20Optikal%20sukabumi",
+    "newCategory": "Toko Optik",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Pulau Indah 3",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Pulau%20Indah%203%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Emas Sinar Agung",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Emas%20Sinar%20Agung%20sukabumi",
+    "newCategory": "Toko",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Famili",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Famili%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Nirmala (PT.Nirmala Valasa Prima)",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Nirmala%20(PT.Nirmala%20Valasa%20Prima)%20sukabumi",
+    "newCategory": "Ahli Perhiasan",
+    "error": null
+  },
+  {
+    "name": "toko mas Candra 2",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=toko%20mas%20Candra%202%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko mas Megah Indah (Cabang)",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20mas%20Megah%20Indah%20(Cabang)%20sukabumi",
+    "newCategory": "Pusat Perbelanjaan",
+    "error": null
+  },
+  {
+    "name": "Spesial Gold | Citimall Sukabumi | Jual Beli Emas | Segala Kondisi",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Spesial%20Gold%20%7C%20Citimall%20Sukabumi%20%7C%20Jual%20Beli%20Emas%20%7C%20Segala%20Kondisi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Perhiasan Perak Abadi",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Perhiasan%20Perak%20Abadi%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Emas Sinar Kencana",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Emas%20Sinar%20Kencana%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Emas Sinar Murni",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Emas%20Sinar%20Murni%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Perak Indah JSLR Cicurug",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Perak%20Indah%20JSLR%20Cicurug%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "TOKO MAS SURYA KENCANA",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=TOKO%20MAS%20SURYA%20KENCANA%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Sukabumi Jaya",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Sukabumi%20Jaya",
+    "newCategory": "Pusat Perbelanjaan",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Harapan Maju",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Harapan%20Maju%20sukabumi",
+    "newCategory": "Ahli Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Pulau indah Cicurug",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Pulau%20indah%20Cicurug%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Perak Cemerlang",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Perak%20Cemerlang%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Mas 999 (Toko Orok)",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20999%20(Toko%20Orok)%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Emas Surya Kencana Cisaat Sukabumi",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Emas%20Surya%20Kencana%20Cisaat%20Sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Toko Mas Permata Cibadak",
+    "originalCategory": "Toko Emas & Perhiasan",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Toko%20Mas%20Permata%20Cibadak%20sukabumi",
+    "newCategory": "Toko Perhiasan",
+    "error": null
+  },
+  {
+    "name": "Amani Laundry Karpet Cisaat Cikiray",
+    "originalCategory": "Cuci Sofa & Karpet",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Amani%20Laundry%20Karpet%20Cisaat%20Cikiray%20sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Laundry Karpet Sukabumi - Kyabi Clean Laundry Karpet Express",
+    "originalCategory": "Cuci Sofa & Karpet",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Laundry%20Karpet%20Sukabumi%20-%20Kyabi%20Clean%20Laundry%20Karpet%20Express",
+    "newCategory": "Binatu",
+    "error": null
+  },
+  {
+    "name": "Miki Waka Helm, Laundry & Store",
+    "originalCategory": "Cuci Tas & Helm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Miki%20Waka%20Helm%2C%20Laundry%20%26%20Store%20sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "CUCIHELM.SMI",
+    "originalCategory": "Cuci Tas & Helm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=CUCIHELM.SMI%20sukabumi",
+    "newCategory": "Tempat cuci motor",
+    "error": null
+  },
+  {
+    "name": "Cuci Helm Kilat Sukabumi",
+    "originalCategory": "Cuci Tas & Helm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuci%20Helm%20Kilat%20Sukabumi",
+    "newCategory": "Layanan Binatu",
+    "error": null
+  },
+  {
+    "name": "Cuci Helm Jayadi",
+    "originalCategory": "Cuci Tas & Helm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Cuci%20Helm%20Jayadi%20sukabumi",
+    "newCategory": "Toko Suku Cadang Motor",
+    "error": null
+  },
+  {
+    "name": "DENK SERVIS HELM SUKABUMI",
+    "originalCategory": "Cuci Tas & Helm",
+    "mapsUrl": "https://www.google.com/maps/search/?api=1&query=DENK%20SERVIS%20HELM%20SUKABUMI",
+    "newCategory": "Layanan reparasi",
+    "error": null
+  }
+]
